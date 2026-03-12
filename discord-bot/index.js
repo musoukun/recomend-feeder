@@ -65,7 +65,8 @@ function savePosted(posted) {
 // --- カテゴリ別の色とラベル ---
 
 const CATEGORY_CONFIG = {
-  ai: { color: 0x00bcd4, label: "AI・テック" },
+  "ai-tech": { color: 0x00bcd4, label: "AI・テック" },
+  "ai-career": { color: 0x2196f3, label: "AI時代の働き方・雇用" },
   politics: { color: 0xe53935, label: "政治" },
   romance: { color: 0xe91e63, label: "恋愛" },
   adult: { color: 0x9c27b0, label: "アダルト" },
