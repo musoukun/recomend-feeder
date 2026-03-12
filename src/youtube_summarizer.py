@@ -66,8 +66,12 @@ def load_feeds_from_md(md_path: str | Path) -> list[dict]:
     return feeds
 
 
-def fetch_videos_from_feeds(feeds: list[dict]) -> list[dict]:
+def fetch_videos_from_feeds(feeds: list[dict], max_per_channel: int = 5) -> list[dict]:
     """Fetch video entries from YouTube RSS feeds.
+
+    Args:
+        feeds: List of feed dicts with 'name' and 'feed_url'.
+        max_per_channel: Maximum number of videos per channel (default 5).
 
     Returns list of dicts with 'video_id', 'url', 'title', 'channel', 'published'.
     """
@@ -94,7 +98,10 @@ def fetch_videos_from_feeds(feeds: list[dict]) -> list[dict]:
         # YouTube Atom feed namespace
         ns = {"atom": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
 
+        count = 0
         for entry in root.findall("atom:entry", ns):
+            if count >= max_per_channel:
+                break
             video_id_elem = entry.find("yt:videoId", ns)
             if video_id_elem is None:
                 continue
@@ -113,8 +120,9 @@ def fetch_videos_from_feeds(feeds: list[dict]) -> list[dict]:
                 "channel": channel_name,
                 "published": published_elem.text if published_elem is not None else "",
             })
+            count += 1
 
-    logger.info("Found %d videos from %d feeds", len(videos), len(feeds))
+    logger.info("Found %d videos from %d feeds (max %d per channel)", len(videos), len(feeds), max_per_channel)
     return videos
 
 
