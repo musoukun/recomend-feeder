@@ -6,6 +6,7 @@ import logging
 import os
 import re
 import subprocess
+import sys
 import tempfile
 from pathlib import Path
 
@@ -139,7 +140,7 @@ def get_video_metadata(url: str) -> dict | None:
     """Get video title, channel, duration via yt-dlp --dump-json."""
     try:
         result = subprocess.run(
-            ["yt-dlp", "--dump-json", "--no-download", url],
+            [sys.executable, "-m", "yt_dlp", "--dump-json", "--no-download", url],
             capture_output=True, text=True, timeout=30,
             encoding="utf-8",
         )
@@ -172,7 +173,7 @@ def get_subtitles(url: str, lang: str = "ja") -> str | None:
         for sub_flag in [["--write-subs"], ["--write-auto-subs"]]:
             result = subprocess.run(
                 [
-                    "yt-dlp",
+                    sys.executable, "-m", "yt_dlp",
                     *sub_flag,
                     "--sub-langs", f"{lang},en",
                     "--sub-format", "vtt",
