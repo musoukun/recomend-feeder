@@ -3,18 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Twitter Timeline RSS Feed</title>
+    <title>Twitter Timeline RSS Feeds</title>
     <style>
         body { font-family: -apple-system, sans-serif; max-width: 600px; margin: 40px auto; padding: 0 20px; color: #333; }
         h1 { font-size: 1.5rem; }
         a { color: #1da1f2; }
-        code { background: #f0f0f0; padding: 2px 6px; border-radius: 3px; }
+        code { background: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 0.9em; }
+        table { border-collapse: collapse; width: 100%; margin-top: 16px; }
+        th, td { border: 1px solid #ddd; padding: 8px 12px; text-align: left; }
+        th { background: #f5f5f5; }
     </style>
 </head>
 <body>
-    <h1>Twitter Timeline RSS Feed</h1>
-    <p>このフィードはTwitterのタイムラインを自動スクレイピングして生成されています。</p>
-    <p>RSS URL: <a href="feed.xml"><code>feed.xml</code></a></p>
-    <p>Feedlyに登録するには上記URLをFeedlyの「Add Content」に貼り付けてください。</p>
+    <h1>Twitter Timeline RSS Feeds</h1>
+    <p>Twitterタイムラインを自動スクレイピング＆AI分類して生成したRSSフィードです。</p>
+
+    <table>
+        <tr><th>カテゴリ</th><th>フィード</th></tr>
+        <tr><td>全ツイート</td><td><a href="feed.xml"><code>feed.xml</code></a></td></tr>
+        <tr><td>AI・機械学習</td><td><a href="feed-ai.xml"><code>feed-ai.xml</code></a></td></tr>
+        <tr><td>政治</td><td><a href="feed-politics.xml"><code>feed-politics.xml</code></a></td></tr>
+        <tr><td>テクノロジー</td><td><a href="feed-tech.xml"><code>feed-tech.xml</code></a></td></tr>
+        <tr><td>雑談</td><td><a href="feed-chat.xml"><code>feed-chat.xml</code></a></td></tr>
+        <tr><td>恋愛</td><td><a href="feed-romance.xml"><code>feed-romance.xml</code></a></td></tr>
+        <tr><td>アダルト</td><td><a href="feed-adult.xml"><code>feed-adult.xml</code></a></td></tr>
+        <tr><td>ニュース</td><td><a href="feed-news.xml"><code>feed-news.xml</code></a></td></tr>
+        <tr><td>その他</td><td><a href="feed-other.xml"><code>feed-other.xml</code></a></td></tr>
+    </table>
+
+    <p style="margin-top:20px;">Feedlyに登録するには各フィードのURLをFeedlyの「Add Content」に貼り付けてください。</p>
 </body>
 </html>

@@ -1,4 +1,4 @@
-"""Main entry point: scrape Twitter timeline and generate RSS feed."""
+"""Main entry point: scrape Twitter timeline, classify, and generate RSS feeds."""
 
 import logging
 import os
@@ -8,7 +8,8 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from scraper import scrape_timeline
-from feed_generator import generate_rss
+from classifier import classify_tweets
+from feed_generator import generate_feeds
 
 # Setup logging
 logging.basicConfig(
@@ -43,14 +44,15 @@ def main() -> None:
         logger.warning("No tweets scraped. Feed will not be updated.")
         sys.exit(0)
 
-    # Generate RSS
-    # For GitHub Pages, output to docs/ directory
-    output_dir = Path(__file__).parent.parent / "docs"
-    output_dir.mkdir(exist_ok=True)
-    output_path = str(output_dir / "feed.xml")
+    # Classify
+    logger.info("Classifying %d tweets with Gemini...", len(tweets))
+    classify_tweets(tweets)
 
-    generate_rss(tweets, output_path=output_path)
-    logger.info("Done! Feed available at %s", output_path)
+    # Generate category-specific RSS feeds
+    output_dir = Path(__file__).parent.parent / "docs"
+    generate_feeds(tweets, output_dir=output_dir)
+
+    logger.info("Done!")
 
 
 if __name__ == "__main__":
