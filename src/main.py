@@ -10,6 +10,7 @@ from dotenv import load_dotenv
 from scraper import scrape_timeline
 from classifier import classify_tweets
 from feed_generator import generate_feeds
+from spreadsheet import push_to_spreadsheet
 
 # Setup logging
 logging.basicConfig(
@@ -43,6 +44,10 @@ def main() -> None:
     # Generate category-specific RSS feeds
     output_dir = Path(__file__).parent.parent / "docs"
     generate_feeds(tweets, output_dir=output_dir)
+
+    # スプレッドシートに蓄積
+    logger.info("Pushing %d tweets to spreadsheet...", len(tweets))
+    push_to_spreadsheet(tweets, sheet="twitter")
 
     logger.info("Done!")
 

@@ -10,11 +10,12 @@ import urllib.error
 logger = logging.getLogger(__name__)
 
 
-def push_to_spreadsheet(videos: list[dict]) -> bool:
-    """Send video summaries to Google Spreadsheet via GAS Web App.
+def push_to_spreadsheet(rows: list[dict], sheet: str = "youtube") -> bool:
+    """Send data to Google Spreadsheet via GAS Web App.
 
     Args:
-        videos: List of video dicts with title, channel, url, summary, etc.
+        rows: List of dicts to write.
+        sheet: Sheet type ("youtube" or "twitter").
 
     Returns:
         True if successful.
@@ -24,20 +25,7 @@ def push_to_spreadsheet(videos: list[dict]) -> bool:
         logger.error("GAS_WEBAPP_URL not set in .env")
         return False
 
-    rows = []
-    for v in videos:
-        rows.append({
-            "video_id": v.get("video_id", ""),
-            "title": v.get("title", ""),
-            "channel": v.get("channel", ""),
-            "url": v.get("url", ""),
-            "duration": v.get("duration", 0),
-            "upload_date": v.get("upload_date", ""),
-            "summary": v.get("summary", ""),
-            "has_subtitles": v.get("has_subtitles", False),
-        })
-
-    payload = json.dumps({"rows": rows}).encode("utf-8")
+    payload = json.dumps({"rows": rows, "sheet": sheet}).encode("utf-8")
 
     req = urllib.request.Request(
         gas_url,
