@@ -7,86 +7,63 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Mar 2026 23:42:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 23:48:43 +0000</lastBuildDate>
     <item>
-      <title>名村 晋治@Webディレクター30年目ᯅ (@yakumo)</title>
-      <link>https://x.com/yakumo/status/2031882991182418254</link>
-      <description>Claude Codeでプロジェクト単位のCLAUDE.mdを作成すると、トークン利用量が激減し、効率が大幅に向上した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;名村 晋治@Webディレクター30年目ᯅ&lt;/strong&gt; &lt;a href="https://x.com/yakumo"&gt;@yakumo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;あ、Claude Code、プロジェクト単位のCLAUDE.mdちゃんと作ったらトークンの利用量が激減した…&lt;br&gt;マジで「計測バグってない？」ってレベルで使わなくなった。（あくまで僕の利用環境で）&lt;br&gt;ちゃんとやることやっておいた方がいいんだなぁ… https://プロジェクト単位のclaude.md&lt;/p&gt;
+      <title>Will Eastcott (@willeastcott)</title>
+      <link>https://x.com/willeastcott/status/2032163475271672102</link>
+      <description>3D Gaussian splattingにより、ウェブでインタラクティブな体験を公開可能に。カメラ操作や情報ホットスポットなどに対応し、PlayCanvasでレンダリング。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Will Eastcott&lt;/strong&gt; &lt;a href="https://x.com/willeastcott"&gt;@willeastcott&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thanks to 3D Gaussian splatting, you can now publish amazing interactive experiences to the web.&lt;br&gt; Orbit, fly and first person cameras&lt;br&gt; Informational hotspots&lt;br&gt; Full screen effects&lt;br&gt; Custom skyboxes&lt;br&gt;Rendered by @PlayCanvas. Served up on SuperSplat.&lt;br&gt;Free and open source!&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032162546124300289/img/gfYYPWLzKBEloWpM.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/yakumo/status/2031882991182418254"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/yakumo/status/2031882991182418254</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:30 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/willeastcott/status/2032163475271672102"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/willeastcott/status/2032163475271672102</guid>
+      <pubDate>Thu, 12 Mar 2026 18:35:02 +0000</pubDate>
     </item>
     <item>
-      <title>kazuki🄽Notion (@kzkhykw)</title>
-      <link>https://x.com/kzkhykw/status/2032080755703366087</link>
-      <description>AIツールの利用継続は機能比較より「毎日開く場所に組み込まれているか」で決まる。Notion AIの専用アプリの動向に注目が集まる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;kazuki🄽Notion&lt;/strong&gt; &lt;a href="https://x.com/kzkhykw"&gt;@kzkhykw&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AIツール、機能比較ばかり話題になるけど結局「毎日開く場所に組み込まれてるか」で使い続けるか決まる。すごいけど起動しないツールが一番もったいない&lt;br&gt;&lt;br&gt;さてNotion AIの専用アプリはどうなるのか。ちなみに私はすでにめっちゃ使ってます！&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/tweet_video_thumb/HDKccS4bQAA-GZz.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>OpenAI Developers (@OpenAIDevs)</title>
+      <link>https://x.com/OpenAIDevs/status/2032222711032971548</link>
+      <description>OpenAIのAutomationsがGAに。モデル設定、実行ブランチ選択、テンプレート再利用が可能で、繰り返しタスクに活用できる。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;OpenAI Developers&lt;/strong&gt; &lt;a href="https://x.com/OpenAIDevs"&gt;@OpenAIDevs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Automations are now GA.&lt;br&gt;&lt;br&gt;You can now:&lt;br&gt;• Set the model and reasoning level&lt;br&gt;• Choose if runs happen in a worktree or existing branch&lt;br&gt;• Reuse workflows with templates&lt;br&gt;&lt;br&gt;Automations are great for recurring tasks — daily repo briefings, issue triage, PR comment follow-up, and more.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032222645887123456/img/rBRwbkGMNcIQuryP.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/kzkhykw/status/2032080755703366087"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/kzkhykw/status/2032080755703366087</guid>
-      <pubDate>Thu, 12 Mar 2026 13:06:21 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/OpenAIDevs/status/2032222711032971548"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/OpenAIDevs/status/2032222711032971548</guid>
+      <pubDate>Thu, 12 Mar 2026 22:30:25 +0000</pubDate>
     </item>
     <item>
-      <title>Kuu (@Fumiya_Kume)</title>
-      <link>https://x.com/Fumiya_Kume/status/2032039132126724301</link>
-      <description>業務ではGPT-5.4 fast modeが優れており、Claude Codeは最近高価で遅いと感じるという使用感。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Kuu&lt;/strong&gt; &lt;a href="https://x.com/Fumiya_Kume"&gt;@Fumiya_Kume&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;業務でも GPT-5.4 fast mode しか勝たんの気持ち&lt;br&gt;Claude Code は高いし遅いんだよな、ここ最近。&lt;/p&gt;
+      <title>月読いおり  (@tukiyomiiori)</title>
+      <link>https://x.com/tukiyomiiori/status/2032240533821931902</link>
+      <description>Claude CodeのOpus 4.6 Plan Modeで、モデルをSonnetに切り替える便利技が紹介された。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;月読いおり &lt;/strong&gt; &lt;a href="https://x.com/tukiyomiiori"&gt;@tukiyomiiori&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude Code の便利技。&lt;br&gt;&lt;br&gt;- Opus 4.6のPlan Modeでプランを考えさせる。&lt;br&gt;- ４つの選択肢が出るので、4番目の自由欄に「モデルをsonnetに切り替えてから、進めたいです」&lt;br&gt;&lt;br&gt;とすると、モデルを切り替えさせてくれてから、再び４つの選択肢を選ばせてくれる。&lt;br&gt;（Xで見たことないけど、有用です）&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/Fumiya_Kume/status/2032039132126724301"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Fumiya_Kume/status/2032039132126724301</guid>
-      <pubDate>Thu, 12 Mar 2026 10:20:57 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/tukiyomiiori/status/2032240533821931902"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/tukiyomiiori/status/2032240533821931902</guid>
+      <pubDate>Thu, 12 Mar 2026 23:41:15 +0000</pubDate>
     </item>
     <item>
-      <title>田中義弘 | taziku CEO / AI × Creative (@taziku_co)</title>
-      <link>https://x.com/taziku_co/status/2032239956282978459</link>
-      <description>AIチャットボットClaudeが、会話の流れでインタラクティブなグラフや図を直接作成できる新機能を無料プラン含むβ版で提供開始した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;田中義弘 | taziku CEO / AI × Creative&lt;/strong&gt; &lt;a href="https://x.com/taziku_co"&gt;@taziku_co&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Claude（@claudeai）、ついにチャット内でインタラクティブなグラフや図を直接作れるようになった。&lt;br&gt;&lt;br&gt;Claudeは会話の流れのまま図とチャートを作る。無料プラン含むβ対応。&lt;br&gt;&lt;br&gt;「答えるAI」から「その場で可視化するAI」へ。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032121339667234817/img/GgFq5DvXDFjZPP4f.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>Kuko（いなりくこ）/ Nyagsic (@kukoinari)</title>
+      <link>https://x.com/kukoinari/status/2032059442204975430</link>
+      <description>AIキャラ制作者向けにAITuberやLLMキャラ、音声合成などをテーマにしたLT・交流イベントが開催される。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Kuko（いなりくこ）/ Nyagsic&lt;/strong&gt; &lt;a href="https://x.com/kukoinari"&gt;@kukoinari&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AIキャラ作ってる人、集まりませんか？&lt;br&gt;&lt;br&gt;Connect AI #1&lt;br&gt;&lt;br&gt;・AITuber&lt;br&gt;・LLMキャラクター&lt;br&gt;・音声合成&lt;br&gt;・Live2D / VRM&lt;br&gt;・Unity AIキャラ&lt;br&gt;などの話をするLT &amp; 交流イベントです。&lt;br&gt; 3/27 18:00〜21:00&lt;br&gt; 東京 + オンライン&lt;br&gt;参加&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/taziku_co/status/2032239956282978459"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/taziku_co/status/2032239956282978459</guid>
-      <pubDate>Thu, 12 Mar 2026 23:38:57 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/kukoinari/status/2032059442204975430"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/kukoinari/status/2032059442204975430</guid>
+      <pubDate>Thu, 12 Mar 2026 11:41:39 +0000</pubDate>
     </item>
     <item>
-      <title>しのゆーさん (@shinoyu__)</title>
-      <link>https://x.com/shinoyu__/status/2032065672789078280</link>
-      <description>AIにコードを書かせる際は、都度指示するのではなく、まず計画（Plan）を立てさせてから作業に着手させると効率が良い。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;しのゆーさん&lt;/strong&gt; &lt;a href="https://x.com/shinoyu__"&gt;@shinoyu__&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AIにコード書かせる時は絶対Planからやろう&lt;br&gt;都度都度指示するのは効率悪い。先にPlanをしばき倒して作業に着手させるのです。人間に要件説明して進めるのと一緒や。&lt;/p&gt;
+      <title>いっちー|ゲームプログラマー・プロデューサー出身のSS事業責任者&amp;EM @辰巳電子工業 (@itchie_tatsumi)</title>
+      <link>https://x.com/itchie_tatsumi/status/2031930683338469647</link>
+      <description>ベテランエンジニアはコード修正前にgit blameや過去チケット、cronなどを確認し影響を読み切る。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;いっちー|ゲームプログラマー・プロデューサー出身のSS事業責任者&amp;EM @辰巳電子工業&lt;/strong&gt; &lt;a href="https://x.com/itchie_tatsumi"&gt;@itchie_tatsumi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;「コードを書き直す」のは一瞬ですが、「周辺への影響を読み切る」のにはその数倍の時間がかかります。なので、ベテランエンジニアは、エディタを開く前にまずこれらを確認する人が多くなるようです。&lt;br&gt;&lt;br&gt;・git blame / 過去チケット（当時の背景などの記載）&lt;br&gt;・cron / バッチ / ジョブ&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/shinoyu__/status/2032065672789078280"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/shinoyu__/status/2032065672789078280</guid>
-      <pubDate>Thu, 12 Mar 2026 12:06:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>ガガロット (@gagarot200)</title>
-      <link>https://x.com/gagarot200/status/2032006360276328676</link>
-      <description>AIリサーチエンジンは1000体のAIエージェントが資料を基に議論し、市場や世論の未来の動きを予測する。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ガガロット&lt;/strong&gt; &lt;a href="https://x.com/gagarot200"&gt;@gagarot200&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;『未来を予測する』&lt;br&gt;AIリサーチエンジンがクソ面白いw&lt;br&gt;&lt;br&gt;1000体のAIエージェントを大量展開して&lt;br&gt;社会の「未来の動き」を先読みさせてる&lt;br&gt;&lt;br&gt;資料を読み込ませた&lt;br&gt;1000体のエージェントが&lt;br&gt;それぞれ異なる立場で議論を重ねる&lt;br&gt;意見がぶつかって洗練されていく中で&lt;br&gt;市場や世論の動きが浮かび上がってくる。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032006296585846785/img/Fw9WuMsDZJrN1js9.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/gagarot200/status/2032006360276328676"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/gagarot200/status/2032006360276328676</guid>
-      <pubDate>Thu, 12 Mar 2026 08:10:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yoshitaka Moriwaki (@Ag_smith)</title>
-      <link>https://x.com/Ag_smith/status/2031995376769908860</link>
-      <description>GitHub Copilot Proは学生・教職員は無料だが、学生証アップロードに抵抗を感じ利用しない学生もいる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Yoshitaka Moriwaki&lt;/strong&gt; &lt;a href="https://x.com/Ag_smith"&gt;@Ag_smith&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;GitHub Copilot Pro（月$10）は学生や教職員は無料なので割とおすすめしているけれど、昨今のねっとりテラシーをしっかりと学んでいる子の中には&lt;br&gt;「えっ、学生証をアップロードする必要があるのですか？悪用される可能性があるのでは？」&lt;br&gt;と名推理を働かせて使わないという選択肢をとることもある&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/Ag_smith/status/2031995376769908860"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Ag_smith/status/2031995376769908860</guid>
-      <pubDate>Thu, 12 Mar 2026 07:27:05 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/itchie_tatsumi/status/2031930683338469647"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/itchie_tatsumi/status/2031930683338469647</guid>
+      <pubDate>Thu, 12 Mar 2026 03:10:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
