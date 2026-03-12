@@ -17,6 +17,66 @@ COOKIE_FILE = AUTH_DIR / "cookies.dat"
 PROFILE_DIR = AUTH_DIR / "browser_profile"
 
 
+async def _auto_login(tab, username: str, password: str) -> bool:
+    """Attempt automatic Twitter login using nodriver."""
+    try:
+        # Wait for username input
+        username_field = await tab.select('input[autocomplete="username"]', timeout=15)
+        if not username_field:
+            username_field = await tab.find("Phone, email, or username", best_match=True)
+
+        if not username_field:
+            logger.error("ユーザー名フィールドが見つかりません。")
+            return False
+
+        await username_field.send_keys(username)
+        await tab.sleep(1)
+
+        # Click Next
+        next_btn = await tab.find("Next", best_match=True)
+        if next_btn:
+            await next_btn.click()
+        await tab.sleep(3)
+
+        # Check for additional verification (phone/email)
+        verification_field = await tab.select('input[data-testid="ocfEnterTextTextInput"]', timeout=5)
+        if verification_field:
+            logger.info("追加認証を求められています。ユーザー名で応答します。")
+            await verification_field.send_keys(username)
+            next_btn2 = await tab.find("Next", best_match=True)
+            if next_btn2:
+                await next_btn2.click()
+            await tab.sleep(3)
+
+        # Enter password
+        password_field = await tab.select('input[type="password"]', timeout=10)
+        if not password_field:
+            logger.error("パスワードフィールドが見つかりません。")
+            return False
+
+        await password_field.send_keys(password)
+        await tab.sleep(1)
+
+        # Click Log in
+        login_btn = await tab.find("Log in", best_match=True)
+        if login_btn:
+            await login_btn.click()
+        await tab.sleep(5)
+
+        # Verify
+        current_url = await tab.evaluate("window.location.href")
+        if "/home" in current_url:
+            logger.info("自動ログイン成功!")
+            return True
+
+        logger.warning("自動ログインに失敗。URL: %s", current_url)
+        return False
+
+    except Exception as e:
+        logger.error("自動ログイン中にエラー: %s", e)
+        return False
+
+
 async def _scrape_timeline(tweet_count: int = 50, headless: bool = True) -> list[dict]:
     """Scrape Twitter timeline. Prompts for login if needed."""
     PROFILE_DIR.mkdir(parents=True, exist_ok=True)
@@ -42,14 +102,17 @@ async def _scrape_timeline(tweet_count: int = 50, headless: bool = True) -> list
     logger.info("Current URL: %s", current_url)
 
     if "/login" in current_url or "/i/flow/login" in current_url:
-        print("\n=== Twitterにログインしてください ===")
-        print("ブラウザでログイン後、ターミナルでEnterを押してください。\n")
-        await asyncio.get_event_loop().run_in_executor(
-            None, input, "ログイン完了したらEnterを押してください: "
-        )
-        # Re-check URL after login
-        current_url = await tab.evaluate("window.location.href")
-        if "/login" in current_url or "/i/flow/login" in current_url:
+        logger.info("ログインしていません。自動ログインを試みます...")
+        username = os.getenv("TWITTER_USERNAME")
+        password = os.getenv("TWITTER_PASSWORD")
+
+        if not username or not password:
+            logger.error("TWITTER_USERNAME / TWITTER_PASSWORD が .env に設定されていません。")
+            browser.stop()
+            return []
+
+        logged_in = await _auto_login(tab, username, password)
+        if not logged_in:
             logger.error("ログインできませんでした。")
             browser.stop()
             return []
