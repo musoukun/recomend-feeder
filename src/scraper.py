@@ -27,14 +27,12 @@ async def _setup_login() -> None:
     tab = await browser.get("https://x.com/login")
 
     print("\n=== ブラウザでTwitterにログインしてください ===")
-    print("ログイン完了後、ホーム画面が表示されたらブラウザを閉じてください。\n")
+    print("ログイン完了後、Enterキーを押してください。\n")
 
-    # Keep alive until user closes
-    try:
-        await tab
-    except Exception:
-        pass
+    # Keep browser alive until user presses Enter
+    await asyncio.get_event_loop().run_in_executor(None, input, "ログイン完了したらEnterを押してください: ")
 
+    browser.stop()
     print("プロファイル保存完了!")
 
 
