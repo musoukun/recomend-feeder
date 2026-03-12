@@ -43,10 +43,18 @@ def login_twitter(page: Page, username: str, password: str) -> None:
     page.click('button:has-text("Next")')
 
     # Wait for either password field or verification step
-    page.wait_for_selector(
-        'input[type="password"], input[data-testid="ocfEnterTextTextInput"]',
-        timeout=30000,
-    )
+    try:
+        page.wait_for_selector(
+            'input[type="password"], input[data-testid="ocfEnterTextTextInput"]',
+            timeout=30000,
+        )
+    except Exception:
+        # Debug: screenshot what's on screen
+        screenshot_path = str(AUTH_DIR / "debug_login.png")
+        AUTH_DIR.mkdir(exist_ok=True)
+        page.screenshot(path=screenshot_path)
+        logger.error("Login flow stuck. Screenshot saved to %s", screenshot_path)
+        raise
 
     # Sometimes Twitter asks for phone/email verification
     verification_input = page.query_selector('input[data-testid="ocfEnterTextTextInput"]')
