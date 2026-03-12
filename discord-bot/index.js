@@ -71,7 +71,9 @@ function detectCategory(feedUrl) {
 
 function buildEmbed(item, category) {
   const config = CATEGORY_CONFIG[category] || CATEGORY_CONFIG.other;
-  const text = item.contentSnippet || item.content || "";
+  // content:encodedからHTMLタグを除去してツイート本文を取得
+  const rawContent = (item.content || "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+  const text = rawContent || item.contentSnippet || "";
   const description =
     text.length > 300 ? text.substring(0, 300) + "..." : text;
 
@@ -139,8 +141,11 @@ async function pollFeeds(client, posted) {
         if (!guid || posted.has(postedKey)) continue;
 
         const embed = buildEmbed(item, category);
+        // 要約があればコメントとして添える（RSSのdescriptionに格納）
+        const summary = item.contentSnippet || "";
+        const content = summary && summary.length <= 100 ? `💬 ${summary}` : "";
         try {
-          await channel.send({ embeds: [embed] });
+          await channel.send({ content: content || undefined, embeds: [embed] });
           posted.add(postedKey);
           newCount++;
           await sleep(1000);
