@@ -2,4 +2,3 @@ nodriver>=0.40
 feedgen==1.0.0
 python-dotenv==1.1.0
 google-genai>=1.0.0,<1.60
-yt-dlp>=2024.0

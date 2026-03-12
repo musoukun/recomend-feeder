@@ -1,4 +1,4 @@
-"""YouTube summarizer: md feed list → YouTube RSS → yt-dlp subtitles → Gemini summary → Spreadsheet."""
+"""YouTube summarizer: md feed list → YouTube RSS → Gemini summary → Spreadsheet."""
 from __future__ import annotations
 
 import logging
@@ -29,8 +29,6 @@ def main() -> None:
         logger.error("Feed list not found: %s", md_path)
         sys.exit(1)
 
-    sub_lang = os.getenv("SUBTITLE_LANG", "ja")
-
     # 1. Load feed URLs from markdown
     feeds = load_feeds_from_md(md_path)
     if not feeds:
@@ -47,23 +45,23 @@ def main() -> None:
 
     logger.info("Found %d videos total", len(videos))
 
-    # 3. Get subtitles and summarize with Gemini
-    logger.info("Processing videos (yt-dlp + Gemini)...")
-    results = process_videos(videos, lang=sub_lang)
+    # 3. Summarize with Gemini (YouTube URL direct)
+    logger.info("Summarizing new videos with Gemini...")
+    results = process_videos(videos)
 
     summarized = [v for v in results if v.get("has_subtitles")]
-    logger.info("Successfully summarized %d/%d videos", len(summarized), len(results))
+    logger.info("Successfully summarized %d/%d new videos", len(summarized), len(results))
 
     # 4. Push to Google Spreadsheet via GAS
-    if results:
-        logger.info("Pushing %d results to spreadsheet...", len(results))
-        success = push_to_spreadsheet(results)
+    if summarized:
+        logger.info("Pushing %d results to spreadsheet...", len(summarized))
+        success = push_to_spreadsheet(summarized)
         if success:
             logger.info("Done! Results pushed to spreadsheet.")
         else:
             logger.error("Failed to push to spreadsheet.")
     else:
-        logger.info("No results to push.")
+        logger.info("No new results to push.")
 
 
 if __name__ == "__main__":
