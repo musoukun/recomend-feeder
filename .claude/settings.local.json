@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(PYTHONIOENCODING=utf-8 python:*)",
+      "Bash(PYTHONUTF8=1 python:*)",
+      "WebFetch(domain:create-discord-bot.github.io)"
+    ],
+    "defaultMode": "bypassPermissions"
+  }
+}
