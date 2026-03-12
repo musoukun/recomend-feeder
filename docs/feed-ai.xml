@@ -7,313 +7,179 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Mar 2026 21:13:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 21:48:17 +0000</lastBuildDate>
     <item>
-      <title>Kuu (@Fumiya_Kume)</title>
-      <link>https://x.com/Fumiya_Kume/status/2031921417009447211</link>
-      <description>claude --permission-mode auto
----
-自動モードでは、Claude が権限プロンプトを自動的に処理します。Claude は各ツール呼び出しを危険なアクションの有無でチェックし、実行前にインジェクションを促します。Claude が安全と判断したアクションは実行されますが、Claude</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Kuu&lt;/strong&gt; &lt;a href="https://x.com/Fumiya_Kume"&gt;@Fumiya_Kume&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;claude --permission-mode auto&lt;br&gt;---&lt;br&gt;自動モードでは、Claude が権限プロンプトを自動的に処理します。Claude は各ツール呼び出しを危険なアクションの有無でチェックし、実行前にインジェクションを促します。Claude が安全と判断したアクションは実行されますが、Claude&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDLVjB0bkAE4_cc?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>広木 大地/ エンジニアリング組織論への招待 (@hiroki_daichi)</title>
+      <link>https://x.com/hiroki_daichi/status/2031933212566700134</link>
+      <description>技術革新期に「全員を教育する」戦略が機能しにくい理由は、認知の非対称性にあると思っています。
+
+人は「見たことのないソリューション」を選択肢として想起できない。これは能力の問題ではなく、経験の構造的な問題です。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;広木 大地/ エンジニアリング組織論への招待&lt;/strong&gt; &lt;a href="https://x.com/hiroki_daichi"&gt;@hiroki_daichi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;技術革新期に「全員を教育する」戦略が機能しにくい理由は、認知の非対称性にあると思っています。&lt;br&gt;&lt;br&gt;人は「見たことのないソリューション」を選択肢として想起できない。これは能力の問題ではなく、経験の構造的な問題です。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/Fumiya_Kume/status/2031921417009447211"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Fumiya_Kume/status/2031921417009447211</guid>
-      <pubDate>Thu, 12 Mar 2026 02:33:11 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/hiroki_daichi/status/2031933212566700134"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/hiroki_daichi/status/2031933212566700134</guid>
+      <pubDate>Thu, 12 Mar 2026 03:20:04 +0000</pubDate>
     </item>
     <item>
-      <title>しのゆーさん (@shinoyu__)</title>
-      <link>https://x.com/shinoyu__/status/2031934478348869936</link>
-      <description>この時代がくるならk8sを使うことがほぼ確定する(じゃないと管理爆発してしぬ)ので、いい加減ちゃんと向き合うか…
+      <title>寺野 克則（ITだけど営業視点のアカ） (@WjgotINrU14Z1fB)</title>
+      <link>https://x.com/WjgotINrU14Z1fB/status/2031955688751353860</link>
+      <description>コロナ禍での新卒採用への影響が軽微ってことねえべ。
 
-仕事的にシングルサーバーのオートスケールで十分なことしかしてないから触れてなかったけども。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;しのゆーさん&lt;/strong&gt; &lt;a href="https://x.com/shinoyu__"&gt;@shinoyu__&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;この時代がくるならk8sを使うことがほぼ確定する(じゃないと管理爆発してしぬ)ので、いい加減ちゃんと向き合うか…&lt;br&gt;&lt;br&gt;仕事的にシングルサーバーのオートスケールで十分なことしかしてないから触れてなかったけども。&lt;/p&gt;
+少なくとも人生に影響出た連中はけっこういたぞ。
+
+大卒の就職率やら内定率なんぞ、昔と違って今は大量に派遣も含むワケだから、そう言う面も割り引いて統計見るようにせんとな。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;寺野 克則（ITだけど営業視点のアカ）&lt;/strong&gt; &lt;a href="https://x.com/WjgotINrU14Z1fB"&gt;@WjgotINrU14Z1fB&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;コロナ禍での新卒採用への影響が軽微ってことねえべ。&lt;br&gt;&lt;br&gt;少なくとも人生に影響出た連中はけっこういたぞ。&lt;br&gt;&lt;br&gt;大卒の就職率やら内定率なんぞ、昔と違って今は大量に派遣も含むワケだから、そう言う面も割り引いて統計見るようにせんとな。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/shinoyu__/status/2031934478348869936"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/shinoyu__/status/2031934478348869936</guid>
-      <pubDate>Thu, 12 Mar 2026 03:25:05 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/WjgotINrU14Z1fB/status/2031955688751353860"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/WjgotINrU14Z1fB/status/2031955688751353860</guid>
+      <pubDate>Thu, 12 Mar 2026 04:49:22 +0000</pubDate>
     </item>
     <item>
-      <title>情報の灯台 (@joho_no_todai)</title>
-      <link>https://x.com/joho_no_todai/status/2031986189553615292</link>
-      <description>サイトを開いただけで、iPhoneが乗っ取られる。
-クリックも、インストールも、何も要らない。
-
-Appleが3月12日、iOS 15.8.7・16.7.15の緊急アップデートを公開した。
-標的は最新iOSに更新できない旧型デバイスで、修正対象は「Coruna」——米国防衛請負業者が開発したとされる兵器級の攻撃キットだ。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;情報の灯台&lt;/strong&gt; &lt;a href="https://x.com/joho_no_todai"&gt;@joho_no_todai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;サイトを開いただけで、iPhoneが乗っ取られる。&lt;br&gt;クリックも、インストールも、何も要らない。&lt;br&gt;&lt;br&gt;Appleが3月12日、iOS 15.8.7・16.7.15の緊急アップデートを公開した。&lt;br&gt;標的は最新iOSに更新できない旧型デバイスで、修正対象は「Coruna」——米国防衛請負業者が開発したとされる兵器級の攻撃キットだ。&lt;/p&gt;
+      <title>六代目 (@6daime)</title>
+      <link>https://x.com/6daime/status/2032025738527084723</link>
+      <description>フフ……怖いか？
+中年男性の転職活動が……</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;六代目&lt;/strong&gt; &lt;a href="https://x.com/6daime"&gt;@6daime&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;フフ……怖いか？&lt;br&gt;中年男性の転職活動が……&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDM0o73boAAn4Pq?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/joho_no_todai/status/2031986189553615292"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/joho_no_todai/status/2031986189553615292</guid>
-      <pubDate>Thu, 12 Mar 2026 06:50:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ryutaro YOSHIBA (@ryuzee)</title>
-      <link>https://x.com/ryuzee/status/2031972228058034662</link>
-      <description>生成AIでコードを書くようになって、テストを書かない理由がまったくなくなったねぇ。昔はテスト書かないと泣くよって言っても「急いでるんです」「手動でテストする文化なんです（意味不明）」とか返されてげんなりしたけど、そういうのがなくなって素晴らしい</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Ryutaro YOSHIBA&lt;/strong&gt; &lt;a href="https://x.com/ryuzee"&gt;@ryuzee&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;生成AIでコードを書くようになって、テストを書かない理由がまったくなくなったねぇ。昔はテスト書かないと泣くよって言っても「急いでるんです」「手動でテストする文化なんです（意味不明）」とか返されてげんなりしたけど、そういうのがなくなって素晴らしい&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/ryuzee/status/2031972228058034662"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/ryuzee/status/2031972228058034662</guid>
-      <pubDate>Thu, 12 Mar 2026 05:55:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>深津 貴之 / THE GUILD, note (@fladdict)</title>
-      <link>https://x.com/fladdict/status/2031888688163275177</link>
-      <description>AIによる全自動経営や全自動開発は、「個別施策や個別解は微妙」だが「全体バランスは完璧」という構造に持ち込めば、機能するし強いな。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;深津 貴之 / THE GUILD, note&lt;/strong&gt; &lt;a href="https://x.com/fladdict"&gt;@fladdict&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AIによる全自動経営や全自動開発は、「個別施策や個別解は微妙」だが「全体バランスは完璧」という構造に持ち込めば、機能するし強いな。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/fladdict/status/2031888688163275177"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fladdict/status/2031888688163275177</guid>
-      <pubDate>Thu, 12 Mar 2026 00:23:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>null-sensei (@GOROman)</title>
-      <link>https://x.com/GOROman/status/2032114037463699762</link>
-      <description>ファームウェアは全部Claudeが書きました</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;null-sensei&lt;/strong&gt; &lt;a href="https://x.com/GOROman"&gt;@GOROman&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ファームウェアは全部Claudeが書きました&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOComHagAAcpcr?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOComGa8AA5jUo?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/GOROman/status/2032114037463699762"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/GOROman/status/2032114037463699762</guid>
-      <pubDate>Thu, 12 Mar 2026 15:18:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>FujinAI自動化の人 (@Fujin_Metaverse)</title>
-      <link>https://x.com/Fujin_Metaverse/status/2031977719911924138</link>
-      <description>MCPの時代終焉ですね。APIとCLIでいい。
-この波を作ったのも @steipete さんです。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;FujinAI自動化の人&lt;/strong&gt; &lt;a href="https://x.com/Fujin_Metaverse"&gt;@Fujin_Metaverse&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;MCPの時代終焉ですね。APIとCLIでいい。&lt;br&gt;この波を作ったのも @steipete さんです。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDJjaAmbQAI_3d4?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/Fujin_Metaverse/status/2031977719911924138"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Fujin_Metaverse/status/2031977719911924138</guid>
-      <pubDate>Thu, 12 Mar 2026 06:16:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>松田信介@今日も元気だ、ご飯が美味い (@xhackjp1)</title>
-      <link>https://x.com/xhackjp1/status/2032081553191551188</link>
-      <description>みんな MCP とか skillsとか、ハーネスエンジニアリングだとかで騒いでますが
-
-Claude Code に本気を出させたいなら、Plan mode なんです
-
-Plan First
-
-https://plan-stack.ai</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;松田信介@今日も元気だ、ご飯が美味い&lt;/strong&gt; &lt;a href="https://x.com/xhackjp1"&gt;@xhackjp1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;みんな MCP とか skillsとか、ハーネスエンジニアリングだとかで騒いでますが&lt;br&gt;&lt;br&gt;Claude Code に本気を出させたいなら、Plan mode なんです&lt;br&gt;&lt;br&gt;Plan First&lt;br&gt;&lt;br&gt;https://plan-stack.ai&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/xhackjp1/status/2032081553191551188"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/xhackjp1/status/2032081553191551188</guid>
-      <pubDate>Thu, 12 Mar 2026 13:09:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>コンドウハルキ｜Harukaze (@halukik_0520)</title>
-      <link>https://x.com/halukik_0520/status/2031929188471750863</link>
-      <description>ClaudeCode使わなくなってきた..
-
-そして
-Codex気持ち良い、、。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;コンドウハルキ｜Harukaze&lt;/strong&gt; &lt;a href="https://x.com/halukik_0520"&gt;@halukik_0520&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ClaudeCode使わなくなってきた..&lt;br&gt;&lt;br&gt;そして&lt;br&gt;Codex気持ち良い、、。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDLc0y_bMAAgkiK?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/halukik_0520/status/2031929188471750863"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/halukik_0520/status/2031929188471750863</guid>
-      <pubDate>Thu, 12 Mar 2026 03:04:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saito@Hakky (@hakky_kazumasa)</title>
-      <link>https://x.com/hakky_kazumasa/status/2031890239443386628</link>
-      <description>Atlassianが1,600人削減してAIシフトを加速してる。
-この流れ、もうソフトウェア企業の定番パターンになってきてる気がするんだよね。
-人を減らしてAIに投資する、という判断が経営として合理的になってきた。
-
-受託開発やってる自分たちとしては、これをどう読むか、かなり重要な話かもしれない。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Saito@Hakky&lt;/strong&gt; &lt;a href="https://x.com/hakky_kazumasa"&gt;@hakky_kazumasa&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Atlassianが1,600人削減してAIシフトを加速してる。&lt;br&gt;この流れ、もうソフトウェア企業の定番パターンになってきてる気がするんだよね。&lt;br&gt;人を減らしてAIに投資する、という判断が経営として合理的になってきた。&lt;br&gt;&lt;br&gt;受託開発やってる自分たちとしては、これをどう読むか、かなり重要な話かもしれない。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/hakky_kazumasa/status/2031890239443386628"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/hakky_kazumasa/status/2031890239443386628</guid>
-      <pubDate>Thu, 12 Mar 2026 00:29:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>orangeitems (@orangeitems_)</title>
-      <link>https://x.com/orangeitems_/status/2032084337597038782</link>
-      <description>AIエージェントでメールを自動返信したい人がたくさんいるけど、AIエージェントの使い方はそうじゃないだろと毎回思うのよね。メールぐらい人間が返せって思うよ。Xとかもそうだけど。人間が使ってこその道具でしょうに。AIエージェントの働く場所はそこじゃない。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;orangeitems&lt;/strong&gt; &lt;a href="https://x.com/orangeitems_"&gt;@orangeitems_&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AIエージェントでメールを自動返信したい人がたくさんいるけど、AIエージェントの使い方はそうじゃないだろと毎回思うのよね。メールぐらい人間が返せって思うよ。Xとかもそうだけど。人間が使ってこその道具でしょうに。AIエージェントの働く場所はそこじゃない。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/orangeitems_/status/2032084337597038782"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/orangeitems_/status/2032084337597038782</guid>
-      <pubDate>Thu, 12 Mar 2026 13:20:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>しのゆーさん (@shinoyu__)</title>
-      <link>https://x.com/shinoyu__/status/2031767370440868348</link>
-      <description>これからのエンジニア採用、Claude CodeとCodex両方契約している会社が一番選ばれるとおもいます。必須にしろ。なお弊社も全社員に導入してます。まだ社員わししかいないけど。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;しのゆーさん&lt;/strong&gt; &lt;a href="https://x.com/shinoyu__"&gt;@shinoyu__&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;これからのエンジニア採用、Claude CodeとCodex両方契約している会社が一番選ばれるとおもいます。必須にしろ。なお弊社も全社員に導入してます。まだ社員わししかいないけど。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/shinoyu__/status/2031767370440868348"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/shinoyu__/status/2031767370440868348</guid>
-      <pubDate>Wed, 11 Mar 2026 16:21:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>K e n T a (@kenta_feels_ayu)</title>
-      <link>https://x.com/kenta_feels_ayu/status/2032036747568431233</link>
-      <description>書類が「担当作業の羅列」に留まっている人が非常に多いと感じる
-
-担当フェーズ：詳細設計、実装、単体テスト
-(以上。)
-
-...じゃなくて
-
-・本人の役回りや立ち回りが見える事
-・業務上で起きた課題と工夫点
-
-これが一番大事かなと
-
-例えば以下みたいな体裁にするだけでも通過率は改善するかなと</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;K e n T a&lt;/strong&gt; &lt;a href="https://x.com/kenta_feels_ayu"&gt;@kenta_feels_ayu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;書類が「担当作業の羅列」に留まっている人が非常に多いと感じる&lt;br&gt;&lt;br&gt;担当フェーズ：詳細設計、実装、単体テスト&lt;br&gt;(以上。)&lt;br&gt;&lt;br&gt;...じゃなくて&lt;br&gt;&lt;br&gt;・本人の役回りや立ち回りが見える事&lt;br&gt;・業務上で起きた課題と工夫点&lt;br&gt;&lt;br&gt;これが一番大事かなと&lt;br&gt;&lt;br&gt;例えば以下みたいな体裁にするだけでも通過率は改善するかなと&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDM-WZJbIAAcKzX?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/kenta_feels_ayu/status/2032036747568431233"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/kenta_feels_ayu/status/2032036747568431233</guid>
-      <pubDate>Thu, 12 Mar 2026 10:11:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>海外営業マン (@supremeeigo)</title>
-      <link>https://x.com/supremeeigo/status/2032002369098240215</link>
-      <description>米系テックがレイオフばかりしてどんどん人が減っているような錯覚を覚えるが、採用もたくさんしているのでトータルの社員数は日本の大企業よりずっと早く成長している
-
-Metaは2年で30%、Googleは19%、Amazonは17%の人員増
-
-MSFTだけ2年で5%減らしている</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;海外営業マン&lt;/strong&gt; &lt;a href="https://x.com/supremeeigo"&gt;@supremeeigo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;米系テックがレイオフばかりしてどんどん人が減っているような錯覚を覚えるが、採用もたくさんしているのでトータルの社員数は日本の大企業よりずっと早く成長している&lt;br&gt;&lt;br&gt;Metaは2年で30%、Googleは19%、Amazonは17%の人員増&lt;br&gt;&lt;br&gt;MSFTだけ2年で5%減らしている&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDMe6w_bQAElwmE?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDMe8zPbQAElZeX?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDMe997aQAABd6s?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDMe-7VbQA0u7pu?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/supremeeigo/status/2032002369098240215"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/supremeeigo/status/2032002369098240215</guid>
-      <pubDate>Thu, 12 Mar 2026 07:54:52 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/6daime/status/2032025738527084723"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/6daime/status/2032025738527084723</guid>
+      <pubDate>Thu, 12 Mar 2026 09:27:43 +0000</pubDate>
     </item>
     <item>
       <title>ぬこぬこ / NUKO (@nukonuko)</title>
-      <link>https://x.com/nukonuko/status/2032137763362127929</link>
-      <description>本日より Gemini API で支払いの上限金額を設定できるように。反映までに最大 10 分かかる点に注意。上限金額に達するとメールに通知が送られる。</description>
+      <link>https://x.com/nukonuko/status/2032128020136571331</link>
+      <description>Claude のチャット内でインタラクティブにグラフの描画や図の作成などができるように
+
+すべてのプランにて。ベータ版。これまであったアーティファクト機能と異なり、インラインに会話中に埋め込まれ、説明の補助として使える。Figma、Canva、Slack 連携などと合わせたり。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;ぬこぬこ / NUKO&lt;/strong&gt; &lt;a href="https://x.com/nukonuko"&gt;@nukonuko&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;本日より Gemini API で支払いの上限金額を設定できるように。反映までに最大 10 分かかる点に注意。上限金額に達するとメールに通知が送られる。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032125163341537280/img/3U4DiG7pzJ7PKgri.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;Claude のチャット内でインタラクティブにグラフの描画や図の作成などができるように&lt;br&gt;&lt;br&gt;すべてのプランにて。ベータ版。これまであったアーティファクト機能と異なり、インラインに会話中に埋め込まれ、説明の補助として使える。Figma、Canva、Slack 連携などと合わせたり。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032121339667234817/img/GgFq5DvXDFjZPP4f.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/nukonuko/status/2032137763362127929"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/nukonuko/status/2032137763362127929</guid>
-      <pubDate>Thu, 12 Mar 2026 16:52:52 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/nukonuko/status/2032128020136571331"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/nukonuko/status/2032128020136571331</guid>
+      <pubDate>Thu, 12 Mar 2026 16:14:09 +0000</pubDate>
     </item>
     <item>
-      <title>tanu (@tanukiponkich)</title>
-      <link>https://x.com/tanukiponkich/status/2032012321510605241</link>
-      <description>指示しなくても動いてくれるAIはAIに指示している人間の仕事を奪う</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;tanu&lt;/strong&gt; &lt;a href="https://x.com/tanukiponkich"&gt;@tanukiponkich&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;指示しなくても動いてくれるAIはAIに指示している人間の仕事を奪う&lt;/p&gt;
+      <title>だいち＠家族大好きエンジニア (@da_i_chi_dev)</title>
+      <link>https://x.com/da_i_chi_dev/status/2032065186539155824</link>
+      <description>同意
+正直AIあるのにそんなところで考える時間使ってたら周りは100年進んじゃいます。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;だいち＠家族大好きエンジニア&lt;/strong&gt; &lt;a href="https://x.com/da_i_chi_dev"&gt;@da_i_chi_dev&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;同意&lt;br&gt;正直AIあるのにそんなところで考える時間使ってたら周りは100年進んじゃいます。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/tanukiponkich/status/2032012321510605241"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/tanukiponkich/status/2032012321510605241</guid>
-      <pubDate>Thu, 12 Mar 2026 08:34:25 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/da_i_chi_dev/status/2032065186539155824"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/da_i_chi_dev/status/2032065186539155824</guid>
+      <pubDate>Thu, 12 Mar 2026 12:04:29 +0000</pubDate>
     </item>
     <item>
-      <title>abara (@abaranche)</title>
-      <link>https://x.com/abaranche/status/2032129633710457077</link>
-      <description>よくよく考えると、詰めまくると出てくるClaude Codeの泣き言、Human in the loopがないとどうにもならないというサインなのよね
-GPTはその点泣き言言わないで勝手に迷走するので逆に仕事が終わらないことがある
-人間とAIの協働・実務に関していえば、今はClaude Codeの方がかなり向いている</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;abara&lt;/strong&gt; &lt;a href="https://x.com/abaranche"&gt;@abaranche&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;よくよく考えると、詰めまくると出てくるClaude Codeの泣き言、Human in the loopがないとどうにもならないというサインなのよね&lt;br&gt;GPTはその点泣き言言わないで勝手に迷走するので逆に仕事が終わらないことがある&lt;br&gt;人間とAIの協働・実務に関していえば、今はClaude Codeの方がかなり向いている&lt;/p&gt;
+      <title>MERICA MEMED (@Mericamemed)</title>
+      <link>https://x.com/Mericamemed/status/2032101811264586195</link>
+      <description>This is why RAM costs $900.</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;MERICA MEMED&lt;/strong&gt; &lt;a href="https://x.com/Mericamemed"&gt;@Mericamemed&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is why RAM costs $900.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031946439769681920/img/jh2B5ccPbFe6yygk.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/abaranche/status/2032129633710457077"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/abaranche/status/2032129633710457077</guid>
-      <pubDate>Thu, 12 Mar 2026 16:20:34 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/Mericamemed/status/2032101811264586195"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Mericamemed/status/2032101811264586195</guid>
+      <pubDate>Thu, 12 Mar 2026 14:30:01 +0000</pubDate>
     </item>
     <item>
-      <title>yutkat (@yutkat)</title>
-      <link>https://x.com/yutkat/status/2031982357578989879</link>
-      <description>最近のAI企業のドキュメントページの読みやすさ・使いやすさを体感すると、Microsoft やGoogle, AWSのドキュメントの読みにくさは一体なんだったんだ…って気持ちになるよね</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;yutkat&lt;/strong&gt; &lt;a href="https://x.com/yutkat"&gt;@yutkat&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;最近のAI企業のドキュメントページの読みやすさ・使いやすさを体感すると、Microsoft やGoogle, AWSのドキュメントの読みにくさは一体なんだったんだ…って気持ちになるよね&lt;/p&gt;
+      <title>Kenn Ejima (@kenn)</title>
+      <link>https://x.com/kenn/status/2032206184628043845</link>
+      <description>@AnthropicAI Send a cease and desist letter to the fake Claude site that ranks higher than you in Google when searching for クロード. People are being misled into paying them.</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Kenn Ejima&lt;/strong&gt; &lt;a href="https://x.com/kenn"&gt;@kenn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;@AnthropicAI Send a cease and desist letter to the fake Claude site that ranks higher than you in Google when searching for クロード. People are being misled into paying them.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNGnD0aUAARMA1?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/yutkat/status/2031982357578989879"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/yutkat/status/2031982357578989879</guid>
-      <pubDate>Thu, 12 Mar 2026 06:35:21 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/kenn/status/2032206184628043845"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/kenn/status/2032206184628043845</guid>
+      <pubDate>Thu, 12 Mar 2026 21:24:45 +0000</pubDate>
     </item>
     <item>
-      <title>𝕆𝕓𝕣𝕚𝕘𝕒𝕕𝕠 (@onigra_)</title>
-      <link>https://x.com/onigra_/status/2031918637343523019</link>
-      <description>「社内スキルマーケットってなんか嫌な予感するんだよな」と思ってて言語化できてなかったんだけど、丁寧に言語化されてとてもありがたい！ / Claude Code Skillsのチーム展開で気づいたSkill管理の課題と対策</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;𝕆𝕓𝕣𝕚𝕘𝕒𝕕𝕠&lt;/strong&gt; &lt;a href="https://x.com/onigra_"&gt;@onigra_&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;「社内スキルマーケットってなんか嫌な予感するんだよな」と思ってて言語化できてなかったんだけど、丁寧に言語化されてとてもありがたい！ / Claude Code Skillsのチーム展開で気づいたSkill管理の課題と対策&lt;/p&gt;
+      <title>エルビントフラー (@kg_r08)</title>
+      <link>https://x.com/kg_r08/status/2032077002300407910</link>
+      <description>AI時代にインドは弱点が大きいと判断されたのだろうか？
+
+人口の多さは無限の上質の労働力が供給される時代には不利に働く可能性が高い。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;エルビントフラー&lt;/strong&gt; &lt;a href="https://x.com/kg_r08"&gt;@kg_r08&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AI時代にインドは弱点が大きいと判断されたのだろうか？&lt;br&gt;&lt;br&gt;人口の多さは無限の上質の労働力が供給される時代には不利に働く可能性が高い。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDLxDDHbQAAtslX?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/onigra_/status/2031918637343523019"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/onigra_/status/2031918637343523019</guid>
-      <pubDate>Thu, 12 Mar 2026 02:22:09 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/kg_r08/status/2032077002300407910"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/kg_r08/status/2032077002300407910</guid>
+      <pubDate>Thu, 12 Mar 2026 12:51:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>うみゆき@AI研究 (@umiyuki_ai)</title>
+      <link>https://x.com/umiyuki_ai/status/2032162893081534465</link>
+      <description>「本物のClaudeのアイコンは完全にアナル」これだけ覚えて帰ってください。ニセモノはあんまアナルじゃない</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;うみゆき@AI研究&lt;/strong&gt; &lt;a href="https://x.com/umiyuki_ai"&gt;@umiyuki_ai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;「本物のClaudeのアイコンは完全にアナル」これだけ覚えて帰ってください。ニセモノはあんまアナルじゃない&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNAn9RbIAAXyjh?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/umiyuki_ai/status/2032162893081534465"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/umiyuki_ai/status/2032162893081534465</guid>
+      <pubDate>Thu, 12 Mar 2026 18:32:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>落合陽一 Yoichi OCHIAI (@ochyai)</title>
+      <link>https://x.com/ochyai/status/2031891978640822719</link>
+      <description>LLMをつかってしりとりをする時節から自分を蒸留する時節に変わってきた．</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;落合陽一 Yoichi OCHIAI&lt;/strong&gt; &lt;a href="https://x.com/ochyai"&gt;@ochyai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LLMをつかってしりとりをする時節から自分を蒸留する時節に変わってきた．&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/ochyai/status/2031891978640822719"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/ochyai/status/2031891978640822719</guid>
+      <pubDate>Thu, 12 Mar 2026 00:36:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>つかさ@Walkers（ウォーカーズ） (@tsukasa_hiraga)</title>
+      <link>https://x.com/tsukasa_hiraga/status/2031970030305624484</link>
+      <description>Claudeの指示に従うだけでClaudeCodeのセットアップができるファイル「YourAI」を社内で配ってるんだけど生産性の上がり方がエグい。コンサルとパッケージにして売ろうかな。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;つかさ@Walkers（ウォーカーズ）&lt;/strong&gt; &lt;a href="https://x.com/tsukasa_hiraga"&gt;@tsukasa_hiraga&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claudeの指示に従うだけでClaudeCodeのセットアップができるファイル「YourAI」を社内で配ってるんだけど生産性の上がり方がエグい。コンサルとパッケージにして売ろうかな。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/tsukasa_hiraga/status/2031970030305624484"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/tsukasa_hiraga/status/2031970030305624484</guid>
+      <pubDate>Thu, 12 Mar 2026 05:46:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>西村創一朗｜AI活用コーチングの人 (@souta6954)</title>
+      <link>https://x.com/souta6954/status/2031962181760401560</link>
+      <description>カスタマーサクセスマネージャー（CSM）はもちろんのこと、SaaSにまつわるお仕事されている人全員必読です。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;西村創一朗｜AI活用コーチングの人&lt;/strong&gt; &lt;a href="https://x.com/souta6954"&gt;@souta6954&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;カスタマーサクセスマネージャー（CSM）はもちろんのこと、SaaSにまつわるお仕事されている人全員必読です。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/souta6954/status/2031962181760401560"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/souta6954/status/2031962181760401560</guid>
+      <pubDate>Thu, 12 Mar 2026 05:15:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>ぬこぬこ / NUKO (@nukonuko)</title>
+      <link>https://x.com/nukonuko/status/2032067497680425066</link>
+      <description>ナル先生（@GOROman）の Claude がスイカゲームで遊んでるwww</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ぬこぬこ / NUKO&lt;/strong&gt; &lt;a href="https://x.com/nukonuko"&gt;@nukonuko&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ナル先生（@GOROman）の Claude がスイカゲームで遊んでるwww&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032067362107899907/img/5nSXwlefRE7widZW.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/nukonuko/status/2032067497680425066"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/nukonuko/status/2032067497680425066</guid>
+      <pubDate>Thu, 12 Mar 2026 12:13:40 +0000</pubDate>
     </item>
     <item>
       <title>きや@SDGs東京 (@kiya__na)</title>
-      <link>https://x.com/kiya__na/status/2031999781288231398</link>
-      <description>ジョブホッパー、それこそAIと比較してもはや何の強みもないからな。</description>
+      <link>https://x.com/kiya__na/status/2032009729103577097</link>
+      <description>そりゃ今まではドキュメント作成なんて労働者のなかでも下っ端の仕事だったからね。それが人間より優秀なAIに変わればこうなる。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;きや@SDGs東京&lt;/strong&gt; &lt;a href="https://x.com/kiya__na"&gt;@kiya__na&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ジョブホッパー、それこそAIと比較してもはや何の強みもないからな。&lt;/p&gt;
+&lt;p&gt;そりゃ今まではドキュメント作成なんて労働者のなかでも下っ端の仕事だったからね。それが人間より優秀なAIに変わればこうなる。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/kiya__na/status/2031999781288231398"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/kiya__na/status/2031999781288231398</guid>
-      <pubDate>Thu, 12 Mar 2026 07:44:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>広木 大地/ エンジニアリング組織論への招待 (@hiroki_daichi)</title>
-      <link>https://x.com/hiroki_daichi/status/2032066597104599428</link>
-      <description>AIガバナンスの設計でよく見る失敗は、「リスクの一律処理」です。
-
-新しい技術を組織に導入するとき、ガバナンスが必要なのは正しい。ただ、リスクの性質を見ずに形式だけ整えると、承認フローが目的化して開発速度が壊れていく。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;広木 大地/ エンジニアリング組織論への招待&lt;/strong&gt; &lt;a href="https://x.com/hiroki_daichi"&gt;@hiroki_daichi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AIガバナンスの設計でよく見る失敗は、「リスクの一律処理」です。&lt;br&gt;&lt;br&gt;新しい技術を組織に導入するとき、ガバナンスが必要なのは正しい。ただ、リスクの性質を見ずに形式だけ整えると、承認フローが目的化して開発速度が壊れていく。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/hiroki_daichi/status/2032066597104599428"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/hiroki_daichi/status/2032066597104599428</guid>
-      <pubDate>Thu, 12 Mar 2026 12:10:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shin丨AI×プロダクト開発の専門家 (@shin_sasaki19)</title>
-      <link>https://x.com/shin_sasaki19/status/2031913660327842061</link>
-      <description>AI活用型SES</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Shin丨AI×プロダクト開発の専門家&lt;/strong&gt; &lt;a href="https://x.com/shin_sasaki19"&gt;@shin_sasaki19&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AI活用型SES&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDLGr2xa8AA-t6X?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/shin_sasaki19/status/2031913660327842061"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/shin_sasaki19/status/2031913660327842061</guid>
-      <pubDate>Thu, 12 Mar 2026 02:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>石橋秀仁 情報アーキテクト (@zerobase)</title>
-      <link>https://x.com/zerobase/status/2031951500172542456</link>
-      <description>またデザイナー不要論やFigma不要論といった形でエンジニア中心的価値観が復活してきている。20年前のGoogleが象徴していた価値観への退行。これに抗えず追従するデザイナーはダメ。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;石橋秀仁 情報アーキテクト&lt;/strong&gt; &lt;a href="https://x.com/zerobase"&gt;@zerobase&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;またデザイナー不要論やFigma不要論といった形でエンジニア中心的価値観が復活してきている。20年前のGoogleが象徴していた価値観への退行。これに抗えず追従するデザイナーはダメ。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック・エンジニア&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/zerobase/status/2031951500172542456"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/zerobase/status/2031951500172542456</guid>
-      <pubDate>Thu, 12 Mar 2026 04:32:44 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/kiya__na/status/2032009729103577097"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/kiya__na/status/2032009729103577097</guid>
+      <pubDate>Thu, 12 Mar 2026 08:24:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
