@@ -36,8 +36,9 @@ def main() -> None:
         sys.exit(1)
 
     # 2. Fetch video entries from YouTube RSS feeds
-    logger.info("Fetching videos from %d feeds...", len(feeds))
-    videos = fetch_videos_from_feeds(feeds)
+    max_per_channel = int(os.getenv("YT_MAX_PER_CHANNEL", "5"))
+    logger.info("Fetching videos from %d feeds (max %d per channel)...", len(feeds), max_per_channel)
+    videos = fetch_videos_from_feeds(feeds, max_per_channel=max_per_channel)
 
     if not videos:
         logger.info("No videos found.")
