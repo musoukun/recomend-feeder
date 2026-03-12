@@ -8,6 +8,7 @@ import re
 import subprocess
 import sys
 import tempfile
+import time
 from pathlib import Path
 
 from google import genai
@@ -164,40 +165,66 @@ def get_video_metadata(url: str) -> dict | None:
 def get_subtitles(url: str, lang: str = "ja") -> str | None:
     """Download subtitles using yt-dlp. Falls back to auto-generated subs.
 
+    Tries preferred lang first, then any available language.
     Returns subtitle text or None.
     """
-    with tempfile.TemporaryDirectory() as tmpdir:
-        out_template = str(Path(tmpdir) / "sub")
+    # Priority order: manual preferred lang → manual any → auto preferred lang → auto any
+    strategies = [
+        (["--write-subs"], f"{lang},en"),
+        (["--write-subs"], "all"),
+        (["--write-auto-subs"], f"{lang},en"),
+        (["--write-auto-subs"], "all"),
+    ]
 
-        # Try manual subs first, then auto-generated
-        for sub_flag in [["--write-subs"], ["--write-auto-subs"]]:
-            result = subprocess.run(
-                [
-                    sys.executable, "-m", "yt_dlp",
-                    *sub_flag,
-                    "--sub-langs", f"{lang},en",
-                    "--sub-format", "vtt",
-                    "--skip-download",
-                    "-o", out_template,
-                    url,
-                ],
-                capture_output=True, text=True, timeout=60,
-                encoding="utf-8",
-            )
+    for sub_flag, sub_langs in strategies:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            out_template = str(Path(tmpdir) / "sub")
+            try:
+                subprocess.run(
+                    [
+                        sys.executable, "-m", "yt_dlp",
+                        *sub_flag,
+                        "--sub-langs", sub_langs,
+                        "--sub-format", "vtt",
+                        "--skip-download",
+                        "-o", out_template,
+                        url,
+                    ],
+                    capture_output=True, text=True, timeout=60,
+                    encoding="utf-8",
+                )
+            except subprocess.TimeoutExpired:
+                logger.warning("yt-dlp timeout for %s", url)
+                continue
 
-            # Find downloaded subtitle file
-            sub_files = list(Path(tmpdir).glob("*.vtt"))
-            if not sub_files:
-                sub_files = list(Path(tmpdir).glob("*.srt"))
+            # Find downloaded subtitle file (prefer ja > en > any)
+            sub_files = _pick_best_sub_file(tmpdir, lang)
             if sub_files:
-                raw = sub_files[0].read_text(encoding="utf-8", errors="replace")
+                raw = sub_files.read_text(encoding="utf-8", errors="replace")
                 cleaned = _clean_subtitles(raw)
                 if cleaned.strip():
-                    logger.info("Got subtitles for %s (%d chars)", url, len(cleaned))
+                    logger.info("Got subtitles for %s (%d chars, file=%s)", url, len(cleaned), sub_files.name)
                     return cleaned
 
     logger.warning("No subtitles found for %s", url)
     return None
+
+
+def _pick_best_sub_file(tmpdir: str, preferred_lang: str) -> Path | None:
+    """Pick the best subtitle file from downloaded files, preferring the given language."""
+    all_subs = list(Path(tmpdir).glob("*.vtt")) + list(Path(tmpdir).glob("*.srt"))
+    if not all_subs:
+        return None
+    # Prefer files matching preferred lang (e.g. sub.ja.vtt)
+    for sub in all_subs:
+        if f".{preferred_lang}." in sub.name:
+            return sub
+    # Then English
+    for sub in all_subs:
+        if ".en." in sub.name:
+            return sub
+    # Any
+    return all_subs[0]
 
 
 def _clean_subtitles(raw: str) -> str:
@@ -277,9 +304,13 @@ def process_videos(videos: list[dict], lang: str = "ja") -> list[dict]:
     """
     results = []
 
-    for video in videos:
+    for i, video in enumerate(videos):
         url = video["url"]
-        logger.info("Processing: %s", url)
+        logger.info("Processing (%d/%d): %s", i + 1, len(videos), url)
+
+        # Rate limit delay (YouTube 429 対策)
+        if i > 0:
+            time.sleep(3)
 
         # Get metadata
         meta = get_video_metadata(url)
