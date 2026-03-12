@@ -1,7 +1,11 @@
 @echo off
-cd /d C:\Users\waros\Documents\Develop\recomend-feeder\src
+cd /d C:\Users\waros\Documents\Develop\recomend-feeder
+
+:: Pull latest
+git pull
 
 :: Run scraper
+cd /d C:\Users\waros\Documents\Develop\recomend-feeder\src
 python main.py
 
 :: Push to GitHub Pages
