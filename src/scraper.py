@@ -127,9 +127,12 @@ async def _scrape_timeline(tweet_count: int = 50, headless: bool = True) -> list
     logger.info("Logged in. Scraping timeline (target: %d tweets)...", tweet_count)
 
     # Wait for tweets to load
-    for _ in range(10):
-        tweet_el = await tab.query_selector('article[data-testid="tweet"]')
-        if tweet_el:
+    for attempt in range(15):
+        count = await tab.evaluate(
+            'document.querySelectorAll(\'article[data-testid="tweet"]\').length'
+        )
+        logger.info("Waiting for tweets... found %s (attempt %d)", count, attempt + 1)
+        if count and count > 0:
             break
         await tab.sleep(2)
     else:
