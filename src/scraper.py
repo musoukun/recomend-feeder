@@ -1,11 +1,11 @@
 """Twitter timeline scraper using Playwright."""
+from __future__ import annotations
 
 import json
 import os
 import time
 import logging
 from pathlib import Path
-from __future__ import annotations
 from playwright.sync_api import sync_playwright, Page
 
 logger = logging.getLogger(__name__)
