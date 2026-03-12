@@ -1,0 +1,27 @@
+[
+  {
+    "name": "本鯖-AI",
+    "channel_id": "123456789012345678",
+    "feeds": [
+      "https://musoukun.github.io/recomend-feeder/feed-ai.xml"
+    ]
+  },
+  {
+    "name": "本鯖-ニュース",
+    "channel_id": "234567890123456789",
+    "feeds": [
+      "https://musoukun.github.io/recomend-feeder/feed-news.xml",
+      "https://musoukun.github.io/recomend-feeder/feed-politics.xml"
+    ]
+  },
+  {
+    "name": "テスト鯖-全部",
+    "channel_id": "345678901234567890",
+    "feeds": [
+      "https://musoukun.github.io/recomend-feeder/feed-ai.xml",
+      "https://musoukun.github.io/recomend-feeder/feed-news.xml",
+      "https://musoukun.github.io/recomend-feeder/feed-politics.xml",
+      "https://musoukun.github.io/recomend-feeder/feed-other.xml"
+    ]
+  }
+]
