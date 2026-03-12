@@ -5,6 +5,7 @@ import os
 import time
 import logging
 from pathlib import Path
+from __future__ import annotations
 from playwright.sync_api import sync_playwright, Page
 
 logger = logging.getLogger(__name__)
@@ -34,8 +35,8 @@ def load_cookies(page: Page) -> bool:
 def login_twitter(page: Page, username: str, password: str) -> None:
     """Log in to Twitter with username and password."""
     logger.info("Logging in to Twitter as %s", username)
-    page.goto("https://x.com/i/flow/login", wait_until="networkidle")
-    time.sleep(2)
+    page.goto("https://x.com/i/flow/login", wait_until="domcontentloaded", timeout=60000)
+    page.wait_for_selector('input[autocomplete="username"]', timeout=30000)
 
     # Enter username
     page.fill('input[autocomplete="username"]', username)
@@ -92,8 +93,8 @@ def scrape_timeline(
         # Try cookie-based session first
         cookie_loaded = load_cookies(page)
         if cookie_loaded:
-            page.goto("https://x.com/home", wait_until="networkidle")
-            time.sleep(3)
+            page.goto("https://x.com/home", wait_until="domcontentloaded", timeout=60000)
+            time.sleep(5)
             # Check if we're actually logged in
             if "/login" in page.url or "/i/flow/login" in page.url:
                 logger.info("Cookies expired, performing fresh login")

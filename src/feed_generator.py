@@ -1,4 +1,5 @@
 """Generate RSS feeds from scraped tweets, split by category."""
+from __future__ import annotations
 
 import logging
 from collections import defaultdict

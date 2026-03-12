@@ -1,4 +1,5 @@
 """Tweet classifier using Gemini 2.5 Flash."""
+from __future__ import annotations
 
 import json
 import logging
