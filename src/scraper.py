@@ -11,40 +11,11 @@ from playwright.sync_api import sync_playwright, Page
 
 logger = logging.getLogger(__name__)
 
-AUTH_DIR = Path(__file__).parent.parent / "auth"
-PROFILE_DIR = AUTH_DIR / "browser_profile"
-
-
-def manual_login() -> None:
-    """
-    Open a browser for manual Twitter login.
-    The browser profile is saved for future automated use.
-    Run with: python scraper.py login
-    """
-    PROFILE_DIR.mkdir(parents=True, exist_ok=True)
-
-    with sync_playwright() as p:
-        context = p.chromium.launch_persistent_context(
-            str(PROFILE_DIR),
-            headless=False,
-            channel="chrome",
-            viewport={"width": 1280, "height": 900},
-        )
-        page = context.pages[0] if context.pages else context.new_page()
-        page.goto("https://x.com/login")
-
-        print("\n=== ブラウザでTwitterにログインしてください ===")
-        print("ログイン完了後、ホーム画面が表示されたらブラウザを閉じてください。")
-        print("プロファイルは自動保存されます。\n")
-
-        # Wait for user to close browser
-        try:
-            page.wait_for_event("close", timeout=300000)
-        except Exception:
-            pass
-        context.close()
-
-    print("ブラウザプロファイル保存完了: %s" % PROFILE_DIR)
+# Default Chrome user data directory on Windows
+CHROME_PROFILE_DIR = os.getenv(
+    "CHROME_PROFILE_DIR",
+    str(Path.home() / "AppData" / "Local" / "Google" / "Chrome" / "User Data"),
+)
 
 
 def scrape_timeline(
@@ -52,23 +23,21 @@ def scrape_timeline(
     headless: bool = True,
 ) -> list[dict]:
     """
-    Scrape Twitter timeline using saved browser profile.
+    Scrape Twitter timeline using the user's existing Chrome profile.
+    Chrome must be closed before running this.
 
     Returns:
         List of dicts with keys: author, handle, text, url, timestamp, images
     """
-    if not PROFILE_DIR.exists():
-        logger.error("Browser profile not found. Run 'python scraper.py login' first.")
-        return []
-
     tweets = []
 
     with sync_playwright() as p:
         context = p.chromium.launch_persistent_context(
-            str(PROFILE_DIR),
+            CHROME_PROFILE_DIR,
             headless=headless,
             channel="chrome",
             viewport={"width": 1280, "height": 900},
+            args=["--disable-blink-features=AutomationControlled"],
         )
         page = context.pages[0] if context.pages else context.new_page()
 
@@ -78,7 +47,10 @@ def scrape_timeline(
 
         # Check if logged in
         if "/login" in page.url or "/i/flow/login" in page.url:
-            logger.error("Not logged in. Run 'python scraper.py login' to authenticate.")
+            logger.error(
+                "Twitterにログインされていません。"
+                "まず普通のChromeでx.comにログインしてから、Chromeを閉じて再実行してください。"
+            )
             context.close()
             return []
 
@@ -171,10 +143,3 @@ def _parse_tweet_article(article) -> dict | None:
         "timestamp": timestamp,
         "images": images,
     }
-
-
-if __name__ == "__main__":
-    if len(sys.argv) > 1 and sys.argv[1] == "login":
-        manual_login()
-    else:
-        print("Usage: python scraper.py login")
