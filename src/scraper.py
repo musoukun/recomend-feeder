@@ -36,15 +36,23 @@ def login_twitter(page: Page, username: str, password: str) -> None:
     """Log in to Twitter with username and password."""
     logger.info("Logging in to Twitter as %s", username)
     page.goto("https://x.com/i/flow/login", wait_until="domcontentloaded", timeout=60000)
-    page.wait_for_selector('input[autocomplete="username"]', timeout=30000)
 
-    # Enter username
+    # Wait for any input field on the login form
     username_input = page.wait_for_selector(
-        'input[autocomplete="username"], input[name="text"]',
+        'input[autocomplete="username"], input[name="text"], input[type="text"]',
         timeout=30000,
     )
-    username_input.fill(username)
-    page.click('button:has-text("Next")')
+    time.sleep(1)
+    username_input.click()
+    page.keyboard.type(username, delay=50)
+    time.sleep(0.5)
+
+    # Click Next button
+    next_btn = page.query_selector('[role="button"]:has-text("Next"), button:has-text("Next")')
+    if next_btn:
+        next_btn.click()
+    else:
+        page.keyboard.press("Enter")
 
     # Wait for either password field or verification step
     try:
