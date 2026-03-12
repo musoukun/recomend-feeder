@@ -52,10 +52,13 @@ async def _scrape_timeline(tweet_count: int = 50, headless: bool = True) -> list
         headless=headless,
     )
     tab = await browser.get("https://x.com/home")
-    await tab.sleep(5)
+    await tab.sleep(8)
 
-    # Check if logged in
-    if "/login" in tab.url or "/i/flow/login" in tab.url:
+    # Check if logged in - get actual URL from browser
+    current_url = await tab.evaluate("window.location.href")
+    logger.info("Current URL: %s", current_url)
+
+    if "/login" in current_url or "/i/flow/login" in current_url:
         logger.error("Twitterにログインされていません。'python main.py login' を実行してください。")
         browser.stop()
         return []
