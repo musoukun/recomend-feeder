@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import json
 import os
+import sys
 import time
 import logging
 from pathlib import Path
@@ -11,152 +12,91 @@ from playwright.sync_api import sync_playwright, Page
 logger = logging.getLogger(__name__)
 
 AUTH_DIR = Path(__file__).parent.parent / "auth"
-COOKIE_FILE = AUTH_DIR / "cookies.json"
+PROFILE_DIR = AUTH_DIR / "browser_profile"
 
 
-def save_cookies(page: Page) -> None:
-    """Save browser cookies for session reuse."""
-    AUTH_DIR.mkdir(exist_ok=True)
-    cookies = page.context.cookies()
-    COOKIE_FILE.write_text(json.dumps(cookies, indent=2))
-    logger.info("Cookies saved to %s", COOKIE_FILE)
+def manual_login() -> None:
+    """
+    Open a browser for manual Twitter login.
+    The browser profile is saved for future automated use.
+    Run with: python scraper.py login
+    """
+    PROFILE_DIR.mkdir(parents=True, exist_ok=True)
 
-
-def load_cookies(page: Page) -> bool:
-    """Load saved cookies if available."""
-    if COOKIE_FILE.exists():
-        cookies = json.loads(COOKIE_FILE.read_text())
-        page.context.add_cookies(cookies)
-        logger.info("Cookies loaded from %s", COOKIE_FILE)
-        return True
-    return False
-
-
-def login_twitter(page: Page, username: str, password: str) -> None:
-    """Log in to Twitter with username and password."""
-    logger.info("Logging in to Twitter as %s", username)
-    page.goto("https://x.com/i/flow/login", timeout=60000)
-    time.sleep(5)  # Wait for JS to fully render
-
-    # Debug: dump all input elements
-    inputs = page.evaluate('''() => {
-        const inputs = document.querySelectorAll('input');
-        return Array.from(inputs).map(i => ({
-            type: i.type, name: i.name, autocomplete: i.autocomplete,
-            placeholder: i.placeholder, id: i.id, className: i.className
-        }));
-    }''')
-    logger.info("Found inputs on page: %s", json.dumps(inputs, indent=2))
-
-    # Try multiple selectors
-    username_input = page.query_selector('input[autocomplete="username"]') \
-        or page.query_selector('input[name="text"]') \
-        or page.query_selector('input[type="text"]')
-
-    if not username_input:
-        # Last resort: get first input
-        username_input = page.query_selector('input')
-
-    if not username_input:
-        screenshot_path = str(AUTH_DIR / "debug_no_input.png")
-        AUTH_DIR.mkdir(exist_ok=True)
-        page.screenshot(path=screenshot_path)
-        raise RuntimeError(f"No input field found on login page. Screenshot: {screenshot_path}")
-
-    logger.info("Using input element for username")
-    username_input.click()
-    time.sleep(0.5)
-    page.keyboard.type(username, delay=50)
-    time.sleep(1)
-
-    # Screenshot after typing username
-    AUTH_DIR.mkdir(exist_ok=True)
-    page.screenshot(path=str(AUTH_DIR / "debug_after_username.png"))
-
-    # Click Next button
-    page.keyboard.press("Enter")
-    time.sleep(3)
-
-    # Wait for either password field or verification step
-    try:
-        page.wait_for_selector(
-            'input[type="password"], input[data-testid="ocfEnterTextTextInput"]',
-            timeout=30000,
+    with sync_playwright() as p:
+        context = p.chromium.launch_persistent_context(
+            str(PROFILE_DIR),
+            headless=False,
+            channel="chrome",
+            viewport={"width": 1280, "height": 900},
         )
-    except Exception:
-        # Debug: screenshot what's on screen
-        screenshot_path = str(AUTH_DIR / "debug_login.png")
-        AUTH_DIR.mkdir(exist_ok=True)
-        page.screenshot(path=screenshot_path)
-        logger.error("Login flow stuck. Screenshot saved to %s", screenshot_path)
-        raise
+        page = context.pages[0] if context.pages else context.new_page()
+        page.goto("https://x.com/login")
 
-    # Sometimes Twitter asks for phone/email verification
-    verification_input = page.query_selector('input[data-testid="ocfEnterTextTextInput"]')
-    if verification_input:
-        logger.warning("Twitter is requesting additional verification.")
-        verification_input.fill(username)
-        page.click('button:has-text("Next")')
-        page.wait_for_selector('input[type="password"]', timeout=30000)
+        print("\n=== ブラウザでTwitterにログインしてください ===")
+        print("ログイン完了後、ホーム画面が表示されたらブラウザを閉じてください。")
+        print("プロファイルは自動保存されます。\n")
 
-    # Enter password
-    page.fill('input[type="password"]', password)
-    page.click('button[data-testid="LoginForm_Login_Button"]')
+        # Wait for user to close browser
+        try:
+            page.wait_for_event("close", timeout=300000)
+        except Exception:
+            pass
+        context.close()
 
-    # Verify login success
-    page.wait_for_url("**/home", timeout=30000)
-    logger.info("Login successful")
-    save_cookies(page)
+    print("ブラウザプロファイル保存完了: %s" % PROFILE_DIR)
 
 
 def scrape_timeline(
-    username: str,
-    password: str,
     tweet_count: int = 50,
     headless: bool = True,
 ) -> list[dict]:
     """
-    Scrape Twitter timeline and return list of tweet dicts.
+    Scrape Twitter timeline using saved browser profile.
 
     Returns:
         List of dicts with keys: author, handle, text, url, timestamp, images
     """
+    if not PROFILE_DIR.exists():
+        logger.error("Browser profile not found. Run 'python scraper.py login' first.")
+        return []
+
     tweets = []
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=headless)
-        context = browser.new_context(
+        context = p.chromium.launch_persistent_context(
+            str(PROFILE_DIR),
+            headless=headless,
+            channel="chrome",
             viewport={"width": 1280, "height": 900},
-            user_agent=(
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/131.0.0.0 Safari/537.36"
-            ),
         )
-        page = context.new_page()
+        page = context.pages[0] if context.pages else context.new_page()
 
-        # Try cookie-based session first
-        cookie_loaded = load_cookies(page)
-        if cookie_loaded:
-            page.goto("https://x.com/home", wait_until="domcontentloaded", timeout=60000)
-            time.sleep(5)
-            # Check if we're actually logged in
-            if "/login" in page.url or "/i/flow/login" in page.url:
-                logger.info("Cookies expired, performing fresh login")
-                login_twitter(page, username, password)
-            else:
-                logger.info("Session restored from cookies")
-        else:
-            login_twitter(page, username, password)
+        # Navigate to home timeline
+        page.goto("https://x.com/home", timeout=60000)
+        time.sleep(5)
 
-        # Scroll and collect tweets
-        logger.info("Scraping timeline (target: %d tweets)...", tweet_count)
+        # Check if logged in
+        if "/login" in page.url or "/i/flow/login" in page.url:
+            logger.error("Not logged in. Run 'python scraper.py login' to authenticate.")
+            context.close()
+            return []
+
+        logger.info("Logged in. Scraping timeline (target: %d tweets)...", tweet_count)
+
+        # Wait for tweets to load
+        try:
+            page.wait_for_selector('article[data-testid="tweet"]', timeout=30000)
+        except Exception:
+            logger.error("No tweets found on timeline.")
+            context.close()
+            return []
+
         seen_urls = set()
         scroll_attempts = 0
         max_scroll_attempts = 20
 
         while len(tweets) < tweet_count and scroll_attempts < max_scroll_attempts:
-            # Find tweet articles
             articles = page.query_selector_all('article[data-testid="tweet"]')
 
             for article in articles:
@@ -171,14 +111,11 @@ def scrape_timeline(
                     logger.debug("Failed to parse tweet: %s", e)
                     continue
 
-            # Scroll down
             page.evaluate("window.scrollBy(0, 800)")
             time.sleep(2)
             scroll_attempts += 1
 
-        # Update cookies after scraping
-        save_cookies(page)
-        browser.close()
+        context.close()
 
     logger.info("Scraped %d tweets", len(tweets))
     return tweets
@@ -234,3 +171,10 @@ def _parse_tweet_article(article) -> dict | None:
         "timestamp": timestamp,
         "images": images,
     }
+
+
+if __name__ == "__main__":
+    if len(sys.argv) > 1 and sys.argv[1] == "login":
+        manual_login()
+    else:
+        print("Usage: python scraper.py login")

@@ -7,7 +7,7 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
-from scraper import scrape_timeline
+from scraper import scrape_timeline, manual_login
 from classifier import classify_tweets
 from feed_generator import generate_feeds
 
@@ -22,20 +22,17 @@ logger = logging.getLogger(__name__)
 def main() -> None:
     load_dotenv()
 
-    username = os.getenv("TWITTER_USERNAME")
-    password = os.getenv("TWITTER_PASSWORD")
+    # Handle "login" subcommand
+    if len(sys.argv) > 1 and sys.argv[1] == "login":
+        manual_login()
+        return
+
     tweet_count = int(os.getenv("TWEET_COUNT", "50"))
     headless = os.getenv("HEADLESS", "true").lower() == "true"
-
-    if not username or not password:
-        logger.error("TWITTER_USERNAME and TWITTER_PASSWORD must be set in .env")
-        sys.exit(1)
 
     # Scrape
     logger.info("Starting Twitter scrape...")
     tweets = scrape_timeline(
-        username=username,
-        password=password,
         tweet_count=tweet_count,
         headless=headless,
     )
