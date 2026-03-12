@@ -156,13 +156,15 @@ def summarize_video(url: str, title: str = "") -> str | None:
         return None
 
 
-def process_videos(videos: list[dict]) -> list[dict]:
+def process_videos(videos: list[dict], push_fn=None) -> list[dict]:
     """Process a list of videos: summarize with Gemini (YouTube URL direct).
 
-    Skips already-processed videos. Saves processed IDs after each success.
+    Skips already-processed videos. On each successful summary, immediately
+    pushes to spreadsheet via push_fn and saves the processed ID.
 
     Args:
         videos: List of dicts with 'video_id', 'url', 'title', 'channel'.
+        push_fn: Callable that takes a list[dict] and pushes to spreadsheet.
 
     Returns:
         List of newly processed video dicts with 'summary'.
@@ -192,6 +194,11 @@ def process_videos(videos: list[dict]) -> list[dict]:
         if summary:
             video["summary"] = summary
             video["has_subtitles"] = True
+
+            # 即座にスプレッドシートに送信
+            if push_fn:
+                push_fn([video])
+
             processed_ids.add(video["video_id"])
             save_processed_ids(processed_ids)
         else:

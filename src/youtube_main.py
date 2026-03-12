@@ -45,23 +45,12 @@ def main() -> None:
 
     logger.info("Found %d videos total", len(videos))
 
-    # 3. Summarize with Gemini (YouTube URL direct)
+    # 3. Summarize with Gemini (YouTube URL direct) + 即時スプレッドシート送信
     logger.info("Summarizing new videos with Gemini...")
-    results = process_videos(videos)
+    results = process_videos(videos, push_fn=push_to_spreadsheet)
 
     summarized = [v for v in results if v.get("has_subtitles")]
-    logger.info("Successfully summarized %d/%d new videos", len(summarized), len(results))
-
-    # 4. Push to Google Spreadsheet via GAS
-    if summarized:
-        logger.info("Pushing %d results to spreadsheet...", len(summarized))
-        success = push_to_spreadsheet(summarized)
-        if success:
-            logger.info("Done! Results pushed to spreadsheet.")
-        else:
-            logger.error("Failed to push to spreadsheet.")
-    else:
-        logger.info("No new results to push.")
+    logger.info("Done! Summarized %d/%d new videos", len(summarized), len(results))
 
 
 if __name__ == "__main__":
