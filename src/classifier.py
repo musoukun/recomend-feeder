@@ -102,7 +102,7 @@ def _classify_batch(client: genai.Client, batch: list[dict]) -> None:
                 response_mime_type="application/json",
                 response_json_schema=response_schema,
                 temperature=0.1,
-                max_output_tokens=1000,
+                max_output_tokens=4000,
             ),
         )
 
