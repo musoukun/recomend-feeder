@@ -7,40 +7,26 @@ const dotenv = require("dotenv");
 dotenv.config();
 
 const DISCORD_TOKEN = process.env.DISCORD_TOKEN;
-const FEED_URLS = (process.env.FEED_URLS || "").split(",").filter(Boolean);
 const POLL_INTERVAL = (parseInt(process.env.POLL_INTERVAL_MINUTES, 10) || 10) * 60 * 1000;
 const POSTED_FILE = path.join(__dirname, "posted.json");
+const CHANNELS_FILE = path.join(__dirname, "channels.json");
 
-// チャンネル設定をパース
-// 形式: DISCORD_CHANNELS=サーバー1名:チャンネルID1,サーバー2名:チャンネルID2
-// 旧形式 DISCORD_CHANNEL_ID も後方互換でサポート
-function parseChannels() {
-  const channels = [];
-  const channelsEnv = process.env.DISCORD_CHANNELS || "";
+// --- チャンネル設定読み込み ---
 
-  if (channelsEnv) {
-    for (const entry of channelsEnv.split(",").filter(Boolean)) {
-      const sep = entry.lastIndexOf(":");
-      if (sep > 0) {
-        channels.push({
-          name: entry.substring(0, sep).trim(),
-          id: entry.substring(sep + 1).trim(),
-        });
-      } else {
-        channels.push({ name: "default", id: entry.trim() });
-      }
-    }
+function loadChannelConfig() {
+  if (!fs.existsSync(CHANNELS_FILE)) {
+    console.error("channels.json not found. Copy channels.json.example to channels.json and configure.");
+    process.exit(1);
   }
-
-  // 後方互換: DISCORD_CHANNEL_ID
-  if (channels.length === 0 && process.env.DISCORD_CHANNEL_ID) {
-    channels.push({ name: "default", id: process.env.DISCORD_CHANNEL_ID });
+  const config = JSON.parse(fs.readFileSync(CHANNELS_FILE, "utf-8"));
+  if (!Array.isArray(config) || config.length === 0) {
+    console.error("channels.json is empty or invalid.");
+    process.exit(1);
   }
-
-  return channels;
+  return config;
 }
 
-const TARGET_CHANNELS = parseChannels();
+const CHANNEL_CONFIG = loadChannelConfig();
 
 // --- 投稿済みGUID管理 ---
 
@@ -56,7 +42,6 @@ function loadPosted() {
 }
 
 function savePosted(posted) {
-  // 直近2000件だけ保持（メモリ節約）
   const arr = [...posted];
   const trimmed = arr.slice(-2000);
   fs.writeFileSync(POSTED_FILE, JSON.stringify(trimmed), "utf-8");
@@ -67,6 +52,7 @@ function savePosted(posted) {
 const CATEGORY_CONFIG = {
   "ai-tech": { color: 0x00bcd4, label: "AI・テック" },
   "ai-career": { color: 0x2196f3, label: "AI時代の働き方・雇用" },
+  ai: { color: 0x00bcd4, label: "AI・テック" },
   politics: { color: 0xe53935, label: "政治" },
   romance: { color: 0xe91e63, label: "恋愛" },
   adult: { color: 0x9c27b0, label: "アダルト" },
@@ -97,7 +83,6 @@ function buildEmbed(item, category) {
     .setFooter({ text: config.label })
     .setTimestamp(item.isoDate ? new Date(item.isoDate) : new Date());
 
-  // 画像があればサムネイル表示
   const imgMatch = (item.content || "").match(/src="(https:\/\/pbs\.twimg\.com\/[^"]+)"/);
   if (imgMatch) {
     embed.setThumbnail(imgMatch[1]);
@@ -109,65 +94,66 @@ function buildEmbed(item, category) {
 // --- メインループ ---
 
 async function pollFeeds(client, posted) {
-  // 全チャンネルを取得（キャッシュになければfetch）
-  const channels = [];
-  for (const target of TARGET_CHANNELS) {
-    let ch = client.channels.cache.get(target.id);
-    if (!ch) {
-      try {
-        ch = await client.channels.fetch(target.id);
-      } catch (err) {
-        console.error(`Channel "${target.name}" (${target.id}) not found:`, err.message);
-        continue;
-      }
-    }
-    channels.push({ ...target, channel: ch });
-  }
-
-  if (channels.length === 0) {
-    console.error("No valid channels found. Check DISCORD_CHANNELS.");
-    return;
-  }
-
   const parser = new RSSParser();
   let newCount = 0;
 
-  for (const feedUrl of FEED_URLS) {
-    const category = detectCategory(feedUrl);
-    try {
-      const feed = await parser.parseURL(feedUrl);
-      // 古い順に投稿（配列を反転）
-      const items = [...(feed.items || [])].reverse();
+  // フィードURLごとにパース結果をキャッシュ（同じフィードを複数チャンネルで使う場合の効率化）
+  const feedCache = new Map();
+
+  for (const entry of CHANNEL_CONFIG) {
+    const { name, channel_id, feeds } = entry;
+    if (!feeds || feeds.length === 0) continue;
+
+    // チャンネル取得
+    let channel = client.channels.cache.get(channel_id);
+    if (!channel) {
+      try {
+        channel = await client.channels.fetch(channel_id);
+      } catch (err) {
+        console.error(`Channel "${name}" (${channel_id}) not found:`, err.message);
+        continue;
+      }
+    }
+
+    for (const feedUrl of feeds) {
+      const category = detectCategory(feedUrl);
+
+      // フィードをキャッシュから取得、なければfetch
+      if (!feedCache.has(feedUrl)) {
+        try {
+          const feed = await parser.parseURL(feedUrl);
+          feedCache.set(feedUrl, feed.items || []);
+        } catch (err) {
+          console.error(`Failed to fetch feed ${feedUrl}:`, err.message);
+          feedCache.set(feedUrl, []);
+          continue;
+        }
+      }
+
+      const items = [...feedCache.get(feedUrl)].reverse();
 
       for (const item of items) {
+        // チャンネル+GUIDで重複管理（同じ記事でもチャンネルが違えば投稿）
         const guid = item.guid || item.link || item.title;
-        if (!guid || posted.has(guid)) continue;
+        const postedKey = `${channel_id}:${guid}`;
+        if (!guid || posted.has(postedKey)) continue;
 
         const embed = buildEmbed(item, category);
-
-        // 全チャンネルに投稿
-        for (const { name, channel } of channels) {
-          try {
-            await channel.send({ embeds: [embed] });
-          } catch (err) {
-            console.error(`Failed to post to "${name}":`, err.message);
-          }
+        try {
+          await channel.send({ embeds: [embed] });
+          posted.add(postedKey);
+          newCount++;
+          await sleep(1000);
+        } catch (err) {
+          console.error(`Failed to post to "${name}":`, err.message);
         }
-
-        posted.add(guid);
-        newCount++;
-
-        // レート制限対策
-        await sleep(1000);
       }
-    } catch (err) {
-      console.error(`Failed to fetch feed ${feedUrl}:`, err.message);
     }
   }
 
   if (newCount > 0) {
     savePosted(posted);
-    console.log(`Posted ${newCount} new items to ${channels.length} channel(s).`);
+    console.log(`Posted ${newCount} new items.`);
   } else {
     console.log("No new items.");
   }
@@ -185,9 +171,11 @@ const client = new Client({
 
 client.once("ready", async (readyClient) => {
   console.log(`Ready! Logged in as ${readyClient.user.tag}`);
-  console.log(`Watching ${FEED_URLS.length} feeds`);
-  console.log(`Posting to: ${TARGET_CHANNELS.map((c) => `${c.name} (${c.id})`).join(", ")}`);
   console.log(`Poll interval: ${POLL_INTERVAL / 1000 / 60} minutes`);
+  console.log("Channel config:");
+  for (const entry of CHANNEL_CONFIG) {
+    console.log(`  ${entry.name} (${entry.channel_id}): ${entry.feeds.length} feed(s)`);
+  }
 
   const posted = loadPosted();
 
