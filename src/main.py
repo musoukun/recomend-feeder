@@ -7,7 +7,7 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
-from scraper import scrape_timeline
+from scraper import scrape_timeline, setup_login
 from classifier import classify_tweets
 from feed_generator import generate_feeds
 
@@ -21,6 +21,11 @@ logger = logging.getLogger(__name__)
 
 def main() -> None:
     load_dotenv()
+
+    # Handle "login" subcommand
+    if len(sys.argv) > 1 and sys.argv[1] == "login":
+        setup_login()
+        return
 
     tweet_count = int(os.getenv("TWEET_COUNT", "50"))
     headless = os.getenv("HEADLESS", "true").lower() == "true"
