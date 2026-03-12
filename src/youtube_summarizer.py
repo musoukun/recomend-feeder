@@ -19,6 +19,85 @@ YT_URL_PATTERN = re.compile(
     r'(?:https?://)?(?:www\.)?(?:youtube\.com/watch\?v=|youtu\.be/)([\w-]{11})'
 )
 
+# YouTube feed URL pattern in markdown links
+MD_LINK_PATTERN = re.compile(r'\[([^\]]+)\]\((https?://[^\)]+)\)')
+
+
+def load_feeds_from_md(md_path: str | Path) -> list[dict]:
+    """Load YouTube RSS feed URLs from a markdown file.
+
+    Parses markdown links like [Channel Name](https://www.youtube.com/feeds/videos.xml?channel_id=xxx)
+
+    Returns list of dicts with 'name' and 'feed_url'.
+    """
+    md_path = Path(md_path)
+    if not md_path.exists():
+        logger.error("Feed list not found: %s", md_path)
+        return []
+
+    feeds = []
+    text = md_path.read_text(encoding="utf-8")
+    for match in MD_LINK_PATTERN.finditer(text):
+        name = match.group(1)
+        url = match.group(2)
+        if "youtube.com/feeds/" in url:
+            feeds.append({"name": name, "feed_url": url})
+
+    logger.info("Loaded %d YouTube feeds from %s", len(feeds), md_path)
+    return feeds
+
+
+def fetch_videos_from_feeds(feeds: list[dict]) -> list[dict]:
+    """Fetch video entries from YouTube RSS feeds.
+
+    Returns list of dicts with 'video_id', 'url', 'title', 'channel', 'published'.
+    """
+    import xml.etree.ElementTree as ET
+    import urllib.request
+
+    videos = []
+    seen_ids = set()
+
+    for feed in feeds:
+        feed_url = feed["feed_url"]
+        channel_name = feed["name"]
+        logger.info("Fetching feed: %s (%s)", channel_name, feed_url)
+
+        try:
+            req = urllib.request.Request(feed_url, headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                xml_data = resp.read()
+            root = ET.fromstring(xml_data)
+        except Exception as e:
+            logger.warning("Failed to fetch feed %s: %s", channel_name, e)
+            continue
+
+        # YouTube Atom feed namespace
+        ns = {"atom": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
+
+        for entry in root.findall("atom:entry", ns):
+            video_id_elem = entry.find("yt:videoId", ns)
+            if video_id_elem is None:
+                continue
+            video_id = video_id_elem.text
+            if video_id in seen_ids:
+                continue
+            seen_ids.add(video_id)
+
+            title_elem = entry.find("atom:title", ns)
+            published_elem = entry.find("atom:published", ns)
+
+            videos.append({
+                "video_id": video_id,
+                "url": f"https://www.youtube.com/watch?v={video_id}",
+                "title": title_elem.text if title_elem is not None else "",
+                "channel": channel_name,
+                "published": published_elem.text if published_elem is not None else "",
+            })
+
+    logger.info("Found %d videos from %d feeds", len(videos), len(feeds))
+    return videos
+
 
 def extract_youtube_urls(feed_path: str | Path) -> list[dict]:
     """Extract YouTube URLs from an RSS feed XML file.
