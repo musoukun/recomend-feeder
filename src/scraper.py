@@ -148,49 +148,64 @@ async def _scrape_timeline(tweet_count: int = 50, headless: bool = True) -> list
             break
 
         # Get all tweet articles via JS
-        raw_tweets = await tab.evaluate('''() => {
-            const articles = document.querySelectorAll('article[data-testid="tweet"]');
-            return Array.from(articles).map(article => {
-                const authorEl = article.querySelector('div[data-testid="User-Name"] a span');
-                const author = authorEl ? authorEl.textContent : 'Unknown';
+        raw_tweets = await tab.evaluate('''
+            (function() {
+                var articles = document.querySelectorAll('article[data-testid="tweet"]');
+                var results = [];
+                for (var i = 0; i < articles.length; i++) {
+                    var article = articles[i];
+                    var authorEl = article.querySelector('div[data-testid="User-Name"] a span');
+                    var author = authorEl ? authorEl.textContent : 'Unknown';
 
-                let handle = '';
-                const handleEls = article.querySelectorAll('div[data-testid="User-Name"] a');
-                for (const el of handleEls) {
-                    const href = el.getAttribute('href');
-                    if (href && href.startsWith('/')) {
-                        handle = '@' + href.replace(/^\//, '').split('/')[0];
-                        break;
+                    var handle = '';
+                    var handleEls = article.querySelectorAll('div[data-testid="User-Name"] a');
+                    for (var j = 0; j < handleEls.length; j++) {
+                        var href = handleEls[j].getAttribute('href');
+                        if (href && href.startsWith('/')) {
+                            handle = '@' + href.replace(/^\\//, '').split('/')[0];
+                            break;
+                        }
                     }
-                }
 
-                const textEl = article.querySelector('div[data-testid="tweetText"]');
-                const text = textEl ? textEl.textContent : '';
+                    var textEl = article.querySelector('div[data-testid="tweetText"]');
+                    var text = textEl ? textEl.textContent : '';
 
-                const timeEl = article.querySelector('a time');
-                let url = '';
-                let timestamp = '';
-                if (timeEl) {
-                    const parentA = timeEl.parentElement;
-                    url = 'https://x.com' + (parentA.getAttribute('href') || '');
-                    timestamp = timeEl.getAttribute('datetime') || '';
-                }
-
-                const images = [];
-                const imgEls = article.querySelectorAll('div[data-testid="tweetPhoto"] img');
-                for (const img of imgEls) {
-                    const src = img.getAttribute('src');
-                    if (src && src.includes('pbs.twimg.com')) {
-                        images.push(src);
+                    var timeEl = article.querySelector('a time');
+                    var url = '';
+                    var timestamp = '';
+                    if (timeEl) {
+                        var parentA = timeEl.parentElement;
+                        url = 'https://x.com' + (parentA.getAttribute('href') || '');
+                        timestamp = timeEl.getAttribute('datetime') || '';
                     }
-                }
 
-                return { author, handle, text, url, timestamp, images };
-            });
-        }''')
+                    var images = [];
+                    var imgEls = article.querySelectorAll('div[data-testid="tweetPhoto"] img');
+                    for (var k = 0; k < imgEls.length; k++) {
+                        var src = imgEls[k].getAttribute('src');
+                        if (src && src.indexOf('pbs.twimg.com') !== -1) {
+                            images.push(src);
+                        }
+                    }
+
+                    results.push({author: author, handle: handle, text: text, url: url, timestamp: timestamp, images: images});
+                }
+                return JSON.stringify(results);
+            })()
+        ''')
+
+        logger.info("Scroll %d: raw result type=%s, len=%s", scroll, type(raw_tweets).__name__, len(raw_tweets) if raw_tweets else 0)
 
         if not raw_tweets:
             continue
+
+        # Parse JSON string
+        if isinstance(raw_tweets, str):
+            try:
+                raw_tweets = json.loads(raw_tweets)
+            except json.JSONDecodeError:
+                logger.warning("Failed to parse tweet JSON")
+                continue
 
         for tweet in raw_tweets:
             if tweet["text"] and tweet["url"] and tweet["url"] not in seen_urls:
