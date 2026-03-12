@@ -8,6 +8,7 @@ import re
 import time
 from pathlib import Path
 
+from feedgen.feed import FeedGenerator
 from google import genai
 from google.genai import types
 from youtube_transcript_api import YouTubeTranscriptApi
@@ -19,6 +20,10 @@ MD_LINK_PATTERN = re.compile(r'\[([^\]]+)\]\((https?://[^\)]+)\)')
 
 # 処理済み動画IDの保存先
 PROCESSED_FILE = Path(__file__).parent.parent / "processed_videos.json"
+# 要約済み動画データ（RSS生成用）
+SUMMARIES_FILE = Path(__file__).parent.parent / "video_summaries.json"
+# RSSフィード出力先
+FEED_OUTPUT_DIR = Path(__file__).parent.parent / "docs"
 
 
 # --- 処理済み動画管理 ---
@@ -39,6 +44,90 @@ def save_processed_ids(ids: set[str]) -> None:
         json.dumps(sorted(ids), ensure_ascii=False),
         encoding="utf-8",
     )
+
+
+def load_summaries() -> list[dict]:
+    """Load saved video summaries for RSS generation."""
+    try:
+        if SUMMARIES_FILE.exists():
+            return json.loads(SUMMARIES_FILE.read_text(encoding="utf-8"))
+    except Exception:
+        pass
+    return []
+
+
+def save_summary(video: dict) -> None:
+    """Append a video summary and regenerate RSS feed."""
+    summaries = load_summaries()
+
+    # 重複チェック
+    existing_ids = {s["video_id"] for s in summaries}
+    if video["video_id"] in existing_ids:
+        return
+
+    summaries.insert(0, {
+        "video_id": video["video_id"],
+        "url": video["url"],
+        "title": video.get("title", ""),
+        "channel": video.get("channel", ""),
+        "published": video.get("published", ""),
+        "summary": video.get("summary", ""),
+    })
+
+    # 直近100件だけ保持
+    summaries = summaries[:100]
+    SUMMARIES_FILE.write_text(
+        json.dumps(summaries, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+    # RSSフィード再生成
+    generate_youtube_feed(summaries)
+
+
+def generate_youtube_feed(summaries: list[dict]) -> None:
+    """Generate feed-ai-youtuber.xml from video summaries."""
+    from datetime import datetime, timezone
+
+    FEED_OUTPUT_DIR.mkdir(exist_ok=True)
+
+    fg = FeedGenerator()
+    fg.title("YouTube AI要約フィード")
+    fg.link(href="https://www.youtube.com")
+    fg.description("YouTube動画のAI要約フィード")
+    fg.language("ja")
+    fg.lastBuildDate(datetime.now(timezone.utc))
+
+    for video in summaries:
+        fe = fg.add_entry()
+        fe.id(video["url"])
+        fe.title(f'{video["channel"]} - {video["title"]}')
+        fe.link(href=video["url"])
+
+        summary_html = video["summary"].replace("\n", "<br>")
+        content = (
+            f'<p><strong>{video["channel"]}</strong></p>'
+            f'<p>{summary_html}</p>'
+            f'<p><a href="{video["url"]}">YouTubeで見る</a></p>'
+        )
+        fe.content(content, type="html")
+        fe.description(video["summary"][:200])
+
+        if video.get("published"):
+            try:
+                dt = datetime.fromisoformat(video["published"].replace("Z", "+00:00"))
+                fe.published(dt)
+                fe.updated(dt)
+            except ValueError:
+                fe.published(datetime.now(timezone.utc))
+        else:
+            fe.published(datetime.now(timezone.utc))
+
+        fe.author(name=video["channel"])
+
+    output_path = str(FEED_OUTPUT_DIR / "feed-ai-youtuber.xml")
+    fg.rss_file(output_path, pretty=True)
+    logger.info("Generated feed-ai-youtuber.xml (%d entries)", len(summaries))
 
 
 # --- フィード読み込み ---
@@ -365,6 +454,9 @@ def process_videos(videos: list[dict], push_fn=None) -> list[dict]:
             # 即座にスプレッドシートに送信
             if push_fn:
                 push_fn([video])
+
+            # RSS フィード更新
+            save_summary(video)
 
             processed_ids.add(video_id)
             save_processed_ids(processed_ids)
