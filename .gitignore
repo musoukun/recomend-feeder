@@ -6,3 +6,4 @@ venv/
 auth/
 output/
 *.log
+debug_login.png
