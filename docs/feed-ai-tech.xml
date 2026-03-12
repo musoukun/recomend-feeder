@@ -7,42 +7,92 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Mar 2026 22:48:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 23:18:17 +0000</lastBuildDate>
     <item>
-      <title>NEW (@sutoroveli)</title>
-      <link>https://x.com/sutoroveli/status/2031879791104905218</link>
-      <description>&gt;完全に自動化されたAI研究は、わずか1年で実現できると考えています。最も広い意味での再帰的自己改善は、将来の現象ではありません。それは現在の現象です。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;NEW&lt;/strong&gt; &lt;a href="https://x.com/sutoroveli"&gt;@sutoroveli&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&gt;完全に自動化されたAI研究は、わずか1年で実現できると考えています。最も広い意味での再帰的自己改善は、将来の現象ではありません。それは現在の現象です。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDIsmr5awAAbIYY?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>悠希＠小説投稿 (@x2775co)</title>
+      <link>https://x.com/x2775co/status/2031949609849991534</link>
+      <description>30万文字の文章処理において、GPT-5.4xHighがClaudeCodeより圧倒的に効率的であると性能を比較。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;悠希＠小説投稿&lt;/strong&gt; &lt;a href="https://x.com/x2775co"&gt;@x2775co&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ちなみにこれだけのくっそ重い３０万文字近い文章を全部読み直し、作り直し、構造変更し直しをGPT5.4xHighで行ってもトークン残量はこんな感じです。&lt;br&gt;これClaudeCodeでやったら一週間まるまるかかると思います（汗）&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDLvYR_aoAACgHC?format=png&amp;name=900x900" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDLtxHVbEAA2Efa?format=jpg&amp;name=240x240" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/sutoroveli/status/2031879791104905218"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/sutoroveli/status/2031879791104905218</guid>
-      <pubDate>Wed, 11 Mar 2026 23:47:47 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/x2775co/status/2031949609849991534"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/x2775co/status/2031949609849991534</guid>
+      <pubDate>Thu, 12 Mar 2026 04:25:13 +0000</pubDate>
     </item>
     <item>
-      <title>ひさじゅ@AIプログラミングスクールRUNTEQの代表 (@hisaju01)</title>
-      <link>https://x.com/hisaju01/status/2031892489628705270</link>
-      <description>最近Claudeに依存しすぎて、ClaudeかClaude Codeを通さない仕事をやろうとすると、ものすごいストレスを抱えるようになった。  
-
-完全にClaude依存症。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ひさじゅ@AIプログラミングスクールRUNTEQの代表&lt;/strong&gt; &lt;a href="https://x.com/hisaju01"&gt;@hisaju01&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;最近Claudeに依存しすぎて、ClaudeかClaude Codeを通さない仕事をやろうとすると、ものすごいストレスを抱えるようになった。  &lt;br&gt;&lt;br&gt;完全にClaude依存症。&lt;/p&gt;
+      <title>窓の杜 (@madonomori)</title>
+      <link>https://x.com/madonomori/status/2031944548398837780</link>
+      <description>Python製レトロゲームエンジン「Pyxel」に公式Visual Studio Code拡張機能が登場。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;窓の杜&lt;/strong&gt; &lt;a href="https://x.com/madonomori"&gt;@madonomori&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pythonを用いたレトロゲームエンジン「Pyxel」に公式のVisual Studio Code拡張機能／これさえあれば「Pyxel」ゲームが楽しめる https://forest.watch.impress.co.jp/docs/news/2092632.html…&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDLqy7xa8AA_10Z?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDLqzCNbQAMzRqh?format=png&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDLqzKUbYAAx8aw?format=png&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/hisaju01/status/2031892489628705270"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/hisaju01/status/2031892489628705270</guid>
-      <pubDate>Thu, 12 Mar 2026 00:38:14 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/madonomori/status/2031944548398837780"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/madonomori/status/2031944548398837780</guid>
+      <pubDate>Thu, 12 Mar 2026 04:05:06 +0000</pubDate>
     </item>
     <item>
-      <title>みどりMidori Tatsuta (@midori_tatsuta)</title>
-      <link>https://x.com/midori_tatsuta/status/2032089488051290451</link>
-      <description>｢思い通りの画像生成ができない｣という方は参考にしてみてください</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;みどりMidori Tatsuta&lt;/strong&gt; &lt;a href="https://x.com/midori_tatsuta"&gt;@midori_tatsuta&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;｢思い通りの画像生成ができない｣という方は参考にしてみてください&lt;/p&gt;
+      <title>IT navi (@itnavi2022)</title>
+      <link>https://x.com/itnavi2022/status/2032001088317231572</link>
+      <description>小説執筆AIエージェントのワークフローは、企画・プロット・本文執筆・推敲の3段階に分け、途中出力でチェック・指示を行うのが効果的。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;IT navi&lt;/strong&gt; &lt;a href="https://x.com/itnavi2022"&gt;@itnavi2022&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;小説執筆AIエージェントのワークフロー設計は似てきますね。&lt;br&gt;違いは、どこで分割して途中出力させるかで、僕も最初はテーマを入れたら最終原稿の出力まで止まらないWFを組んでいましたが、今は、企画・プロット、本文執筆、推敲の3段階に分けて、途中出力をチェック、追加指示をするようにしています。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/midori_tatsuta/status/2032089488051290451"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/midori_tatsuta/status/2032089488051290451</guid>
-      <pubDate>Thu, 12 Mar 2026 13:41:03 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/itnavi2022/status/2032001088317231572"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/itnavi2022/status/2032001088317231572</guid>
+      <pubDate>Thu, 12 Mar 2026 07:49:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shin丨AI×プロダクト開発の専門家 (@shin_sasaki19)</title>
+      <link>https://x.com/shin_sasaki19/status/2031888467567976497</link>
+      <description>口調チェッカーがコンプライアンス対策として非常に有効である。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Shin丨AI×プロダクト開発の専門家&lt;/strong&gt; &lt;a href="https://x.com/shin_sasaki19"&gt;@shin_sasaki19&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;口調チェッカーはコンプラ対策として最強かもしれぬ。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDILYB7boAEchxZ?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/shin_sasaki19/status/2031888467567976497"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/shin_sasaki19/status/2031888467567976497</guid>
+      <pubDate>Thu, 12 Mar 2026 00:22:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>ぐふとくく (@gufutokuku999)</title>
+      <link>https://x.com/gufutokuku999/status/2032103158563176801</link>
+      <description>Grokに7枚の画像を参照させ、差分を埋める指示で滑らかな動画を生成した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ぐふとくく&lt;/strong&gt; &lt;a href="https://x.com/gufutokuku999"&gt;@gufutokuku999&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Grokさんに７枚の画像を参照してもらって、動画を生成してもらいました&lt;br&gt;差分を埋めるように指示した事もあって動きが滑らかですね&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032102874868744192/img/JLMBbrHDPDTpwXYZ.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDN59OeasAAvNVc?format=jpg&amp;name=120x120" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/gufutokuku999/status/2032103158563176801"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/gufutokuku999/status/2032103158563176801</guid>
+      <pubDate>Thu, 12 Mar 2026 14:35:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>そら  AgentSkills 自動化オタク (@sora19ai)</title>
+      <link>https://x.com/sora19ai/status/2032211510295216605</link>
+      <description>Claude CodeのRemote Control機能はどこからでも作業続行でき、移動時間も活用し生産性を高める。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;そら  AgentSkills 自動化オタク&lt;/strong&gt; &lt;a href="https://x.com/sora19ai"&gt;@sora19ai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;朝の1時間で生産性3倍。https://x.com/claudeai/status/2026418433911603668… Claude CodeのRemote Control、どこからでも作業続行可能。移動時間も有効活用できます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2026417722394021888/img/7uu-_ciDtZ7v3rYC.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/sora19ai/status/2032211510295216605"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/sora19ai/status/2032211510295216605</guid>
+      <pubDate>Thu, 12 Mar 2026 21:45:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Photogenic Weekend (@PhotogenicWeekE)</title>
+      <link>https://x.com/PhotogenicWeekE/status/2032210555134755131</link>
+      <description>LM StudioとLM Link、endpointを使った事例について解説。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Photogenic Weekend&lt;/strong&gt; &lt;a href="https://x.com/PhotogenicWeekE"&gt;@PhotogenicWeekE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今月2本目！LM Studio / LM Linkの話+endpointを使った事例。+次回予告(笑)&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/PhotogenicWeekE/status/2032210555134755131"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/PhotogenicWeekE/status/2032210555134755131</guid>
+      <pubDate>Thu, 12 Mar 2026 21:42:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
