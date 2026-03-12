@@ -1,5 +1,6 @@
 """Main entry point: scrape Twitter timeline, classify, and generate RSS feeds."""
 
+import json
 import logging
 import os
 import sys
@@ -11,6 +12,27 @@ from scraper import scrape_timeline
 from classifier import classify_tweets
 from feed_generator import generate_feeds
 from spreadsheet import push_to_spreadsheet
+
+BLACKLIST_FILE = Path(__file__).parent / "blacklist.json"
+
+
+def load_blacklist() -> set[str]:
+    """Load blacklisted handles from blacklist.json."""
+    try:
+        handles = json.loads(BLACKLIST_FILE.read_text("utf-8"))
+        # Normalize: ensure all start with @, lowercase
+        return {h.lower().lstrip("@") for h in handles}
+    except (FileNotFoundError, json.JSONDecodeError):
+        return set()
+
+
+def filter_blacklist(tweets: list[dict], blacklist: set[str]) -> list[dict]:
+    """Remove tweets from blacklisted handles."""
+    filtered = [t for t in tweets if t.get("handle", "").lower().lstrip("@") not in blacklist]
+    removed = len(tweets) - len(filtered)
+    if removed > 0:
+        logger.info("Blacklist: removed %d tweets", removed)
+    return filtered
 
 # Setup logging
 logging.basicConfig(
@@ -36,6 +58,11 @@ def main() -> None:
     if not tweets:
         logger.warning("No tweets scraped. Feed will not be updated.")
         sys.exit(0)
+
+    # Blacklist filter
+    blacklist = load_blacklist()
+    if blacklist:
+        tweets = filter_blacklist(tweets, blacklist)
 
     # Classify
     logger.info("Classifying %d tweets with Gemini...", len(tweets))
