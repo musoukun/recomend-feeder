@@ -39,7 +39,11 @@ def login_twitter(page: Page, username: str, password: str) -> None:
     page.wait_for_selector('input[autocomplete="username"]', timeout=30000)
 
     # Enter username
-    page.fill('input[autocomplete="username"]', username)
+    username_input = page.wait_for_selector(
+        'input[autocomplete="username"], input[name="text"]',
+        timeout=30000,
+    )
+    username_input.fill(username)
     page.click('button:has-text("Next")')
 
     # Wait for either password field or verification step
