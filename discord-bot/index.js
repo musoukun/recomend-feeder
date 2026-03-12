@@ -7,10 +7,40 @@ const dotenv = require("dotenv");
 dotenv.config();
 
 const DISCORD_TOKEN = process.env.DISCORD_TOKEN;
-const CHANNEL_ID = process.env.DISCORD_CHANNEL_ID;
 const FEED_URLS = (process.env.FEED_URLS || "").split(",").filter(Boolean);
 const POLL_INTERVAL = (parseInt(process.env.POLL_INTERVAL_MINUTES, 10) || 10) * 60 * 1000;
 const POSTED_FILE = path.join(__dirname, "posted.json");
+
+// チャンネル設定をパース
+// 形式: DISCORD_CHANNELS=サーバー1名:チャンネルID1,サーバー2名:チャンネルID2
+// 旧形式 DISCORD_CHANNEL_ID も後方互換でサポート
+function parseChannels() {
+  const channels = [];
+  const channelsEnv = process.env.DISCORD_CHANNELS || "";
+
+  if (channelsEnv) {
+    for (const entry of channelsEnv.split(",").filter(Boolean)) {
+      const sep = entry.lastIndexOf(":");
+      if (sep > 0) {
+        channels.push({
+          name: entry.substring(0, sep).trim(),
+          id: entry.substring(sep + 1).trim(),
+        });
+      } else {
+        channels.push({ name: "default", id: entry.trim() });
+      }
+    }
+  }
+
+  // 後方互換: DISCORD_CHANNEL_ID
+  if (channels.length === 0 && process.env.DISCORD_CHANNEL_ID) {
+    channels.push({ name: "default", id: process.env.DISCORD_CHANNEL_ID });
+  }
+
+  return channels;
+}
+
+const TARGET_CHANNELS = parseChannels();
 
 // --- 投稿済みGUID管理 ---
 
@@ -78,9 +108,23 @@ function buildEmbed(item, category) {
 // --- メインループ ---
 
 async function pollFeeds(client, posted) {
-  const channel = client.channels.cache.get(CHANNEL_ID);
-  if (!channel) {
-    console.error(`Channel ${CHANNEL_ID} not found. Bot may not have access.`);
+  // 全チャンネルを取得（キャッシュになければfetch）
+  const channels = [];
+  for (const target of TARGET_CHANNELS) {
+    let ch = client.channels.cache.get(target.id);
+    if (!ch) {
+      try {
+        ch = await client.channels.fetch(target.id);
+      } catch (err) {
+        console.error(`Channel "${target.name}" (${target.id}) not found:`, err.message);
+        continue;
+      }
+    }
+    channels.push({ ...target, channel: ch });
+  }
+
+  if (channels.length === 0) {
+    console.error("No valid channels found. Check DISCORD_CHANNELS.");
     return;
   }
 
@@ -99,7 +143,16 @@ async function pollFeeds(client, posted) {
         if (!guid || posted.has(guid)) continue;
 
         const embed = buildEmbed(item, category);
-        await channel.send({ embeds: [embed] });
+
+        // 全チャンネルに投稿
+        for (const { name, channel } of channels) {
+          try {
+            await channel.send({ embeds: [embed] });
+          } catch (err) {
+            console.error(`Failed to post to "${name}":`, err.message);
+          }
+        }
+
         posted.add(guid);
         newCount++;
 
@@ -113,7 +166,7 @@ async function pollFeeds(client, posted) {
 
   if (newCount > 0) {
     savePosted(posted);
-    console.log(`Posted ${newCount} new items.`);
+    console.log(`Posted ${newCount} new items to ${channels.length} channel(s).`);
   } else {
     console.log("No new items.");
   }
@@ -131,7 +184,8 @@ const client = new Client({
 
 client.once("ready", async (readyClient) => {
   console.log(`Ready! Logged in as ${readyClient.user.tag}`);
-  console.log(`Watching ${FEED_URLS.length} feeds, posting to channel ${CHANNEL_ID}`);
+  console.log(`Watching ${FEED_URLS.length} feeds`);
+  console.log(`Posting to: ${TARGET_CHANNELS.map((c) => `${c.name} (${c.id})`).join(", ")}`);
   console.log(`Poll interval: ${POLL_INTERVAL / 1000 / 60} minutes`);
 
   const posted = loadPosted();
