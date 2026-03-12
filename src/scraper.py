@@ -41,25 +41,27 @@ def login_twitter(page: Page, username: str, password: str) -> None:
     # Enter username
     page.fill('input[autocomplete="username"]', username)
     page.click('button:has-text("Next")')
-    time.sleep(2)
+
+    # Wait for either password field or verification step
+    page.wait_for_selector(
+        'input[type="password"], input[data-testid="ocfEnterTextTextInput"]',
+        timeout=30000,
+    )
 
     # Sometimes Twitter asks for phone/email verification
-    # Check if there's an additional verification step
     verification_input = page.query_selector('input[data-testid="ocfEnterTextTextInput"]')
     if verification_input:
-        logger.warning("Twitter is requesting additional verification. Manual intervention may be needed.")
-        # Try entering username as verification
+        logger.warning("Twitter is requesting additional verification.")
         verification_input.fill(username)
         page.click('button:has-text("Next")')
-        time.sleep(2)
+        page.wait_for_selector('input[type="password"]', timeout=30000)
 
     # Enter password
     page.fill('input[type="password"]', password)
     page.click('button[data-testid="LoginForm_Login_Button"]')
-    time.sleep(3)
 
     # Verify login success
-    page.wait_for_url("**/home", timeout=15000)
+    page.wait_for_url("**/home", timeout=30000)
     logger.info("Login successful")
     save_cookies(page)
 
