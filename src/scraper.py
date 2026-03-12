@@ -127,9 +127,12 @@ async def _scrape_timeline(tweet_count: int = 50, headless: bool = True) -> list
     logger.info("Logged in. Scraping timeline (target: %d tweets)...", tweet_count)
 
     # Wait for tweets to load
-    try:
-        await tab.select('article[data-testid="tweet"]', timeout=30)
-    except Exception:
+    for _ in range(10):
+        tweet_el = await tab.query_selector('article[data-testid="tweet"]')
+        if tweet_el:
+            break
+        await tab.sleep(2)
+    else:
         logger.error("No tweets found on timeline.")
         browser.stop()
         return []
@@ -182,6 +185,9 @@ async def _scrape_timeline(tweet_count: int = 50, headless: bool = True) -> list
                 return { author, handle, text, url, timestamp, images };
             });
         }''')
+
+        if not raw_tweets:
+            continue
 
         for tweet in raw_tweets:
             if tweet["text"] and tweet["url"] and tweet["url"] not in seen_urls:
