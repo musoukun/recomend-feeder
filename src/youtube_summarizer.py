@@ -1,4 +1,4 @@
-"""YouTube video summarizer: YouTube RSS → Gemini direct YouTube URL summarization → Spreadsheet."""
+"""YouTube video summarizer: YouTube RSS → transcript/Gemini summarization → Spreadsheet."""
 from __future__ import annotations
 
 import json
@@ -10,6 +10,7 @@ from pathlib import Path
 
 from google import genai
 from google.genai import types
+from youtube_transcript_api import YouTubeTranscriptApi
 
 logger = logging.getLogger(__name__)
 
@@ -126,13 +127,93 @@ def fetch_videos_from_feeds(feeds: list[dict], max_per_channel: int = 5) -> list
     return videos
 
 
-# --- Gemini で YouTube URL を直接要約 ---
+# --- トランスクリプト取得 ---
+
+def get_transcript(video_id: str) -> str | None:
+    """Fetch transcript using youtube-transcript-api.
+
+    Tries: ja → en → any available language.
+    Returns transcript text or None.
+    """
+    ytt_api = YouTubeTranscriptApi()
+
+    try:
+        transcript_list = ytt_api.list(video_id)
+    except Exception as e:
+        logger.warning("Failed to list transcripts for %s: %s", video_id, e)
+        return None
+
+    # 優先順: ja手動 → en手動 → ja自動 → en自動 → any
+    transcript = None
+    try:
+        transcript = transcript_list.find_manually_created_transcript(['ja', 'en'])
+    except Exception:
+        try:
+            transcript = transcript_list.find_generated_transcript(['ja', 'en'])
+        except Exception:
+            try:
+                transcript = transcript_list.find_transcript(['ja', 'en'])
+            except Exception:
+                # 何でもいいので最初のものを取得
+                for t in transcript_list:
+                    transcript = t
+                    break
+
+    if transcript is None:
+        logger.warning("No transcript available for %s", video_id)
+        return None
+
+    try:
+        fetched = transcript.fetch()
+        text = " ".join(snippet.text for snippet in fetched)
+        logger.info("Got transcript for %s (%d chars, lang=%s)", video_id, len(text), transcript.language_code)
+        return text
+    except Exception as e:
+        logger.warning("Failed to fetch transcript for %s: %s", video_id, e)
+        return None
+
+
+# --- Gemini 要約 ---
 
 SUMMARY_PROMPT = """専門家でもない人でもわかるように、平易な言葉でどんなことを伝えたいか要約して。最後に総論も平易な言葉で書いて。日本語で書いて。"""
 
 
-def summarize_video(url: str, title: str = "") -> str | None:
-    """Summarize a YouTube video by passing its URL directly to Gemini."""
+def summarize_with_transcript(transcript: str, title: str = "") -> str | None:
+    """Summarize transcript text using Gemini."""
+    api_key = os.getenv("GEMINI_API_KEY")
+    if not api_key:
+        logger.error("GEMINI_API_KEY not set")
+        return None
+
+    client = genai.Client(api_key=api_key)
+
+    # 長すぎるトランスクリプトは切り詰め
+    max_chars = 50000
+    if len(transcript) > max_chars:
+        transcript = transcript[:max_chars] + "\n...(以下省略)"
+
+    prompt = f"動画タイトル: {title}\n\n字幕テキスト:\n{transcript}"
+
+    try:
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                system_instruction=SUMMARY_PROMPT,
+                temperature=0.3,
+                max_output_tokens=8000,
+            ),
+        )
+        summary = response.text
+        logger.info("Generated summary (%d chars)", len(summary))
+        return summary
+    except Exception as e:
+        logger.error("Summarization failed: %s", e)
+        return None
+
+
+def summarize_with_video_url(url: str, title: str = "") -> str | None:
+    """Fallback: summarize by passing YouTube URL directly to Gemini."""
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
         logger.error("GEMINI_API_KEY not set")
@@ -153,29 +234,25 @@ def summarize_video(url: str, title: str = "") -> str | None:
             config=types.GenerateContentConfig(
                 system_instruction=SUMMARY_PROMPT,
                 temperature=0.3,
-                max_output_tokens=2000,
+                max_output_tokens=8000,
             ),
         )
         summary = response.text
-        logger.info("Generated summary (%d chars) for %s", len(summary), url)
+        logger.info("Generated summary via video URL (%d chars) for %s", len(summary), url)
         return summary
     except Exception as e:
-        logger.error("Summarization failed for %s: %s", url, e)
+        logger.error("Video URL summarization failed for %s: %s", url, e)
         return None
 
 
 def process_videos(videos: list[dict], push_fn=None) -> list[dict]:
-    """Process a list of videos: summarize with Gemini (YouTube URL direct).
+    """Process videos: get transcript → Gemini summarize → push to spreadsheet.
+
+    1. youtube-transcript-api でトランスクリプト取得 → テキストをGeminiで要約
+    2. 字幕なしの場合、Gemini に YouTube URL を直接渡してフォールバック
 
     Skips already-processed videos. On each successful summary, immediately
     pushes to spreadsheet via push_fn and saves the processed ID.
-
-    Args:
-        videos: List of dicts with 'video_id', 'url', 'title', 'channel'.
-        push_fn: Callable that takes a list[dict] and pushes to spreadsheet.
-
-    Returns:
-        List of newly processed video dicts with 'summary'.
     """
     processed_ids = load_processed_ids()
     results = []
@@ -192,13 +269,25 @@ def process_videos(videos: list[dict], push_fn=None) -> list[dict]:
 
     for i, video in enumerate(new_videos):
         url = video["url"]
-        logger.info("Processing (%d/%d): %s [%s]", i + 1, len(new_videos), video.get("title", ""), url)
+        video_id = video["video_id"]
+        title = video.get("title", "")
+        logger.info("Processing (%d/%d): %s [%s]", i + 1, len(new_videos), title, url)
 
         # Rate limit delay
         if i > 0:
             time.sleep(2)
 
-        summary = summarize_video(url, title=video.get("title", ""))
+        # Step 1: トランスクリプト取得 → テキスト要約
+        summary = None
+        transcript = get_transcript(video_id)
+        if transcript:
+            summary = summarize_with_transcript(transcript, title=title)
+
+        # Step 2: フォールバック — Gemini に動画URL直接
+        if not summary:
+            logger.info("Falling back to video URL summarization for %s", url)
+            summary = summarize_with_video_url(url, title=title)
+
         if summary:
             video["summary"] = summary
             video["has_subtitles"] = True
@@ -207,7 +296,7 @@ def process_videos(videos: list[dict], push_fn=None) -> list[dict]:
             if push_fn:
                 push_fn([video])
 
-            processed_ids.add(video["video_id"])
+            processed_ids.add(video_id)
             save_processed_ids(processed_ids)
         else:
             video["summary"] = "要約の生成に失敗しました"
