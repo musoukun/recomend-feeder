@@ -7,109 +7,106 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Mar 2026 23:23:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 23:37:27 +0000</lastBuildDate>
     <item>
-      <title>名村 晋治@Webディレクター30年目ᯅ (@yakumo)</title>
-      <link>https://x.com/yakumo/status/2031882991182418254</link>
-      <description>Claude Codeでプロジェクト単位のCLAUDE.mdを作成すると、トークン利用量が大幅に削減されることを発見。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;名村 晋治@Webディレクター30年目ᯅ&lt;/strong&gt; &lt;a href="https://x.com/yakumo"&gt;@yakumo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;あ、Claude Code、プロジェクト単位のCLAUDE.mdちゃんと作ったらトークンの利用量が激減した…&lt;br&gt;マジで「計測バグってない？」ってレベルで使わなくなった。（あくまで僕の利用環境で）&lt;br&gt;ちゃんとやることやっておいた方がいいんだなぁ… https://プロジェクト単位のclaude.md&lt;/p&gt;
+      <title>GIGAZINE(ギガジン) (@gigazine)</title>
+      <link>https://x.com/gigazine/status/2032082976184340921</link>
+      <description>調査でAI検索エンジン8種が60%超の検索で誤引用を提供。特にGrok 3は94%で誤回答と判明し、そのひどさが浮き彫りに。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;GIGAZINE(ギガジン)&lt;/strong&gt; &lt;a href="https://x.com/gigazine"&gt;@gigazine&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;「ChatGPT」「Perplexity」など8つのAI検索エンジンを対象とした調査で60%以上の検索フレーズでニュース記事の誤った引用が提供されるとの結果、特に「Grok 3」は検索フレーズの94%に誤って回答するというひどさ(2025)&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/yakumo/status/2031882991182418254"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/yakumo/status/2031882991182418254</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:30 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/gigazine/status/2032082976184340921"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/gigazine/status/2032082976184340921</guid>
+      <pubDate>Thu, 12 Mar 2026 13:15:10 +0000</pubDate>
     </item>
     <item>
-      <title>Zenn公式 (@zenn_dev)</title>
-      <link>https://x.com/zenn_dev/status/2031988579585626226</link>
-      <description>OpenClawを参考にGemini CLIでAI Agent「GeminiClaw」を自作する過程と、設計判断や技術的課題を解説。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Zenn公式&lt;/strong&gt; &lt;a href="https://x.com/zenn_dev"&gt;@zenn_dev&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; ピックアップ &lt;br&gt;&lt;br&gt;OpenClawを参考に、Gemini CLIでPersonal Agent「GeminiClaw」を自作した過程がまとめられています。設計判断やトレードオフから、AI Agentの認証・認可、メモリ管理、ユーザーアプローチについて学べます。&lt;/p&gt;
+      <title>akihiro（あきひろ）| 生成AI活用 (@akihiro_genai)</title>
+      <link>https://x.com/akihiro_genai/status/2032230168773984521</link>
+      <description>Claude Codeは開発向きでカスタマイズ豊富、Codexはシンプルで非エンジニア向き。非エンジニアがClaude Codeを選ぶ理由に疑問を呈す。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;akihiro（あきひろ）| 生成AI活用&lt;/strong&gt; &lt;a href="https://x.com/akihiro_genai"&gt;@akihiro_genai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;機能的な面で言うとClaude Codeってやっぱ開発向きだよね。Hooksとかハーネス的なカスタマイズ要素が多いし。それに比べるとCodexの方がシンプルで非エンジニア業務にあってる気がする。学習コストもコスパ面で考えても。&lt;br&gt;わざわざ非エンジニアがClaude Code選ぶのって何故なんだろう。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/zenn_dev/status/2031988579585626226"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/zenn_dev/status/2031988579585626226</guid>
-      <pubDate>Thu, 12 Mar 2026 07:00:04 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/akihiro_genai/status/2032230168773984521"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/akihiro_genai/status/2032230168773984521</guid>
+      <pubDate>Thu, 12 Mar 2026 23:00:03 +0000</pubDate>
     </item>
     <item>
-      <title>みるぼん@スモビジ (@milbon_)</title>
-      <link>https://x.com/milbon_/status/2031903396207476926</link>
-      <description>PC上で動作するAIアシスタント「Vellum」が電話応対やメール整理など雑務を自動実行し、生産性を向上させる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;みるぼん@スモビジ&lt;/strong&gt; &lt;a href="https://x.com/milbon_"&gt;@milbon_&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AI秘書で生産性10倍。&lt;br&gt;&lt;br&gt;PC上で動くAIアシスタント「Vellum」。電話応対、メール整理、予定管理、Slack監視、Web操作まで自動実行。質問に答えるAIではなく、実際に“仕事を処理する”AI。&lt;br&gt;&lt;br&gt;つまり人を雇わずとも雑務をAIに振り、問題なく事業が回る。&lt;br&gt;&lt;br&gt;詳細はリプ欄で整理↓&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031754086429888512/img/MT-FuN0QR6zeFELi.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>朱雀 | SUZACQUE (@Suzacque)</title>
+      <link>https://x.com/Suzacque/status/2031875642070122618</link>
+      <description>2026年に金持ちになるためのスキルとしてVibe coding、ローカルモデル、Codexなどを挙げ、実践状況を共有。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;朱雀 | SUZACQUE&lt;/strong&gt; &lt;a href="https://x.com/Suzacque"&gt;@Suzacque&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;これ「2026年に金持ちになるために身につけるべきことのすべて」らしいんだけど、割とやってるものが多かった。&lt;br&gt;・Vibe coding&lt;br&gt; → やってる&lt;br&gt;・OpenClaw&lt;br&gt;→ やってない（代わりに独自モデル構築）&lt;br&gt;・自分専用のローカルモデルを動かすこと&lt;br&gt; → やってる&lt;br&gt;・Codex&lt;br&gt; → やってる&lt;br&gt;・KarpathyのAutoresearch&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/milbon_/status/2031903396207476926"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/milbon_/status/2031903396207476926</guid>
-      <pubDate>Thu, 12 Mar 2026 01:21:35 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/Suzacque/status/2031875642070122618"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Suzacque/status/2031875642070122618</guid>
+      <pubDate>Wed, 11 Mar 2026 23:31:18 +0000</pubDate>
     </item>
     <item>
-      <title>nasuuu (@nasuvit_z)</title>
-      <link>https://x.com/nasuvit_z/status/2032061634181808296</link>
-      <description>Claudeの偽サイトが検索上位に表示されており、注意が必要な状況である。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;nasuuu&lt;/strong&gt; &lt;a href="https://x.com/nasuvit_z"&gt;@nasuvit_z&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Claudeの偽サイト結構やばいな&lt;br&gt;検索順位が高すぎる&lt;br&gt;これは注意喚起事案&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNVSOLaUAE0e74?format=jpg&amp;name=900x900" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>熊谷正寿【GMO】 (@m_kumagai)</title>
+      <link>https://x.com/m_kumagai/status/2031994314776330264</link>
+      <description>Claude Codeのコードレビュー機能でバグ検知し、エンジニア生産性が200%向上したと発表。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;熊谷正寿【GMO】&lt;/strong&gt; &lt;a href="https://x.com/m_kumagai"&gt;@m_kumagai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;熊谷が選ぶ໊24h世界三大AIニュース&lt;br&gt;&lt;br&gt;位&lt;br&gt;&lt;br&gt;Claude CodeにCode Review機能、エージェントチームがバグを検知し、エンジニアの生産性が200%向上&lt;br&gt;&lt;br&gt;#エンジニア #コーティング #革命&lt;br&gt;#AI　#GMOインターネットグループ&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/nasuvit_z/status/2032061634181808296"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/nasuvit_z/status/2032061634181808296</guid>
-      <pubDate>Thu, 12 Mar 2026 11:50:22 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/m_kumagai/status/2031994314776330264"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/m_kumagai/status/2031994314776330264</guid>
+      <pubDate>Thu, 12 Mar 2026 07:22:51 +0000</pubDate>
     </item>
     <item>
-      <title>ゆーりす.yaml (@Yuulis04)</title>
-      <link>https://x.com/Yuulis04/status/2032132146190794761</link>
-      <description>GitHub Education経由のGitHub CopilotでClaude OpusやGPT-5.4モデルへのアクセスが制限される見込み。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ゆーりす.yaml&lt;/strong&gt; &lt;a href="https://x.com/Yuulis04"&gt;@Yuulis04&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;GitHub Educationを通じたGitHub Copilotで、Claude OpusやGPT-5.4モデルに自発的にアクセスできなくなるらしい。Antigravityに続けてこっちも改悪か…&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOVakLbQAQJ87P?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOVakMbYAA9m63?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>うみゆき@AI研究 (@umiyuki_ai)</title>
+      <link>https://x.com/umiyuki_ai/status/2032120129702838654</link>
+      <description>偽Claudeに課金するリスクを回避するため、AIツール（ChatGPT）に本物の情報を尋ねるべきだと提言。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;うみゆき@AI研究&lt;/strong&gt; &lt;a href="https://x.com/umiyuki_ai"&gt;@umiyuki_ai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ググッて見つけたClaudeに課金したらニセモノだったって話、もう人間が自力でググるのなんてやめましょう。まずChatGPTに本物のClaudeの場所を訊きましょう。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/Yuulis04/status/2032132146190794761"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Yuulis04/status/2032132146190794761</guid>
-      <pubDate>Thu, 12 Mar 2026 16:30:33 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/umiyuki_ai/status/2032120129702838654"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/umiyuki_ai/status/2032120129702838654</guid>
+      <pubDate>Thu, 12 Mar 2026 15:42:48 +0000</pubDate>
     </item>
     <item>
-      <title>shinshin86｜AITuber OnAir開発者｜AIキャラのミコをバズらせたい人 (@shinshin86)</title>
-      <link>https://x.com/shinshin86/status/2032047190747857386</link>
-      <description>LLMやTTS不要でChromeからAIチャットやAITuber配信ができるWebアプリを開発。PNGTuber対応でYouTube/Twitch配信可能、ソースはオープン。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;shinshin86｜AITuber OnAir開発者｜AIキャラのミコをバズらせたい人&lt;/strong&gt; &lt;a href="https://x.com/shinshin86"&gt;@shinshin86&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;LLMやTTS(音声エンジン)を用意することなく、Chromeからアクセスするだけで、気軽にAIチャットやAITuber配信ができるWebアプリを作りました！&lt;br&gt;&lt;br&gt;・アバターはPNGTuber形式に対応&lt;br&gt;・YouTubeとTwitchで配信可能&lt;br&gt;・ソースはオープンにしてるのでカスタマイズ可能（リプにて）&lt;/p&gt;
+      <title>しのゆーさん (@shinoyu__)</title>
+      <link>https://x.com/shinoyu__/status/2031934478348869936</link>
+      <description>将来的な管理の複雑化を見据え、k8sの習得が不可避と判断。これまで触れてこなかった技術への向き合いを決意する。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;しのゆーさん&lt;/strong&gt; &lt;a href="https://x.com/shinoyu__"&gt;@shinoyu__&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;この時代がくるならk8sを使うことがほぼ確定する(じゃないと管理爆発してしぬ)ので、いい加減ちゃんと向き合うか…&lt;br&gt;&lt;br&gt;仕事的にシングルサーバーのオートスケールで十分なことしかしてないから触れてなかったけども。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/shinshin86/status/2032047190747857386"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/shinshin86/status/2032047190747857386</guid>
-      <pubDate>Thu, 12 Mar 2026 10:52:58 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/shinoyu__/status/2031934478348869936"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/shinoyu__/status/2031934478348869936</guid>
+      <pubDate>Thu, 12 Mar 2026 03:25:05 +0000</pubDate>
     </item>
     <item>
-      <title>shi3z (@shi3z)</title>
-      <link>https://x.com/shi3z/status/2032015519034069344</link>
-      <description>自律進化型ローカルLLM「Mubo」の仕組みと始め方に関する情報が共有された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;shi3z&lt;/strong&gt; &lt;a href="https://x.com/shi3z"&gt;@shi3z&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;自律進化型ローカルLLM「Mubo」の仕組みと始め方｜tyo&lt;/p&gt;
+      <title>だいち＠家族大好きエンジニア (@da_i_chi_dev)</title>
+      <link>https://x.com/da_i_chi_dev/status/2032196781950599584</link>
+      <description>Codexを、コミュニケーションは苦手だが技術力は高いエンジニアに例え、その特性を分かりやすく表現する。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;だいち＠家族大好きエンジニア&lt;/strong&gt; &lt;a href="https://x.com/da_i_chi_dev"&gt;@da_i_chi_dev&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;codexは触ったことないけどイメージ的には、コミュニケーション能力が低いけど、技術力はあるエンジニア的な？&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/shi3z/status/2032015519034069344"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/shi3z/status/2032015519034069344</guid>
-      <pubDate>Thu, 12 Mar 2026 08:47:07 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/da_i_chi_dev/status/2032196781950599584"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/da_i_chi_dev/status/2032196781950599584</guid>
+      <pubDate>Thu, 12 Mar 2026 20:47:23 +0000</pubDate>
     </item>
     <item>
-      <title>さわらつき (@sawaratsuki1004)</title>
-      <link>https://x.com/sawaratsuki1004/status/2032163283307057456</link>
-      <description>GitHub CopilotとOpus4.6が仕様変更で急に使えなくなり、AIツールの利用モチベーションが低下した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;さわらつき&lt;/strong&gt; &lt;a href="https://x.com/sawaratsuki1004"&gt;@sawaratsuki1004&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;学生の身分だからGitHub Copilotで、AntigravityでAI Proに入っているから&lt;br&gt;Opus4.6を使えていたのに仕様変更で急にどちらも使えなくなってしまい気持ち的なモチベがかなり下がっている&lt;/p&gt;
+      <title>ガガロット (@gagarot200)</title>
+      <link>https://x.com/gagarot200/status/2032006360276328676</link>
+      <description>1000体のAIエージェントが異なる立場で議論し、社会の未来の動きを先読みするAIリサーチエンジンが画期的。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ガガロット&lt;/strong&gt; &lt;a href="https://x.com/gagarot200"&gt;@gagarot200&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;『未来を予測する』&lt;br&gt;AIリサーチエンジンがクソ面白いw&lt;br&gt;&lt;br&gt;1000体のAIエージェントを大量展開して&lt;br&gt;社会の「未来の動き」を先読みさせてる&lt;br&gt;&lt;br&gt;資料を読み込ませた&lt;br&gt;1000体のエージェントが&lt;br&gt;それぞれ異なる立場で議論を重ねる&lt;br&gt;意見がぶつかって洗練されていく中で&lt;br&gt;市場や世論の動きが浮かび上がってくる。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032006296585846785/img/Fw9WuMsDZJrN1js9.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/sawaratsuki1004/status/2032163283307057456"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/sawaratsuki1004/status/2032163283307057456</guid>
-      <pubDate>Thu, 12 Mar 2026 18:34:17 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/gagarot200/status/2032006360276328676"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/gagarot200/status/2032006360276328676</guid>
+      <pubDate>Thu, 12 Mar 2026 08:10:43 +0000</pubDate>
     </item>
     <item>
-      <title>仙ちゃん (@sennin_tadaman)</title>
-      <link>https://x.com/sennin_tadaman/status/2032098066887819730</link>
-      <description>Claude Codeの登場でAI活用による収益化が容易になり、初心者はAIで複数アカウントを運用し月50万稼ぐことも可能。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;仙ちゃん&lt;/strong&gt; &lt;a href="https://x.com/sennin_tadaman"&gt;@sennin_tadaman&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;うーーーん。Claude Codeが爆誕して明らかにゲームチェンジした。初心者は複数アカをAIでぶん回して花が咲いたところに水を与えるとええと思う。月5万稼げたら月50万までは3.4ヶ月やね。布石、教育、ローンチさえ覚えたらヨユーやねコレは。&lt;/p&gt;
+      <title>オズ｜AI画像×イラスト集で150万 (@ozu_ai25)</title>
+      <link>https://x.com/ozu_ai25/status/2031700808514085348</link>
+      <description>Grokが日本語の説明からStable Diffusion用英語プロンプトを高精度で生成し、AI画像制作の効率を劇的に向上させる。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;オズ｜AI画像×イラスト集で150万&lt;/strong&gt; &lt;a href="https://x.com/ozu_ai25"&gt;@ozu_ai25&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Grokやっぱ強いなぁ&lt;br&gt;&lt;br&gt;日本語で&lt;br&gt;「こういうシチュ」「こんなキャラ」&lt;br&gt;って説明するだけで&lt;br&gt;Stable Diffusion用の英語プロンプトをかなり精度高く出してくれる&lt;br&gt;&lt;br&gt;サイトとかCivitaiでプロンプト探すのもいいけど&lt;br&gt;Grokも使うとめちゃ効率いい&lt;br&gt;&lt;br&gt;最近はPixiv投稿用キャラも&lt;br&gt;Grokと壁打ちしながら作ってる&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/sennin_tadaman/status/2032098066887819730"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/sennin_tadaman/status/2032098066887819730</guid>
-      <pubDate>Thu, 12 Mar 2026 14:15:08 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/ozu_ai25/status/2031700808514085348"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/ozu_ai25/status/2031700808514085348</guid>
+      <pubDate>Wed, 11 Mar 2026 11:56:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
