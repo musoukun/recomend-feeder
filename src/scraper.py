@@ -35,24 +35,47 @@ def load_cookies(page: Page) -> bool:
 def login_twitter(page: Page, username: str, password: str) -> None:
     """Log in to Twitter with username and password."""
     logger.info("Logging in to Twitter as %s", username)
-    page.goto("https://x.com/i/flow/login", wait_until="domcontentloaded", timeout=60000)
+    page.goto("https://x.com/i/flow/login", timeout=60000)
+    time.sleep(5)  # Wait for JS to fully render
 
-    # Wait for any input field on the login form
-    username_input = page.wait_for_selector(
-        'input[autocomplete="username"], input[name="text"], input[type="text"]',
-        timeout=30000,
-    )
-    time.sleep(1)
+    # Debug: dump all input elements
+    inputs = page.evaluate('''() => {
+        const inputs = document.querySelectorAll('input');
+        return Array.from(inputs).map(i => ({
+            type: i.type, name: i.name, autocomplete: i.autocomplete,
+            placeholder: i.placeholder, id: i.id, className: i.className
+        }));
+    }''')
+    logger.info("Found inputs on page: %s", json.dumps(inputs, indent=2))
+
+    # Try multiple selectors
+    username_input = page.query_selector('input[autocomplete="username"]') \
+        or page.query_selector('input[name="text"]') \
+        or page.query_selector('input[type="text"]')
+
+    if not username_input:
+        # Last resort: get first input
+        username_input = page.query_selector('input')
+
+    if not username_input:
+        screenshot_path = str(AUTH_DIR / "debug_no_input.png")
+        AUTH_DIR.mkdir(exist_ok=True)
+        page.screenshot(path=screenshot_path)
+        raise RuntimeError(f"No input field found on login page. Screenshot: {screenshot_path}")
+
+    logger.info("Using input element for username")
     username_input.click()
-    page.keyboard.type(username, delay=50)
     time.sleep(0.5)
+    page.keyboard.type(username, delay=50)
+    time.sleep(1)
+
+    # Screenshot after typing username
+    AUTH_DIR.mkdir(exist_ok=True)
+    page.screenshot(path=str(AUTH_DIR / "debug_after_username.png"))
 
     # Click Next button
-    next_btn = page.query_selector('[role="button"]:has-text("Next"), button:has-text("Next")')
-    if next_btn:
-        next_btn.click()
-    else:
-        page.keyboard.press("Enter")
+    page.keyboard.press("Enter")
+    time.sleep(3)
 
     # Wait for either password field or verification step
     try:
