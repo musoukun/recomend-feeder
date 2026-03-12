@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Twitter Timeline - AI・テック</title>
+    <link>https://x.com/home</link>
+    <description>Auto-generated RSS feed: Twitter Timeline - AI・テック</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 12 Mar 2026 22:48:02 +0000</lastBuildDate>
+    <item>
+      <title>NEW (@sutoroveli)</title>
+      <link>https://x.com/sutoroveli/status/2031879791104905218</link>
+      <description>&gt;完全に自動化されたAI研究は、わずか1年で実現できると考えています。最も広い意味での再帰的自己改善は、将来の現象ではありません。それは現在の現象です。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;NEW&lt;/strong&gt; &lt;a href="https://x.com/sutoroveli"&gt;@sutoroveli&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&gt;完全に自動化されたAI研究は、わずか1年で実現できると考えています。最も広い意味での再帰的自己改善は、将来の現象ではありません。それは現在の現象です。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDIsmr5awAAbIYY?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/sutoroveli/status/2031879791104905218"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/sutoroveli/status/2031879791104905218</guid>
+      <pubDate>Wed, 11 Mar 2026 23:47:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>ひさじゅ@AIプログラミングスクールRUNTEQの代表 (@hisaju01)</title>
+      <link>https://x.com/hisaju01/status/2031892489628705270</link>
+      <description>最近Claudeに依存しすぎて、ClaudeかClaude Codeを通さない仕事をやろうとすると、ものすごいストレスを抱えるようになった。  
+
+完全にClaude依存症。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ひさじゅ@AIプログラミングスクールRUNTEQの代表&lt;/strong&gt; &lt;a href="https://x.com/hisaju01"&gt;@hisaju01&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最近Claudeに依存しすぎて、ClaudeかClaude Codeを通さない仕事をやろうとすると、ものすごいストレスを抱えるようになった。  &lt;br&gt;&lt;br&gt;完全にClaude依存症。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/hisaju01/status/2031892489628705270"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/hisaju01/status/2031892489628705270</guid>
+      <pubDate>Thu, 12 Mar 2026 00:38:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>みどりMidori Tatsuta (@midori_tatsuta)</title>
+      <link>https://x.com/midori_tatsuta/status/2032089488051290451</link>
+      <description>｢思い通りの画像生成ができない｣という方は参考にしてみてください</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;みどりMidori Tatsuta&lt;/strong&gt; &lt;a href="https://x.com/midori_tatsuta"&gt;@midori_tatsuta&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;｢思い通りの画像生成ができない｣という方は参考にしてみてください&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/midori_tatsuta/status/2032089488051290451"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/midori_tatsuta/status/2032089488051290451</guid>
+      <pubDate>Thu, 12 Mar 2026 13:41:03 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
