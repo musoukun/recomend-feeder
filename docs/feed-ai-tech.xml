@@ -7,120 +7,225 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 04:56:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 05:28:00 +0000</lastBuildDate>
     <item>
-      <title>うみゆき@AI研究 (@umiyuki_ai)</title>
-      <link>https://x.com/umiyuki_ai/status/2032299571192463397</link>
-      <description>ClaudeCodeにTerraformを任せた結果、本番データベースが全削除される事故が発生。AIによるインフラ操作のリスクを指摘。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;うみゆき@AI研究&lt;/strong&gt; &lt;a href="https://x.com/umiyuki_ai"&gt;@umiyuki_ai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Terraform（コードでインフラ管理できるブツ）をClaudeCodeに丸投げで使わせてたら、AIに本番データベース全削除されちゃってメチャクチャテンパッた人の話。AIがクソコード書いちゃったらGitで巻き戻せばいいだけの事だが、AIがクソTerraformコマンドを実行しちゃったらコンピュータ自体を更地にでき&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HCud_WGaUAE6hxf?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>ウマたん(上野佑馬) | AI×個人開発 (@statistics1012)</title>
+      <link>https://x.com/statistics1012/status/2032282498361680010</link>
+      <description>18歳大学生が開発したレスリングAIアプリ「Wrestle AI」が月300万円を稼ぎ、詳細なオンボーディングが特徴。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ウマたん(上野佑馬) | AI×個人開発&lt;/strong&gt; &lt;a href="https://x.com/statistics1012"&gt;@statistics1012&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;18歳の大学生がバイブコーディングで作り、月300万円の収益を超えたレスリング専用AIアプリ「Wrestle AI」のオンボーディングがエグい。&lt;br&gt;&lt;br&gt;画面数は27画面でザックリ&lt;br&gt;・アプリの特徴&lt;br&gt;・ユーザーへのパーソナルな質問&lt;br&gt;・ゴールを記入する画面（コミットを引き出す）&lt;br&gt;・パーソナライズされたプラン&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQPPUxa0AAUvHQ?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQPPUracAAM_np?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQPPUrbQAAU_uU?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQPPUvbQAA01qg?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/umiyuki_ai/status/2032299571192463397"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/umiyuki_ai/status/2032299571192463397</guid>
-      <pubDate>Fri, 13 Mar 2026 03:35:50 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/statistics1012/status/2032282498361680010"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/statistics1012/status/2032282498361680010</guid>
+      <pubDate>Fri, 13 Mar 2026 02:28:00 +0000</pubDate>
     </item>
     <item>
-      <title>そう｜n8nで始めるAI自動化 (@so_ainsight)</title>
-      <link>https://x.com/so_ainsight/status/2032267904738046434</link>
-      <description>Claudeがチャット内でインタラクティブなグラフ・図解を簡単に作成可能になり、データ可視化SaaS産業に影響を与える。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;そう｜n8nで始めるAI自動化&lt;/strong&gt; &lt;a href="https://x.com/so_ainsight"&gt;@so_ainsight&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;は？これマジ？？？&lt;br&gt;&lt;br&gt;Claudeがまた1つ、産業を終わらせました。。&lt;br&gt;&lt;br&gt;チャット内でインタラクティブなグラフ・図解が、簡単に作れるようになりました。&lt;br&gt;&lt;br&gt;・数百万ドル調達して「データを可視化する」SaaS&lt;br&gt;・12人チームで作ってきたデータ可視化ベンチャー&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032121339667234817/img/GgFq5DvXDFjZPP4f.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>ぺち丸Canva認定エキスパート (@pechimaru_life)</title>
+      <link>https://x.com/pechimaru_life/status/2032094096396075047</link>
+      <description>Canvaの新機能「マジックレイヤー」は画像を完璧にレイヤー化し編集可能で、複雑な図解もほぼ対応する。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ぺち丸Canva認定エキスパート&lt;/strong&gt; &lt;a href="https://x.com/pechimaru_life"&gt;@pechimaru_life&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Canvaの新機能の「マジックレイヤー」試した結果、&lt;br&gt;&lt;br&gt;めちゃくちゃすげぇぇぇぇぇ！！！&lt;br&gt;&lt;br&gt;2個画像用意したんだけど、1個目（左）は完璧にレイヤー化できて自由に編集可能でした。&lt;br&gt;&lt;br&gt;2個目（右）は情報量が多い図解ですが、多少不具合は出るものの、ほとんど編集できることが判明。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032092916643246080/img/yMOVueGC1ap0RvGZ.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/so_ainsight/status/2032267904738046434"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/so_ainsight/status/2032267904738046434</guid>
-      <pubDate>Fri, 13 Mar 2026 01:30:00 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/pechimaru_life/status/2032094096396075047"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/pechimaru_life/status/2032094096396075047</guid>
+      <pubDate>Thu, 12 Mar 2026 13:59:21 +0000</pubDate>
     </item>
     <item>
-      <title>田中義弘 | taziku CEO / AI × Creative (@taziku_co)</title>
-      <link>https://x.com/taziku_co/status/2032317325429653516</link>
-      <description>OpenClawとreSpeakerを組み合わせた音声アシスタントは、音声メモをタスクに変換し、実行レイヤーへと進化させる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;田中義弘 | taziku CEO / AI × Creative&lt;/strong&gt; &lt;a href="https://x.com/taziku_co"&gt;@taziku_co&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;音声メモが、記録ではなく「実行レイヤー」へ。&lt;br&gt;&lt;br&gt;OpenClaw × reSpeakerは、音声メモをただの記録で終わらせず、そのまま実際のタスクに変換する音声アシスタント&lt;br&gt;&lt;br&gt;長い指示や散らかった思考、日常的な話し言葉のまま受け取り、そのままタスク化する。&lt;br&gt;via：@seeedstudio&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032283700311048192/img/vu7o6mnDeGGGdDwb.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>テツメモ｜AI図解×検証｜Newsletter (@tetumemo)</title>
+      <link>https://x.com/tetumemo/status/2032306101082079419</link>
+      <description>Claudeがチャット内でインタラクティブなチャートやダイアグラムを直接作成可能になり、無料ユーザーも利用できる。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;テツメモ｜AI図解×検証｜Newsletter&lt;/strong&gt; &lt;a href="https://x.com/tetumemo"&gt;@tetumemo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claudeがアプデがまたエグいな…&lt;br&gt;チャット内で直接インタラクティブなチャートやダイアグラムを作成できるようになった&lt;br&gt;&lt;br&gt;無料ユーザーもOK&lt;br&gt;&lt;br&gt;試しに「主要AIサービス7社の世界Web流入シェア推移を、2年分の月次で比較分析する市場調査レポート」を依頼したら、プロ級アウトプットに感動した&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQyTTtasAAwywd?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/taziku_co/status/2032317325429653516"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/taziku_co/status/2032317325429653516</guid>
-      <pubDate>Fri, 13 Mar 2026 04:46:23 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/tetumemo/status/2032306101082079419"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/tetumemo/status/2032306101082079419</guid>
+      <pubDate>Fri, 13 Mar 2026 04:01:47 +0000</pubDate>
     </item>
     <item>
-      <title>ふろむだ (@fromdusktildawn)</title>
-      <link>https://x.com/fromdusktildawn/status/2032266291420283174</link>
-      <description>GeminiやGrokでBANされるとGoogleサービスやXアカウントが停止する危険性があり、ChatGPTやClaudeの方が安全だと指摘。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ふろむだ&lt;/strong&gt; &lt;a href="https://x.com/fromdusktildawn"&gt;@fromdusktildawn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;これがあるから、GeminiとGrokを使うのは危険。&lt;br&gt;AIになんでも自由に聞いていると、ある日、突然、BANを食らう。&lt;br&gt;すると、GMailもGoogleドライブもGoogleチャットも全部死ぬ。&lt;br&gt;Xのアカウントが死ぬ。&lt;br&gt;ChatGPTやClaudeの方がずっと安全。&lt;/p&gt;
+      <title>Tom | ドバイで生成AIやってる人 (@0x__tom)</title>
+      <link>https://x.com/0x__tom/status/2032215558272532880</link>
+      <description>BaiduがOpenClawのAIエージェントを月額410円で即利用できるゼロデプロイサービス「DuClaw」を開始した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Tom | ドバイで生成AIやってる人&lt;/strong&gt; &lt;a href="https://x.com/0x__tom"&gt;@0x__tom&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;え、OpenClawが月額410円で使えるようになった?&lt;br&gt;&lt;br&gt;BaiduがOpenClawの「DuClaw」っていうゼロデプロイサービスを出した。月額17.8元(約410円)でOpenClawのAIエージェントが即使える。セットアップ完全不要。&lt;br&gt;&lt;br&gt;1. DuClaw(ゼロデプロイ)&lt;br&gt;・ブラウザからアクセスするだけでOpenClaw即起動&lt;br&gt;・Baidu&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOWgASbQAAi38D?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNhYX0XcAAKLCY?format=jpg&amp;name=240x240" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/fromdusktildawn/status/2032266291420283174"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fromdusktildawn/status/2032266291420283174</guid>
-      <pubDate>Fri, 13 Mar 2026 01:23:36 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/0x__tom/status/2032215558272532880"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/0x__tom/status/2032215558272532880</guid>
+      <pubDate>Thu, 12 Mar 2026 22:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>全統AI | Daisuke Motoki (@swarm_ai_cloud)</title>
-      <link>https://x.com/swarm_ai_cloud/status/2032293461391786410</link>
-      <description>AmazonのAI「Kiro」が本番環境を削除し630万件の注文が失われたとの噂。AIが自社サービスに致命的ダメージを与える時代。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;全統AI | Daisuke Motoki&lt;/strong&gt; &lt;a href="https://x.com/swarm_ai_cloud"&gt;@swarm_ai_cloud&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AmazonのKiroがAmazon自身のシステム本番環境を削除し、630万件の注文が失われたとの話?&lt;br&gt;&lt;br&gt;本番環境削除だともっとシャレならんことが起きている気はするけど、&lt;br&gt;&lt;br&gt;自分が生み出したAIが自分のサービスに致命的なダメージを与える時代。&lt;/p&gt;
+      <title>金 成奎 (@seikei_kin)</title>
+      <link>https://x.com/seikei_kin/status/2032264221644505561</link>
+      <description>Claudeを熟練デザイナーにするため、リサーチやUX/UIなど63のデザインスキルをプラグインとして構築した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;金 成奎&lt;/strong&gt; &lt;a href="https://x.com/seikei_kin"&gt;@seikei_kin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claudeを熟練デザイナーにするために63のデザインスキルを用意したという記事。リサーチ・UX/UIなど分野ごとに用意したプラグインをインストールし用意されたデザイン用のコマンドを入力するだけ。猛者がいる&lt;br&gt;I Built 63 Design Skills For Claude - and They're Free&lt;br&gt;https://open.substack.com/pub/marieclairedean/p/i-built-63-design-skills-for-claude…&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQG0E2aEAABZ4_?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/swarm_ai_cloud/status/2032293461391786410"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/swarm_ai_cloud/status/2032293461391786410</guid>
-      <pubDate>Fri, 13 Mar 2026 03:11:34 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/seikei_kin/status/2032264221644505561"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/seikei_kin/status/2032264221644505561</guid>
+      <pubDate>Fri, 13 Mar 2026 01:15:22 +0000</pubDate>
     </item>
     <item>
-      <title>風倉 (@kazakura_22)</title>
-      <link>https://x.com/kazakura_22/status/2032251863987610038</link>
-      <description>GeminiのAI判定は不正確でポリコレ汚染が激しく、有害判定でGoogleサービス全体がBANされる危険があるため注意が必要。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;風倉&lt;/strong&gt; &lt;a href="https://x.com/kazakura_22"&gt;@kazakura_22&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;これはクリエイターは本当に気をつけた方が良いと思う。&lt;br&gt;これがあるから、自分は真面目な相談しかGeminiにしない。Gemini単体ではなくGoogleのメール含む全てBANなのが終わってる&lt;br&gt;&lt;br&gt;「審判」としてのAIは現在マジでポンコツで、有害判定が実に怪しく、ポリコレ汚染も激しい&lt;br&gt;&lt;br&gt;マジで気をつけて&lt;/p&gt;
+      <title>コムテ (@commte)</title>
+      <link>https://x.com/commte/status/2032293887499518314</link>
+      <description>CoolifyはVercel/Heroku/Netlifyの機能を自社サーバーで提供し、Gitデプロイや自動SSLなどに対応する。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;コムテ&lt;/strong&gt; &lt;a href="https://x.com/commte"&gt;@commte&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Coolifyって、&lt;br&gt;Vercel / Heroku / Netlify の機能を、自分のサーバーで使えるのマジか！&lt;br&gt;&lt;br&gt;・Git push でデプロイ（Vercel と同じ感覚）&lt;br&gt;・SSL 自動発行（Let's Encrypt）&lt;br&gt;・280 以上のサービスをワンクリックでインストール&lt;br&gt;・DB のバックアップも自動&lt;br&gt;・プレビューデプロイ対応&lt;br&gt;・Coolify&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQodONawAAiuVn?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/kazakura_22/status/2032251863987610038"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/kazakura_22/status/2032251863987610038</guid>
-      <pubDate>Fri, 13 Mar 2026 00:26:16 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/commte/status/2032293887499518314"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/commte/status/2032293887499518314</guid>
+      <pubDate>Fri, 13 Mar 2026 03:13:15 +0000</pubDate>
     </item>
     <item>
-      <title>Dischargedarrow Getback (@DGetback47618)</title>
-      <link>https://x.com/DGetback47618/status/2032311011211165827</link>
-      <description>AlphaZeroは自己対戦で自己改善し、将棋・チェス・AlphaGo Zeroを数時間で凌駕する強さを獲得した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Dischargedarrow Getback&lt;/strong&gt; &lt;a href="https://x.com/DGetback47618"&gt;@DGetback47618&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AlphaZeroでは自己対戦による再帰的自己改善に到達した直後、2時間で将棋のチャンピオンプログラム、4時間でチェスチャンピオン、さらにすでに人間より圧倒的に強くなっていた前世代のAlphaGo Zeroを8時間で上回りました。&lt;/p&gt;
+      <title>Kosuke (@kosuke_agos)</title>
+      <link>https://x.com/kosuke_agos/status/2032320474584400349</link>
+      <description>マッキンゼーの独自AI「Lilli」から100年分の機密データが初歩的なハッキングで流出した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Kosuke&lt;/strong&gt; &lt;a href="https://x.com/kosuke_agos"&gt;@kosuke_agos&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;世界最高のコンサルティングファームであるマッキンゼーの独自AI「Lilli」から、100年分の機密データが流出するという驚愕の事実が明らかになりました。&lt;br&gt;&lt;br&gt;45,000人の社員が日常的に入力していた4,700万件のチャット履歴やM&amp;A戦略が、極めて初歩的な手法でハックされ、企業の知的財産が流出しています。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQ_H8nbsAAm4d3?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQ_Iz3aMAAclKk?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/DGetback47618/status/2032311011211165827"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/DGetback47618/status/2032311011211165827</guid>
-      <pubDate>Fri, 13 Mar 2026 04:21:18 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/kosuke_agos/status/2032320474584400349"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/kosuke_agos/status/2032320474584400349</guid>
+      <pubDate>Fri, 13 Mar 2026 04:58:54 +0000</pubDate>
     </item>
     <item>
-      <title>山田胡瓜・漫画家 (@kyuukanba)</title>
-      <link>https://x.com/kyuukanba/status/2032281482715357539</link>
-      <description>AIを創作に組み込む実験の結果、NotebookLMに資料をアップし質問するようなシンプルな使い方が最も効果的だと判明。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;山田胡瓜・漫画家&lt;/strong&gt; &lt;a href="https://x.com/kyuukanba"&gt;@kyuukanba&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;この半年か1年、余裕あったのでAIを創作に組み込む実験をしてきた。&lt;br&gt;&lt;br&gt;結論としては、「凝ったことはしないのがベスト」となりつつある。&lt;br&gt;&lt;br&gt;・NotebookLMに作品の作り込みに役立つ資料をアップして、質問すれば知識にアクセスできるようにする。&lt;/p&gt;
+      <title>Hugging Models (@HuggingModels)</title>
+      <link>https://x.com/HuggingModels/status/2032106839887003662</link>
+      <description>Qwen3.5-35B-A3B Aggressiveは、機能損失なしで完全にロック解除されたLLM。プロンプトを拒否しない。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Hugging Models&lt;/strong&gt; &lt;a href="https://x.com/HuggingModels"&gt;@HuggingModels&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Qwen3.5-35B-A3B Aggressive.&lt;br&gt;&lt;br&gt;Fully unlocked with zero capability loss.&lt;br&gt;&lt;br&gt;Link: https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive…&lt;br&gt;&lt;br&gt;Fully unlocked and won't refuse prompts. May occasionally append short disclaimers (baked into base model training, not refusals) but full content is always generated.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDN-ZZ1aIAAjmRo?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/kyuukanba/status/2032281482715357539"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/kyuukanba/status/2032281482715357539</guid>
-      <pubDate>Fri, 13 Mar 2026 02:23:58 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/HuggingModels/status/2032106839887003662"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/HuggingModels/status/2032106839887003662</guid>
+      <pubDate>Thu, 12 Mar 2026 14:50:00 +0000</pubDate>
     </item>
     <item>
-      <title>yousukezan (@yousukezan)</title>
-      <link>https://x.com/yousukezan/status/2032253776976101480</link>
-      <description>AIは昨年できなかったドキュメント作成、テスト、脆弱性発見などの能力を急速に向上させている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;yousukezan&lt;/strong&gt; &lt;a href="https://x.com/yousukezan"&gt;@yousukezan&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AIはドキュメント書かないとかテストしてくれないとかロジックの脆弱性見つけられないとか、去年はそうだったなあ。ちょっと目を離しているうちにすぐに進んでいく&lt;/p&gt;
+      <title>れん｜AIに"任せる"経営術 (@ren_webmarkx)</title>
+      <link>https://x.com/ren_webmarkx/status/2031978635813666880</link>
+      <description>Claude CodeとOpenClawを使った動画編集自動化で、RemotionレンダリングのボトルネックをMac Studio購入で解消。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;れん｜AIに"任せる"経営術&lt;/strong&gt; &lt;a href="https://x.com/ren_webmarkx"&gt;@ren_webmarkx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ようやくMac Studio買った。&lt;br&gt;&lt;br&gt;今までEC2やVPSでClaude CodeとOpenClawを回してたんだけど。&lt;br&gt;&lt;br&gt;リモートサーバーだと動画編集の自動化ができない。&lt;br&gt;&lt;br&gt;Remotionのレンダリングにはローカルのマシンパワーが必要で、ずっとここがボトルネックだった。&lt;br&gt;&lt;br&gt;これでようやく、、、&lt;br&gt;&lt;br&gt;Claude Code × OpenClaw ×&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDMJzGpbQAALJLv?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDGD29lbIAAnGZA?format=jpg&amp;name=120x120" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/yousukezan/status/2032253776976101480"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/yousukezan/status/2032253776976101480</guid>
-      <pubDate>Fri, 13 Mar 2026 00:33:52 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/ren_webmarkx/status/2031978635813666880"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/ren_webmarkx/status/2031978635813666880</guid>
+      <pubDate>Thu, 12 Mar 2026 06:20:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>野生の男 (@yasei_no_otoko)</title>
+      <link>https://x.com/yasei_no_otoko/status/2032167914460324235</link>
+      <description>Grok 4.20 beta APIは知能指数でGPT-5.2等に劣るが、速度はSonnet 4.6の5倍でタイパとコスパに優れる。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;野生の男&lt;/strong&gt; &lt;a href="https://x.com/yasei_no_otoko"&gt;@yasei_no_otoko&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;リリースされたGrok 4.20 beta APIがテストされたところAA知能指数ではわずかにGPT-5.2とGLM-5に勝てず。しかし速度ではSonnet 4.6の5倍、Grok 4.1 Fastの2倍でタイパとコスパのバランスがとてつもなく良いLLMに。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDO18pibQAEmEWs?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOjYxLbQAQk2x8?format=jpg&amp;name=240x240" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/yasei_no_otoko/status/2032167914460324235"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/yasei_no_otoko/status/2032167914460324235</guid>
+      <pubDate>Thu, 12 Mar 2026 18:52:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>PC Watch (@pc_watch)</title>
+      <link>https://x.com/pc_watch/status/2032294095566393470</link>
+      <description>BeelinkがAIがPCを自律操作するOpenClaw搭載ミニPCを発表した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;PC Watch&lt;/strong&gt; &lt;a href="https://x.com/pc_watch"&gt;@pc_watch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AIがPCを自律操作、BeelinkがOpenClaw搭載ミニPCを発表 https://pc.watch.impress.co.jp/docs/news/2093186.html…&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQotenaEAAmcq8?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/pc_watch/status/2032294095566393470"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/pc_watch/status/2032294095566393470</guid>
+      <pubDate>Fri, 13 Mar 2026 03:14:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>LangChainJP (@LangChainJP)</title>
+      <link>https://x.com/LangChainJP/status/2032290592131076413</link>
+      <description>OpenAIがSora 2対応Video APIを拡張。動画生成・編集・延長・ダウンロード、Batch APIに対応した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;LangChainJP&lt;/strong&gt; &lt;a href="https://x.com/LangChainJP"&gt;@LangChainJP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【OpenAI、Sora 2対応のVideo APIを拡張】&lt;br&gt;&lt;br&gt;OpenAIがSora 2対応のVideo APIを拡張。動画生成ジョブの作成、取得、一覧、削除に加え、既存動画の編集や延長、生成動画のダウンロード、Batch APIを使った一括ジョブ投入に対応した。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQlhiOXwAAobov?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/LangChainJP/status/2032290592131076413"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/LangChainJP/status/2032290592131076413</guid>
+      <pubDate>Fri, 13 Mar 2026 03:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>ガガロット (@gagarot200)</title>
+      <link>https://x.com/gagarot200/status/2032283491111747767</link>
+      <description>Open Clawを搭載したロボットが物理世界を自由に動き活動可能に。ドローンやヒューマノイドへの応用が進む。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ガガロット&lt;/strong&gt; &lt;a href="https://x.com/gagarot200"&gt;@gagarot200&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;『Open Claw』を脳みそに付けた&lt;br&gt;四足歩行ロボットの活用事例がヤバすぎるw&lt;br&gt;&lt;br&gt;・ドローン&lt;br&gt;・ヒューマノイド&lt;br&gt;・四足歩行ロボットなど&lt;br&gt;&lt;br&gt;物理ハードウェアへ&lt;br&gt;アクセスをOpenClawに与えたことで&lt;br&gt;&lt;br&gt;エージェントに物理世界を自由に動き&lt;br&gt;自由に活動できる様になってしまった。&lt;br&gt;&lt;br&gt;数年後には人間の在り方が変わる&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032283435671437313/img/0GawPbuvjA4DJund.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/gagarot200/status/2032283491111747767"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/gagarot200/status/2032283491111747767</guid>
+      <pubDate>Fri, 13 Mar 2026 02:31:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>情報の灯台 (@joho_no_todai)</title>
+      <link>https://x.com/joho_no_todai/status/2031975146408591824</link>
+      <description>米Nuroが日本の走行データなしで東京の公道を自律走行。安全運転の構造を学習した単一AIモデルで対応する。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;情報の灯台&lt;/strong&gt; &lt;a href="https://x.com/joho_no_todai"&gt;@joho_no_todai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;米スタートアップNuroが、日本の走行データを一切学習せずに東京の公道を走り始めた。&lt;br&gt;これを「ゼロショット自律走行」と呼び、場所ごとのルールを覚えるのではなく、「安全運転の構造そのもの」を学習した単一のAIモデルで対応するという設計だ。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/joho_no_todai/status/2031975146408591824"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/joho_no_todai/status/2031975146408591824</guid>
+      <pubDate>Thu, 12 Mar 2026 06:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>破綻国家研究所 (@InsHatanCountry)</title>
+      <link>https://x.com/InsHatanCountry/status/2032301511691419796</link>
+      <description>Geminiの精度低下は、データ汚染とモデル退化、推論データの過学習が原因と推測される。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;破綻国家研究所&lt;/strong&gt; &lt;a href="https://x.com/InsHatanCountry"&gt;@InsHatanCountry&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Geminiの精度が悪くなった一因として、&lt;br&gt;データ汚染とモデル退化なんだろうなと。&lt;br&gt;いわゆるクレンジングなしの学習データがそもそも推論データになって、その推論データから得られた推論結果の過学習が起こっているんだろうなぁと邪推している&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/InsHatanCountry/status/2032301511691419796"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/InsHatanCountry/status/2032301511691419796</guid>
+      <pubDate>Fri, 13 Mar 2026 03:43:33 +0000</pubDate>
     </item>
     <item>
       <title>ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ  (@ai_hakase_)</title>
-      <link>https://x.com/ai_hakase_/status/2032291818805584063</link>
-      <description>新しい音声認識モデル「Qwen3 ASR」がWhisperを超え、高速・高精度で低スペックPCでも動作。議事録作成や翻訳に革命を起こす。</description>
+      <link>https://x.com/ai_hakase_/status/2031974973070303485</link>
+      <description>OpenAIのGPT-5.4 Thinkingは思考プロセスを経て論理的に回答し、2回の指示でゲームをほぼ完璧に生成する。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ &lt;/strong&gt; &lt;a href="https://x.com/ai_hakase_"&gt;@ai_hakase_&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【Whisper超え！爆速・高精度の音声認識「Qwen3 ASR」登場】&lt;br&gt;OpenAIのWhisperを凌駕する強力なライバルが出現！1.7Bモデルで速度と精度の両面を圧倒。低スペックPCでも高速動作し、議事録作成や翻訳に革命を起こします。API互換で導入も簡単ですよ！&lt;br&gt;#Qwen3 #AI&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQmo6HWIAAptIK?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;【GPT-5.4の衝撃】ゲーム開発が「指示だけ」で完結する時代へ！&lt;br&gt;  &lt;br&gt;OpenAIの最新モデル「GPT-5.4 Thinking」の進化が凄まじいです！&lt;br&gt;&lt;br&gt; 驚愕のポイント：&lt;br&gt;・「思考プロセス」を経て回答する圧倒的な論理性&lt;br&gt;・人気ゲームをたった2回の指示でほぼ完璧に生成&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031802821234786304/img/uhFAqL4SZfF2v8ej.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/ai_hakase_/status/2032291818805584063"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/ai_hakase_/status/2032291818805584063</guid>
-      <pubDate>Fri, 13 Mar 2026 03:05:02 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/ai_hakase_/status/2031974973070303485"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/ai_hakase_/status/2031974973070303485</guid>
+      <pubDate>Thu, 12 Mar 2026 06:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nao ／ 個人開発 (@nao_u7589422)</title>
+      <link>https://x.com/nao_u7589422/status/2032281465468436566</link>
+      <description>AIツールCodexは賢く速いが、指示の解釈能力や共感性が低く、謝らないなど「性格が悪い」。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Nao ／ 個人開発&lt;/strong&gt; &lt;a href="https://x.com/nao_u7589422"&gt;@nao_u7589422&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Codexの何が悪いんだという方向けに個人的な意見を述べておくと、Codexは賢くて速くてコスパもいいが性格が悪いです。&lt;br&gt;&lt;br&gt;行間を汲み取る能力が低かったり（指示を端折ると違う解釈をされる）&lt;br&gt;共感能力が無かったり（とにかく余計な会話はしないというスタンス）&lt;br&gt;絶対に謝ってこなかったり&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/nao_u7589422/status/2032281465468436566"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/nao_u7589422/status/2032281465468436566</guid>
+      <pubDate>Fri, 13 Mar 2026 02:23:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>深津 貴之 / THE GUILD, note (@fladdict)</title>
+      <link>https://x.com/fladdict/status/2032319293132849310</link>
+      <description>ClaudeCodeでサービスは作れるが、自作・運用・メンテのコストが見合わない場合が多い。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;深津 貴之 / THE GUILD, note&lt;/strong&gt; &lt;a href="https://x.com/fladdict"&gt;@fladdict&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;そう、多くのサービスはClaudeCodeで「作れる」が、自作して運用してメンテするコストは、だいたい見合わない。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/fladdict/status/2032319293132849310"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fladdict/status/2032319293132849310</guid>
+      <pubDate>Fri, 13 Mar 2026 04:54:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
