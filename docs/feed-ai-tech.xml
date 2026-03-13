@@ -7,46 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 11:18:29 +0000</lastBuildDate>
-    <item>
-      <title>Micky (@Rasmic)</title>
-      <link>https://x.com/Rasmic/status/2032099718705119714</link>
-      <description>gpt-5.4とopus 4.6に計画を生成させ、gptの計画をopusに与えたところ、opusがより良い計画だと認めた。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Micky&lt;/strong&gt; &lt;a href="https://x.com/Rasmic"&gt;@Rasmic&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I got both gpt-5.4 and opus 4.6 to generate a plan... I gave gpt's plan to opus and it admitted that it was a better plan lol&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDN30CbXoAA6dZo?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/Rasmic/status/2032099718705119714"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Rasmic/status/2032099718705119714</guid>
-      <pubDate>Thu, 12 Mar 2026 14:21:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>テクノエッジ TechnoEdge (@TechnoEdgeJP)</title>
-      <link>https://x.com/TechnoEdgeJP/status/2032248283784233446</link>
-      <description>8GBメモリのMacBook Neo上で構築されたAIエージェントが、音声対話とMVビジュアライザーを実装し進化。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;テクノエッジ TechnoEdge&lt;/strong&gt; &lt;a href="https://x.com/TechnoEdgeJP"&gt;@TechnoEdgeJP&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;「わずか8GBのメモリ」MacBook Neo上に構築した完全オリジナルAIエージェントをさらに進化させる。音声対話、MVビジュアライザーを実装した（CloseBox） | テクノエッジ TechnoEdge&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/TechnoEdgeJP/status/2032248283784233446"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/TechnoEdgeJP/status/2032248283784233446</guid>
-      <pubDate>Fri, 13 Mar 2026 00:12:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>852話(hakoniwa) (@8co28)</title>
-      <link>https://x.com/8co28/status/2032291452039123080</link>
-      <description>AIで生成された猫の3Dアニメーション。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;852話(hakoniwa)&lt;/strong&gt; &lt;a href="https://x.com/8co28"&gt;@8co28&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AI Cat 3D animation&lt;br&gt;#aianime&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032291134274437120/img/Cf5kbUxF_Z7YRJHk.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/8co28/status/2032291452039123080"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/8co28/status/2032291452039123080</guid>
-      <pubDate>Fri, 13 Mar 2026 03:03:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Mar 2026 11:41:20 +0000</lastBuildDate>
     <item>
       <title>Simon Willison (@simonw)</title>
       <link>https://x.com/simonw/status/2032305546129485851</link>
-      <description>Liquidテンプレート言語のパフォーマンスが、autoresearch PRによりベンチマークで53%向上した。</description>
+      <description>Liquidテンプレート言語の性能が、autoresearch PRによりベンチマークスコアで53%向上した。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Simon Willison&lt;/strong&gt; &lt;a href="https://x.com/simonw"&gt;@simonw&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Published some notes on @tobi's autoresearch PR that improved the performance benchmark scores of the Liquid template language (which Tobi created for Shopify 20 years ago) by a hefty 53% https://simonwillison.net/2026/Mar/13/liquid/…&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQzFqlbQAEjSDN?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -56,20 +21,20 @@
       <pubDate>Fri, 13 Mar 2026 03:59:35 +0000</pubDate>
     </item>
     <item>
-      <title>深津 貴之 / THE GUILD, note (@fladdict)</title>
-      <link>https://x.com/fladdict/status/2032319293132849310</link>
-      <description>多くのサービスはClaudeCodeで作成可能だが、自作・運用・メンテのコストは割に合わない。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;深津 貴之 / THE GUILD, note&lt;/strong&gt; &lt;a href="https://x.com/fladdict"&gt;@fladdict&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;そう、多くのサービスはClaudeCodeで「作れる」が、自作して運用してメンテするコストは、だいたい見合わない。&lt;/p&gt;
+      <title>Zhuokai Zhao (@zhuokaiz)</title>
+      <link>https://x.com/zhuokaiz/status/2032201769053212682</link>
+      <description>AMI LabsとWorld Labsが合計20億ドル以上を調達し、世界モデルに注力。世界モデルの5つのカテゴリを解説し、JEPAを挙げた。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Zhuokai Zhao&lt;/strong&gt; &lt;a href="https://x.com/zhuokaiz"&gt;@zhuokaiz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AMI Labs just raised $1.03B. World Labs raised $1B a few weeks earlier. Both are betting on world models.&lt;br&gt;&lt;br&gt;But almost nobody means the same thing by that term.&lt;br&gt;&lt;br&gt;Here are, in my view, five categories of world models.&lt;br&gt;&lt;br&gt;---&lt;br&gt;&lt;br&gt;1. Joint Embedding Predictive Architecture (JEPA)&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/fladdict/status/2032319293132849310"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fladdict/status/2032319293132849310</guid>
-      <pubDate>Fri, 13 Mar 2026 04:54:12 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/zhuokaiz/status/2032201769053212682"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/zhuokaiz/status/2032201769053212682</guid>
+      <pubDate>Thu, 12 Mar 2026 21:07:12 +0000</pubDate>
     </item>
     <item>
       <title>モジョン (@mojon1)</title>
       <link>https://x.com/mojon1/status/2032315696080961587</link>
-      <description>Photoshop betaの3D回転機能でイラストも回転可能になったが、破綻する場合もある。</description>
+      <description>Photoshop betaでイラストの3D回転が可能になったが、破綻することもある。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;モジョン&lt;/strong&gt; &lt;a href="https://x.com/mojon1"&gt;@mojon1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Photoshop betaの3D回転。イラストも回転できた…&lt;br&gt;（破綻することもある）&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032314797463912451/img/zs2D54HetXWsZcEU.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -80,31 +45,32 @@
       <pubDate>Fri, 13 Mar 2026 04:39:55 +0000</pubDate>
     </item>
     <item>
-      <title>Zhuokai Zhao (@zhuokaiz)</title>
-      <link>https://x.com/zhuokaiz/status/2032201769053212682</link>
-      <description>AMI LabsとWorld Labsがそれぞれ10億ドル超を調達し、ワールドモデルに注力。5つのカテゴリを提示。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Zhuokai Zhao&lt;/strong&gt; &lt;a href="https://x.com/zhuokaiz"&gt;@zhuokaiz&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AMI Labs just raised $1.03B. World Labs raised $1B a few weeks earlier. Both are betting on world models.&lt;br&gt;&lt;br&gt;But almost nobody means the same thing by that term.&lt;br&gt;&lt;br&gt;Here are, in my view, five categories of world models.&lt;br&gt;&lt;br&gt;---&lt;br&gt;&lt;br&gt;1. Joint Embedding Predictive Architecture (JEPA)&lt;/p&gt;
+      <title>深津 貴之 / THE GUILD, note (@fladdict)</title>
+      <link>https://x.com/fladdict/status/2032375956602830974</link>
+      <description>GPT5.4にClaude Codeの作成を指示するテストを実施する。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;深津 貴之 / THE GUILD, note&lt;/strong&gt; &lt;a href="https://x.com/fladdict"&gt;@fladdict&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GPT5.4に「Claude Code作って」とオーダーしてみるテスト&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/zhuokaiz/status/2032201769053212682"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/zhuokaiz/status/2032201769053212682</guid>
-      <pubDate>Thu, 12 Mar 2026 21:07:12 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/fladdict/status/2032375956602830974"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fladdict/status/2032375956602830974</guid>
+      <pubDate>Fri, 13 Mar 2026 08:39:22 +0000</pubDate>
     </item>
     <item>
-      <title>大曽根宏幸 / Hiroyuki Osone (@OsoneHiroyuki)</title>
-      <link>https://x.com/OsoneHiroyuki/status/2032360936825372862</link>
-      <description>政府の戦略17分野の主要技術にフィジカルAIが挙げられている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;大曽根宏幸 / Hiroyuki Osone&lt;/strong&gt; &lt;a href="https://x.com/OsoneHiroyuki"&gt;@OsoneHiroyuki&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;戦略17分野における「主要な製品・技術等」&lt;br&gt;1がフィジカルAI&lt;br&gt;https://cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai3/shiryou1.pdf…&lt;/p&gt;
+      <title>ぱんなこった (@minrch_sec)</title>
+      <link>https://x.com/minrch_sec/status/2032384941535944711</link>
+      <description>FT-LLM2026コンペで日本語ロボット基盤モデル（VLA）開発に取り組み、知見を共有した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ぱんなこった&lt;/strong&gt; &lt;a href="https://x.com/minrch_sec"&gt;@minrch_sec&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;FT-LLM2026コンペで日本語ロボット基盤モデル（VLA）の開発に取り組みました！入賞なりませんでしたが、数少ない日本語VLA開発の知見を共有できたと思います。運営の皆さま、発表見に来ていただいた皆さまありがとうございました&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDR7VQabIAAgcfu?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/OsoneHiroyuki/status/2032360936825372862"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/OsoneHiroyuki/status/2032360936825372862</guid>
-      <pubDate>Fri, 13 Mar 2026 07:39:41 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/minrch_sec/status/2032384941535944711"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/minrch_sec/status/2032384941535944711</guid>
+      <pubDate>Fri, 13 Mar 2026 09:15:04 +0000</pubDate>
     </item>
     <item>
       <title>布留川英一 / Hidekazu Furukawa (@npaka123)</title>
       <link>https://x.com/npaka123/status/2032392758674288716</link>
-      <description>VRChatアバターをAIチャットで自動改変できる無料のUnityエディタ拡張「Unity AI Agent」がリリースされた。</description>
+      <description>VRChatアバターをAIチャットで自動改変できる無料のUnityエディタ拡張「Unity AI Agent」がリリース。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;布留川英一 / Hidekazu Furukawa&lt;/strong&gt; &lt;a href="https://x.com/npaka123"&gt;@npaka123&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;VRChatアバターカスタマイズが可能な無料のAIエージェント「Unity AI Agent」リリース！ Unity Editor上でAIとチャットするだけでアバター改変の操作を自動で実行するUnityエディタ拡張&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
@@ -115,7 +81,7 @@
     <item>
       <title>Ryan Yuan (@RainbowYuhui)</title>
       <link>https://x.com/RainbowYuhui/status/2032330740382515434</link>
-      <description>Canvaが画像からレイヤー分解するAIモデルMagicLayersをリリース。Qwen-Image-Layerより20～200倍高速。</description>
+      <description>Canvaが世界最先端の画像レイヤー分解AIモデル「MagicLayers」をグローバル展開。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Ryan Yuan&lt;/strong&gt; &lt;a href="https://x.com/RainbowYuhui"&gt;@RainbowYuhui&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We’re excited to launch #MagicLayers globally at Canva &lt;br&gt;&lt;br&gt;This is currently the most advanced image-to-layer decomposition model in the world-purpose-built for design-native content.&lt;br&gt;&lt;br&gt; 20–200× faster than Qwen-Image-Layer&lt;br&gt; Super strong on designs&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
@@ -126,7 +92,7 @@
     <item>
       <title>DailyPapers (@HuggingPapers)</title>
       <link>https://x.com/HuggingPapers/status/2032369818221891817</link>
-      <description>Tencentと清華大が、ストリーミング空間知能向けにテスト時学習Spatial-TTTを開発した。</description>
+      <description>Tencentと清華大学が、ストリーミング空間知能向けにテスト時学習Spatial-TTTを発表。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;DailyPapers&lt;/strong&gt; &lt;a href="https://x.com/HuggingPapers"&gt;@HuggingPapers&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Spatial-TTT&lt;br&gt;&lt;br&gt;Tencent Hunyuan and Tsinghua researchers introduce test-time training for streaming spatial intelligence, using adaptive fast weights to accumulate 3D evidence from unbounded video with near-linear memory scaling.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/2032369746373394432/pu/img/sNMbIaOVPxnxwr8Y.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -138,7 +104,7 @@
     <item>
       <title>DailyPapers (@HuggingPapers)</title>
       <link>https://x.com/HuggingPapers/status/2032316294301659170</link>
-      <description>FIRMは、RLベースの画像編集・生成向けに堅牢な報酬モデルと8B批評家、FIRM-Benchベンチマークを導入した。</description>
+      <description>FIRMは、強化学習ベースの画像編集・生成向けに堅牢な報酬モデルとベンチマークを導入した。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;DailyPapers&lt;/strong&gt; &lt;a href="https://x.com/HuggingPapers"&gt;@HuggingPapers&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Trust Your Critic&lt;br&gt;&lt;br&gt;FIRM introduces robust reward models for RL-based image editing and generation with 370K editing and 293K generation samples, specialized 8B critics, and the FIRM-Bench benchmark.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQ85fLXcAACTMf?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -150,7 +116,7 @@
     <item>
       <title>HomeMadeGarbage (@H0meMadeGarbage)</title>
       <link>https://x.com/H0meMadeGarbage/status/2032352236563734714</link>
-      <description>物理シミュレーションエンジンMuJoCoは、正確なモデリングで実機と遜色ない挙動を実現する。</description>
+      <description>ロボットシミュレーションのMuJoCoは、正確なモデリングができれば実機と遜色ない性能を発揮する。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;HomeMadeGarbage&lt;/strong&gt; &lt;a href="https://x.com/H0meMadeGarbage"&gt;@H0meMadeGarbage&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;MuJoCo&lt;br&gt;モデリングが正確にできれば実機と全く変わらない&lt;br&gt;&lt;br&gt;モデリングが正確にできれば&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032352002706194436/img/CYQthZRvtkOf0eav.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -158,6 +124,17 @@
 &lt;p&gt;&lt;a href="https://x.com/H0meMadeGarbage/status/2032352236563734714"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/H0meMadeGarbage/status/2032352236563734714</guid>
       <pubDate>Fri, 13 Mar 2026 07:05:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>深津 貴之 / THE GUILD, note (@fladdict)</title>
+      <link>https://x.com/fladdict/status/2032418986567303612</link>
+      <description>AIが日常生活に不可欠になりつつあり、マップとGeminiの融合が進む。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;深津 貴之 / THE GUILD, note&lt;/strong&gt; &lt;a href="https://x.com/fladdict"&gt;@fladdict&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;そろそろAIに触らない日常生活というのが、成立しなくなってきてる。マップとGeminiが融合。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/fladdict/status/2032418986567303612"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fladdict/status/2032418986567303612</guid>
+      <pubDate>Fri, 13 Mar 2026 11:30:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

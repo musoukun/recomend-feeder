@@ -7,35 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 11:18:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 11:41:20 +0000</lastBuildDate>
     <item>
       <title>深津 貴之 / THE GUILD, note (@fladdict)</title>
-      <link>https://x.com/fladdict/status/2032278337348124838</link>
-      <description>AIがXで活動を始めると規制され、別プラットフォームに避難すると解除される状況に言及。</description>
+      <link>https://x.com/fladdict/status/2032319293132849310</link>
+      <description>多くのサービスはClaudeCodeで開発可能だが、自作・運用・保守のコストが見合わない場合が多い。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;深津 貴之 / THE GUILD, note&lt;/strong&gt; &lt;a href="https://x.com/fladdict"&gt;@fladdict&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AIがX始めた瞬間に規制祭で、discoに避難した瞬間に解除されるんかい&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQEClRbQAEmVDW?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQFCEFbQAAqH7a?format=png&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;そう、多くのサービスはClaudeCodeで「作れる」が、自作して運用してメンテするコストは、だいたい見合わない。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/fladdict/status/2032278337348124838"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fladdict/status/2032278337348124838</guid>
-      <pubDate>Fri, 13 Mar 2026 02:11:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>sumiren (@sumiren_t)</title>
-      <link>https://x.com/sumiren_t/status/2032147575550460338</link>
-      <description>コスト削減目的のSaaS内製化は、営業生産性が低い組織の意思決定である可能性を指摘。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;sumiren&lt;/strong&gt; &lt;a href="https://x.com/sumiren_t"&gt;@sumiren_t&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;これは企業においても同じな気がしていて、コスト削減のためにSaaSの内製化とかはじめたとしたら、営業生産性が低い組織ということなのではと思う。その人件費でトップライン伸ばせないからその意思決定になってるってことなので。年数千万払ってるとかならともかく&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/sumiren_t/status/2032147575550460338"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/sumiren_t/status/2032147575550460338</guid>
-      <pubDate>Thu, 12 Mar 2026 17:31:52 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/fladdict/status/2032319293132849310"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fladdict/status/2032319293132849310</guid>
+      <pubDate>Fri, 13 Mar 2026 04:54:12 +0000</pubDate>
     </item>
     <item>
       <title>Noah Smith  (@Noahpinion)</title>
       <link>https://x.com/Noahpinion/status/2032127775726022930</link>
-      <description>AI安全性の議論において、AIを軽視する派と超知能に限定する派の2つのグループが有害である。</description>
+      <description>AI安全保障の議論において、AIを軽視する者と超知能に偏重する者が悪影響を与えている。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Noah Smith &lt;/strong&gt; &lt;a href="https://x.com/Noahpinion"&gt;@Noahpinion&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Two groups of people have been extraordinarily bad for the AI safety discourse:&lt;br&gt;&lt;br&gt;1. Lefties like Emily Bender who dismiss AI as a useless toy&lt;br&gt;&lt;br&gt;2. Doomers like Yudkowsky who force the discussion to only focus on superintelligence&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDM52tlW4AAphKF?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
