@@ -195,7 +195,7 @@ def post_to_discord_webhook(report_md: str, webhook_url: str) -> bool:
     chunks = _split_report(report_md, max_len=1900)
 
     for i, chunk in enumerate(chunks):
-        payload = json.dumps({"content": chunk})
+        payload = json.dumps({"content": chunk, "flags": 4096})
         req = urllib.request.Request(
             webhook_url,
             data=payload.encode("utf-8"),
