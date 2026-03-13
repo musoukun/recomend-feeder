@@ -7,274 +7,289 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 06:31:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 07:02:49 +0000</lastBuildDate>
     <item>
-      <title>伊藤貴將（イトパン）｜AIクリエイティブ×開発 (@takamasa045)</title>
-      <link>https://x.com/takamasa045/status/2032236762152730698</link>
-      <description>Codexの次期アップデートは、カスタムエージェントの役割設定やタスク委譲を自動化し、手動作業を不要にする。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;伊藤貴將（イトパン）｜AIクリエイティブ×開発&lt;/strong&gt; &lt;a href="https://x.com/takamasa045"&gt;@takamasa045&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Codexの次アップデートがマジで革命的すぎる…&lt;br&gt;&lt;br&gt;今までは人間が全部手動でやってた&lt;br&gt;・カスタムエージェント役作り &lt;br&gt;・configファイルでチーム構築 &lt;br&gt;・細かいタスク振り分け管理&lt;br&gt;&lt;br&gt;それが一瞬で終わる。&lt;br&gt;&lt;br&gt;「Hey Codex、このプランの低複雑度タスクは全部GPT 5.3 Sparkサブエージェントに委譲して」&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031988175007297536/img/WNNpzrC_4whGnI86.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/takamasa045/status/2032236762152730698"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/takamasa045/status/2032236762152730698</guid>
-      <pubDate>Thu, 12 Mar 2026 23:26:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>orangeitems (@orangeitems_)</title>
-      <link>https://x.com/orangeitems_/status/2032078083218686078</link>
-      <description>OpenClawは外部AIへの依存が強く、スタンドアローンでの動作が理想とされている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;orangeitems&lt;/strong&gt; &lt;a href="https://x.com/orangeitems_"&gt;@orangeitems_&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;昨日OpenClaw触ってみて思ったけど、これもそうだけど、どうしても外部のAIを使わないとまともに動かない。理想はスタンドアローンなんだけれど。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNBxlRbcAA3MCi?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNBxuXa4AAqw2D?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNBx2faYAAY38c?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNBx-XbQAUWN9Z?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/orangeitems_/status/2032078083218686078"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/orangeitems_/status/2032078083218686078</guid>
-      <pubDate>Thu, 12 Mar 2026 12:55:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Miura Hideki (@miura1729)</title>
-      <link>https://x.com/miura1729/status/2031937160954462416</link>
-      <description>Pythonの新しい型システムは互換性を保ちつつTypeScriptに匹敵する進化を遂げている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Miura Hideki&lt;/strong&gt; &lt;a href="https://x.com/miura1729"&gt;@miura1729&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Pythonの新しい型システムすごいな。Pythonは互換性を保ったままでTypescriptに喧嘩を売るつもりなのだろうか&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/miura1729/status/2031937160954462416"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/miura1729/status/2031937160954462416</guid>
-      <pubDate>Thu, 12 Mar 2026 03:35:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>akihiro（あきひろ）| 生成AI活用 (@akihiro_genai)</title>
-      <link>https://x.com/akihiro_genai/status/2032102089024029125</link>
-      <description>Codexは明示せずともマルチエージェントでタスクを効率化し、特に調査系でその傾向が顕著。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;akihiro（あきひろ）| 生成AI活用&lt;/strong&gt; &lt;a href="https://x.com/akihiro_genai"&gt;@akihiro_genai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;最近のCodex見てるとこの流れになるんだろうなーと、しみじみ思う。&lt;br&gt;特に明示しなくても勝手にマルチエージェントで効率化しようとしてきますからね。調査系タスクなんて特に。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/akihiro_genai/status/2032102089024029125"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/akihiro_genai/status/2032102089024029125</guid>
-      <pubDate>Thu, 12 Mar 2026 14:31:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>最多情報局 (@tyomateee)</title>
-      <link>https://x.com/tyomateee/status/2032042055636304160</link>
-      <description>マザーボードを模したデザインの浴衣が紹介され、珍しいと話題になっている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;最多情報局&lt;/strong&gt; &lt;a href="https://x.com/tyomateee"&gt;@tyomateee&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;マザーボードスタイルの浴衣、これは初めて見た...&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNDeyTbQAAGkwZ?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNDeybbQAgsV49?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>夏樹蒼依 (@hokkori_nekko)</title>
+      <link>https://x.com/hokkori_nekko/status/2032123476740620648</link>
+      <description>猫とウサギのボス関係の認識が逆のため、互いに自分がボスだと思い込み、平和な権力争いをしている。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;夏樹蒼依&lt;/strong&gt; &lt;a href="https://x.com/hokkori_nekko"&gt;@hokkori_nekko&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;猫の世界では「舐める方がボス」&lt;br&gt;ウサギの世界では「舐められる方がボス」&lt;br&gt;つまりこの2匹、どっちも&lt;br&gt;「俺がボスだが？」と思ってる。&lt;br&gt;世界一平和な権力闘争がこちらです。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/2030421304734785536/pu/img/HI6HO9fq05pXXjmj.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/tyomateee/status/2032042055636304160"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/tyomateee/status/2032042055636304160</guid>
-      <pubDate>Thu, 12 Mar 2026 10:32:34 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/hokkori_nekko/status/2032123476740620648"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/hokkori_nekko/status/2032123476740620648</guid>
+      <pubDate>Thu, 12 Mar 2026 15:56:06 +0000</pubDate>
     </item>
     <item>
-      <title>Rita (@rita_fit03)</title>
-      <link>https://x.com/rita_fit03/status/2032000388732477848</link>
-      <description>20代は韓国系・ジャニーズ好きに、アラサーはバリキャリ・夜職系にモテる体型を比較。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Rita&lt;/strong&gt; &lt;a href="https://x.com/rita_fit03"&gt;@rita_fit03&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;←20代.韓国系、ジャニーズ好きにモテる体&lt;br&gt;　アラサー.バリキャリ、夜職系が好きな体→&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDMdkWFa4AAl_gJ?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDMdkVWbYAAxKT-?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;恋愛&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/rita_fit03/status/2032000388732477848"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/rita_fit03/status/2032000388732477848</guid>
-      <pubDate>Thu, 12 Mar 2026 07:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ふくぶん(Fukubun) (@FFBuncho)</title>
-      <link>https://x.com/FFBuncho/status/2032115172404596802</link>
-      <description>Grok Imagineの新機能は、画像とプロンプトで動画を生成できる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ふくぶん(Fukubun)&lt;/strong&gt; &lt;a href="https://x.com/FFBuncho"&gt;@FFBuncho&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;これは画期的かも！！&lt;br&gt;Grok Imagineの新機能！！&lt;br&gt;&lt;br&gt;「@」で画像を呼び出して、プロンプトで指示したら・・・&lt;br&gt;試しに5秒後に頭に載せてみました。&lt;br&gt;工夫次第ではかなり遊べそう！！&lt;br&gt;ぜひやってみてください！！&lt;br&gt;&lt;br&gt;←画像&amp;プロンプト&lt;br&gt;　完成した動画→&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOFRuAbQAMqVwK?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032114942338588672/img/RGxODC-W8DBMz-XJ.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/FFBuncho/status/2032115172404596802"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/FFBuncho/status/2032115172404596802</guid>
-      <pubDate>Thu, 12 Mar 2026 15:23:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>もえるあじあ ･∀･ (@moeruasia01)</title>
-      <link>https://x.com/moeruasia01/status/2032301156010201267</link>
-      <description>熊本で焼き芋の移動販売トラックから出火し、運転手が消防署に駆け込み消火活動を行った。トラックは全焼したが男性に怪我はなかった。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;もえるあじあ ･∀･&lt;/strong&gt; &lt;a href="https://x.com/moeruasia01"&gt;@moeruasia01&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;熊本、焼き芋の移動販売トラックから出火、そのまま消防署へ駆け込み消火活動&lt;br&gt;https://news.livedoor.com/article/detail/30756539/…&lt;br&gt;&lt;br&gt;トラックは全焼するも男性にケガなし、よかった&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032285021139267584/img/inOfDIkYYi445ZN5.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>AUTOMATON（オートマトン） (@AUTOMATONJapan)</title>
+      <link>https://x.com/AUTOMATONJapan/status/2032304967189741685</link>
+      <description>Steamでマルウェア入りアップデートが配信されたゲームについて、FBIが調査を開始し被害者に協力を呼びかけている。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;AUTOMATON（オートマトン）&lt;/strong&gt; &lt;a href="https://x.com/AUTOMATONJapan"&gt;@AUTOMATONJapan&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【ニュース】Steamで“マルウェア入りアプデ”されたゲーム、なんとFBIが調査に乗り出す。被害者に協力呼びかける&lt;br&gt;https://automaton-media.com/articles/newsjp/20260313-428886/…&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQykzma4AAh0E6?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;ニュース&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/moeruasia01/status/2032301156010201267"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/moeruasia01/status/2032301156010201267</guid>
-      <pubDate>Fri, 13 Mar 2026 03:42:08 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/AUTOMATONJapan/status/2032304967189741685"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/AUTOMATONJapan/status/2032304967189741685</guid>
+      <pubDate>Fri, 13 Mar 2026 03:57:17 +0000</pubDate>
     </item>
     <item>
-      <title>ウリーフェル (@urferu2)</title>
-      <link>https://x.com/urferu2/status/2032272939106910481</link>
-      <description>就労継続支援B型事業所が貧困ビジネスや公金搾取の温床となっており、日本の精神障害者支援制度に問題があると指摘されている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ウリーフェル&lt;/strong&gt; &lt;a href="https://x.com/urferu2"&gt;@urferu2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;就労Bはマジで貧困ビジネスの一翼やで。&lt;br&gt;&lt;br&gt;精神障害+生保+グループホーム+就労B&lt;br&gt;&lt;br&gt;とか公金搾取スキームの典型例やね。&lt;br&gt;&lt;br&gt;西成なんかコンビニより就Bやグルホみたいな福祉事業所のが多いからな。&lt;br&gt;&lt;br&gt;日本の精神障害者支援制度は公金チューの温床やからここにもメス入れなあかんわ。&lt;/p&gt;
+      <title>エボサイ（EvoPsy） (@selfcomestomine)</title>
+      <link>https://x.com/selfcomestomine/status/2032343352004522083</link>
+      <description>日本人の平均的な陽キャ力は、顔の幼児化を伴う進化的な自己家畜化により他国と異なり、感情を表に出す抑制が強い。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;エボサイ（EvoPsy）&lt;/strong&gt; &lt;a href="https://x.com/selfcomestomine"&gt;@selfcomestomine&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ニッポン人の平均陽キャ力、進化的な自己家畜化（顔の幼児化がその証左）によって、この辺の国とは明らかに差があるよな。陽キャであるとは「抑制されていない」こと。感情を表に出し、行動として表出させる。でも陽キャ力世界最低のニッポンは、心の中がどれだけウェイウェイしてても街中で踊り出した&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDLs0prWQAA5Q_e?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/urferu2/status/2032272939106910481"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/urferu2/status/2032272939106910481</guid>
-      <pubDate>Fri, 13 Mar 2026 01:50:01 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/selfcomestomine/status/2032343352004522083"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/selfcomestomine/status/2032343352004522083</guid>
+      <pubDate>Fri, 13 Mar 2026 06:29:48 +0000</pubDate>
     </item>
     <item>
-      <title>岡野タケシ弁護士【アトム法律グループ】 (@takeshibengo)</title>
-      <link>https://x.com/takeshibengo/status/2032339654075433336</link>
-      <description>Google Antigravityの勉強会で、AI活用により30分でシステムのモックが作成できる実態が示された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;岡野タケシ弁護士【アトム法律グループ】&lt;/strong&gt; &lt;a href="https://x.com/takeshibengo"&gt;@takeshibengo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google Antigravityの勉強会。&lt;br&gt;&lt;br&gt;今日はKJにオフィスに来てもらって&lt;br&gt;AI活用の実態を見せてもらった。&lt;br&gt;&lt;br&gt;本社マネージャーらが10名ほど参加。&lt;br&gt;&lt;br&gt;▼&lt;br&gt;「こういうの欲しいんだよね」と言ったら&lt;br&gt;30分でシステムのモックが出てくる世界線。&lt;br&gt;&lt;br&gt;Antigravityの画面は、&lt;br&gt;左にフォルダ構造、&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032339450395848704/img/QS7jLvAxSyqOO3dt.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>さと｜社会不適合から個人開発で生きてる (@sato_neet)</title>
+      <link>https://x.com/sato_neet/status/2032252088517083455</link>
+      <description>高コストなOpus4.6を避け、OCをインターフェースにCCでスキル実行し、失敗時はSSHで改善するAIワークフローを構築。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;さと｜社会不適合から個人開発で生きてる&lt;/strong&gt; &lt;a href="https://x.com/sato_neet"&gt;@sato_neet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;私の場合、OCでOpus4.6使うと凄まじく高いから、OCはCCと人間繋ぐためのインターフェースにして難しいことはさせない&lt;br&gt;cron のワークフローはCC起動して、スキル実行させるだけにして、失敗した時にSSHでCC繋いでスキルを改善するみたいな使い方に落ち着いた〜&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032230989871923201/img/I5v0zNDYt19F5y7z.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/takeshibengo/status/2032339654075433336"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/takeshibengo/status/2032339654075433336</guid>
-      <pubDate>Fri, 13 Mar 2026 06:15:07 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/sato_neet/status/2032252088517083455"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/sato_neet/status/2032252088517083455</guid>
+      <pubDate>Fri, 13 Mar 2026 00:27:09 +0000</pubDate>
     </item>
     <item>
-      <title>ゆーりす.yaml (@Yuulis04)</title>
-      <link>https://x.com/Yuulis04/status/2032245105084768349</link>
-      <description>GitHub Copilot Student PlanではGemini 3/3.1 ProとGPT-5.1/5.2/5.3 codexが利用可能だが、Claude Sonnet/Opus系とGPT-5.4系は使用できない。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ゆーりす.yaml&lt;/strong&gt; &lt;a href="https://x.com/Yuulis04"&gt;@Yuulis04&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【悲報】GitHub Copilot Student Planでアクセスできる主要モデルは、&lt;br&gt;・Gemini 3 / 3.1 Pro&lt;br&gt;・GPT-5.1 / 5.2 / 5.3 codex&lt;br&gt;のみ。&lt;br&gt;Claude Sonnet / Opus系とGPT-5.4系は使用不可。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDP6s1ubYAAd66h?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOVakLbQAQJ87P?format=jpg&amp;name=120x120" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOVakMbYAA9m63?format=jpg&amp;name=120x120" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>nogu (@_nogu66)</title>
+      <link>https://x.com/_nogu66/status/2032127226750329221</link>
+      <description>AIチャットツールClaudeで、チャットから直接表や図を作成する機能が追加された。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;nogu&lt;/strong&gt; &lt;a href="https://x.com/_nogu66"&gt;@_nogu66&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claudeのチャットから直接 表や図をを作成できるようになった！&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032121339667234817/img/GgFq5DvXDFjZPP4f.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/Yuulis04/status/2032245105084768349"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Yuulis04/status/2032245105084768349</guid>
-      <pubDate>Thu, 12 Mar 2026 23:59:24 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/_nogu66/status/2032127226750329221"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_nogu66/status/2032127226750329221</guid>
+      <pubDate>Thu, 12 Mar 2026 16:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>日経ビジネス (@nikkeibusiness)</title>
-      <link>https://x.com/nikkeibusiness/status/2032075412759855151</link>
-      <description>営業担当者が23年間で16%減少した。労働力人口の縮小や業務のストレスが背景にある。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;日経ビジネス&lt;/strong&gt; &lt;a href="https://x.com/nikkeibusiness"&gt;@nikkeibusiness&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;減り続ける営業担当者、23年で16%減&lt;br&gt;&lt;br&gt;https://business.nikkei.com/atcl/NBD/19/special/02413/?n_cid=nbpnb_twed_bn…&lt;br&gt;&lt;br&gt;企業にとって顔の役割を果たす営業。&lt;br&gt;しかし外回りや架電、取引先との付き合いなど、体力が求められストレスが多い印象もあるためか、労働力人口の縮小に連動して担当者は減り続けている。&lt;br&gt;さらに今後は…（2026年2月）&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDMQdkKaMAAyP8x?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>炎鎮 - ₿onochin - (@super_bonochin)</title>
+      <link>https://x.com/super_bonochin/status/2032329940801380447</link>
+      <description>ChatGPTの全機能をCodexからAgenticに利用できれば、多くの問題が解決すると提言。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;炎鎮 - ₿onochin -&lt;/strong&gt; &lt;a href="https://x.com/super_bonochin"&gt;@super_bonochin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;だから結局ワイがずっと言ってることじゃないか！&lt;br&gt;ChatGPT が Web アプリケーションとして持っている機能すべてを Codex から Agentic に使えたら全部解決するんだよ。&lt;br&gt;言ってることが逆に見えるけど、結局同じことを言ってるんだよ。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRIna9aAAA7bOs?format=png&amp;name=900x900" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRIsRhbQAovdVI?format=png&amp;name=900x900" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRIvN-aUAAtfae?format=jpg&amp;name=900x900" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRIxoCaEAABHKc?format=png&amp;name=900x900" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/super_bonochin/status/2032329940801380447"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/super_bonochin/status/2032329940801380447</guid>
+      <pubDate>Fri, 13 Mar 2026 05:36:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>只の人。 (@aibi0123)</title>
+      <link>https://x.com/aibi0123/status/2032169707735040258</link>
+      <description>サム・アルトマンは、o1リリースから16ヶ月でAI推論コストが1000倍急減したと発表。モデルとエンジニアリングの相乗効果が要因。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;只の人。&lt;/strong&gt; &lt;a href="https://x.com/aibi0123"&gt;@aibi0123&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;サム・アルトマン「約1000倍のコスト削減」&lt;br&gt;&lt;br&gt;アルトマンはo1のリリースからわずか16か月で難しい推論問題を解決するコストが1,000倍急減した事を明らかにした（o1を5.4モデルと比較して）&lt;br&gt;&lt;br&gt;より良いモデル＋より良い人間のエンジニアリングの相乗効果がAI推論コストの指数関数的な減少を推進している&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031865630920478721/img/TtNPRCL2NPCCNk8B.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/aibi0123/status/2032169707735040258"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/aibi0123/status/2032169707735040258</guid>
+      <pubDate>Thu, 12 Mar 2026 18:59:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>まさお@AI駆動開発 (@AI_masaou)</title>
+      <link>https://x.com/AI_masaou/status/2032331781597536643</link>
+      <description>Claude Code利用者はpermissions.denyだけでなく、サンドボックス前提でセキュリティを考える重要性を解説した記事を読むべき。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;まさお@AI駆動開発&lt;/strong&gt; &lt;a href="https://x.com/AI_masaou"&gt;@AI_masaou&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;これ、Claude Code を触る人は一度読んでおくといい記事&lt;br&gt;permissions.deny だけで安心しないこと、sandbox 前提で考えることの大事さが分かりやすい&lt;br&gt;&lt;br&gt;あと、個人的に慧眼だと思って参考にさせてもらってる @taki_4416 さんの記事やから間違いない&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/AI_masaou/status/2032331781597536643"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/AI_masaou/status/2032331781597536643</guid>
+      <pubDate>Fri, 13 Mar 2026 05:43:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>モジョン (@mojon1)</title>
+      <link>https://x.com/mojon1/status/2032315696080961587</link>
+      <description>Photoshop betaの3D回転機能でイラストも回転可能になったが、破綻することもある。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;モジョン&lt;/strong&gt; &lt;a href="https://x.com/mojon1"&gt;@mojon1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Photoshop betaの3D回転。イラストも回転できた…&lt;br&gt;（破綻することもある）&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032314797463912451/img/zs2D54HetXWsZcEU.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032184968840167426/img/w8blbMjpA2XT6Gf0?format=jpg&amp;name=240x240" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/mojon1/status/2032315696080961587"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/mojon1/status/2032315696080961587</guid>
+      <pubDate>Fri, 13 Mar 2026 04:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>日本経済新聞 電子版（日経電子版） (@nikkei)</title>
+      <link>https://x.com/nikkei/status/2032326197632184638</link>
+      <description>24歳のAIエージェント開発者が「人間を雇うな」と提唱し、AIによる無人営業時代が到来すると宣告した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;日本経済新聞 電子版（日経電子版）&lt;/strong&gt; &lt;a href="https://x.com/nikkei"&gt;@nikkei&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;｢人間を雇うな｣　24歳AIエージェント革命児が宣告する無人営業時代&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/nikkeibusiness/status/2032075412759855151"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/nikkeibusiness/status/2032075412759855151</guid>
-      <pubDate>Thu, 12 Mar 2026 12:45:07 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/nikkei/status/2032326197632184638"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/nikkei/status/2032326197632184638</guid>
+      <pubDate>Fri, 13 Mar 2026 05:21:38 +0000</pubDate>
     </item>
     <item>
-      <title>Sakana AI (@SakanaAILabs)</title>
-      <link>https://x.com/SakanaAILabs/status/2032260904138792986</link>
-      <description>Sakana AIが防衛装備庁から、複数AI技術を組み合わせた観測・報告・情報統合・資源配分高速化の研究を受託した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Sakana AI&lt;/strong&gt; &lt;a href="https://x.com/SakanaAILabs"&gt;@SakanaAILabs&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sakana AIは、防衛装備庁 防衛イノベーション科学技術研究所より「複数AI技術の組み合わせによる観測・報告・情報統合・資源配分 高速化の研究」を受託しました。&lt;br&gt;&lt;br&gt;https://sakana.ai/atla-contract-2026/…&lt;br&gt;&lt;br&gt;本研究では、当社の強みである「小規模視覚言語モデル(SVLM)」や自律型AIエージェント技術を活用し、ドローン&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQKYyQaQAApOYi?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>Hideki Kakeya, Dr.Eng. (@hkakeya)</title>
+      <link>https://x.com/hkakeya/status/2032098604475957334</link>
+      <description>日本にはAI技術力がなく、官民投資も無駄に終わると指摘。東ロボの失敗とChatGPTの成功がその証拠。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Hideki Kakeya, Dr.Eng.&lt;/strong&gt; &lt;a href="https://x.com/hkakeya"&gt;@hkakeya&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;日本にAIの技術力はないので無駄に終わります。東ロボができなかったことをChatGPTがあっという間に実現したことが何よりの証拠です。そもそも官民投資で成功するはずがない。米国のビッグテックを見れば分かるはず。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/SakanaAILabs/status/2032260904138792986"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/SakanaAILabs/status/2032260904138792986</guid>
-      <pubDate>Fri, 13 Mar 2026 01:02:11 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/hkakeya/status/2032098604475957334"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/hkakeya/status/2032098604475957334</guid>
+      <pubDate>Thu, 12 Mar 2026 14:17:16 +0000</pubDate>
     </item>
     <item>
-      <title>Tetsuro Miyatake (@tmiyatake1)</title>
-      <link>https://x.com/tmiyatake1/status/2032246511417885143</link>
-      <description>自動運転技術を開発するNuroが先月から日本で検証を開始した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Tetsuro Miyatake&lt;/strong&gt; &lt;a href="https://x.com/tmiyatake1"&gt;@tmiyatake1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;自動運転技術を開発しているNuroが先月から日本で検証を始めている。&lt;br&gt;&lt;br&gt;https://techcrunch.com/2026/03/11/nuro-is-testing-its-autonomous-vehicle-tech-on-tokyos-streets/…&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032214246675922945/img/dvwReZfL3QtETsSX.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/tmiyatake1/status/2032246511417885143"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/tmiyatake1/status/2032246511417885143</guid>
-      <pubDate>Fri, 13 Mar 2026 00:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>迷状況bot (@R18sok)</title>
-      <link>https://x.com/R18sok/status/2032288643868704975</link>
-      <description>イーロン・マスクがZoom会議を通じて従業員に解雇を伝えた。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;迷状況bot&lt;/strong&gt; &lt;a href="https://x.com/R18sok"&gt;@R18sok&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Zoomで従業員に解雇伝えるイーロン。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/1761675313044389888/pu/img/C4G9Hno6dYxrMGUx.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>電ファミニコゲーマー (@denfaminicogame)</title>
+      <link>https://x.com/denfaminicogame/status/2032238723119878308</link>
+      <description>協力型ドワーフFPS『Deep Rock Galactic: Rogue Core』が5月20日に発売決定。人気作のローグライト版で、多様なビルド構築が可能。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;電ファミニコゲーマー&lt;/strong&gt; &lt;a href="https://x.com/denfaminicogame"&gt;@denfaminicogame&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最大4人で遊べる協力型ドワーフFPS『Deep Rock Galactic: Rogue Core』5月20日に発売決定。「圧倒的に好評」の人気作が“ローグライト”に&lt;br&gt;https://news.denfaminicogamer.jp/news/260313n&lt;br&gt;&lt;br&gt;異なる5つのクラスから選びクリーチャーが待ち受ける地下を目指す。進むにつれてランダムな装備や能力が集まり、多様なビルドを構築可能&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDP2VlYbQAEkksH?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDP2VlvbQAM0DPM?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDP2VlkbgAAQNYc?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDP2VmKaUAAiuqV?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;ニュース&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/R18sok/status/2032288643868704975"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/R18sok/status/2032288643868704975</guid>
-      <pubDate>Fri, 13 Mar 2026 02:52:25 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/denfaminicogame/status/2032238723119878308"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/denfaminicogame/status/2032238723119878308</guid>
+      <pubDate>Thu, 12 Mar 2026 23:34:03 +0000</pubDate>
     </item>
     <item>
-      <title>Kenji@個人ゲーム開発 (@kenjiDev9662)</title>
-      <link>https://x.com/kenjiDev9662/status/2032170858035257577</link>
-      <description>Geminiでドット絵を生成する実験を行った結果、細かい部分は難しいが、簡単なモーションであれば問題なく作成できる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Kenji@個人ゲーム開発&lt;/strong&gt; &lt;a href="https://x.com/kenjiDev9662"&gt;@kenjiDev9662&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;試し半分な気持ちで Geminiにドット絵を描くの実験してみました  &lt;br&gt;&lt;br&gt;やばいっすね、細かいな闘う部分はやはりむずいが でも思ったより遥か形になってる &lt;br&gt;簡単なMotionならばもう問題ないっすね&lt;br&gt;&lt;br&gt;#ゲーム開発 #ゲーム制作 &lt;br&gt;#gamedev #ドット絵 #AI #Gemini #unity&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032170344350375937/img/zoagayVz3E8U-VIF.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDO4LrqXoAA8eb5?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/kenjiDev9662/status/2032170858035257577"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/kenjiDev9662/status/2032170858035257577</guid>
-      <pubDate>Thu, 12 Mar 2026 19:04:23 +0000</pubDate>
+      <title>HPEO (@hpeo_jp)</title>
+      <link>https://x.com/hpeo_jp/status/2032331976062222544</link>
+      <description>iパス、基本情報、セキマネ試験のシステムリプレースによる休止が、4月下旬から年末頃に大幅延期された。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;HPEO&lt;/strong&gt; &lt;a href="https://x.com/hpeo_jp"&gt;@hpeo_jp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;iパス、基本情報、セキマネについて、システムリプレースのため4月下旬頃から1ヶ月程度試験休止になる予定でしたが、年末頃に大幅リスケになるそうです&lt;br&gt;&lt;br&gt;システム屋の皆様なら、中の人達が現在どういう状況か容易に想像できますよね？温かい目で見守りましょう&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRJdakbQAAf2I6?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/hpeo_jp/status/2032331976062222544"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/hpeo_jp/status/2032331976062222544</guid>
+      <pubDate>Fri, 13 Mar 2026 05:44:36 +0000</pubDate>
     </item>
     <item>
-      <title>san@個人開発初心者 (@s_s3s3s_s)</title>
-      <link>https://x.com/s_s3s3s_s/status/2032013378877866409</link>
-      <description>初心者向けに、AIツールはGPT Plusでcodexを使いこなし、次にClaude max 5xを契約するのが良いと推奨されている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;san@個人開発初心者&lt;/strong&gt; &lt;a href="https://x.com/s_s3s3s_s"&gt;@s_s3s3s_s&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Antigravity使うぐらいならGPT Plus契約して&lt;br&gt;&lt;br&gt;Plusでcodexをちゃんと使えた人だけが、次はclaude max 5×を契約して&lt;br&gt;&lt;br&gt;これが初心者の正解ルートね&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/s_s3s3s_s/status/2032013378877866409"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/s_s3s3s_s/status/2032013378877866409</guid>
-      <pubDate>Thu, 12 Mar 2026 08:38:37 +0000</pubDate>
+      <title>うみゆき@AI研究 (@umiyuki_ai)</title>
+      <link>https://x.com/umiyuki_ai/status/2032306209781354899</link>
+      <description>AI生成物の品質が低い「AIワークスロップ」を他人に押し付ける問題は、大組織の細分化された分業体制に起因する。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;うみゆき@AI研究&lt;/strong&gt; &lt;a href="https://x.com/umiyuki_ai"&gt;@umiyuki_ai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;「AIで出したゴミ成果物（AIワークスロップ）を他人に判断とか押し付けんな」という話。しかし押し付けんなと言うだけで全員変わってくれれば苦労しない。こういうのは企業の構造自体の問題かもしれない。何しろ大組織ではやたら細かく分業されてる。ある意味誰も自分で自分のケツを拭いてない。他人に&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/umiyuki_ai/status/2032306209781354899"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/umiyuki_ai/status/2032306209781354899</guid>
+      <pubDate>Fri, 13 Mar 2026 04:02:13 +0000</pubDate>
     </item>
     <item>
-      <title>まな｜AI×コンテンツビジネスの極意 (@ADHDHSP249834)</title>
-      <link>https://x.com/ADHDHSP249834/status/2032191327732183080</link>
-      <description>Google AntigravityがAI Proユーザーへの制限を厳格化し、追加課金で解除する仕様に変更された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;まな｜AI×コンテンツビジネスの極意&lt;/strong&gt; &lt;a href="https://x.com/ADHDHSP249834"&gt;@ADHDHSP249834&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;悲報。Google AntigravityがAI Proユーザーに対して制限を厳格化。&lt;br&gt;&lt;br&gt;課金してるのに作業が止まる。しかも追加課金で解除する仕様に変わりました。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/ADHDHSP249834/status/2032191327732183080"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/ADHDHSP249834/status/2032191327732183080</guid>
-      <pubDate>Thu, 12 Mar 2026 20:25:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>池田 泰延 (@clockmaker)</title>
-      <link>https://x.com/clockmaker/status/2032267691453780376</link>
-      <description>JavaScript/TypeScriptのビルドツールVite 8の正式版がリリースされ、高速化された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;池田 泰延&lt;/strong&gt; &lt;a href="https://x.com/clockmaker"&gt;@clockmaker&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Vite 8正式版、たまげるほど爆速&lt;br&gt;#JavaScript #TypeScript&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032267359961169922/img/HwnwpsGHBP5bMPs6.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/clockmaker/status/2032267691453780376"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/clockmaker/status/2032267691453780376</guid>
-      <pubDate>Fri, 13 Mar 2026 01:29:10 +0000</pubDate>
+      <title>大野修平公認会計士GPT門下生 (@Shuhei_Ohno)</title>
+      <link>https://x.com/Shuhei_Ohno/status/2032227568871751688</link>
+      <description>クライアントが「ChatGPTに聞いた」と言い始めたら、その仕事は2年後にはAIに代替される可能性がある。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;大野修平公認会計士GPT門下生&lt;/strong&gt; &lt;a href="https://x.com/Shuhei_Ohno"&gt;@Shuhei_Ohno&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;予兆はあったんです。&lt;br&gt;&lt;br&gt;目に見えて質問のときに「ChatGPTには聞いてみたんですけど、」という枕詞が付くようになった。2年前くらいから。&lt;br&gt;&lt;br&gt;今、皆さんのクライアントが「ChatGPTに聞いたんですが」と言っているなら、その仕事も2年後にはなくなりますよ。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/Shuhei_Ohno/status/2032227568871751688"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Shuhei_Ohno/status/2032227568871751688</guid>
+      <pubDate>Thu, 12 Mar 2026 22:49:44 +0000</pubDate>
     </item>
     <item>
       <title>TotalNewsWorld (@turningpointjpn)</title>
-      <link>https://x.com/turningpointjpn/status/2032323266895913201</link>
-      <description>ドバイのクリーク・ハーバー高層タワーにイランのドローンが直撃し炎上、住民が避難した。</description>
+      <link>https://x.com/turningpointjpn/status/2032345412699341265</link>
+      <description>中国経済の崩壊により女子大学生が売春を始め、2026年3月時点のGDP成長目標は過去最低の4.5-5%に設定された。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;TotalNewsWorld&lt;/strong&gt; &lt;a href="https://x.com/turningpointjpn"&gt;@turningpointjpn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;速報：ドバイが攻撃を受ける&lt;br&gt;&lt;br&gt;イランのドローンが、市内の象徴的ランドマーク「クリーク・ハーバー」の高層タワーに直撃&lt;br&gt;&lt;br&gt;高層階で炎が噴き上がり、住民は一斉避難。夜のスカイラインに火の手が上がる&lt;br&gt;&lt;br&gt;世界屈指の富と豪華さを誇る都市ドバイ――その中心に、ついに戦火が及んだ&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032252621818310656/img/sFDO7up59p8oVzT_.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;経済崩壊で女子大学生が売春を始めた&lt;br&gt;&lt;br&gt;2026年3月現在、中国のGDP成長目標は過去最低の4.5-5%に&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031664816579084288/img/19fJCA69J_HKnpe5.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;ニュース&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/turningpointjpn/status/2032323266895913201"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/turningpointjpn/status/2032323266895913201</guid>
-      <pubDate>Fri, 13 Mar 2026 05:10:00 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/turningpointjpn/status/2032345412699341265"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/turningpointjpn/status/2032345412699341265</guid>
+      <pubDate>Fri, 13 Mar 2026 06:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>Kosuke (@kosuke_agos)</title>
-      <link>https://x.com/kosuke_agos/status/2032317591029760368</link>
-      <description>イーロン・マスクは、AIとロボティクスが10年で世界経済を10倍に拡大させ、人間の通貨は完全に無意味化すると予測した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Kosuke&lt;/strong&gt; &lt;a href="https://x.com/kosuke_agos"&gt;@kosuke_agos&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;イーロン・マスクが、AIとロボティクスによって今後10年で世界経済が10倍に拡大し、「人間の通貨が完全に無意味化する」という衝撃的な事実を突きつけました。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/2032110866695376896/pu/img/dtZL1EK1Z_Uriezc.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>ツイッター速報〜BreakingNews (@tweetsoku1)</title>
+      <link>https://x.com/tweetsoku1/status/2032301120887128280</link>
+      <description>モジタバ師が、米国は核で民間人を虐殺した唯一の国であり核を持つ権利がないと主張し、世界から絶賛された。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ツイッター速報〜BreakingNews&lt;/strong&gt; &lt;a href="https://x.com/tweetsoku1"&gt;@tweetsoku1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;モジタバ師「人類で唯一、核で民間人を虐殺した米国こそ核を持つ権利がない」→正論すぎて世界が絶賛&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;政治&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/tweetsoku1/status/2032301120887128280"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/tweetsoku1/status/2032301120887128280</guid>
+      <pubDate>Fri, 13 Mar 2026 03:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>岡安モフモフ（アーガイル社長）＠ChatGPT/Gemini/ClaudeなどLLMでサービス作る人 (@shields_pikes)</title>
+      <link>https://x.com/shields_pikes/status/2032317525074329975</link>
+      <description>AIリストラや組織変革には抵抗があるが、新規採用停止は社内政治と無関係なため、まず失業率上昇につながる。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;岡安モフモフ（アーガイル社長）＠ChatGPT/Gemini/ClaudeなどLLMでサービス作る人&lt;/strong&gt; &lt;a href="https://x.com/shields_pikes"&gt;@shields_pikes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AIリストラと、AIネイティブな少人数組織への変革には社内政治と既得権益層からの抵抗があるけど、新規採用を止めるのは社内政治は関係ないから、失業率が上がるのは、まずそこからだよね。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNr8bqa0AAiRJD?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/kosuke_agos/status/2032317591029760368"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/kosuke_agos/status/2032317591029760368</guid>
-      <pubDate>Fri, 13 Mar 2026 04:47:26 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/shields_pikes/status/2032317525074329975"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/shields_pikes/status/2032317525074329975</guid>
+      <pubDate>Fri, 13 Mar 2026 04:47:11 +0000</pubDate>
     </item>
     <item>
-      <title>Kris Kashtanova (@icreatelife)</title>
-      <link>https://x.com/icreatelife/status/2032099581291348034</link>
-      <description>Photoshopベータ版に2D画像を回転させる「Rotate Object」機能が追加された。Harmonizeで光と影を調整し、シーンに馴染ませる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Kris Kashtanova&lt;/strong&gt; &lt;a href="https://x.com/icreatelife"&gt;@icreatelife&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; We just released Rotate Object in Photoshop (beta) &lt;br&gt;&lt;br&gt;You can now rotate 2D images!  &lt;br&gt;&lt;br&gt;Then use Harmonize to add light and shadows, to blend it perfectly with the rest of the scene. &lt;br&gt;&lt;br&gt;It's like Turntable in Illustrator, but instead of vectors, it's pixels in Photoshop!&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032099332380344320/img/Gfbk9zqpQ0Kguej-.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>高野秀敏/ベンチャー採用転職/エンジェル投資家/M&amp;A (@keyplayers)</title>
+      <link>https://x.com/keyplayers/status/2032230277146427421</link>
+      <description>クボタが新卒採用75%減、ENEOS2割減、JR東海3割減。みずほはAIで事務職5000人分削減を発表。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;高野秀敏/ベンチャー採用転職/エンジェル投資家/M&amp;A&lt;/strong&gt; &lt;a href="https://x.com/keyplayers"&gt;@keyplayers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;新卒採用を減らす企業が続出している。&lt;br&gt;クボタは大卒・院卒を75%減。ENEOSは2割減。JR東海は3割減。みずほは今後10年でAIにより事務職5000人分の仕事量を削減すると発表した。&lt;br&gt;&lt;br&gt;これを「一部の話」と思っている経営者に聞きたい。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/keyplayers/status/2032230277146427421"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/keyplayers/status/2032230277146427421</guid>
+      <pubDate>Thu, 12 Mar 2026 23:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>NAV (@OGIXXX1201)</title>
+      <link>https://x.com/OGIXXX1201/status/2032243279941824526</link>
+      <description>eスポーツイベント関係者には連絡不精、納期遅延、実力不足、無料志向、利権優先などの問題傾向がある。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;NAV&lt;/strong&gt; &lt;a href="https://x.com/OGIXXX1201"&gt;@OGIXXX1201&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;eスポーツのイベント会社と関わる人らの傾向&lt;br&gt;&lt;br&gt;・連絡返さない&lt;br&gt;・平気で納期遅れる&lt;br&gt;・実力ないのに仕事奪いに行く&lt;br&gt;・基本無料と考えてる&lt;br&gt;・eスポーツに関することさせずに学生インターンという奴隷を使う&lt;br&gt;・利権大好きおじさん&lt;br&gt;・イベントの反省会よりも利権&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/OGIXXX1201/status/2032243279941824526"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/OGIXXX1201/status/2032243279941824526</guid>
+      <pubDate>Thu, 12 Mar 2026 23:52:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>地主っ娘。 (@jinushimusume)</title>
+      <link>https://x.com/jinushimusume/status/2032254599458062841</link>
+      <description>ブルーカラー職の需要が高まり、工業高校の求人倍率が20倍に上昇。少子化と相まってコスパが良いと指摘。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;地主っ娘。&lt;/strong&gt; &lt;a href="https://x.com/jinushimusume"&gt;@jinushimusume&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ブルーカラー職はこれから需要が高まる、というかもう高まってきているので、多産の追い風にもならないかなと思ってる。少子化の影響で工業高校入試って入る時は倍率1を切っているのに、出る時の求人は20倍に上がっているらしいから、コスパ良すぎる。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;ニュース&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/jinushimusume/status/2032254599458062841"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/jinushimusume/status/2032254599458062841</guid>
+      <pubDate>Fri, 13 Mar 2026 00:37:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>大佐 (@zundaisky)</title>
+      <link>https://x.com/zundaisky/status/2032055611236798549</link>
+      <description>無検閲AIモデル「Qwen3.5-35B-A3B Uncensored」がリリースされ、今後高精度な無検閲モデルが増加すると予測。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;大佐&lt;/strong&gt; &lt;a href="https://x.com/zundaisky"&gt;@zundaisky&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;先日、無検閲モデルのQwen3.5-35B-A3B Uncensoredが出ましてね…&lt;br&gt;さらに高精度な無検閲モデルが増えてくと思う&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/icreatelife/status/2032099581291348034"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/icreatelife/status/2032099581291348034</guid>
-      <pubDate>Thu, 12 Mar 2026 14:21:09 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/zundaisky/status/2032055611236798549"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/zundaisky/status/2032055611236798549</guid>
+      <pubDate>Thu, 12 Mar 2026 11:26:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>しょっさん@ʕ ◔ϖ◔ʔ (@syossan27)</title>
+      <link>https://x.com/syossan27/status/2032290508706586779</link>
+      <description>AI導入による人員削減は企業判断だが、残す社員の選択ミスが致命的だと指摘。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;しょっさん@ʕ ◔ϖ◔ʔ&lt;/strong&gt; &lt;a href="https://x.com/syossan27"&gt;@syossan27&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AI導入で社員を減らすのは企業判断としてさもありなんという感じではあるんだが、残す社員のチョイスをミスった致命だよなというのは薄っすら思ってる&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/syossan27/status/2032290508706586779"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/syossan27/status/2032290508706586779</guid>
+      <pubDate>Fri, 13 Mar 2026 02:59:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>りえ (@esyhc45999719)</title>
+      <link>https://x.com/esyhc45999719/status/2032005091826548815</link>
+      <description>ヤリモクでも女性は声をかけられると喜ぶことがある。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;りえ&lt;/strong&gt; &lt;a href="https://x.com/esyhc45999719"&gt;@esyhc45999719&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;別にヤリモクでもいいから声かけられると実は女の子は意外と喜んでますwwww&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;恋愛&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/esyhc45999719/status/2032005091826548815"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/esyhc45999719/status/2032005091826548815</guid>
+      <pubDate>Thu, 12 Mar 2026 08:05:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

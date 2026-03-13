@@ -7,177 +7,103 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 06:31:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 07:02:49 +0000</lastBuildDate>
     <item>
-      <title>伊藤貴將（イトパン）｜AIクリエイティブ×開発 (@takamasa045)</title>
-      <link>https://x.com/takamasa045/status/2032236762152730698</link>
-      <description>Codexの次期アップデートは、カスタムエージェントの役割設定やタスク委譲を自動化し、手動作業を不要にする。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;伊藤貴將（イトパン）｜AIクリエイティブ×開発&lt;/strong&gt; &lt;a href="https://x.com/takamasa045"&gt;@takamasa045&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Codexの次アップデートがマジで革命的すぎる…&lt;br&gt;&lt;br&gt;今までは人間が全部手動でやってた&lt;br&gt;・カスタムエージェント役作り &lt;br&gt;・configファイルでチーム構築 &lt;br&gt;・細かいタスク振り分け管理&lt;br&gt;&lt;br&gt;それが一瞬で終わる。&lt;br&gt;&lt;br&gt;「Hey Codex、このプランの低複雑度タスクは全部GPT 5.3 Sparkサブエージェントに委譲して」&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031988175007297536/img/WNNpzrC_4whGnI86.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>さと｜社会不適合から個人開発で生きてる (@sato_neet)</title>
+      <link>https://x.com/sato_neet/status/2032252088517083455</link>
+      <description>高コストなOpus4.6を避け、OCをインターフェースにCCでスキル実行し、失敗時はSSHで改善するAIワークフローを構築。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;さと｜社会不適合から個人開発で生きてる&lt;/strong&gt; &lt;a href="https://x.com/sato_neet"&gt;@sato_neet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;私の場合、OCでOpus4.6使うと凄まじく高いから、OCはCCと人間繋ぐためのインターフェースにして難しいことはさせない&lt;br&gt;cron のワークフローはCC起動して、スキル実行させるだけにして、失敗した時にSSHでCC繋いでスキルを改善するみたいな使い方に落ち着いた〜&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032230989871923201/img/I5v0zNDYt19F5y7z.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/takamasa045/status/2032236762152730698"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/takamasa045/status/2032236762152730698</guid>
-      <pubDate>Thu, 12 Mar 2026 23:26:15 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/sato_neet/status/2032252088517083455"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/sato_neet/status/2032252088517083455</guid>
+      <pubDate>Fri, 13 Mar 2026 00:27:09 +0000</pubDate>
     </item>
     <item>
-      <title>orangeitems (@orangeitems_)</title>
-      <link>https://x.com/orangeitems_/status/2032078083218686078</link>
-      <description>OpenClawは外部AIへの依存が強く、スタンドアローンでの動作が理想とされている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;orangeitems&lt;/strong&gt; &lt;a href="https://x.com/orangeitems_"&gt;@orangeitems_&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;昨日OpenClaw触ってみて思ったけど、これもそうだけど、どうしても外部のAIを使わないとまともに動かない。理想はスタンドアローンなんだけれど。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNBxlRbcAA3MCi?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNBxuXa4AAqw2D?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNBx2faYAAY38c?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNBx-XbQAUWN9Z?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>nogu (@_nogu66)</title>
+      <link>https://x.com/_nogu66/status/2032127226750329221</link>
+      <description>AIチャットツールClaudeで、チャットから直接表や図を作成する機能が追加された。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;nogu&lt;/strong&gt; &lt;a href="https://x.com/_nogu66"&gt;@_nogu66&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claudeのチャットから直接 表や図をを作成できるようになった！&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032121339667234817/img/GgFq5DvXDFjZPP4f.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/orangeitems_/status/2032078083218686078"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/orangeitems_/status/2032078083218686078</guid>
-      <pubDate>Thu, 12 Mar 2026 12:55:43 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/_nogu66/status/2032127226750329221"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_nogu66/status/2032127226750329221</guid>
+      <pubDate>Thu, 12 Mar 2026 16:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>Miura Hideki (@miura1729)</title>
-      <link>https://x.com/miura1729/status/2031937160954462416</link>
-      <description>Pythonの新しい型システムは互換性を保ちつつTypeScriptに匹敵する進化を遂げている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Miura Hideki&lt;/strong&gt; &lt;a href="https://x.com/miura1729"&gt;@miura1729&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Pythonの新しい型システムすごいな。Pythonは互換性を保ったままでTypescriptに喧嘩を売るつもりなのだろうか&lt;/p&gt;
+      <title>炎鎮 - ₿onochin - (@super_bonochin)</title>
+      <link>https://x.com/super_bonochin/status/2032329940801380447</link>
+      <description>ChatGPTの全機能をCodexからAgenticに利用できれば、多くの問題が解決すると提言。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;炎鎮 - ₿onochin -&lt;/strong&gt; &lt;a href="https://x.com/super_bonochin"&gt;@super_bonochin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;だから結局ワイがずっと言ってることじゃないか！&lt;br&gt;ChatGPT が Web アプリケーションとして持っている機能すべてを Codex から Agentic に使えたら全部解決するんだよ。&lt;br&gt;言ってることが逆に見えるけど、結局同じことを言ってるんだよ。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRIna9aAAA7bOs?format=png&amp;name=900x900" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRIsRhbQAovdVI?format=png&amp;name=900x900" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRIvN-aUAAtfae?format=jpg&amp;name=900x900" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRIxoCaEAABHKc?format=png&amp;name=900x900" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/miura1729/status/2031937160954462416"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/miura1729/status/2031937160954462416</guid>
-      <pubDate>Thu, 12 Mar 2026 03:35:45 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/super_bonochin/status/2032329940801380447"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/super_bonochin/status/2032329940801380447</guid>
+      <pubDate>Fri, 13 Mar 2026 05:36:31 +0000</pubDate>
     </item>
     <item>
-      <title>akihiro（あきひろ）| 生成AI活用 (@akihiro_genai)</title>
-      <link>https://x.com/akihiro_genai/status/2032102089024029125</link>
-      <description>Codexは明示せずともマルチエージェントでタスクを効率化し、特に調査系でその傾向が顕著。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;akihiro（あきひろ）| 生成AI活用&lt;/strong&gt; &lt;a href="https://x.com/akihiro_genai"&gt;@akihiro_genai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;最近のCodex見てるとこの流れになるんだろうなーと、しみじみ思う。&lt;br&gt;特に明示しなくても勝手にマルチエージェントで効率化しようとしてきますからね。調査系タスクなんて特に。&lt;/p&gt;
+      <title>只の人。 (@aibi0123)</title>
+      <link>https://x.com/aibi0123/status/2032169707735040258</link>
+      <description>サム・アルトマンは、o1リリースから16ヶ月でAI推論コストが1000倍急減したと発表。モデルとエンジニアリングの相乗効果が要因。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;只の人。&lt;/strong&gt; &lt;a href="https://x.com/aibi0123"&gt;@aibi0123&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;サム・アルトマン「約1000倍のコスト削減」&lt;br&gt;&lt;br&gt;アルトマンはo1のリリースからわずか16か月で難しい推論問題を解決するコストが1,000倍急減した事を明らかにした（o1を5.4モデルと比較して）&lt;br&gt;&lt;br&gt;より良いモデル＋より良い人間のエンジニアリングの相乗効果がAI推論コストの指数関数的な減少を推進している&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031865630920478721/img/TtNPRCL2NPCCNk8B.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/akihiro_genai/status/2032102089024029125"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/akihiro_genai/status/2032102089024029125</guid>
-      <pubDate>Thu, 12 Mar 2026 14:31:07 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/aibi0123/status/2032169707735040258"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/aibi0123/status/2032169707735040258</guid>
+      <pubDate>Thu, 12 Mar 2026 18:59:48 +0000</pubDate>
     </item>
     <item>
-      <title>ふくぶん(Fukubun) (@FFBuncho)</title>
-      <link>https://x.com/FFBuncho/status/2032115172404596802</link>
-      <description>Grok Imagineの新機能は、画像とプロンプトで動画を生成できる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ふくぶん(Fukubun)&lt;/strong&gt; &lt;a href="https://x.com/FFBuncho"&gt;@FFBuncho&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;これは画期的かも！！&lt;br&gt;Grok Imagineの新機能！！&lt;br&gt;&lt;br&gt;「@」で画像を呼び出して、プロンプトで指示したら・・・&lt;br&gt;試しに5秒後に頭に載せてみました。&lt;br&gt;工夫次第ではかなり遊べそう！！&lt;br&gt;ぜひやってみてください！！&lt;br&gt;&lt;br&gt;←画像&amp;プロンプト&lt;br&gt;　完成した動画→&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOFRuAbQAMqVwK?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032114942338588672/img/RGxODC-W8DBMz-XJ.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>まさお@AI駆動開発 (@AI_masaou)</title>
+      <link>https://x.com/AI_masaou/status/2032331781597536643</link>
+      <description>Claude Code利用者はpermissions.denyだけでなく、サンドボックス前提でセキュリティを考える重要性を解説した記事を読むべき。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;まさお@AI駆動開発&lt;/strong&gt; &lt;a href="https://x.com/AI_masaou"&gt;@AI_masaou&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;これ、Claude Code を触る人は一度読んでおくといい記事&lt;br&gt;permissions.deny だけで安心しないこと、sandbox 前提で考えることの大事さが分かりやすい&lt;br&gt;&lt;br&gt;あと、個人的に慧眼だと思って参考にさせてもらってる @taki_4416 さんの記事やから間違いない&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/FFBuncho/status/2032115172404596802"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/FFBuncho/status/2032115172404596802</guid>
-      <pubDate>Thu, 12 Mar 2026 15:23:06 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/AI_masaou/status/2032331781597536643"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/AI_masaou/status/2032331781597536643</guid>
+      <pubDate>Fri, 13 Mar 2026 05:43:50 +0000</pubDate>
     </item>
     <item>
-      <title>岡野タケシ弁護士【アトム法律グループ】 (@takeshibengo)</title>
-      <link>https://x.com/takeshibengo/status/2032339654075433336</link>
-      <description>Google Antigravityの勉強会で、AI活用により30分でシステムのモックが作成できる実態が示された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;岡野タケシ弁護士【アトム法律グループ】&lt;/strong&gt; &lt;a href="https://x.com/takeshibengo"&gt;@takeshibengo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google Antigravityの勉強会。&lt;br&gt;&lt;br&gt;今日はKJにオフィスに来てもらって&lt;br&gt;AI活用の実態を見せてもらった。&lt;br&gt;&lt;br&gt;本社マネージャーらが10名ほど参加。&lt;br&gt;&lt;br&gt;▼&lt;br&gt;「こういうの欲しいんだよね」と言ったら&lt;br&gt;30分でシステムのモックが出てくる世界線。&lt;br&gt;&lt;br&gt;Antigravityの画面は、&lt;br&gt;左にフォルダ構造、&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032339450395848704/img/QS7jLvAxSyqOO3dt.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>モジョン (@mojon1)</title>
+      <link>https://x.com/mojon1/status/2032315696080961587</link>
+      <description>Photoshop betaの3D回転機能でイラストも回転可能になったが、破綻することもある。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;モジョン&lt;/strong&gt; &lt;a href="https://x.com/mojon1"&gt;@mojon1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Photoshop betaの3D回転。イラストも回転できた…&lt;br&gt;（破綻することもある）&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032314797463912451/img/zs2D54HetXWsZcEU.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032184968840167426/img/w8blbMjpA2XT6Gf0?format=jpg&amp;name=240x240" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/takeshibengo/status/2032339654075433336"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/takeshibengo/status/2032339654075433336</guid>
-      <pubDate>Fri, 13 Mar 2026 06:15:07 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/mojon1/status/2032315696080961587"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/mojon1/status/2032315696080961587</guid>
+      <pubDate>Fri, 13 Mar 2026 04:39:55 +0000</pubDate>
     </item>
     <item>
-      <title>ゆーりす.yaml (@Yuulis04)</title>
-      <link>https://x.com/Yuulis04/status/2032245105084768349</link>
-      <description>GitHub Copilot Student PlanではGemini 3/3.1 ProとGPT-5.1/5.2/5.3 codexが利用可能だが、Claude Sonnet/Opus系とGPT-5.4系は使用できない。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ゆーりす.yaml&lt;/strong&gt; &lt;a href="https://x.com/Yuulis04"&gt;@Yuulis04&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【悲報】GitHub Copilot Student Planでアクセスできる主要モデルは、&lt;br&gt;・Gemini 3 / 3.1 Pro&lt;br&gt;・GPT-5.1 / 5.2 / 5.3 codex&lt;br&gt;のみ。&lt;br&gt;Claude Sonnet / Opus系とGPT-5.4系は使用不可。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDP6s1ubYAAd66h?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOVakLbQAQJ87P?format=jpg&amp;name=120x120" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOVakMbYAA9m63?format=jpg&amp;name=120x120" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>Hideki Kakeya, Dr.Eng. (@hkakeya)</title>
+      <link>https://x.com/hkakeya/status/2032098604475957334</link>
+      <description>日本にはAI技術力がなく、官民投資も無駄に終わると指摘。東ロボの失敗とChatGPTの成功がその証拠。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Hideki Kakeya, Dr.Eng.&lt;/strong&gt; &lt;a href="https://x.com/hkakeya"&gt;@hkakeya&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;日本にAIの技術力はないので無駄に終わります。東ロボができなかったことをChatGPTがあっという間に実現したことが何よりの証拠です。そもそも官民投資で成功するはずがない。米国のビッグテックを見れば分かるはず。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/Yuulis04/status/2032245105084768349"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Yuulis04/status/2032245105084768349</guid>
-      <pubDate>Thu, 12 Mar 2026 23:59:24 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/hkakeya/status/2032098604475957334"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/hkakeya/status/2032098604475957334</guid>
+      <pubDate>Thu, 12 Mar 2026 14:17:16 +0000</pubDate>
     </item>
     <item>
-      <title>Sakana AI (@SakanaAILabs)</title>
-      <link>https://x.com/SakanaAILabs/status/2032260904138792986</link>
-      <description>Sakana AIが防衛装備庁から、複数AI技術を組み合わせた観測・報告・情報統合・資源配分高速化の研究を受託した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Sakana AI&lt;/strong&gt; &lt;a href="https://x.com/SakanaAILabs"&gt;@SakanaAILabs&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sakana AIは、防衛装備庁 防衛イノベーション科学技術研究所より「複数AI技術の組み合わせによる観測・報告・情報統合・資源配分 高速化の研究」を受託しました。&lt;br&gt;&lt;br&gt;https://sakana.ai/atla-contract-2026/…&lt;br&gt;&lt;br&gt;本研究では、当社の強みである「小規模視覚言語モデル(SVLM)」や自律型AIエージェント技術を活用し、ドローン&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQKYyQaQAApOYi?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>大佐 (@zundaisky)</title>
+      <link>https://x.com/zundaisky/status/2032055611236798549</link>
+      <description>無検閲AIモデル「Qwen3.5-35B-A3B Uncensored」がリリースされ、今後高精度な無検閲モデルが増加すると予測。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;大佐&lt;/strong&gt; &lt;a href="https://x.com/zundaisky"&gt;@zundaisky&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;先日、無検閲モデルのQwen3.5-35B-A3B Uncensoredが出ましてね…&lt;br&gt;さらに高精度な無検閲モデルが増えてくと思う&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/SakanaAILabs/status/2032260904138792986"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/SakanaAILabs/status/2032260904138792986</guid>
-      <pubDate>Fri, 13 Mar 2026 01:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tetsuro Miyatake (@tmiyatake1)</title>
-      <link>https://x.com/tmiyatake1/status/2032246511417885143</link>
-      <description>自動運転技術を開発するNuroが先月から日本で検証を開始した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Tetsuro Miyatake&lt;/strong&gt; &lt;a href="https://x.com/tmiyatake1"&gt;@tmiyatake1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;自動運転技術を開発しているNuroが先月から日本で検証を始めている。&lt;br&gt;&lt;br&gt;https://techcrunch.com/2026/03/11/nuro-is-testing-its-autonomous-vehicle-tech-on-tokyos-streets/…&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032214246675922945/img/dvwReZfL3QtETsSX.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/tmiyatake1/status/2032246511417885143"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/tmiyatake1/status/2032246511417885143</guid>
-      <pubDate>Fri, 13 Mar 2026 00:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kenji@個人ゲーム開発 (@kenjiDev9662)</title>
-      <link>https://x.com/kenjiDev9662/status/2032170858035257577</link>
-      <description>Geminiでドット絵を生成する実験を行った結果、細かい部分は難しいが、簡単なモーションであれば問題なく作成できる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Kenji@個人ゲーム開発&lt;/strong&gt; &lt;a href="https://x.com/kenjiDev9662"&gt;@kenjiDev9662&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;試し半分な気持ちで Geminiにドット絵を描くの実験してみました  &lt;br&gt;&lt;br&gt;やばいっすね、細かいな闘う部分はやはりむずいが でも思ったより遥か形になってる &lt;br&gt;簡単なMotionならばもう問題ないっすね&lt;br&gt;&lt;br&gt;#ゲーム開発 #ゲーム制作 &lt;br&gt;#gamedev #ドット絵 #AI #Gemini #unity&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032170344350375937/img/zoagayVz3E8U-VIF.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDO4LrqXoAA8eb5?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/kenjiDev9662/status/2032170858035257577"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/kenjiDev9662/status/2032170858035257577</guid>
-      <pubDate>Thu, 12 Mar 2026 19:04:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>san@個人開発初心者 (@s_s3s3s_s)</title>
-      <link>https://x.com/s_s3s3s_s/status/2032013378877866409</link>
-      <description>初心者向けに、AIツールはGPT Plusでcodexを使いこなし、次にClaude max 5xを契約するのが良いと推奨されている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;san@個人開発初心者&lt;/strong&gt; &lt;a href="https://x.com/s_s3s3s_s"&gt;@s_s3s3s_s&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Antigravity使うぐらいならGPT Plus契約して&lt;br&gt;&lt;br&gt;Plusでcodexをちゃんと使えた人だけが、次はclaude max 5×を契約して&lt;br&gt;&lt;br&gt;これが初心者の正解ルートね&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/s_s3s3s_s/status/2032013378877866409"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/s_s3s3s_s/status/2032013378877866409</guid>
-      <pubDate>Thu, 12 Mar 2026 08:38:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>まな｜AI×コンテンツビジネスの極意 (@ADHDHSP249834)</title>
-      <link>https://x.com/ADHDHSP249834/status/2032191327732183080</link>
-      <description>Google AntigravityがAI Proユーザーへの制限を厳格化し、追加課金で解除する仕様に変更された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;まな｜AI×コンテンツビジネスの極意&lt;/strong&gt; &lt;a href="https://x.com/ADHDHSP249834"&gt;@ADHDHSP249834&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;悲報。Google AntigravityがAI Proユーザーに対して制限を厳格化。&lt;br&gt;&lt;br&gt;課金してるのに作業が止まる。しかも追加課金で解除する仕様に変わりました。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/ADHDHSP249834/status/2032191327732183080"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/ADHDHSP249834/status/2032191327732183080</guid>
-      <pubDate>Thu, 12 Mar 2026 20:25:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>池田 泰延 (@clockmaker)</title>
-      <link>https://x.com/clockmaker/status/2032267691453780376</link>
-      <description>JavaScript/TypeScriptのビルドツールVite 8の正式版がリリースされ、高速化された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;池田 泰延&lt;/strong&gt; &lt;a href="https://x.com/clockmaker"&gt;@clockmaker&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Vite 8正式版、たまげるほど爆速&lt;br&gt;#JavaScript #TypeScript&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032267359961169922/img/HwnwpsGHBP5bMPs6.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/clockmaker/status/2032267691453780376"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/clockmaker/status/2032267691453780376</guid>
-      <pubDate>Fri, 13 Mar 2026 01:29:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kris Kashtanova (@icreatelife)</title>
-      <link>https://x.com/icreatelife/status/2032099581291348034</link>
-      <description>Photoshopベータ版に2D画像を回転させる「Rotate Object」機能が追加された。Harmonizeで光と影を調整し、シーンに馴染ませる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Kris Kashtanova&lt;/strong&gt; &lt;a href="https://x.com/icreatelife"&gt;@icreatelife&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; We just released Rotate Object in Photoshop (beta) &lt;br&gt;&lt;br&gt;You can now rotate 2D images!  &lt;br&gt;&lt;br&gt;Then use Harmonize to add light and shadows, to blend it perfectly with the rest of the scene. &lt;br&gt;&lt;br&gt;It's like Turntable in Illustrator, but instead of vectors, it's pixels in Photoshop!&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032099332380344320/img/Gfbk9zqpQ0Kguej-.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/icreatelife/status/2032099581291348034"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/icreatelife/status/2032099581291348034</guid>
-      <pubDate>Thu, 12 Mar 2026 14:21:09 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/zundaisky/status/2032055611236798549"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/zundaisky/status/2032055611236798549</guid>
+      <pubDate>Thu, 12 Mar 2026 11:26:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
