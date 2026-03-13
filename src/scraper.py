@@ -77,8 +77,8 @@ async def _auto_login(tab, username: str, password: str) -> bool:
         return False
 
 
-async def _scrape_timeline(tweet_count: int = 50, headless: bool = True) -> list[dict]:
-    """Scrape Twitter timeline. Prompts for login if needed."""
+async def _scrape_timeline(tweet_count: int = 50, headless: bool = True, target_url: str = "https://x.com/home") -> list[dict]:
+    """Scrape Twitter timeline or list. Prompts for login if needed."""
     PROFILE_DIR.mkdir(parents=True, exist_ok=True)
 
     browser = await uc.start(
@@ -123,6 +123,12 @@ async def _scrape_timeline(tweet_count: int = 50, headless: bool = True) -> list
         logger.info("Cookies saved to %s", COOKIE_FILE)
     except Exception as e:
         logger.warning("Failed to save cookies: %s", e)
+
+    # リストURL等、home以外のターゲットに遷移
+    if target_url != "https://x.com/home":
+        logger.info("Navigating to target: %s", target_url)
+        tab = await browser.get(target_url)
+        await tab.sleep(5)
 
     logger.info("Logged in. Scraping timeline (target: %d tweets)...", tweet_count)
 
@@ -221,6 +227,6 @@ async def _scrape_timeline(tweet_count: int = 50, headless: bool = True) -> list
     return tweets
 
 
-def scrape_timeline(tweet_count: int = 50, headless: bool = True) -> list[dict]:
+def scrape_timeline(tweet_count: int = 50, headless: bool = True, target_url: str = "https://x.com/home") -> list[dict]:
     """Sync wrapper for scraping."""
-    return uc.loop().run_until_complete(_scrape_timeline(tweet_count, headless))
+    return uc.loop().run_until_complete(_scrape_timeline(tweet_count, headless, target_url))
