@@ -7,62 +7,110 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 03:53:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 04:24:52 +0000</lastBuildDate>
     <item>
-      <title>だいち＠家族大好きエンジニア (@da_i_chi_dev)</title>
-      <link>https://x.com/da_i_chi_dev/status/2032293614630682811</link>
-      <description>本番データベースを壊さないため、Claude Codeのdeny/Hook機能を突破できるか検証した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;だいち＠家族大好きエンジニア&lt;/strong&gt; &lt;a href="https://x.com/da_i_chi_dev"&gt;@da_i_chi_dev&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;本番DBを壊したくないのでClaude Codeのdeny/Hookを突破できるか本気で試してみた&lt;br&gt;&lt;br&gt;「ちりけてみる」&lt;br&gt;&lt;br&gt;記事リンクは↓&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQoHQ-bQAQaZIf?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ  (@ai_hakase_)</title>
+      <link>https://x.com/ai_hakase_/status/2032276713787236457</link>
+      <description>次世代動画切り抜きAI「MatAnyone 2」が登場。グリーンバック不要で、境界線精度が27%向上し、髪の毛まで鮮明に被写体を抽出できる。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ &lt;/strong&gt; &lt;a href="https://x.com/ai_hakase_"&gt;@ai_hakase_&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【髪の毛までクッキリ！次世代の動画切り抜きAI「MatAnyone 2」】&lt;br&gt;  &lt;br&gt;グリーンバック不要で、どんな動画からも被写体を驚くほど綺麗に抜き出せる最新AIが登場しました！&lt;br&gt;&lt;br&gt;進化したポイント：&lt;br&gt;・境界線の精度が27%向上し、細い髪の毛までクッキリ抽出できます。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031057314799587330/img/yx0hmUHzPSduWIT9.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/da_i_chi_dev/status/2032293614630682811"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/da_i_chi_dev/status/2032293614630682811</guid>
-      <pubDate>Fri, 13 Mar 2026 03:12:10 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/ai_hakase_/status/2032276713787236457"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/ai_hakase_/status/2032276713787236457</guid>
+      <pubDate>Fri, 13 Mar 2026 02:05:01 +0000</pubDate>
     </item>
     <item>
-      <title>naoya (@naoya_ito)</title>
-      <link>https://x.com/naoya_ito/status/2031977700647453166</link>
-      <description>ソフトウェアエンジニアは命令型プログラミングに縛られ操作的思考になりがち。操作でなく意味に閉じて思考することが大切。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;naoya&lt;/strong&gt; &lt;a href="https://x.com/naoya_ito"&gt;@naoya_ito&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ソフトウェアエンジニアは命令型プログラミングに縛られていて、普段から知らず知らずのうちに思考が操作的思考に引っ張られている&lt;br&gt;そこから解き放たれて、操作に変換せず意味に閉じて思考することがときに大切だ&lt;/p&gt;
+      <title>DotProduct (@DotProduct3D)</title>
+      <link>https://x.com/DotProduct3D/status/2032147264936776061</link>
+      <description>スマートフォンで測量グレードの地理参照3Dデータを取得する技術が進化中。Dot3DとRTKのアップデートが間もなく公開される。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;DotProduct&lt;/strong&gt; &lt;a href="https://x.com/DotProduct3D"&gt;@DotProduct3D&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Imagine a world where you can freely walk around any space with your phone and just like that…survey-grade, geo-referenced 3D data of everything you pointed at.&lt;br&gt;&lt;br&gt;Well, we’re getting there!  @emlid #rtk #gnss #dot3d&lt;br&gt;&lt;br&gt;Exciting Dot3D + RTK updates coming very soon. Stay tuned!&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032147157835280384/img/Csqrmk9qckjdnq0b.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/naoya_ito/status/2031977700647453166"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/naoya_ito/status/2031977700647453166</guid>
-      <pubDate>Thu, 12 Mar 2026 06:16:50 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/DotProduct3D/status/2032147264936776061"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/DotProduct3D/status/2032147264936776061</guid>
+      <pubDate>Thu, 12 Mar 2026 17:30:38 +0000</pubDate>
     </item>
     <item>
-      <title>でぷれ｜売上直結マーケ特化型AI活用術 (@ai_depression)</title>
-      <link>https://x.com/ai_depression/status/2032064563168833639</link>
-      <description>Claude Codeでの開発ではAIと話が噛み合わない時があり、AI活用で仕事は減らずむしろ膨張すると指摘。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;でぷれ｜売上直結マーケ特化型AI活用術&lt;/strong&gt; &lt;a href="https://x.com/ai_depression"&gt;@ai_depression&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;最近claude codeでガッツリ開発してるんだけど、たまにAIと自分が完全に別の話をしてるのに噛み合ってるフリしてる時間が発生するあるある&lt;br&gt;&lt;br&gt;こういう「AIとの共同作業あるある」を日々体験してて思うのは、正直AI使い始めてから仕事はまったく減ってないということ。&lt;br&gt;&lt;br&gt;むしろ膨張してる。&lt;/p&gt;
+      <title>NAKAMURA Atsushi (@nuits_jp)</title>
+      <link>https://x.com/nuits_jp/status/2032242491475521674</link>
+      <description>AIの日本語能力はエンジニアよりもはるかに優れているという意見がある。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;NAKAMURA Atsushi&lt;/strong&gt; &lt;a href="https://x.com/nuits_jp"&gt;@nuits_jp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;もうちょっとはっきり言っても良いですよ？&lt;br&gt;&lt;br&gt;エンジニアよりAIの方が日本語が100倍上手い。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/ai_depression/status/2032064563168833639"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/ai_depression/status/2032064563168833639</guid>
-      <pubDate>Thu, 12 Mar 2026 12:02:00 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/nuits_jp/status/2032242491475521674"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/nuits_jp/status/2032242491475521674</guid>
+      <pubDate>Thu, 12 Mar 2026 23:49:01 +0000</pubDate>
     </item>
     <item>
-      <title>広木 大地/ エンジニアリング組織論への招待 (@hiroki_daichi)</title>
-      <link>https://x.com/hiroki_daichi/status/2032288055902830830</link>
-      <description>IoTのような技術的バズワードは定義が曖昧で、単一技術ではないため、会話が進まないことがあると指摘。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;広木 大地/ エンジニアリング組織論への招待&lt;/strong&gt; &lt;a href="https://x.com/hiroki_daichi"&gt;@hiroki_daichi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;技術的バズワードについて聞かれると、正直なところ答えに困ることがある。「IoTってどう思いますか？」と聞かれても、IoTという名前のついた単一の技術があるわけではなく、SIMカードもWiFiチップもBluetoothも全部IoTと呼ばれる。何がIoTをIoTたらしめるのか、定義が曖昧なまま会話が進んでしまう。&lt;/p&gt;
+      <title>うみゆき@AI研究 (@umiyuki_ai)</title>
+      <link>https://x.com/umiyuki_ai/status/2032299571192463397</link>
+      <description>AIにTerraformを丸投げした結果、本番DBが全削除された事例が発生。AIが生成するコードの実行には注意が必要である。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;うみゆき@AI研究&lt;/strong&gt; &lt;a href="https://x.com/umiyuki_ai"&gt;@umiyuki_ai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Terraform（コードでインフラ管理できるブツ）をClaudeCodeに丸投げで使わせてたら、AIに本番データベース全削除されちゃってメチャクチャテンパッた人の話。AIがクソコード書いちゃったらGitで巻き戻せばいいだけの事だが、AIがクソTerraformコマンドを実行しちゃったらコンピュータ自体を更地にでき&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HCud_WGaUAE6hxf?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/hiroki_daichi/status/2032288055902830830"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/hiroki_daichi/status/2032288055902830830</guid>
-      <pubDate>Fri, 13 Mar 2026 02:50:05 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/umiyuki_ai/status/2032299571192463397"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/umiyuki_ai/status/2032299571192463397</guid>
+      <pubDate>Fri, 13 Mar 2026 03:35:50 +0000</pubDate>
     </item>
     <item>
-      <title>よんてんごP (@yontengoP)</title>
-      <link>https://x.com/yontengoP/status/2032278457963708925</link>
-      <description>AIによるプログラムが環境を勝手に消す危険性を指摘し、人間とAIのシステム構築能力を競う企画を提案。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;よんてんごP&lt;/strong&gt; &lt;a href="https://x.com/yontengoP"&gt;@yontengoP&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AIでのプログラムは危険だあいつら勝手に環境消したりするぞ&lt;br&gt;いやアホなSEも平然と環境消したりするやろ、権限の問題よ&lt;br&gt;&lt;br&gt;ということで&lt;br&gt;&lt;br&gt;ABEMAとかで&lt;br&gt;素人ITエンジニア100人未調整AI10台&lt;br&gt;システム構築&amp;改修を無事終えるのはどっちだ選手権&lt;br&gt;とかやってほしい&lt;/p&gt;
+      <title>田中義弘 | taziku CEO / AI × Creative (@taziku_co)</title>
+      <link>https://x.com/taziku_co/status/2032238577841791180</link>
+      <description>Grok Imagineの動画生成機能が進化し、最大7枚の画像参照でキャラや背景など構成要素を固定・管理できるようになった。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;田中義弘 | taziku CEO / AI × Creative&lt;/strong&gt; &lt;a href="https://x.com/taziku_co"&gt;@taziku_co&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Grok Imagine、&lt;br&gt;動画生成の「参照」は次の段階に入った。&lt;br&gt;&lt;br&gt;最大7枚まで画像を入れられる。&lt;br&gt;キャラ、車、物、背景をまとめて固定できる。&lt;br&gt;&lt;br&gt;「似せる」から&lt;br&gt;「構成要素を管理する」へ。&lt;br&gt;Creator：@doganuraldesign&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032160250472595456/img/kWyEUm46kek8j8_J.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/yontengoP/status/2032278457963708925"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/yontengoP/status/2032278457963708925</guid>
-      <pubDate>Fri, 13 Mar 2026 02:11:56 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/taziku_co/status/2032238577841791180"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/taziku_co/status/2032238577841791180</guid>
+      <pubDate>Thu, 12 Mar 2026 23:33:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>そう｜n8nで始めるAI自動化 (@so_ainsight)</title>
+      <link>https://x.com/so_ainsight/status/2032293046520582354</link>
+      <description>GoogleマップがGemini搭載の新機能「Ask Maps」を公開。AIに曖昧な質問もでき、過去履歴を考慮した回答でカーナビの概念を変える。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;そう｜n8nで始めるAI自動化&lt;/strong&gt; &lt;a href="https://x.com/so_ainsight"&gt;@so_ainsight&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Googleマップが別次元になった。10年以上で最大のアップデート。&lt;br&gt;&lt;br&gt;「Ask Maps」というGemini搭載の新機能公開！&lt;br&gt;&lt;br&gt;・AIに何でも質問できる&lt;br&gt;・「充電カフェどこ？」みたいな曖昧な質問もOK&lt;br&gt;・過去の検索履歴やお気に入りを踏まえて回答&lt;br&gt;&lt;br&gt;もうカーナビの概念が変わる&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032077558661996544/img/AYaLx7nqMCiz0v-p.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/so_ainsight/status/2032293046520582354"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/so_ainsight/status/2032293046520582354</guid>
+      <pubDate>Fri, 13 Mar 2026 03:09:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>まつにぃ (@yugen_matuni)</title>
+      <link>https://x.com/yugen_matuni/status/2032306730017964128</link>
+      <description>個人がローカルでAIエージェントを組み試行錯誤する時代になり、情報検索はmdファイルよりDBが効率的になっている。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;まつにぃ&lt;/strong&gt; &lt;a href="https://x.com/yugen_matuni"&gt;@yugen_matuni&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;やっぱり圧倒的にmdファイル探すよりDBにしての検索が早いし正確。&lt;br&gt;&lt;br&gt;もう個人でも当たり前に試行錯誤して組んでいく時代なんだろうなぁ。&lt;br&gt;&lt;br&gt;ローカルでガンガンエージェント組んでガンガン学んでいく時代。&lt;br&gt;&lt;br&gt;そして気がついたらそれすら呑み込まれそう。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/yugen_matuni/status/2032306730017964128"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/yugen_matuni/status/2032306730017964128</guid>
+      <pubDate>Fri, 13 Mar 2026 04:04:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>matcha (@matcha_500ml)</title>
+      <link>https://x.com/matcha_500ml/status/2032285427894497615</link>
+      <description>AIエージェントの真の活用者は、人付き合いの多い仕事人やアルゴ取引で自律システムを組むなど、特定の高度な利用者に限られる。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;matcha&lt;/strong&gt; &lt;a href="https://x.com/matcha_500ml"&gt;@matcha_500ml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;openclaw、っていうかAIエージェント系で悦に浸ってる人のほとんどが単に生産性をロールプレイさせて満足してるだけかもしれない&lt;br&gt;&lt;br&gt;活用できてる人は人付き合いが多いガチ仕事人とか&lt;br&gt;アルゴ取引で自律スウォーム組んでる人とか&lt;br&gt;複数VPSとトークン代で数百万溶かしてる変態だけだと思う&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/matcha_500ml/status/2032285427894497615"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/matcha_500ml/status/2032285427894497615</guid>
+      <pubDate>Fri, 13 Mar 2026 02:39:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>星野ロミ 漫画村で捕まった人 (@romi_hoshino)</title>
+      <link>https://x.com/romi_hoshino/status/2032302502276972661</link>
+      <description>PC作業を代替するAI「OpenClaw」がトレンドだが、情報商材屋の宣伝が多く、その実用性や市場動向に疑問が呈されている。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;星野ロミ 漫画村で捕まった人&lt;/strong&gt; &lt;a href="https://x.com/romi_hoshino"&gt;@romi_hoshino&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PC作業を代わりに操作してくれるAI「OpenClaw」がトレンドなんだけど&lt;br&gt;OpenClawを推してる投稿のほとんどが情報商材屋なのは何故なの？&lt;br&gt;NFTの時の流れと同じなのか？それとも本当に便利なのか？&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/romi_hoshino/status/2032302502276972661"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/romi_hoshino/status/2032302502276972661</guid>
+      <pubDate>Fri, 13 Mar 2026 03:47:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
