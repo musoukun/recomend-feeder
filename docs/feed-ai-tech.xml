@@ -7,87 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 14:27:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 15:37:44 +0000</lastBuildDate>
     <item>
-      <title>布留川英一 / Hidekazu Furukawa (@npaka123)</title>
-      <link>https://x.com/npaka123/status/2032392758674288716</link>
-      <description>VRChatアバターをAIチャットで自動改変できる無料のUnity AI Agentがリリースされた</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;布留川英一 / Hidekazu Furukawa&lt;/strong&gt; &lt;a href="https://x.com/npaka123"&gt;@npaka123&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;VRChatアバターカスタマイズが可能な無料のAIエージェント「Unity AI Agent」リリース！ Unity Editor上でAIとチャットするだけでアバター改変の操作を自動で実行するUnityエディタ拡張&lt;/p&gt;
+      <title>Vincent Koc (@vincent_koc)</title>
+      <link>https://x.com/vincent_koc/status/2032464024978563347</link>
+      <description>Openclawがプラグイン開発者向けに、必要な機能や課題、テスト方法に関するフィードバックを募集している。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Vincent Koc&lt;/strong&gt; &lt;a href="https://x.com/vincent_koc"&gt;@vincent_koc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Looking for input / feedback for anyone developing plugins or looking to develop plugins on @openclaw &lt;br&gt;- What hooks/features are you looking for?&lt;br&gt;- What is stopping you from plugins?&lt;br&gt;- Any key pain points?&lt;br&gt;- How do you test when developing?&lt;br&gt;DM's open or drop comments here :)&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/npaka123/status/2032392758674288716"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/npaka123/status/2032392758674288716</guid>
-      <pubDate>Fri, 13 Mar 2026 09:46:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ryan Yuan (@RainbowYuhui)</title>
-      <link>https://x.com/RainbowYuhui/status/2032330740382515434</link>
-      <description>Canvaが世界最先端の画像レイヤー分解AIモデルMagicLayersをリリースした</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Ryan Yuan&lt;/strong&gt; &lt;a href="https://x.com/RainbowYuhui"&gt;@RainbowYuhui&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;We’re excited to launch #MagicLayers globally at Canva &lt;br&gt;&lt;br&gt;This is currently the most advanced image-to-layer decomposition model in the world-purpose-built for design-native content.&lt;br&gt;&lt;br&gt; 20–200× faster than Qwen-Image-Layer&lt;br&gt; Super strong on designs&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/RainbowYuhui/status/2032330740382515434"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/RainbowYuhui/status/2032330740382515434</guid>
-      <pubDate>Fri, 13 Mar 2026 05:39:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>DailyPapers (@HuggingPapers)</title>
-      <link>https://x.com/HuggingPapers/status/2032369818221891817</link>
-      <description>Tencentと清華大学がストリーミング空間知能向けにテスト時学習Spatial-TTTを開発した</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;DailyPapers&lt;/strong&gt; &lt;a href="https://x.com/HuggingPapers"&gt;@HuggingPapers&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Spatial-TTT&lt;br&gt;&lt;br&gt;Tencent Hunyuan and Tsinghua researchers introduce test-time training for streaming spatial intelligence, using adaptive fast weights to accumulate 3D evidence from unbounded video with near-linear memory scaling.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/2032369746373394432/pu/img/sNMbIaOVPxnxwr8Y.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/HuggingPapers/status/2032369818221891817"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/HuggingPapers/status/2032369818221891817</guid>
-      <pubDate>Fri, 13 Mar 2026 08:14:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>DailyPapers (@HuggingPapers)</title>
-      <link>https://x.com/HuggingPapers/status/2032316294301659170</link>
-      <description>FIRMがRLベースの画像編集・生成向けに堅牢な報酬モデルとベンチマークを導入した</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;DailyPapers&lt;/strong&gt; &lt;a href="https://x.com/HuggingPapers"&gt;@HuggingPapers&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Trust Your Critic&lt;br&gt;&lt;br&gt;FIRM introduces robust reward models for RL-based image editing and generation with 370K editing and 293K generation samples, specialized 8B critics, and the FIRM-Bench benchmark.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQ85fLXcAACTMf?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/HuggingPapers/status/2032316294301659170"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/HuggingPapers/status/2032316294301659170</guid>
-      <pubDate>Fri, 13 Mar 2026 04:42:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>HomeMadeGarbage (@H0meMadeGarbage)</title>
-      <link>https://x.com/H0meMadeGarbage/status/2032352236563734714</link>
-      <description>シミュレーションソフトウェアMuJoCoは、正確なモデリングができれば実機と遜色ない精度を持つ。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;HomeMadeGarbage&lt;/strong&gt; &lt;a href="https://x.com/H0meMadeGarbage"&gt;@H0meMadeGarbage&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;MuJoCo&lt;br&gt;モデリングが正確にできれば実機と全く変わらない&lt;br&gt;&lt;br&gt;モデリングが正確にできれば&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032352002706194436/img/CYQthZRvtkOf0eav.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/H0meMadeGarbage/status/2032352236563734714"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/H0meMadeGarbage/status/2032352236563734714</guid>
-      <pubDate>Fri, 13 Mar 2026 07:05:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>深津 貴之 / THE GUILD, note (@fladdict)</title>
-      <link>https://x.com/fladdict/status/2032418986567303612</link>
-      <description>AIが日常生活に不可欠になりつつあり、GoogleマップとGeminiの融合はその一例である。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;深津 貴之 / THE GUILD, note&lt;/strong&gt; &lt;a href="https://x.com/fladdict"&gt;@fladdict&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;そろそろAIに触らない日常生活というのが、成立しなくなってきてる。マップとGeminiが融合。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/fladdict/status/2032418986567303612"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fladdict/status/2032418986567303612</guid>
-      <pubDate>Fri, 13 Mar 2026 11:30:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Caleb (@calebfahlgren)</title>
-      <link>https://x.com/calebfahlgren/status/2032231321288802698</link>
-      <description>ShopifyのTobi氏がHugging Faceスタック（Gradio、Hugging Face Jobsなど）を深く活用し、オープンモデルやデータセットを公開している。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Caleb&lt;/strong&gt; &lt;a href="https://x.com/calebfahlgren"&gt;@calebfahlgren&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;man @tobi from Shopify is so deep into the @huggingface stack for qmd!!&lt;br&gt;&lt;br&gt; Dropping open models and datasets on the hub&lt;br&gt; Using Trackio from @Gradio for training logs&lt;br&gt; Hugging Face Jobs for finetuning / GPUs&lt;br&gt;&lt;br&gt;not to mention TRL, accelerate, llama.cpp etc. Talk about ELITE!!!&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDPsHibXIAAqEK_?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/calebfahlgren/status/2032231321288802698"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/calebfahlgren/status/2032231321288802698</guid>
-      <pubDate>Thu, 12 Mar 2026 23:04:38 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/vincent_koc/status/2032464024978563347"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/vincent_koc/status/2032464024978563347</guid>
+      <pubDate>Fri, 13 Mar 2026 14:29:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
