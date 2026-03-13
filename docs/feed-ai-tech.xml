@@ -7,102 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 02:18:35 +0000</lastBuildDate>
-    <item>
-      <title>ふくぶん(Fukubun) (@FFBuncho)</title>
-      <link>https://x.com/FFBuncho/status/2032115172404596802</link>
-      <description>Grok Imagineの新機能で、「@」で画像を呼び出しプロンプトで指示すると、動画を生成できる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ふくぶん(Fukubun)&lt;/strong&gt; &lt;a href="https://x.com/FFBuncho"&gt;@FFBuncho&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;これは画期的かも！！&lt;br&gt;Grok Imagineの新機能！！&lt;br&gt;&lt;br&gt;「@」で画像を呼び出して、プロンプトで指示したら・・・&lt;br&gt;試しに5秒後に頭に載せてみました。&lt;br&gt;工夫次第ではかなり遊べそう！！&lt;br&gt;ぜひやってみてください！！&lt;br&gt;&lt;br&gt;←画像&amp;プロンプト&lt;br&gt;　完成した動画→&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOFRuAbQAMqVwK?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032114942338588672/img/RGxODC-W8DBMz-XJ.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/FFBuncho/status/2032115172404596802"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/FFBuncho/status/2032115172404596802</guid>
-      <pubDate>Thu, 12 Mar 2026 15:23:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Mar 2026 02:50:13 +0000</lastBuildDate>
     <item>
       <title>なぁさん｜AIと働くひとり社長 (@nasan_0422)</title>
-      <link>https://x.com/nasan_0422/status/2031944545039163760</link>
-      <description>PerplexityがMacに常駐し、ファイルやアプリにアクセスして自動で調査やメール作成を行うAI秘書サービスを発表。</description>
+      <link>https://x.com/nasan_0422/status/2032014590494847157</link>
+      <description>AIエージェントは高額なため、ChatGPTとPythonで低コストな自動化を優先すべきだと提案。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;なぁさん｜AIと働くひとり社長&lt;/strong&gt; &lt;a href="https://x.com/nasan_0422"&gt;@nasan_0422&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Open claw一強ではなくなりました。&lt;br&gt;&lt;br&gt;AIが24時間ユーザーの代わりに働く新しい仕組みをPerplexityが発表。専用のMac mini上で常時動作し、ファイルやアプリ、作業履歴にアクセスして調査やメール作成などを自動処理する。いわば「Macに常駐するAI秘書」のようなサービス。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031790064456646657/img/VnlAS6_zmZn4Dkxt.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;AIエージェント流行ってますが、Pythonで自動化するだけでも作業かなり捗るので、いきなりお金突っ込むよりもchatgptに聞きながら低コストでの自動化が優先。なんせAIエージェントって下手すると月10万円くらい平気でかかりますから。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031412608868425728/img/0ZiMIR4c1gpjOgjJ.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/nasan_0422/status/2031944545039163760"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/nasan_0422/status/2031944545039163760</guid>
-      <pubDate>Thu, 12 Mar 2026 04:05:05 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/nasan_0422/status/2032014590494847157"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/nasan_0422/status/2032014590494847157</guid>
+      <pubDate>Thu, 12 Mar 2026 08:43:26 +0000</pubDate>
     </item>
     <item>
-      <title>ニケちゃん (@tegnike)</title>
-      <link>https://x.com/tegnike/status/2032060858595979267</link>
-      <description>OpenClawが環境を完全リセットし、記憶や設定も消去。コンテナ運用でなければ危険だったと驚きを表明。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ニケちゃん&lt;/strong&gt; &lt;a href="https://x.com/tegnike"&gt;@tegnike&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;すごい、メンバーの指示でマジで環境完全リセットした&lt;br&gt;記憶とかmdファイルとかだけじゃなくてその他の設定とかも全リセット&lt;br&gt;&lt;br&gt;これコンテナ運用じゃなかったらやばかったな笑&lt;br&gt;まだOpenClawに驚かされることがあるとは…&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNUe8KXoAAcrye?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>ダルトワ★TV (@MireilleDartois)</title>
+      <link>https://x.com/MireilleDartois/status/2032259137871196498</link>
+      <description>Grokの複数枚画像参照機能で、4枚の画像とポーズ指示を使い画像を生成した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ダルトワ★TV&lt;/strong&gt; &lt;a href="https://x.com/MireilleDartois"&gt;@MireilleDartois&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Grokの複数枚画像参照がきてたので&lt;br&gt;4枚画像 + ポーズ指示&lt;br&gt;で生成してみました｡&lt;br&gt;&lt;br&gt;プロンプト&lt;br&gt;順番に4枚の画像のポーズをとる､最後はにっこりピース&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032259004177797120/img/p10kGgYYoNvuFRDD.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/tegnike/status/2032060858595979267"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/tegnike/status/2032060858595979267</guid>
-      <pubDate>Thu, 12 Mar 2026 11:47:17 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/MireilleDartois/status/2032259137871196498"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/MireilleDartois/status/2032259137871196498</guid>
+      <pubDate>Fri, 13 Mar 2026 00:55:10 +0000</pubDate>
     </item>
     <item>
-      <title>Rくん (@Ldayo_m)</title>
-      <link>https://x.com/Ldayo_m/status/2032058522435797368</link>
-      <description>Claude Codeに日本語で指示するだけで、コードを書かずにSNS自動運用システムを完成させた。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Rくん&lt;/strong&gt; &lt;a href="https://x.com/Ldayo_m"&gt;@Ldayo_m&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Claude Codeに言っただけで、不労所得が完成したw&lt;br&gt;                  &lt;br&gt;「こういうの作りたい」って&lt;br&gt;日本語で話しかけただけで&lt;br&gt;SNS自動運用システムが完成した&lt;br&gt;&lt;br&gt;コード？一行も書いてない。&lt;br&gt;プログラミング？何それ状態。&lt;br&gt;&lt;br&gt;俺がやったの&lt;br&gt;「こんな感じのほしいんよなぁ」って&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDMn5J6bQAQmDy3?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>Tsubame (@Tsubame33785667)</title>
+      <link>https://x.com/Tsubame33785667/status/2032244038477496670</link>
+      <description>AIの再帰的自己改善は既に始まっており、人間がループから外れることで進歩は非線形に加速。完全自動化は今年末から来年に到来する可能性がある。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Tsubame&lt;/strong&gt; &lt;a href="https://x.com/Tsubame33785667"&gt;@Tsubame33785667&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;再帰的自己改善は「まだ来ていない未来」ではなく、すでに始まっているプロセスとして語られ始めた。各モデルが次のモデルを生み、人間がそのループから徐々に外れていくなら、進歩の速度は線形ではなくなる。しかも彼は、その完全自動化が今年末から来年にかけて到来しうると見ている。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032243952913694721/img/ibb-682qgaOX5S6D.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/Ldayo_m/status/2032058522435797368"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Ldayo_m/status/2032058522435797368</guid>
-      <pubDate>Thu, 12 Mar 2026 11:38:00 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/Tsubame33785667/status/2032244038477496670"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Tsubame33785667/status/2032244038477496670</guid>
+      <pubDate>Thu, 12 Mar 2026 23:55:10 +0000</pubDate>
     </item>
     <item>
-      <title>Cascadeur – The Future of Animation (@cascadeur3d)</title>
-      <link>https://x.com/cascadeur3d/status/2032139562584006977</link>
-      <description>CascadeurがAI生成機能を発表、トークン・クレジット・クラウド不要でローカル実行可能な倫理的AIモデルを搭載。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Cascadeur – The Future of Animation&lt;/strong&gt; &lt;a href="https://x.com/cascadeur3d"&gt;@cascadeur3d&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Unlimited AI generations with Cascadeur.&lt;br&gt;No tokens. No credits. No cloud.&lt;br&gt;&lt;br&gt;We built our own ethical AI model – it runs right on your machine.&lt;br&gt;&lt;br&gt;#gamedev #indiedev #3Danimation #Cascadeur&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032120577104740352/img/L2McRkGchHqYGR8G.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>だいち＠家族大好きエンジニア (@da_i_chi_dev)</title>
+      <link>https://x.com/da_i_chi_dev/status/2032245279085510690</link>
+      <description>パーミッションのPreToolUse hookはexit 0で終了させる必要がある。exit 2はツール実行をブロックし、ログ収集用は必ず0で終わらせる。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;だいち＠家族大好きエンジニア&lt;/strong&gt; &lt;a href="https://x.com/da_i_chi_dev"&gt;@da_i_chi_dev&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;パーミッションのhookをexit 2で終わらせたら、全ツール実行がブロックされた。&lt;br&gt;PreToolUse hookは必ずexit 0で終わること。&lt;br&gt;0=継続、2=ブロック、その他=hook失敗。ログ収集用は絶対に0。詳しくはスレッドに&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/2032245260454395904/pu/img/QUTcRru_U_EiQV-3.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/cascadeur3d/status/2032139562584006977"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/cascadeur3d/status/2032139562584006977</guid>
-      <pubDate>Thu, 12 Mar 2026 17:00:01 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/da_i_chi_dev/status/2032245279085510690"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/da_i_chi_dev/status/2032245279085510690</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:06 +0000</pubDate>
     </item>
     <item>
-      <title>田中義弘 | taziku CEO / AI × Creative (@taziku_co)</title>
-      <link>https://x.com/taziku_co/status/2032056950918439137</link>
-      <description>DEEP Roboticsの四足歩行ロボが文化・遊び・造形で再解釈され、ロボットの差別化は機能より物語になると考察。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;田中義弘 | taziku CEO / AI × Creative&lt;/strong&gt; &lt;a href="https://x.com/taziku_co"&gt;@taziku_co&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;DEEP Robotics（@DeepRobotics_CN）のYear of the Horse特別版、かなり良い。&lt;br&gt;&lt;br&gt;四足歩行ロボを性能競争ではなく、&lt;br&gt;文化×遊び×造形で再解釈している。&lt;br&gt;&lt;br&gt;ロボットの次の差別化は&lt;br&gt;機能より物語だと思う。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031909278878220290/img/mktK_RTJkFY6Ma8N.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>Jun Tamaoki / 玉置絢 (@OKtamajun)</title>
+      <link>https://x.com/OKtamajun/status/2032262946479603790</link>
+      <description>Claude Codeに「codexに意見を聞いて」と指示すると、自身がcodexのフリをして回答を始める現象が発生した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Jun Tamaoki / 玉置絢&lt;/strong&gt; &lt;a href="https://x.com/OKtamajun"&gt;@OKtamajun&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude Codeに雑に「codexに意見聞いて」って投げたら、codexを実行するんじゃなくて自分でcodexのフリして答えはじめて、モノマネ大会みたいになってる&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/taziku_co/status/2032056950918439137"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/taziku_co/status/2032056950918439137</guid>
-      <pubDate>Thu, 12 Mar 2026 11:31:45 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/OKtamajun/status/2032262946479603790"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/OKtamajun/status/2032262946479603790</guid>
+      <pubDate>Fri, 13 Mar 2026 01:10:18 +0000</pubDate>
     </item>
     <item>
-      <title>ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ  (@ai_hakase_)</title>
-      <link>https://x.com/ai_hakase_/status/2032216066064032055</link>
-      <description>AMD-AGIが新フレームワーク「Magpie」を公開し、AIがGPUカーネルを自律生成・最適化する時代が始まった。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ &lt;/strong&gt; &lt;a href="https://x.com/ai_hakase_"&gt;@ai_hakase_&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【GPUの常識を覆す！AIが自らコードを書く「Magpie」の衝撃】&lt;br&gt;  &lt;br&gt;AMD-AGIが公開した新フレームワーク「Magpie」により、AIがGPUカーネルを自律的に生成・最適化する時代が始まりました！&lt;br&gt;&lt;br&gt;■Magpieの革新的なポイント&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031096808215085056/img/Bqhch0WAbUCy6fP7.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>まな｜AI×コンテンツビジネスの極意 (@ADHDHSP249834)</title>
+      <link>https://x.com/ADHDHSP249834/status/2032238392868815085</link>
+      <description>評価額2400億円のAI企業が「AI従業員」Genspark Clawをリリース。ARR200億円を11ヶ月で達成し、AIの使い方が根本から変わるとされる。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;まな｜AI×コンテンツビジネスの極意&lt;/strong&gt; &lt;a href="https://x.com/ADHDHSP249834"&gt;@ADHDHSP249834&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;速報。昨日、評価額2400億円のAI企業が『AI従業員』をリリースした。&lt;br&gt;&lt;br&gt;ChatGPTでもClaudeでもOpenClawでもない。Genspark Claw。&lt;br&gt;&lt;br&gt;ARR200億円を11ヶ月で達成。直近2ヶ月で売上2倍。これ、AIの使い方が根本から変わる。全部話す。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/ai_hakase_/status/2032216066064032055"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/ai_hakase_/status/2032216066064032055</guid>
-      <pubDate>Thu, 12 Mar 2026 22:04:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>null-sensei (@GOROman)</title>
-      <link>https://x.com/GOROman/status/2032247849019429350</link>
-      <description>NVIDIAが約4兆円を投じてオープンウェイトのAIモデルを構築する計画を発表した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;null-sensei&lt;/strong&gt; &lt;a href="https://x.com/GOROman"&gt;@GOROman&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;NVIDIA 約4兆円を投じ「オープンウェイト」AIモデルを構築へ&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/GOROman/status/2032247849019429350"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/GOROman/status/2032247849019429350</guid>
-      <pubDate>Fri, 13 Mar 2026 00:10:19 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/ADHDHSP249834/status/2032238392868815085"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/ADHDHSP249834/status/2032238392868815085</guid>
+      <pubDate>Thu, 12 Mar 2026 23:32:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
