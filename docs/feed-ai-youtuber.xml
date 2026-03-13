@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>YouTube AI要約フィード</title>
+    <link>https://www.youtube.com</link>
+    <description>YouTube動画のAI要約フィード</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 13 Mar 2026 01:07:16 +0000</lastBuildDate>
+    <item>
+      <title>AI Jason - wtf is Harness Engineer &amp; why is it important</title>
+      <link>https://www.youtube.com/watch?v=kJPvfoLtFFY</link>
+      <description>「ハーネスエンジニアリング」がAIエージェントの未来を拓く？
+
+AIモデルの能力が飛躍的に向上する中、その真価を引き出す「ハーネスエンジニアリング」が注目されている。これは、AIエージェントが人間のように自律的に、かつ複雑なタスクを長時間にわたって実行できるようにするためのシステム設計アプローチだ。従来のシンプルなプロンプトエンジニアリングから一歩進み、AIが自ら状況を理解し、学習し、目標達成に向</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;AI Jason&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;「ハーネスエンジニアリング」がAIエージェントの未来を拓く？&lt;br&gt;&lt;br&gt;AIモデルの能力が飛躍的に向上する中、その真価を引き出す「ハーネスエンジニアリング」が注目されている。これは、AIエージェントが人間のように自律的に、かつ複雑なタスクを長時間にわたって実行できるようにするためのシステム設計アプローチだ。従来のシンプルなプロンプトエンジニアリングから一歩進み、AIが自ら状況を理解し、学習し、目標達成に向けて動けるようになるための基盤を構築する。&lt;br&gt;&lt;br&gt;1.  **AIエージェントの能力が劇的に進化**&lt;br&gt;    2025年12月以降、AIモデルの品質、長期的な一貫性、粘り強さが大幅に向上した。これにより、大規模で複雑なタスクを自律的に処理できるようになった。人間が介入しなくても、AIが24時間365日、目標達成に向けて自律的に作業を進める「オートパイロット」の夢が現実味を帯びてきた。例えば、Cursorが300万行のブラウザを、AnthropicがCコンパイラをゼロから自律的に構築した事例は、その驚異的な能力を示している。&lt;br&gt;&lt;br&gt;2.  **「ハーネスエンジニアリング」が自律性を解き放つ**&lt;br&gt;    従来の「コンテキストエンジニアリング」（単一セッションでのプロンプト最適化）から、「ハーネスエンジニアリング」（複数セッションにわたるコンテキスト管理、ワークフロー、ツール、検証ループの設計）へと焦点が移行している。AIエージェントが長期間にわたる複雑なプロジェクトを成功させるには、単に高性能なモデルだけでなく、そのモデルが効率的に機能するための「適切な環境と仕組み」が必要不可欠だからだ。AnthropicやOpenAIの実験では、エージェントがタスクを途中で放棄したり、誤って完了と判断したりする問題を、環境の可読性、段階的な進捗管理、厳格な検証プロセスで解決した。&lt;br&gt;&lt;br&gt;3.  **成功の鍵は「汎用ツール」と「明確な環境」**&lt;br&gt;    特殊な目的のために作られたツールよりも、LLM（大規模言語モデル）がネイティブに理解する汎用的なコマンド（ファイルシステム操作、bashコマンドなど）を使う方が、エージェントのパフォーマンスが向上することが示された。特殊なツールは柔軟性に欠け、メンテナンスが難しい一方、LLMは膨大なコードデータで学習しているため、汎用ツールをより効率的に使いこなせる。また、エージェントが現在の状況やプロジェクトの全体像を常に把握できる「可読性の高い環境」を整備することが重要だ。Vercelは、エージェントの特殊ツールを80%削減し、単一のbashコマンドツールに集約した結果、処理速度が3.5倍になり、成功率が100%に向上した。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=kJPvfoLtFFY"&gt;YouTubeで見る&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=kJPvfoLtFFY</guid>
+      <pubDate>Thu, 05 Mar 2026 10:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Jason - How to prompt Gemini 3.1 for Epic animations</title>
+      <link>https://www.youtube.com/watch?v=kcOowmrVI7k</link>
+      <description>## アニメーション生成が変わる？Gemini 3.1 Proとシーンベースプロンプトの活用法
+
+Googleの最新AIモデル「Gemini 3.1 Pro」は、高品質なアニメーション生成能力を持つ。しかし、その真価を引き出すには、漠然とした指示ではなく、アニメーションを細かく分解して記述する「シーンベースプロンプト」が鍵となる。本記事では、このプロンプトの具体的な作成方法と、そのプロセスを効率化</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;AI Jason&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;## アニメーション生成が変わる？Gemini 3.1 Proとシーンベースプロンプトの活用法&lt;br&gt;&lt;br&gt;Googleの最新AIモデル「Gemini 3.1 Pro」は、高品質なアニメーション生成能力を持つ。しかし、その真価を引き出すには、漠然とした指示ではなく、アニメーションを細かく分解して記述する「シーンベースプロンプト」が鍵となる。本記事では、このプロンプトの具体的な作成方法と、そのプロセスを効率化するツール「Superdesign」を紹介する。&lt;br&gt;&lt;br&gt;### 1. 曖昧な指示では高品質アニメーションは作れない&lt;br&gt;&lt;br&gt;Gemini 3.1 ProのようなAIモデルは、アニメーション生成能力が高い。しかし、「これをアニメーションにして」「もっと魅力的にして」といった漠然とした指示では、期待通りの結果が得られない。AIは「設計者」と「構築者」の両方を同時にこなすのが苦手なため、複雑なアニメーションの意図を正確に理解できない。結果として、PowerPointのスライドのような、単調で生産レベルに達しないアニメーションが生成されてしまう。&lt;br&gt;&lt;br&gt;### 2. 「シーンベースプロンプト」でAIの能力を最大限に引き出す&lt;br&gt;&lt;br&gt;高品質なアニメーションを生成するには、アニメーションを複数の「シーン」に分解し、各シーンのタイミング、UIの状態、特殊効果、キーワードなどを詳細に記述する「シーンベースプロンプト」が有効だ。これにより、AIはアニメーションの全体像と各要素の動きを明確に理解できる。AIから「設計」の役割を切り離し、「構築」に集中させることで、より洗練された結果を得られる。例えば、「シーン1：ズームイン（1.5秒）」「初期状態：コンポーネントは0.2倍スケール、不透明度0」「アクション＆イージング：カメラは0.2倍から1倍にズーム、イーズアウトタイミング」のように、具体的な数値と状態を記述する。&lt;br&gt;&lt;br&gt;### 3. Superdesignでアニメーション生成プロセスを効率化&lt;br&gt;&lt;br&gt;「Superdesign」というツールは、既存のWeb UIコンポーネントをクローンし、そのUIをベースにシーンベースプロンプトを生成する機能を提供する。ユーザーはSuperdesignのChrome拡張機能でWebサイトのUIをコピーし、それを元に「Product Release Demo」スキルを使って、アニメーションの初期状態、タブの表示方法、インスピレーションアイテムの表示位置、カーソルの動きなどを対話形式で設定できる。これにより、複雑なプロンプトを手動で作成する手間が省け、より効率的に高品質なアニメーション動画を生成可能だ。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=kcOowmrVI7k"&gt;YouTubeで見る&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=kcOowmrVI7k</guid>
+      <pubDate>Wed, 25 Feb 2026 11:40:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Jason - Anthropic killed Tool calling</title>
+      <link>https://www.youtube.com/watch?v=3wglqgskzjQ</link>
+      <description>Anthropicが「Tool Calling 2.0」を発表！LLMエージェントの効率と精度が劇的に進化する時代に
+
+Anthropicが、大規模言語モデル（LLM）エージェントのツール利用能力を大幅に向上させる「Programmatic Tool Calling (PTC)」を含む新機能を発表した。これは、従来のツール呼び出しにおける非効率性やトークン消費の問題を解決し、エージェントがより複雑</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;AI Jason&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Anthropicが「Tool Calling 2.0」を発表！LLMエージェントの効率と精度が劇的に進化する時代に&lt;br&gt;&lt;br&gt;Anthropicが、大規模言語モデル（LLM）エージェントのツール利用能力を大幅に向上させる「Programmatic Tool Calling (PTC)」を含む新機能を発表した。これは、従来のツール呼び出しにおける非効率性やトークン消費の問題を解決し、エージェントがより複雑なタスクを高速かつ正確に実行できるようになる画期的な進化だ。&lt;br&gt;&lt;br&gt;**1. LLMが直接コードを書く「Programmatic Tool Calling (PTC)」**&lt;br&gt;従来のLLMは、ツール（外部APIや関数）を呼び出す際、JSON形式で指示を出し、その結果を待って次のアクションを決定する「ピンポン」のようなやり取りを繰り返していた。PTCでは、LLMが直接Pythonコードを生成し、そのコード内で複数のツール呼び出しや中間処理を完結させ、最終結果だけを返す。この変更により、LLMとツールの間のネットワーク往復が大幅に減り、**トークン消費を37〜50%削減**し、処理速度が向上する。コード内でループや条件分岐などの複雑なロジックを扱えるため、より決定論的で高度なワークフローが実現可能だ。例えば、複数の地域にわたる顧客の購買履歴をデータベースから取得し、収益上位5社を特定するタスクでは、LLMがPythonコードでループ処理を記述し、一度のやり取りで全てのデータを処理・集計できる。&lt;br&gt;&lt;br&gt;**2. Webページから必要な情報だけを抽出する「Dynamic Filtering」**&lt;br&gt;従来のWeb検索ツールは、Webページ全体のHTMLコンテンツをLLMのコンテキストにそのまま読み込んでいた。Dynamic Filteringでは、LLMがWebページの内容をフェッチする際に、**関連性の高い情報のみを抽出するコードを生成**し、不要なHTMLノイズを排除する。Webページにはナビゲーションや広告など、タスクに不要な情報が多く含まれる。これらをコンテキストに含めると、トークンが無駄になり、LLMの推論精度も低下する。Dynamic Filteringにより、**トークン消費が平均24%削減**され、LLMの精度が向上する。AIニュースに関するブログ記事を作成するため、Web検索で複数の記事を読み込む場合、LLMは各記事のHTMLから本文や見出しなど、ブログ作成に必要な情報だけを自動で抽出し、効率的に利用できる。&lt;br&gt;&lt;br&gt;**3. 必要なツールを動的に見つける「Tool Search」**&lt;br&gt;エージェントが利用できるツールが多数ある場合、従来の方式では全てのツール定義を初期コンテキストに含める必要があった。Tool Search機能では、LLMが「Tool Search Tool」を使って、**タスクに応じて必要なツールを動的に検索・ロード**できるようになる。多数のツールを常にコンテキストに含めると、コンテキストウィンドウが圧迫され、トークンコストが増大する。Tool Searchにより、初期コンテキストの**トークン使用量を最大80%削減**でき、必要なツールだけを効率的に利用できる。例えば、天気予報、メール検索、ファイル操作など、多種多様なツールを持つエージェントが「サンフランシスコの天気は？」と聞かれた場合、この機能があれば「天気」に関連するツールだけを検索し、ロードして利用する。&lt;br&gt;&lt;br&gt;**4. 複雑なツールの使い方を教える「Tool Use Example」**&lt;br&gt;複雑な構造を持つツールや、多数のオプションパラメータを持つツールの場合、LLMがその使い方を正確に理解し、適切なパラメータを生成するのが難しかった。新機能では、ツール定義に**具体的な使用例（`input_examples`）を追加**できるようになった。JSONスキーマだけでは表現しきれない、パラメータ間の相関関係や特定のフォーマット要件など、ツールの「正しい使い方」をLLMに明示的に示すことができる。これにより、LLMがツールの利用方法をより正確に学習し、**複雑なパラメータ処理における精度が72%から90%に向上**した。顧客サポートの「チケット作成」ツールを考える。このツールには「優先度」「担当者」「期日」「エスカレーションレベル」など多数のフィールドがある。`input_examples`として、緊急度の高いバグ報告のチケット例や、機能要望のチケット例などを与えることで、LLMは状況に応じた適切なフィールド入力パターンを学習できる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=3wglqgskzjQ"&gt;YouTubeで見る&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=3wglqgskzjQ</guid>
+      <pubDate>Sun, 22 Feb 2026 10:42:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>All About AI - Karpathy's Autoresearch On My AI Polymarket Trading Bot</title>
+      <link>https://www.youtube.com/watch?v=kKucCudlHZs</link>
+      <description>AIが自動で取引戦略を改善？Polymarketでビットコインを稼ぐ「オートリサーチ」ボット
+
+Andrej Karpathy氏の「autoresearch」プロジェクトに触発され、AIが自律的にビットコインの取引戦略を研究・改善するトレーディングボットが開発された。このボットは、Polymarketという予測市場でビットコインの価格変動を利用したアービトラージ取引を自動で行い、利益を最大化するこ</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;All About AI&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;AIが自動で取引戦略を改善？Polymarketでビットコインを稼ぐ「オートリサーチ」ボット&lt;br&gt;&lt;br&gt;Andrej Karpathy氏の「autoresearch」プロジェクトに触発され、AIが自律的にビットコインの取引戦略を研究・改善するトレーディングボットが開発された。このボットは、Polymarketという予測市場でビットコインの価格変動を利用したアービトラージ取引を自動で行い、利益を最大化することを目指す。&lt;br&gt;&lt;br&gt;### 1. AIが自律的に戦略を「研究」する仕組み&lt;br&gt;AIエージェントは、Markdownファイルで定義されたルールに基づき、取引戦略のコードを自動で更新する。人間が介入することなく、AI自身が試行錯誤を繰り返して最適な取引ロジックを見つけ出す仕組みだ。GitHubのブランチで新しい戦略候補を生成し、Polymarketボットで実行。結果を評価し、パフォーマンスが良ければ採用（Keep）、悪ければ破棄（Discard）する。&lt;br&gt;&lt;br&gt;### 2. Polymarketでのビットコイン取引の実際&lt;br&gt;ビットコインの5分間の「Up or Down」市場で、買いと売りの価格差を利用したアービトラージ取引を自動で行う。わずかな価格差でも、自動かつ高速に取引を繰り返すことで利益を積み重ねるのが狙いだ。例えば、0.49ドルで買って0.50ドルで売るなど、1回の取引で数セントの利益を目指す。シミュレーションでは勝率100%を達成し、ライブ取引でも短時間で2ドルの利益を上げた例がある。&lt;br&gt;&lt;br&gt;### 3. 実験結果の可視化と改善サイクル&lt;br&gt;開発されたダッシュボードで、取引の勝率、利益、実験履歴（コミット、スコア、フィルレート、ステータス）などをリアルタイムで確認できる。AIは過去の実験データから学習し、次の戦略改善に活かすことで、継続的なパフォーマンス向上を目指す。フィルレート（取引が成立する割合）が低い戦略は破棄し、より高い品質のエントリーを識別するフィルターを導入するなど、具体的な改善策がコードに反映される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=kKucCudlHZs"&gt;YouTubeで見る&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=kKucCudlHZs</guid>
+      <pubDate>Wed, 11 Mar 2026 18:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>All About AI - 3 AI Agent Browser Automation Challenges That Keep Getting Harder</title>
+      <link>https://www.youtube.com/watch?v=rodYMnGntdI</link>
+      <description>## AIエージェントがAWSの難関チャレンジを自動攻略する時代に
+
+この動画では、AIエージェントがAWSコンソールを使ったブラウザ自動化の3つの課題に挑戦する様子を紹介する。各レベルで難易度が上がり、最終的には動画アップロード・再生アプリの構築までをAIが自律的に実行できるか検証した。AWSの複雑なUI操作やインフラ構築をAIがどこまでこなせるか、その能力が明らかになる。
+
+### 1. Le</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;All About AI&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;## AIエージェントがAWSの難関チャレンジを自動攻略する時代に&lt;br&gt;&lt;br&gt;この動画では、AIエージェントがAWSコンソールを使ったブラウザ自動化の3つの課題に挑戦する様子を紹介する。各レベルで難易度が上がり、最終的には動画アップロード・再生アプリの構築までをAIが自律的に実行できるか検証した。AWSの複雑なUI操作やインフラ構築をAIがどこまでこなせるか、その能力が明らかになる。&lt;br&gt;&lt;br&gt;### 1. Level 1: 静的ウェブサイトを自動構築&lt;br&gt;&lt;br&gt;AIエージェントは、AWSのS3（Simple Storage Service）バケットを作成し、指定された画像ファイルとHTMLファイルをアップロードした。その後、S3の静的ウェブサイトホスティング機能を有効にし、パブリックアクセスを許可する設定も自動で完了させた。これにより、画像と「me in Oslo」というテキストが表示されたウェブページが公開された。&lt;br&gt;&lt;br&gt;### 2. Level 2: Linux仮想マシンでYouTube動画を再生&lt;br&gt;&lt;br&gt;次の課題は、AWS EC2（Elastic Compute Cloud）でLinux仮想マシンを起動し、VNC（Virtual Network Computing）を使ってグラフィカルリモートデスクトップにアクセスすることだった。AIエージェントはVMをオンラインにし、そのブラウザ（Firefox）でClaude Codeに関するYouTube動画を開こうとした。動画の読み込みは始まったものの、VMのメモリ不足により完全な再生には至らなかったが、複雑な仮想環境のセットアップとGUI操作の自動化は成功した。&lt;br&gt;&lt;br&gt;### 3. Level 3: 動画アップロード・再生アプリを自動開発&lt;br&gt;&lt;br&gt;最後の課題は、ユーザーが動画をアップロードし、公開ページで再生できる小型ウェブアプリを構築すること。AIエージェントはS3、Lambda、API Gatewayといった複数のAWSサービスを連携させ、バックエンドとフロントエンドのコードをCloudShell経由でデプロイした。最終的に「vidshare」という動画共有アプリが完成し、動画のアップロードと再生が正常に機能することを確認した。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=rodYMnGntdI"&gt;YouTubeで見る&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=rodYMnGntdI</guid>
+      <pubDate>Sun, 08 Mar 2026 18:00:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>All About AI - Long-Running AI Agent Browser Automation Tasks Is Here</title>
+      <link>https://www.youtube.com/watch?v=8RM-u7TkYpw</link>
+      <description>## AIエージェントがTwitchライブ配信と1ドル獲得に挑戦！ブラウザ自動化の未来はもうそこまで？
+
+AIエージェントが、長時間にわたるブラウザ自動化タスクに挑戦した実験を紹介する。メールアカウント作成からTwitchでのライブ配信、さらには30分で1ドルを稼ぐというオープンエンドな目標に対し、自律的にツールを構築・活用しながら問題解決を試みた。
+
+1.  **Twitchでのライブ配信を自動</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;All About AI&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;## AIエージェントがTwitchライブ配信と1ドル獲得に挑戦！ブラウザ自動化の未来はもうそこまで？&lt;br&gt;&lt;br&gt;AIエージェントが、長時間にわたるブラウザ自動化タスクに挑戦した実験を紹介する。メールアカウント作成からTwitchでのライブ配信、さらには30分で1ドルを稼ぐというオープンエンドな目標に対し、自律的にツールを構築・活用しながら問題解決を試みた。&lt;br&gt;&lt;br&gt;1.  **Twitchでのライブ配信を自動化**&lt;br&gt;    AIエージェントは、まず一時的なメールアドレスを自動生成した。このメールを使ってTwitchに登録し、認証コードも自動で取得・入力。その後、Twitchのストリームキーを抽出し、FFmpegという外部ツール（動画のエンコード・デコード・変換などを行うソフトウェア）を連携させた。YouTubeのMrBeastの動画をTwitchでライブストリーミングすることに成功し、配信タイトルやカテゴリ設定も自動で行った。この一連のプロセスは「Go Live Twitch」というスキルとして保存され、再利用可能になった。&lt;br&gt;&lt;br&gt;2.  **30分で1ドルを稼ぐ挑戦**&lt;br&gt;    1ドル稼ぐタスクでは、まずアンケートサイト「Prolific」に登録を試みるが失敗。次に「Freecash.com」に登録するも、モバイルゲームのタスクがPCでは利用できないと判断した。最終的に「Surveytime.io」というアンケートサイトに登録し、アンケートに回答。質問と選択肢をDOM（ウェブページの構造）から抽出し、JavaScriptスクリプトで一括回答することで、15分かかるアンケートを数秒で完了させた。結果として1ドルには届かなかったものの、0.01ドル（1セント）の収益を達成した。&lt;br&gt;&lt;br&gt;3.  **AIエージェントの自律性と今後の展望**&lt;br&gt;    この実験は、AIエージェントが複雑なブラウザ操作や外部ツール連携、さらにはオープンエンドな目標設定に対して、自律的に計画を立て、実行し、必要に応じてスクリプトを生成・修正する能力を示した。特にアンケートの一括回答は、AIエージェントの高度な自動化能力を際立たせた。一方で、地理的制限によるサイト利用不可や、サインアップフローの理解不足など、まだ改善の余地がある点も明らかになった。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=8RM-u7TkYpw"&gt;YouTubeで見る&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=8RM-u7TkYpw</guid>
+      <pubDate>Thu, 05 Mar 2026 17:37:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Matt Wolfe - Why ChatGPT Isn't Actually Making Your Life Easier</title>
+      <link>https://www.youtube.com/watch?v=retqU5rjzzI</link>
+      <description>AI導入で仕事は増える？ ハーバード研究が明かす「タスク拡大」の真実
+
+ハーバードビジネスレビューが発表した研究によると、AIツールは仕事を減らすどころか、むしろタスクを増やし、仕事のペースを加速させている。米国企業での8ヶ月間の調査から、AIが従業員の働き方をどのように変えているかが明らかになった。
+
+1.  **AIがタスクを拡大させる**
+    AIが知識の不足を補完することで、従業員はこ</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Matt Wolfe&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;AI導入で仕事は増える？ ハーバード研究が明かす「タスク拡大」の真実&lt;br&gt;&lt;br&gt;ハーバードビジネスレビューが発表した研究によると、AIツールは仕事を減らすどころか、むしろタスクを増やし、仕事のペースを加速させている。米国企業での8ヶ月間の調査から、AIが従業員の働き方をどのように変えているかが明らかになった。&lt;br&gt;&lt;br&gt;1.  **AIがタスクを拡大させる**&lt;br&gt;    AIが知識の不足を補完することで、従業員はこれまで専門外だったり、外注・延期・回避していたタスクも自分でこなすようになった。例えば、プロダクトマネージャーやデザイナーがコードを書いたり、研究者がエンジニアリングの作業を引き受けたりするケースが見られた。これにより、個人の業務範囲が広がり、結果的に仕事量が増加した。&lt;br&gt;&lt;br&gt;2.  **マルチタスクの常態化**&lt;br&gt;    AIの導入は、従業員が同時に複数のタスクを並行して進める新しい働き方を生み出した。AIが作業を効率化する一方で、空いた時間に別のタスクをこなすようになり、結果としてマルチタスクが増加した。これは、AIが「より多くのことを可能にする」と感じさせるため、自発的に業務を拡大する傾向がある。&lt;br&gt;&lt;br&gt;3.  **スピードへの期待値上昇**&lt;br&gt;    AIによって作業効率が向上すると、明示的な指示がなくても、仕事のスピードに対する期待値が自然と高まる。AIが日常業務に溶け込み、より速く、より多くの作業ができることが当たり前になると、そのペースが標準となる。これにより、従業員は無意識のうちに、以前よりも速いペースで働くことを求められるようになる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=retqU5rjzzI"&gt;YouTubeで見る&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=retqU5rjzzI</guid>
+      <pubDate>Thu, 12 Mar 2026 13:27:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Matt Wolfe - Is ChatGPT Making You Dumber?</title>
+      <link>https://www.youtube.com/watch?v=dobahObNLeA</link>
+      <description>AIに頼りすぎると脳が鈍る？MITの研究が示す「認知負債」のメカニズム
+
+MITの研究論文が、AIアシスタント（大規模言語モデル、LLM）の利用が人間の認知能力に「認知負債」をもたらす可能性を指摘した。これは、AIの便利さの裏側にある、思考力低下のリスクを示すものだ。
+
+1.  **AI利用が脳活動に与える影響を調査**
+    MITの研究「Your Brain on ChatGPT: Accu</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Matt Wolfe&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;AIに頼りすぎると脳が鈍る？MITの研究が示す「認知負債」のメカニズム&lt;br&gt;&lt;br&gt;MITの研究論文が、AIアシスタント（大規模言語モデル、LLM）の利用が人間の認知能力に「認知負債」をもたらす可能性を指摘した。これは、AIの便利さの裏側にある、思考力低下のリスクを示すものだ。&lt;br&gt;&lt;br&gt;1.  **AI利用が脳活動に与える影響を調査**&lt;br&gt;    MITの研究「Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Tasks」は、AIアシスタントがエッセイ作成に与える影響を脳活動レベルで調査した。参加者54名を、ChatGPT（大規模言語モデル）を使用するグループ、検索エンジンのみを使用するグループ、ツールなしで自力で書くグループの3つに分けた。各グループは3つのエッセイを作成し、その際の脳活動を脳波計（EEG）で測定した。&lt;br&gt;&lt;br&gt;2.  **LLM利用者の脳活動低下が判明**&lt;br&gt;    最初の3つのエッセイでChatGPTを利用したグループは、その後ツールなしでエッセイを書いた際、脳活動が著しく低下した。これは、AIに頼りすぎると、自力で考えるための脳の活動が減少し、思考力が鈍る可能性を示唆する。AIが思考を代行することで、脳の認知機能が低下する現象が見られた。&lt;br&gt;&lt;br&gt;3.  **「認知負債」の発生と批判的思考の低下**&lt;br&gt;    研究では、LLMがタスクの「摩擦」（手間や労力）を減らす一方で、その代償として「認知負債」を生むと結論付けられた。この認知負債は、ユーザーがAIの出力や意見を批判的に評価する意欲を低下させる。AIが生成した情報を鵜呑みにしやすくなり、自分で深く考えたり、情報を検証したりする習慣が失われるリスクがある。&lt;br&gt;&lt;br&gt;4.  **AIを賢く活用するための示唆**&lt;br&gt;    一方で、最初にツールなしでエッセイを書いていたグループは、後にLLMを使った際にパフォーマンスが向上した。この結果は、AIが思考の補助として機能する可能性も示している。基礎的な思考力や知識がある上でAIを活用すれば、生産性を高める強力なアシスタントになる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=dobahObNLeA"&gt;YouTubeで見る&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=dobahObNLeA</guid>
+      <pubDate>Wed, 11 Mar 2026 14:29:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Matt Wolfe - The Meta Raybans Scandal Explained</title>
+      <link>https://www.youtube.com/watch?v=UgS5PihUBQM</link>
+      <description>Metaスマートグラスのプライバシー問題、その実態
+
+Metaが開発したスマートグラス「Meta AI glasses」に、ユーザーのプライバシーを侵害する可能性のある問題が浮上した。プライバシー設定が適切でないと、グラスで録画された映像がMetaに送られ、アフリカの企業で人間がAIトレーニングのためにレビューしている実態が明らかになった。これにより、Metaは米国で訴訟に直面している。
+
+1. </description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Matt Wolfe&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Metaスマートグラスのプライバシー問題、その実態&lt;br&gt;&lt;br&gt;Metaが開発したスマートグラス「Meta AI glasses」に、ユーザーのプライバシーを侵害する可能性のある問題が浮上した。プライバシー設定が適切でないと、グラスで録画された映像がMetaに送られ、アフリカの企業で人間がAIトレーニングのためにレビューしている実態が明らかになった。これにより、Metaは米国で訴訟に直面している。&lt;br&gt;&lt;br&gt;1.  **プライベートな映像が人間にレビューされる**&lt;br&gt;    Meta AI glassesで録画された映像は、AIトレーニングのために外部の企業に送られる。この企業では人間が映像をレビューしており、中にはバスルームでの様子や着替え、クレジットカード情報など、非常に個人的な内容が含まれる場合がある。ユーザーが意図しない形で、プライベートな瞬間が第三者に見られている可能性がある。&lt;br&gt;&lt;br&gt;2.  **デフォルト設定の曖昧さとMetaの主張**&lt;br&gt;    Metaは、ユーザーがメディア共有を選択しない限り、データはデバイスに留まると説明している。しかし、実際には共有機能がデフォルトでオンになっており、ユーザーが手動でオフにしないと映像がMetaに送られる可能性がある。このデフォルト設定の仕様が、ユーザーの誤解を招き、プライバシー侵害のリスクを高めている。&lt;br&gt;&lt;br&gt;3.  **広がる法的問題と規制当局の動き**&lt;br&gt;    このプライバシー問題を受け、Metaは米国でプライバシー法違反と虚偽広告の疑いで訴訟に直面している。ニュージャージー州とカリフォルニア州の原告が提訴し、英国の規制当局も調査を開始した。Metaのスマートグラスに対する信頼性が問われ、今後の動向が注目される。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=UgS5PihUBQM"&gt;YouTubeで見る&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=UgS5PihUBQM</guid>
+      <pubDate>Tue, 10 Mar 2026 14:23:03 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
