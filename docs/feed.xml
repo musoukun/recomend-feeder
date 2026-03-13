@@ -7,22 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 14:07:01 +0000</lastBuildDate>
-    <item>
-      <title>深津 貴之 / THE GUILD, note (@fladdict)</title>
-      <link>https://x.com/fladdict/status/2032383944558293085</link>
-      <description>イランが世界経済を巻き込む事故を起こす意図があり、コストの非対称戦だと指摘。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;深津 貴之 / THE GUILD, note&lt;/strong&gt; &lt;a href="https://x.com/fladdict"&gt;@fladdict&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;イラン、ピンポイントに世界経済を巻き込み事故するつもりやな。コストの「非対称戦」だ。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;政治&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/fladdict/status/2032383944558293085"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fladdict/status/2032383944558293085</guid>
-      <pubDate>Fri, 13 Mar 2026 09:11:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Mar 2026 14:27:02 +0000</lastBuildDate>
     <item>
       <title>大曽根宏幸 / Hiroyuki Osone (@OsoneHiroyuki)</title>
       <link>https://x.com/OsoneHiroyuki/status/2032360936825372862</link>
-      <description>政府の戦略17分野における主要技術にフィジカルAIが挙げられている。</description>
+      <description>政府の戦略17分野でフィジカルAIが主要技術の1つとして挙げられた</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;大曽根宏幸 / Hiroyuki Osone&lt;/strong&gt; &lt;a href="https://x.com/OsoneHiroyuki"&gt;@OsoneHiroyuki&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;戦略17分野における「主要な製品・技術等」&lt;br&gt;1がフィジカルAI&lt;br&gt;https://cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai3/shiryou1.pdf…&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;政治&lt;/span&gt;&lt;/p&gt;
@@ -33,7 +22,7 @@
     <item>
       <title>布留川英一 / Hidekazu Furukawa (@npaka123)</title>
       <link>https://x.com/npaka123/status/2032392758674288716</link>
-      <description>VRChatアバターをAIチャットで自動改変する無料のUnity AI Agentがリリースされた。</description>
+      <description>VRChatアバターをAIチャットで自動改変できる無料のUnity AI Agentがリリースされた</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;布留川英一 / Hidekazu Furukawa&lt;/strong&gt; &lt;a href="https://x.com/npaka123"&gt;@npaka123&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;VRChatアバターカスタマイズが可能な無料のAIエージェント「Unity AI Agent」リリース！ Unity Editor上でAIとチャットするだけでアバター改変の操作を自動で実行するUnityエディタ拡張&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
@@ -44,7 +33,7 @@
     <item>
       <title>Ryan Yuan (@RainbowYuhui)</title>
       <link>https://x.com/RainbowYuhui/status/2032330740382515434</link>
-      <description>Canvaが画像からレイヤー分解するAIモデル「MagicLayers」をリリース。Qwen-Image-Layerより20～200倍高速。</description>
+      <description>Canvaが世界最先端の画像レイヤー分解AIモデルMagicLayersをリリースした</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Ryan Yuan&lt;/strong&gt; &lt;a href="https://x.com/RainbowYuhui"&gt;@RainbowYuhui&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We’re excited to launch #MagicLayers globally at Canva &lt;br&gt;&lt;br&gt;This is currently the most advanced image-to-layer decomposition model in the world-purpose-built for design-native content.&lt;br&gt;&lt;br&gt; 20–200× faster than Qwen-Image-Layer&lt;br&gt; Super strong on designs&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
@@ -55,7 +44,7 @@
     <item>
       <title>DailyPapers (@HuggingPapers)</title>
       <link>https://x.com/HuggingPapers/status/2032369818221891817</link>
-      <description>Tencentと清華大がストリーミング空間知能向けにテスト時学習Spatial-TTTを開発。</description>
+      <description>Tencentと清華大学がストリーミング空間知能向けにテスト時学習Spatial-TTTを開発した</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;DailyPapers&lt;/strong&gt; &lt;a href="https://x.com/HuggingPapers"&gt;@HuggingPapers&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Spatial-TTT&lt;br&gt;&lt;br&gt;Tencent Hunyuan and Tsinghua researchers introduce test-time training for streaming spatial intelligence, using adaptive fast weights to accumulate 3D evidence from unbounded video with near-linear memory scaling.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/2032369746373394432/pu/img/sNMbIaOVPxnxwr8Y.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -67,7 +56,7 @@
     <item>
       <title>DailyPapers (@HuggingPapers)</title>
       <link>https://x.com/HuggingPapers/status/2032316294301659170</link>
-      <description>FIRMはRLベースの画像編集・生成向けに堅牢な報酬モデルとベンチマークを導入した。</description>
+      <description>FIRMがRLベースの画像編集・生成向けに堅牢な報酬モデルとベンチマークを導入した</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;DailyPapers&lt;/strong&gt; &lt;a href="https://x.com/HuggingPapers"&gt;@HuggingPapers&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Trust Your Critic&lt;br&gt;&lt;br&gt;FIRM introduces robust reward models for RL-based image editing and generation with 370K editing and 293K generation samples, specialized 8B critics, and the FIRM-Bench benchmark.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQ85fLXcAACTMf?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -77,21 +66,9 @@
       <pubDate>Fri, 13 Mar 2026 04:42:17 +0000</pubDate>
     </item>
     <item>
-      <title>Taku (@taku_sid)</title>
-      <link>https://x.com/taku_sid/status/2032408080131260593</link>
-      <description>SO-101改のテレオペレーション機能が問題なく動作した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Taku&lt;/strong&gt; &lt;a href="https://x.com/taku_sid"&gt;@taku_sid&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;SO-101改のテレオペも問題なく動いた&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/2032408020999864320/pu/img/xjdBXXUETiNYBHXm.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/taku_sid/status/2032408080131260593"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/taku_sid/status/2032408080131260593</guid>
-      <pubDate>Fri, 13 Mar 2026 10:47:01 +0000</pubDate>
-    </item>
-    <item>
       <title>東浩紀 Hiroki Azuma (@hazuma)</title>
       <link>https://x.com/hazuma/status/2032381053009375643</link>
-      <description>東浩紀氏がオードリー・タン氏と会うことを発表した。</description>
+      <description>東浩紀氏がオードリー・タン氏と会うことを発表した</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;東浩紀 Hiroki Azuma&lt;/strong&gt; &lt;a href="https://x.com/hazuma"&gt;@hazuma&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;なんとオードリー・タンさんとお会いします&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRER4KbQAUTRYB?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -103,7 +80,7 @@
     <item>
       <title>HomeMadeGarbage (@H0meMadeGarbage)</title>
       <link>https://x.com/H0meMadeGarbage/status/2032352236563734714</link>
-      <description>物理エンジンMuJoCoは、正確なモデリングができれば実機と全く同じ挙動を再現できる。</description>
+      <description>シミュレーションソフトウェアMuJoCoは、正確なモデリングができれば実機と遜色ない精度を持つ。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;HomeMadeGarbage&lt;/strong&gt; &lt;a href="https://x.com/H0meMadeGarbage"&gt;@H0meMadeGarbage&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;MuJoCo&lt;br&gt;モデリングが正確にできれば実機と全く変わらない&lt;br&gt;&lt;br&gt;モデリングが正確にできれば&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032352002706194436/img/CYQthZRvtkOf0eav.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -113,20 +90,20 @@
       <pubDate>Fri, 13 Mar 2026 07:05:07 +0000</pubDate>
     </item>
     <item>
-      <title>Kenneth Roth (@KenRoth)</title>
-      <link>https://x.com/KenRoth/status/2032236952758436315</link>
-      <description>国連専門家パネルが、トランプ氏らの人種差別的ヘイトスピーチと米国の移民取り締まりが「重大な人権侵害」につながっていると指摘した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Kenneth Roth&lt;/strong&gt; &lt;a href="https://x.com/KenRoth"&gt;@KenRoth&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;A U.N.-backed panel of independent experts says racist hate speech by Trump and other American political leaders, along with a crackdown on immigration in the United States, have led to “grave human rights violations.”&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;政治&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/KenRoth/status/2032236952758436315"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/KenRoth/status/2032236952758436315</guid>
-      <pubDate>Thu, 12 Mar 2026 23:27:01 +0000</pubDate>
+      <title>落合陽一 Yoichi OCHIAI (@ochyai)</title>
+      <link>https://x.com/ochyai/status/2032402222437605765</link>
+      <description>落合陽一氏がNewsPicksで、東京で幸せになる条件は「面白がる」ことだと語る。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;落合陽一 Yoichi OCHIAI&lt;/strong&gt; &lt;a href="https://x.com/ochyai"&gt;@ochyai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【落合陽一】東京で幸せになれる条件は「面白がる」こと｜NewsPicks https://newspicks.com/news/16163767/ #NewsPicks&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/ochyai/status/2032402222437605765"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/ochyai/status/2032402222437605765</guid>
+      <pubDate>Fri, 13 Mar 2026 10:23:44 +0000</pubDate>
     </item>
     <item>
       <title>852話(hakoniwa) (@8co28)</title>
       <link>https://x.com/8co28/status/2032417709405900879</link>
-      <description>相手との再会を「偶然」と思っているのかと問いかけ、その認識をからかう。</description>
+      <description>相手との再会を「偶然」ではないと示唆し、相手の認識をからかう。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;852話(hakoniwa)&lt;/strong&gt; &lt;a href="https://x.com/8co28"&gt;@8co28&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;「今日も会えましたね！ふふっ、『偶然』？たまたま、って思ってるんですか？かーわいいｗ」&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032417584654802944/img/4o2g0zqRvuteEYDr.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -136,12 +113,23 @@
       <pubDate>Fri, 13 Mar 2026 11:25:17 +0000</pubDate>
     </item>
     <item>
+      <title>Kenneth Roth (@KenRoth)</title>
+      <link>https://x.com/KenRoth/status/2032236952758436315</link>
+      <description>国連専門家パネルが、トランプ氏らの人種差別的ヘイトスピーチと移民取り締まりが米国で重大な人権侵害を引き起こしたと指摘。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Kenneth Roth&lt;/strong&gt; &lt;a href="https://x.com/KenRoth"&gt;@KenRoth&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A U.N.-backed panel of independent experts says racist hate speech by Trump and other American political leaders, along with a crackdown on immigration in the United States, have led to “grave human rights violations.”&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;政治&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/KenRoth/status/2032236952758436315"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/KenRoth/status/2032236952758436315</guid>
+      <pubDate>Thu, 12 Mar 2026 23:27:01 +0000</pubDate>
+    </item>
+    <item>
       <title>深津 貴之 / THE GUILD, note (@fladdict)</title>
       <link>https://x.com/fladdict/status/2032418986567303612</link>
-      <description>マップとGeminiの融合など、AIが日常生活に深く浸透し、AIに触れない生活が成立しなくなりつつある。</description>
+      <description>AIが日常生活に不可欠になりつつあり、GoogleマップとGeminiの融合はその一例である。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;深津 貴之 / THE GUILD, note&lt;/strong&gt; &lt;a href="https://x.com/fladdict"&gt;@fladdict&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;そろそろAIに触らない日常生活というのが、成立しなくなってきてる。マップとGeminiが融合。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://x.com/fladdict/status/2032418986567303612"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/fladdict/status/2032418986567303612</guid>
       <pubDate>Fri, 13 Mar 2026 11:30:21 +0000</pubDate>
@@ -149,31 +137,31 @@
     <item>
       <title>852話(hakoniwa) (@8co28)</title>
       <link>https://x.com/8co28/status/2032421391170175086</link>
-      <description>田舎に若い女性が自分しかいない状況を相手に示唆し、その意味を問いかける。</description>
+      <description>田舎に若い女性が自分しかいない状況を強調し、相手にその意味を問いかける。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;852話(hakoniwa)&lt;/strong&gt; &lt;a href="https://x.com/8co28"&gt;@8co28&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;「このド田舎……私しか若い女、いないの。……意味、わかる？」&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032421269334003712/img/UQ9GbQvyHEC0ksii.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;恋愛&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;アダルト&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://x.com/8co28/status/2032421391170175086"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/8co28/status/2032421391170175086</guid>
       <pubDate>Fri, 13 Mar 2026 11:39:54 +0000</pubDate>
     </item>
     <item>
       <title>852話(hakoniwa) (@8co28)</title>
-      <link>https://x.com/8co28/status/2032425937074315532</link>
-      <description>浮気中の相手に対し、「来ちゃった」と言ってみたかったと告げ、相手の心情を問いただす。</description>
+      <link>https://x.com/8co28/status/2032426171368145309</link>
+      <description>相手の不安に対し、身体的な接触を提案するような発言。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;852話(hakoniwa)&lt;/strong&gt; &lt;a href="https://x.com/8co28"&gt;@8co28&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;「『来ちゃった』って、俺も一回言ってみたかったんだよな。お前が浮気してる最中に、絶対やりたかった。今どんな気持ち？」&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032425776952537088/img/eF4yZwbHaN0DZPC6.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;恋愛&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/8co28/status/2032425937074315532"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/8co28/status/2032425937074315532</guid>
-      <pubDate>Fri, 13 Mar 2026 11:57:58 +0000</pubDate>
+&lt;p&gt;「不安なの？またアレする？揉むやつ。えぇ？うずまるほうがいっかあ」&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032426031509061632/img/0CWsO1JCNNCH3ycb.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;アダルト&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/8co28/status/2032426171368145309"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/8co28/status/2032426171368145309</guid>
+      <pubDate>Fri, 13 Mar 2026 11:58:54 +0000</pubDate>
     </item>
     <item>
       <title>852話(hakoniwa) (@8co28)</title>
       <link>https://x.com/8co28/status/2032422903258706359</link>
-      <description>相手から「変わった」と言われ、自分ではなく相手の気持ちが変わり、もう好きではないようだと指摘する。</description>
+      <description>相手に「変わった」と言われ、むしろ相手が自分を好きでなくなったと指摘する。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;852話(hakoniwa)&lt;/strong&gt; &lt;a href="https://x.com/8co28"&gt;@8co28&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;「『変わったね』って……変わったのは君の方だよ。俺のこともうすっかり好きじゃないみたい。変わっちゃったね」&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032422811139293184/img/4L1LT5MdHyzEnts-.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -184,20 +172,32 @@
     </item>
     <item>
       <title>852話(hakoniwa) (@8co28)</title>
-      <link>https://x.com/8co28/status/2032425548430127562</link>
-      <description>相手が謝罪する状況で、「私が勝手に転んだところに石があっただけ」と相手を気遣い、大丈夫だと伝える。</description>
+      <link>https://x.com/8co28/status/2032428297804714333</link>
+      <description>相手の身につけているものを「オタクチョーカー」と呼び、好みをからかう。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;852話(hakoniwa)&lt;/strong&gt; &lt;a href="https://x.com/8co28"&gt;@8co28&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;「謝らないで！『私が勝手に転んだトコロにたまたま石があった』、だけだからね！……うん。大丈夫！」&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032425393052131328/img/2Py7hk-6ZANKo4fI.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;「これ『オタクチョーカー』って言うんでしょ？はっ。こんなのが好きなの？。オタクだねえ」&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032428157782069248/img/H4X7_UsAIxDNl0GT.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/8co28/status/2032425548430127562"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/8co28/status/2032425548430127562</guid>
-      <pubDate>Fri, 13 Mar 2026 11:56:26 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/8co28/status/2032428297804714333"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/8co28/status/2032428297804714333</guid>
+      <pubDate>Fri, 13 Mar 2026 12:07:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>852話(hakoniwa) (@8co28)</title>
+      <link>https://x.com/8co28/status/2032425937074315532</link>
+      <description>浮気中の相手に対し、「来ちゃった」と言ってみたかったと告げ、相手の気持ちを問う。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;852話(hakoniwa)&lt;/strong&gt; &lt;a href="https://x.com/8co28"&gt;@8co28&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;「『来ちゃった』って、俺も一回言ってみたかったんだよな。お前が浮気してる最中に、絶対やりたかった。今どんな気持ち？」&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032425776952537088/img/eF4yZwbHaN0DZPC6.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;恋愛&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/8co28/status/2032425937074315532"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/8co28/status/2032425937074315532</guid>
+      <pubDate>Fri, 13 Mar 2026 11:57:58 +0000</pubDate>
     </item>
     <item>
       <title>852話(hakoniwa) (@8co28)</title>
       <link>https://x.com/8co28/status/2032422657652900294</link>
-      <description>相手の「何もない一日」を夏休みや「ずっと休み」と表現し、将来そうなりたいと語る。</description>
+      <description>「ずっと休み」という相手の状況を羨み、将来そうなりたいと語る。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;852話(hakoniwa)&lt;/strong&gt; &lt;a href="https://x.com/8co28"&gt;@8co28&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;「今日も何もない一日だったんだ？夏休みみたいだね。『ずっと休み』？いいなあ。私も将来そうなりたいなぁ」&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032422518733328384/img/hMD5VYILU0T38x6Z.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -208,32 +208,20 @@
     </item>
     <item>
       <title>852話(hakoniwa) (@8co28)</title>
-      <link>https://x.com/8co28/status/2032426171368145309</link>
-      <description>相手の不安に対し、「揉むやつ」や「うずまる」ことで安心させようとする。</description>
+      <link>https://x.com/8co28/status/2032425548430127562</link>
+      <description>「私が勝手に転んだところに石があっただけ」と、相手を気遣う言葉。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;852話(hakoniwa)&lt;/strong&gt; &lt;a href="https://x.com/8co28"&gt;@8co28&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;「不安なの？またアレする？揉むやつ。えぇ？うずまるほうがいっかあ」&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032426031509061632/img/0CWsO1JCNNCH3ycb.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;「謝らないで！『私が勝手に転んだトコロにたまたま石があった』、だけだからね！……うん。大丈夫！」&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032425393052131328/img/2Py7hk-6ZANKo4fI.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/8co28/status/2032426171368145309"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/8co28/status/2032426171368145309</guid>
-      <pubDate>Fri, 13 Mar 2026 11:58:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>852話(hakoniwa) (@8co28)</title>
-      <link>https://x.com/8co28/status/2032428297804714333</link>
-      <description>「オタクチョーカー」を身につけた相手に対し、「こんなのが好きなの？オタクだね」と問いかける。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;852話(hakoniwa)&lt;/strong&gt; &lt;a href="https://x.com/8co28"&gt;@8co28&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;「これ『オタクチョーカー』って言うんでしょ？はっ。こんなのが好きなの？。オタクだねえ」&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032428157782069248/img/H4X7_UsAIxDNl0GT.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/8co28/status/2032428297804714333"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/8co28/status/2032428297804714333</guid>
-      <pubDate>Fri, 13 Mar 2026 12:07:21 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/8co28/status/2032425548430127562"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/8co28/status/2032425548430127562</guid>
+      <pubDate>Fri, 13 Mar 2026 11:56:26 +0000</pubDate>
     </item>
     <item>
       <title>Tomoki MAEDA (@tmaeda)</title>
       <link>https://x.com/tmaeda/status/2032428001246482937</link>
-      <description>小麦粉でパンを焼いたり豚骨ラーメンスープを自作したりすると、プロの製品の品質を再認識する。</description>
+      <description>小麦粉からパンを焼いたり豚骨ラーメンスープを自作したりすると、プロの製品の品質を実感する。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Tomoki MAEDA&lt;/strong&gt; &lt;a href="https://x.com/tmaeda"&gt;@tmaeda&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;いやほんと、小麦粉こねてパン焼いたときとか豚骨ラーメンスープ自作したときに「絶対プロが作ったやつ買ったほうがいい...」って思ったもんな...&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
@@ -244,7 +232,7 @@
     <item>
       <title>エンタメNEWS共同通信【公式】 (@KYODONEWS_ENT)</title>
       <link>https://x.com/KYODONEWS_ENT/status/2032331434715988399</link>
-      <description>谷口悟朗監督が新作アニメ『パリに咲くエトワール』で原作なしに挑んだ理由と、日本アニメ界への危機感を語る記事が公開された。</description>
+      <description>谷口悟朗監督が新作アニメ『パリに咲くエトワール』で原作なしに挑んだ理由と、日本アニメ界への危機感を語る。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;エンタメNEWS共同通信【公式】&lt;/strong&gt; &lt;a href="https://x.com/KYODONEWS_ENT"&gt;@KYODONEWS_ENT&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;「異世界転生も、チート能力も、ロボもいらない」&lt;br&gt;谷口悟朗監督はなぜ原作なしのオリジナル作品に挑んだのか? &lt;br&gt;監督が日本のアニメ界に抱く危機感とは?&lt;br&gt;本日公開『パリに咲くエトワール』の取材記事です&lt;br&gt;#パリに咲くエトワール #パリエト #谷口悟朗 #47NEWS https://47news.jp/13991188.html @47news_official&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;ニュース&lt;/span&gt;&lt;/p&gt;
@@ -255,7 +243,7 @@
     <item>
       <title>Caleb (@calebfahlgren)</title>
       <link>https://x.com/calebfahlgren/status/2032231321288802698</link>
-      <description>ShopifyのTobi氏がHugging Faceスタックを深く活用し、オープンモデル公開、Gradioでのログ、Hugging Face JobsでGPU利用などを行っている。</description>
+      <description>ShopifyのTobi氏がHugging Faceスタック（Gradio、Hugging Face Jobsなど）を深く活用し、オープンモデルやデータセットを公開している。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Caleb&lt;/strong&gt; &lt;a href="https://x.com/calebfahlgren"&gt;@calebfahlgren&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;man @tobi from Shopify is so deep into the @huggingface stack for qmd!!&lt;br&gt;&lt;br&gt; Dropping open models and datasets on the hub&lt;br&gt; Using Trackio from @Gradio for training logs&lt;br&gt; Hugging Face Jobs for finetuning / GPUs&lt;br&gt;&lt;br&gt;not to mention TRL, accelerate, llama.cpp etc. Talk about ELITE!!!&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDPsHibXIAAqEK_?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
