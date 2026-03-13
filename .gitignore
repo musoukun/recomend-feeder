@@ -7,9 +7,9 @@ auth/
 output/
 *.log
 *.png
-discord-bot/node_modules/
-discord-bot/.env
-discord-bot/posted.json
-discord-bot/channels.json
+discord-bot*/node_modules/
+discord-bot*/.env
+discord-bot*/posted.json
+discord-bot*/channels.json
 processed_videos.json
 video_summaries.json
