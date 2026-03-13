@@ -7,46 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 16:41:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 17:14:09 +0000</lastBuildDate>
     <item>
       <title>AK (@_akhaliq)</title>
-      <link>https://x.com/_akhaliq/status/2032489548777763133</link>
-      <description>層間インデックス再利用により、スパースアテンションを高速化する技術が発表された。</description>
+      <link>https://x.com/_akhaliq/status/2032497377869787501</link>
+      <description>動画推論モデルの実用性に関する研究論文が公開された。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;AK&lt;/strong&gt; &lt;a href="https://x.com/_akhaliq"&gt;@_akhaliq&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;IndexCache&lt;br&gt;&lt;br&gt;Accelerating Sparse Attention via Cross-Layer Index Reuse&lt;br&gt;&lt;br&gt;paper: https://huggingface.co/papers/2603.12201…&lt;/p&gt;
+&lt;p&gt;Are Video Reasoning Models Ready to Go Outside?&lt;br&gt;&lt;br&gt;paper: https://huggingface.co/papers/2603.10652…&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/_akhaliq/status/2032489548777763133"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_akhaliq/status/2032489548777763133</guid>
-      <pubDate>Fri, 13 Mar 2026 16:10:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>AK (@_akhaliq)</title>
-      <link>https://x.com/_akhaliq/status/2032485895178244151</link>
-      <description>テスト時学習を用いて視覚ベースの空間知能をストリーミングする技術が発表された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;AK&lt;/strong&gt; &lt;a href="https://x.com/_akhaliq"&gt;@_akhaliq&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Spatial-TTT&lt;br&gt;&lt;br&gt;Streaming Visual-based Spatial Intelligence with Test-Time Training&lt;br&gt;&lt;br&gt;paper: https://huggingface.co/papers/2603.12255…&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032485823577546752/img/PUFDrGlCJZTKO65S.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/_akhaliq/status/2032485895178244151"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_akhaliq/status/2032485895178244151</guid>
-      <pubDate>Fri, 13 Mar 2026 15:56:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>AK (@_akhaliq)</title>
-      <link>https://x.com/_akhaliq/status/2032490018661421217</link>
-      <description>テキストから複数ショットの動画を生成し、映画のようなカメラ制御を可能にする技術が発表された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;AK&lt;/strong&gt; &lt;a href="https://x.com/_akhaliq"&gt;@_akhaliq&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ShotVerse&lt;br&gt;&lt;br&gt;Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation&lt;br&gt;&lt;br&gt;paper: https://huggingface.co/papers/2603.11421…&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032489949346615296/img/UAS2Mkfk0FUhn8-F.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/_akhaliq/status/2032490018661421217"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_akhaliq/status/2032490018661421217</guid>
-      <pubDate>Fri, 13 Mar 2026 16:12:36 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/_akhaliq/status/2032497377869787501"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_akhaliq/status/2032497377869787501</guid>
+      <pubDate>Fri, 13 Mar 2026 16:41:51 +0000</pubDate>
     </item>
     <item>
       <title>AK (@_akhaliq)</title>
       <link>https://x.com/_akhaliq/status/2032491434046112216</link>
-      <description>モバイルデバイス向けにリアルタイムでGaussian Splattingを実行する技術が発表された。</description>
+      <description>モバイルデバイス向けリアルタイムGaussian Splattingに関する論文が公開された。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;AK&lt;/strong&gt; &lt;a href="https://x.com/_akhaliq"&gt;@_akhaliq&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Mobile-GS&lt;br&gt;&lt;br&gt;Real-time Gaussian Splatting for Mobile Devices&lt;br&gt;&lt;br&gt;paper: https://huggingface.co/papers/2603.11531…&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032491312478343168/img/_AEd8iooRIYHaDNk.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -54,6 +30,30 @@
 &lt;p&gt;&lt;a href="https://x.com/_akhaliq/status/2032491434046112216"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/_akhaliq/status/2032491434046112216</guid>
       <pubDate>Fri, 13 Mar 2026 16:18:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>AK (@_akhaliq)</title>
+      <link>https://x.com/_akhaliq/status/2032497900660421088</link>
+      <description>生成事前分布を用いた決定論的動画深度推定に関する論文が公開された。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;AK&lt;/strong&gt; &lt;a href="https://x.com/_akhaliq"&gt;@_akhaliq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DVD&lt;br&gt;&lt;br&gt;Deterministic Video Depth Estimation with Generative Priors&lt;br&gt;&lt;br&gt;paper: https://huggingface.co/papers/2603.12250…&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032497827612422147/img/DjIKaMAot23YF4Oa.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/_akhaliq/status/2032497900660421088"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_akhaliq/status/2032497900660421088</guid>
+      <pubDate>Fri, 13 Mar 2026 16:43:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adina Yakup (@AdinaYakup)</title>
+      <link>https://x.com/AdinaYakup/status/2032497271581929827</link>
+      <description>7Bマルチモーダル視覚言語モデルがHugging Faceで公開された。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Adina Yakup&lt;/strong&gt; &lt;a href="https://x.com/AdinaYakup"&gt;@AdinaYakup&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Impressive 7B multimodal vision language model  &lt;br&gt;Available on @huggingface &lt;br&gt;&lt;br&gt;https://huggingface.co/RekaAI/reka-edge-2603…&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031774284872347651/img/lZCBgS6EmUS08NUB.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/AdinaYakup/status/2032497271581929827"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/AdinaYakup/status/2032497271581929827</guid>
+      <pubDate>Fri, 13 Mar 2026 16:41:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
