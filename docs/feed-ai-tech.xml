@@ -7,17 +7,40 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 15:37:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 16:09:59 +0000</lastBuildDate>
     <item>
       <title>Vincent Koc (@vincent_koc)</title>
       <link>https://x.com/vincent_koc/status/2032464024978563347</link>
-      <description>Openclawがプラグイン開発者向けに、必要な機能や課題、テスト方法に関するフィードバックを募集している。</description>
+      <description>OpenClawのプラグイン開発者向けに、必要な機能や開発上の課題についてフィードバックを求めている。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Vincent Koc&lt;/strong&gt; &lt;a href="https://x.com/vincent_koc"&gt;@vincent_koc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Looking for input / feedback for anyone developing plugins or looking to develop plugins on @openclaw &lt;br&gt;- What hooks/features are you looking for?&lt;br&gt;- What is stopping you from plugins?&lt;br&gt;- Any key pain points?&lt;br&gt;- How do you test when developing?&lt;br&gt;DM's open or drop comments here :)&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://x.com/vincent_koc/status/2032464024978563347"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/vincent_koc/status/2032464024978563347</guid>
       <pubDate>Fri, 13 Mar 2026 14:29:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>AK (@_akhaliq)</title>
+      <link>https://x.com/_akhaliq/status/2032485895178244151</link>
+      <description>ストリーミング視覚ベースの空間知能とテスト時学習に関する研究論文が公開された。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;AK&lt;/strong&gt; &lt;a href="https://x.com/_akhaliq"&gt;@_akhaliq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Spatial-TTT&lt;br&gt;&lt;br&gt;Streaming Visual-based Spatial Intelligence with Test-Time Training&lt;br&gt;&lt;br&gt;paper: https://huggingface.co/papers/2603.12255…&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032485823577546752/img/PUFDrGlCJZTKO65S.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/_akhaliq/status/2032485895178244151"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_akhaliq/status/2032485895178244151</guid>
+      <pubDate>Fri, 13 Mar 2026 15:56:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>AK (@_akhaliq)</title>
+      <link>https://x.com/_akhaliq/status/2032489108258349327</link>
+      <description>AIエージェントと人間が文書コレクションをどのように推論するかに関する研究論文が公開された。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;AK&lt;/strong&gt; &lt;a href="https://x.com/_akhaliq"&gt;@_akhaliq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Strategic Navigation or Stochastic Search?&lt;br&gt;&lt;br&gt;How Agents and Humans Reason Over Document Collections&lt;br&gt;&lt;br&gt;paper: https://huggingface.co/papers/2603.12180…&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/_akhaliq/status/2032489108258349327"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/_akhaliq/status/2032489108258349327</guid>
+      <pubDate>Fri, 13 Mar 2026 16:08:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
