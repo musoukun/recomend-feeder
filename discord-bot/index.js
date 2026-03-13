@@ -94,7 +94,7 @@ async function pollFeeds(client, posted) {
 
         // 要約（RSSのdescription） + URL だけ投稿
         // DiscordがURL先のOGPプレビューを自動展開する
-        const summary = item.contentSnippet || "";
+        const summary = item.description || "";
         const tweetUrl = item.link || "";
         let message = "";
         if (summary && summary.length <= 100) {

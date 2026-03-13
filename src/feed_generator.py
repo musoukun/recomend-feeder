@@ -83,7 +83,7 @@ def _write_feed(
 
         content_html = _build_content_html(tweet)
         fe.content(content_html, type="html")
-        fe.description(tweet.get("summary") or tweet["text"][:200])
+        fe.description(tweet.get("summary") or "")
 
         if tweet.get("timestamp"):
             try:
