@@ -7,156 +7,102 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 01:46:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 02:18:35 +0000</lastBuildDate>
     <item>
-      <title>まつにぃ (@yugen_matuni)</title>
-      <link>https://x.com/yugen_matuni/status/2032072064618938588</link>
-      <description>AmazfitスマートウォッチでVibeCodingアプリを開発・検証し、様々な活用法を探る予定。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;まつにぃ&lt;/strong&gt; &lt;a href="https://x.com/yugen_matuni"&gt;@yugen_matuni&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AmazfitというスマートウォッチでVibeCodingしたアプリをデバイス側で利用できるので色々検証する予定。&lt;br&gt;&lt;br&gt;これは単なるクリッカーアプリですがめっちゃ色々遊べそうなので、検証しまくります。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNexLnbQAMX-jt?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNexLfbQAcTdPZ?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>ふくぶん(Fukubun) (@FFBuncho)</title>
+      <link>https://x.com/FFBuncho/status/2032115172404596802</link>
+      <description>Grok Imagineの新機能で、「@」で画像を呼び出しプロンプトで指示すると、動画を生成できる。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ふくぶん(Fukubun)&lt;/strong&gt; &lt;a href="https://x.com/FFBuncho"&gt;@FFBuncho&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;これは画期的かも！！&lt;br&gt;Grok Imagineの新機能！！&lt;br&gt;&lt;br&gt;「@」で画像を呼び出して、プロンプトで指示したら・・・&lt;br&gt;試しに5秒後に頭に載せてみました。&lt;br&gt;工夫次第ではかなり遊べそう！！&lt;br&gt;ぜひやってみてください！！&lt;br&gt;&lt;br&gt;←画像&amp;プロンプト&lt;br&gt;　完成した動画→&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOFRuAbQAMqVwK?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032114942338588672/img/RGxODC-W8DBMz-XJ.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/yugen_matuni/status/2032072064618938588"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/yugen_matuni/status/2032072064618938588</guid>
-      <pubDate>Thu, 12 Mar 2026 12:31:48 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/FFBuncho/status/2032115172404596802"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/FFBuncho/status/2032115172404596802</guid>
+      <pubDate>Thu, 12 Mar 2026 15:23:06 +0000</pubDate>
     </item>
     <item>
-      <title>だいち＠家族大好きエンジニア (@da_i_chi_dev)</title>
-      <link>https://x.com/da_i_chi_dev/status/2032245279085510690</link>
-      <description>パーミッションhookをexit 2で終了すると全ツールがブロックされる。PreToolUse hookはexit 0で継続。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;だいち＠家族大好きエンジニア&lt;/strong&gt; &lt;a href="https://x.com/da_i_chi_dev"&gt;@da_i_chi_dev&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;パーミッションのhookをexit 2で終わらせたら、全ツール実行がブロックされた。&lt;br&gt;PreToolUse hookは必ずexit 0で終わること。&lt;br&gt;0=継続、2=ブロック、その他=hook失敗。ログ収集用は絶対に0。詳しくはスレッドに&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/2032245260454395904/pu/img/QUTcRru_U_EiQV-3.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>なぁさん｜AIと働くひとり社長 (@nasan_0422)</title>
+      <link>https://x.com/nasan_0422/status/2031944545039163760</link>
+      <description>PerplexityがMacに常駐し、ファイルやアプリにアクセスして自動で調査やメール作成を行うAI秘書サービスを発表。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;なぁさん｜AIと働くひとり社長&lt;/strong&gt; &lt;a href="https://x.com/nasan_0422"&gt;@nasan_0422&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Open claw一強ではなくなりました。&lt;br&gt;&lt;br&gt;AIが24時間ユーザーの代わりに働く新しい仕組みをPerplexityが発表。専用のMac mini上で常時動作し、ファイルやアプリ、作業履歴にアクセスして調査やメール作成などを自動処理する。いわば「Macに常駐するAI秘書」のようなサービス。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031790064456646657/img/VnlAS6_zmZn4Dkxt.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/da_i_chi_dev/status/2032245279085510690"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/da_i_chi_dev/status/2032245279085510690</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:06 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/nasan_0422/status/2031944545039163760"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/nasan_0422/status/2031944545039163760</guid>
+      <pubDate>Thu, 12 Mar 2026 04:05:05 +0000</pubDate>
     </item>
     <item>
-      <title>Photogenic Weekend (@PhotogenicWeekE)</title>
-      <link>https://x.com/PhotogenicWeekE/status/2032266904090599764</link>
-      <description>iPhone風プロンプトとNvidia RTX Nodes ComfyUIでリアルなグラビア画像を生成できる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Photogenic Weekend&lt;/strong&gt; &lt;a href="https://x.com/PhotogenicWeekE"&gt;@PhotogenicWeekE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;iPhoneで素人撮った風System Promptを使ってグラビア出すと妙に生っぽい(笑) &lt; Nvidia_RTX_Nodes_ComfyUIで1.5x Upscale&lt;br&gt;https://github.com/Comfy-Org/Nvidia_RTX_Nodes_ComfyUI…&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQPzeWbUAAOyZJ?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQP0UdbQAMRP-C?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQP2f5aMAAL_IB?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQP3p2aUAARoGZ?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDMqB1dbQAMZn1T?format=jpg&amp;name=120x120" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDMqC0vbQAI0M_8?format=jpg&amp;name=120x120" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDMqDzLbQAM3uId?format=jpg&amp;name=120x120" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDMqFDmaAAA9KaQ?format=jpg&amp;name=120x120" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>ニケちゃん (@tegnike)</title>
+      <link>https://x.com/tegnike/status/2032060858595979267</link>
+      <description>OpenClawが環境を完全リセットし、記憶や設定も消去。コンテナ運用でなければ危険だったと驚きを表明。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ニケちゃん&lt;/strong&gt; &lt;a href="https://x.com/tegnike"&gt;@tegnike&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;すごい、メンバーの指示でマジで環境完全リセットした&lt;br&gt;記憶とかmdファイルとかだけじゃなくてその他の設定とかも全リセット&lt;br&gt;&lt;br&gt;これコンテナ運用じゃなかったらやばかったな笑&lt;br&gt;まだOpenClawに驚かされることがあるとは…&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDNUe8KXoAAcrye?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/PhotogenicWeekE/status/2032266904090599764"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/PhotogenicWeekE/status/2032266904090599764</guid>
-      <pubDate>Fri, 13 Mar 2026 01:26:02 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/tegnike/status/2032060858595979267"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/tegnike/status/2032060858595979267</guid>
+      <pubDate>Thu, 12 Mar 2026 11:47:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rくん (@Ldayo_m)</title>
+      <link>https://x.com/Ldayo_m/status/2032058522435797368</link>
+      <description>Claude Codeに日本語で指示するだけで、コードを書かずにSNS自動運用システムを完成させた。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Rくん&lt;/strong&gt; &lt;a href="https://x.com/Ldayo_m"&gt;@Ldayo_m&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude Codeに言っただけで、不労所得が完成したw&lt;br&gt;                  &lt;br&gt;「こういうの作りたい」って&lt;br&gt;日本語で話しかけただけで&lt;br&gt;SNS自動運用システムが完成した&lt;br&gt;&lt;br&gt;コード？一行も書いてない。&lt;br&gt;プログラミング？何それ状態。&lt;br&gt;&lt;br&gt;俺がやったの&lt;br&gt;「こんな感じのほしいんよなぁ」って&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDMn5J6bQAQmDy3?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/Ldayo_m/status/2032058522435797368"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Ldayo_m/status/2032058522435797368</guid>
+      <pubDate>Thu, 12 Mar 2026 11:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cascadeur – The Future of Animation (@cascadeur3d)</title>
+      <link>https://x.com/cascadeur3d/status/2032139562584006977</link>
+      <description>CascadeurがAI生成機能を発表、トークン・クレジット・クラウド不要でローカル実行可能な倫理的AIモデルを搭載。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Cascadeur – The Future of Animation&lt;/strong&gt; &lt;a href="https://x.com/cascadeur3d"&gt;@cascadeur3d&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Unlimited AI generations with Cascadeur.&lt;br&gt;No tokens. No credits. No cloud.&lt;br&gt;&lt;br&gt;We built our own ethical AI model – it runs right on your machine.&lt;br&gt;&lt;br&gt;#gamedev #indiedev #3Danimation #Cascadeur&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032120577104740352/img/L2McRkGchHqYGR8G.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/cascadeur3d/status/2032139562584006977"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/cascadeur3d/status/2032139562584006977</guid>
+      <pubDate>Thu, 12 Mar 2026 17:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>田中義弘 | taziku CEO / AI × Creative (@taziku_co)</title>
+      <link>https://x.com/taziku_co/status/2032056950918439137</link>
+      <description>DEEP Roboticsの四足歩行ロボが文化・遊び・造形で再解釈され、ロボットの差別化は機能より物語になると考察。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;田中義弘 | taziku CEO / AI × Creative&lt;/strong&gt; &lt;a href="https://x.com/taziku_co"&gt;@taziku_co&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DEEP Robotics（@DeepRobotics_CN）のYear of the Horse特別版、かなり良い。&lt;br&gt;&lt;br&gt;四足歩行ロボを性能競争ではなく、&lt;br&gt;文化×遊び×造形で再解釈している。&lt;br&gt;&lt;br&gt;ロボットの次の差別化は&lt;br&gt;機能より物語だと思う。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031909278878220290/img/mktK_RTJkFY6Ma8N.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/taziku_co/status/2032056950918439137"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/taziku_co/status/2032056950918439137</guid>
+      <pubDate>Thu, 12 Mar 2026 11:31:45 +0000</pubDate>
     </item>
     <item>
       <title>ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ  (@ai_hakase_)</title>
-      <link>https://x.com/ai_hakase_/status/2031914575281500355</link>
-      <description>分散型学習モデル「Covenant-72B」が誕生。720億パラメータ、1.1兆トークンを分散環境で学習。</description>
+      <link>https://x.com/ai_hakase_/status/2032216066064032055</link>
+      <description>AMD-AGIが新フレームワーク「Magpie」を公開し、AIがGPUカーネルを自律生成・最適化する時代が始まった。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ &lt;/strong&gt; &lt;a href="https://x.com/ai_hakase_"&gt;@ai_hakase_&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;分散型学習モデル「Covenant-72B」がAIの歴史を塗り替える！&lt;br&gt;  &lt;br&gt;世界中のGPUを繋いで作り上げた「Covenant-72B」が誕生しました！&lt;br&gt;&lt;br&gt; 技術的ポイント&lt;br&gt;・720億パラメータの超大規模モデル&lt;br&gt;・1.1兆トークンの学習を分散環境で完了&lt;br&gt;・誰でも参加・離脱が可能な自由な仕組み&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031388202523934720/img/CLY96Vy050N2B_M6.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;【GPUの常識を覆す！AIが自らコードを書く「Magpie」の衝撃】&lt;br&gt;  &lt;br&gt;AMD-AGIが公開した新フレームワーク「Magpie」により、AIがGPUカーネルを自律的に生成・最適化する時代が始まりました！&lt;br&gt;&lt;br&gt;■Magpieの革新的なポイント&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031096808215085056/img/Bqhch0WAbUCy6fP7.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/ai_hakase_/status/2031914575281500355"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/ai_hakase_/status/2031914575281500355</guid>
-      <pubDate>Thu, 12 Mar 2026 02:06:00 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/ai_hakase_/status/2032216066064032055"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/ai_hakase_/status/2032216066064032055</guid>
+      <pubDate>Thu, 12 Mar 2026 22:04:01 +0000</pubDate>
     </item>
     <item>
-      <title>ぬこぬこ / NUKO (@nukonuko)</title>
-      <link>https://x.com/nukonuko/status/2032231197804544394</link>
-      <description>Codexアプリがアップデートされ、AutomationsのGAやテーマのカスタマイズ機能が追加された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ぬこぬこ / NUKO&lt;/strong&gt; &lt;a href="https://x.com/nukonuko"&gt;@nukonuko&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Codex アプリがアップデート&lt;br&gt;&lt;br&gt;1. Automations が GA、モデルとリーズニングレベルを指定できたり、実行時に worktree か既存のブランチかを選べたり、テンプレより再利用可能なワークフローにしたり。&lt;br&gt;&lt;br&gt;2. テーマのインポートやカスタマイズ。設定の Appearance より。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032222645887123456/img/rBRwbkGMNcIQuryP.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>null-sensei (@GOROman)</title>
+      <link>https://x.com/GOROman/status/2032247849019429350</link>
+      <description>NVIDIAが約4兆円を投じてオープンウェイトのAIモデルを構築する計画を発表した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;null-sensei&lt;/strong&gt; &lt;a href="https://x.com/GOROman"&gt;@GOROman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;NVIDIA 約4兆円を投じ「オープンウェイト」AIモデルを構築へ&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/nukonuko/status/2032231197804544394"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/nukonuko/status/2032231197804544394</guid>
-      <pubDate>Thu, 12 Mar 2026 23:04:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>のとろ (@notoro_ai)</title>
-      <link>https://x.com/notoro_ai/status/2032111955708953007</link>
-      <description>AIで動画を生成する際、複数枚の画像を使うと絵柄が崩れにくいという発見。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;のとろ&lt;/strong&gt; &lt;a href="https://x.com/notoro_ai"&gt;@notoro_ai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;おや！？　複数枚で動画を作ると絵柄が崩れにくい気がします！！&lt;br&gt;４枚 ⇔ １枚&lt;br&gt;プロンプト：かわいいダンス&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032111183457816576/img/lzA-LBYycdB_g-cd.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032111220774604800/img/y-28TrJu1nkp-4wr.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/notoro_ai/status/2032111955708953007"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/notoro_ai/status/2032111955708953007</guid>
-      <pubDate>Thu, 12 Mar 2026 15:10:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>NOBU (@nbykos)</title>
-      <link>https://x.com/nbykos/status/2032188992842822105</link>
-      <description>Cascadeurからローカルで動くモーション生成AIが登場予定で、Seedance2と連携可能。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;NOBU&lt;/strong&gt; &lt;a href="https://x.com/nbykos"&gt;@nbykos&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;タイミングが良い。&lt;br&gt;Cascadeurからローカルで動くモーション生成AIが出るらしい。&lt;br&gt;Seedance2のモーション参照と組み合わせて使えるはず。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032120577104740352/img/L2McRkGchHqYGR8G.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/nbykos/status/2032188992842822105"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/nbykos/status/2032188992842822105</guid>
-      <pubDate>Thu, 12 Mar 2026 20:16:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>ヒナキラ┃AIクリエイティブ × AIツール開発 (@hinakira_gpts)</title>
-      <link>https://x.com/hinakira_gpts/status/2031909807373058272</link>
-      <description>高性能AI「Claude」に新機能「プラグイン」が登場し、AIへの作業依頼がより容易になった。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ヒナキラ┃AIクリエイティブ × AIツール開発&lt;/strong&gt; &lt;a href="https://x.com/hinakira_gpts"&gt;@hinakira_gpts&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;昨日まで「AIにお願い」していたことが、今日から「AIに丸投げ」に変わります。&lt;br&gt;&lt;br&gt;Claude（クロード：高性能なAIの一つ）に、新機能「プラグイン」が登場しました！&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/hinakira_gpts/status/2031909807373058272"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/hinakira_gpts/status/2031909807373058272</guid>
-      <pubDate>Thu, 12 Mar 2026 01:47:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tetsuro Miyatake (@tmiyatake1)</title>
-      <link>https://x.com/tmiyatake1/status/2032246762770215384</link>
-      <description>MicrosoftがAIコンシェルジュ医者「Copilot Health」を発表。パーソナルなヘルスケアアドバイスを提供する。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Tetsuro Miyatake&lt;/strong&gt; &lt;a href="https://x.com/tmiyatake1"&gt;@tmiyatake1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;MicrosoftがAIコンシェルジュ医者「Copilot Health」を披露した。&lt;br&gt;&lt;br&gt;パーソナライズされたヘルスケア周りのアドバイスを提供してくれる。&lt;br&gt;&lt;br&gt;https://wsj.com/tech/ai/microsofts-new-ai-health-tool-can-read-your-medical-records-and-give-advice-d731f883…&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032109711244607491/img/MK5eArAMkgIxY5Pj.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/tmiyatake1/status/2032246762770215384"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/tmiyatake1/status/2032246762770215384</guid>
-      <pubDate>Fri, 13 Mar 2026 00:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UMINEKO STUDIO (@UminekoStudio)</title>
-      <link>https://x.com/UminekoStudio/status/2032024034901442596</link>
-      <description>会話劇制作でストップウォッチを使い、尺を測ってKling3.0で動画を生成している。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;UMINEKO STUDIO&lt;/strong&gt; &lt;a href="https://x.com/UminekoStudio"&gt;@UminekoStudio&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;会話劇を作るにあたり、常に手元に置いてあるのが“ストップウォッチ”です。台詞を自分で言いながらストップウォッチで計測し、尺と間を想定して、Kling3.0でその秒数で生成しています。添付動画はそうして制作してる「マチとフミ」というユル系御褒美コメディのワンシーンです&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032023026418810881/img/8JyoBsO3rO9drU7u.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/UminekoStudio/status/2032024034901442596"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/UminekoStudio/status/2032024034901442596</guid>
-      <pubDate>Thu, 12 Mar 2026 09:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>テスカス (@model3yokohama)</title>
-      <link>https://x.com/model3yokohama/status/2032147222591389901</link>
-      <description>イーロン・マスクが提唱するテスラ車での分散コンピューティングが実現に近づいている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;テスカス&lt;/strong&gt; &lt;a href="https://x.com/model3yokohama"&gt;@model3yokohama&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;なんかすごいことなってきた。イーロンは前から「テスラ車で分散コンピューティングする」って言ってたけど、いよいよ来るね。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/model3yokohama/status/2032147222591389901"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/model3yokohama/status/2032147222591389901</guid>
-      <pubDate>Thu, 12 Mar 2026 17:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hiroya Iizuka (@0317_hiroya)</title>
-      <link>https://x.com/0317_hiroya/status/2032020621224526156</link>
-      <description>freeeのAPIスキルがGitHubで公開されている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Hiroya Iizuka&lt;/strong&gt; &lt;a href="https://x.com/0317_hiroya"&gt;@0317_hiroya&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;freee Skillあるやんけ...&lt;br&gt;&lt;br&gt;https://github.com/freee/freee-mcp/tree/main/skills/freee-api-skill…&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/0317_hiroya/status/2032020621224526156"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/0317_hiroya/status/2032020621224526156</guid>
-      <pubDate>Thu, 12 Mar 2026 09:07:23 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/GOROman/status/2032247849019429350"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/GOROman/status/2032247849019429350</guid>
+      <pubDate>Fri, 13 Mar 2026 00:10:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
