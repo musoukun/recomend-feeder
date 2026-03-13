@@ -92,15 +92,19 @@ async function pollFeeds(client, posted) {
         const postedKey = `${channel_id}:${guid}`;
         if (!guid || posted.has(postedKey)) continue;
 
-        // 要約（RSSのdescription） + URL だけ投稿
-        // DiscordがURL先のOGPプレビューを自動展開する
-        const summary = item.description || "";
-        const tweetUrl = item.link || "";
+        const url = item.link || "";
+        const isYoutube = feedUrl.includes("youtuber");
         let message = "";
-        if (summary && summary.length <= 100) {
-          message = `💬 ${summary}\n${tweetUrl}`;
+
+        if (isYoutube) {
+          // YouTube: descriptionの1行目（タイトル行）を要約として使う
+          const desc = item.contentSnippet || "";
+          const firstLine = desc.split("\n").find((l) => l.trim()) || "";
+          message = firstLine ? `${firstLine}\n${url}` : url;
         } else {
-          message = tweetUrl;
+          // Twitter: 短い要約があれば付ける
+          const summary = item.contentSnippet || "";
+          message = summary && summary.length <= 100 ? `${summary}\n${url}` : url;
         }
 
         try {
