@@ -7,22 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 11:41:20 +0000</lastBuildDate>
-    <item>
-      <title>深津 貴之 / THE GUILD, note (@fladdict)</title>
-      <link>https://x.com/fladdict/status/2032319293132849310</link>
-      <description>多くのサービスはClaudeCodeで開発可能だが、自作・運用・保守のコストが見合わない場合が多い。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;深津 貴之 / THE GUILD, note&lt;/strong&gt; &lt;a href="https://x.com/fladdict"&gt;@fladdict&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;そう、多くのサービスはClaudeCodeで「作れる」が、自作して運用してメンテするコストは、だいたい見合わない。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/fladdict/status/2032319293132849310"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fladdict/status/2032319293132849310</guid>
-      <pubDate>Fri, 13 Mar 2026 04:54:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Mar 2026 12:00:50 +0000</lastBuildDate>
     <item>
       <title>Noah Smith  (@Noahpinion)</title>
       <link>https://x.com/Noahpinion/status/2032127775726022930</link>
-      <description>AI安全保障の議論において、AIを軽視する者と超知能に偏重する者が悪影響を与えている。</description>
+      <description>AI安全性の議論において、AIを軽視する立場と超知能に偏る立場が問題視されている。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Noah Smith &lt;/strong&gt; &lt;a href="https://x.com/Noahpinion"&gt;@Noahpinion&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Two groups of people have been extraordinarily bad for the AI safety discourse:&lt;br&gt;&lt;br&gt;1. Lefties like Emily Bender who dismiss AI as a useless toy&lt;br&gt;&lt;br&gt;2. Doomers like Yudkowsky who force the discussion to only focus on superintelligence&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDM52tlW4AAphKF?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -30,6 +19,17 @@
 &lt;p&gt;&lt;a href="https://x.com/Noahpinion/status/2032127775726022930"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/Noahpinion/status/2032127775726022930</guid>
       <pubDate>Thu, 12 Mar 2026 16:13:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>大曽根宏幸 / Hiroyuki Osone (@OsoneHiroyuki)</title>
+      <link>https://x.com/OsoneHiroyuki/status/2032360936825372862</link>
+      <description>政府の戦略17分野における主要技術で「フィジカルAI」が最重要項目として挙げられた。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;大曽根宏幸 / Hiroyuki Osone&lt;/strong&gt; &lt;a href="https://x.com/OsoneHiroyuki"&gt;@OsoneHiroyuki&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;戦略17分野における「主要な製品・技術等」&lt;br&gt;1がフィジカルAI&lt;br&gt;https://cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai3/shiryou1.pdf…&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/OsoneHiroyuki/status/2032360936825372862"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/OsoneHiroyuki/status/2032360936825372862</guid>
+      <pubDate>Fri, 13 Mar 2026 07:39:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

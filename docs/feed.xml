@@ -7,45 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 11:41:20 +0000</lastBuildDate>
-    <item>
-      <title>Simon Willison (@simonw)</title>
-      <link>https://x.com/simonw/status/2032305546129485851</link>
-      <description>Liquidテンプレート言語の性能が、autoresearch PRによりベンチマークスコアで53%向上した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Simon Willison&lt;/strong&gt; &lt;a href="https://x.com/simonw"&gt;@simonw&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Published some notes on @tobi's autoresearch PR that improved the performance benchmark scores of the Liquid template language (which Tobi created for Shopify 20 years ago) by a hefty 53% https://simonwillison.net/2026/Mar/13/liquid/…&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQzFqlbQAEjSDN?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/simonw/status/2032305546129485851"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/simonw/status/2032305546129485851</guid>
-      <pubDate>Fri, 13 Mar 2026 03:59:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>深津 貴之 / THE GUILD, note (@fladdict)</title>
-      <link>https://x.com/fladdict/status/2032315461506122113</link>
-      <description>ビジネスには適正サイズがあり、それを超えるとビジネスモデルを変えなければ自重で崩壊する。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;深津 貴之 / THE GUILD, note&lt;/strong&gt; &lt;a href="https://x.com/fladdict"&gt;@fladdict&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ビジネスには適正サイズがあってな…適正サイズを超えたらビジネスモデルを変えないと、自重で崩壊するんじゃ&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/fladdict/status/2032315461506122113"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fladdict/status/2032315461506122113</guid>
-      <pubDate>Fri, 13 Mar 2026 04:38:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>深津 貴之 / THE GUILD, note (@fladdict)</title>
-      <link>https://x.com/fladdict/status/2032319293132849310</link>
-      <description>多くのサービスはClaudeCodeで開発可能だが、自作・運用・保守のコストが見合わない場合が多い。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;深津 貴之 / THE GUILD, note&lt;/strong&gt; &lt;a href="https://x.com/fladdict"&gt;@fladdict&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;そう、多くのサービスはClaudeCodeで「作れる」が、自作して運用してメンテするコストは、だいたい見合わない。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/fladdict/status/2032319293132849310"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/fladdict/status/2032319293132849310</guid>
-      <pubDate>Fri, 13 Mar 2026 04:54:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Mar 2026 12:00:50 +0000</lastBuildDate>
     <item>
       <title>sumiren (@sumiren_t)</title>
       <link>https://x.com/sumiren_t/status/2032147575550460338</link>
-      <description>コスト削減目的のSaaS内製化は、営業生産性が低い組織の意思決定である可能性が高い。</description>
+      <description>コスト削減目的のSaaS内製化は、営業生産性が低い組織の意思決定である可能性を指摘。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;sumiren&lt;/strong&gt; &lt;a href="https://x.com/sumiren_t"&gt;@sumiren_t&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;これは企業においても同じな気がしていて、コスト削減のためにSaaSの内製化とかはじめたとしたら、営業生産性が低い組織ということなのではと思う。その人件費でトップライン伸ばせないからその意思決定になってるってことなので。年数千万払ってるとかならともかく&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
@@ -56,7 +22,7 @@
     <item>
       <title>Zhuokai Zhao (@zhuokaiz)</title>
       <link>https://x.com/zhuokaiz/status/2032201769053212682</link>
-      <description>AMI LabsとWorld Labsが合計20億ドル以上を調達し、世界モデルに注力。世界モデルの5つのカテゴリを解説し、JEPAを挙げた。</description>
+      <description>AMI LabsとWorld Labsがそれぞれ10億ドル超を調達し、ワールドモデルに注力。筆者はワールドモデルを5つのカテゴリに分類した。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Zhuokai Zhao&lt;/strong&gt; &lt;a href="https://x.com/zhuokaiz"&gt;@zhuokaiz&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;AMI Labs just raised $1.03B. World Labs raised $1B a few weeks earlier. Both are betting on world models.&lt;br&gt;&lt;br&gt;But almost nobody means the same thing by that term.&lt;br&gt;&lt;br&gt;Here are, in my view, five categories of world models.&lt;br&gt;&lt;br&gt;---&lt;br&gt;&lt;br&gt;1. Joint Embedding Predictive Architecture (JEPA)&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
@@ -67,7 +33,7 @@
     <item>
       <title>モジョン (@mojon1)</title>
       <link>https://x.com/mojon1/status/2032315696080961587</link>
-      <description>Photoshop betaでイラストの3D回転が可能になったが、破綻することもある。</description>
+      <description>Photoshopベータ版の3D回転機能でイラストも回転可能だが、破綻する場合もある。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;モジョン&lt;/strong&gt; &lt;a href="https://x.com/mojon1"&gt;@mojon1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Photoshop betaの3D回転。イラストも回転できた…&lt;br&gt;（破綻することもある）&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032314797463912451/img/zs2D54HetXWsZcEU.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -80,7 +46,7 @@
     <item>
       <title>Noah Smith  (@Noahpinion)</title>
       <link>https://x.com/Noahpinion/status/2032127775726022930</link>
-      <description>AI安全保障の議論において、AIを軽視する者と超知能に偏重する者が悪影響を与えている。</description>
+      <description>AI安全性の議論において、AIを軽視する立場と超知能に偏る立場が問題視されている。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Noah Smith &lt;/strong&gt; &lt;a href="https://x.com/Noahpinion"&gt;@Noahpinion&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Two groups of people have been extraordinarily bad for the AI safety discourse:&lt;br&gt;&lt;br&gt;1. Lefties like Emily Bender who dismiss AI as a useless toy&lt;br&gt;&lt;br&gt;2. Doomers like Yudkowsky who force the discussion to only focus on superintelligence&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDM52tlW4AAphKF?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -92,7 +58,7 @@
     <item>
       <title>深津 貴之 / THE GUILD, note (@fladdict)</title>
       <link>https://x.com/fladdict/status/2032375956602830974</link>
-      <description>GPT5.4にClaude Codeの作成を指示するテストを実施する。</description>
+      <description>GPT5.4に「Claude Code」の生成を指示するテストが行われている。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;深津 貴之 / THE GUILD, note&lt;/strong&gt; &lt;a href="https://x.com/fladdict"&gt;@fladdict&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;GPT5.4に「Claude Code作って」とオーダーしてみるテスト&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
@@ -101,21 +67,9 @@
       <pubDate>Fri, 13 Mar 2026 08:39:22 +0000</pubDate>
     </item>
     <item>
-      <title>ぱんなこった (@minrch_sec)</title>
-      <link>https://x.com/minrch_sec/status/2032384941535944711</link>
-      <description>FT-LLM2026コンペで日本語ロボット基盤モデル（VLA）開発に取り組み、知見を共有した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ぱんなこった&lt;/strong&gt; &lt;a href="https://x.com/minrch_sec"&gt;@minrch_sec&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;FT-LLM2026コンペで日本語ロボット基盤モデル（VLA）の開発に取り組みました！入賞なりませんでしたが、数少ない日本語VLA開発の知見を共有できたと思います。運営の皆さま、発表見に来ていただいた皆さまありがとうございました&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDR7VQabIAAgcfu?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/minrch_sec/status/2032384941535944711"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/minrch_sec/status/2032384941535944711</guid>
-      <pubDate>Fri, 13 Mar 2026 09:15:04 +0000</pubDate>
-    </item>
-    <item>
       <title>深津 貴之 / THE GUILD, note (@fladdict)</title>
       <link>https://x.com/fladdict/status/2032383944558293085</link>
-      <description>イランが世界経済を巻き込む非対称戦を仕掛けようとしている。</description>
+      <description>イランが世界経済を巻き込む非対称戦を仕掛ける意図があると指摘。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;深津 貴之 / THE GUILD, note&lt;/strong&gt; &lt;a href="https://x.com/fladdict"&gt;@fladdict&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;イラン、ピンポイントに世界経済を巻き込み事故するつもりやな。コストの「非対称戦」だ。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;政治&lt;/span&gt;&lt;/p&gt;
@@ -124,12 +78,23 @@
       <pubDate>Fri, 13 Mar 2026 09:11:06 +0000</pubDate>
     </item>
     <item>
+      <title>布留川英一 / Hidekazu Furukawa (@npaka123)</title>
+      <link>https://x.com/npaka123/status/2032383605029400738</link>
+      <description>大規模言語モデルの仕組みを解説する書籍の書評が公開された。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;布留川英一 / Hidekazu Furukawa&lt;/strong&gt; &lt;a href="https://x.com/npaka123"&gt;@npaka123&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;書評書きました。&lt;br&gt;&lt;br&gt;【書評】 作ってわかる大規模言語モデルの仕組み｜npaka @npaka123&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/npaka123/status/2032383605029400738"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/npaka123/status/2032383605029400738</guid>
+      <pubDate>Fri, 13 Mar 2026 09:09:45 +0000</pubDate>
+    </item>
+    <item>
       <title>大曽根宏幸 / Hiroyuki Osone (@OsoneHiroyuki)</title>
       <link>https://x.com/OsoneHiroyuki/status/2032360936825372862</link>
-      <description>政府の戦略17分野で「フィジカルAI」が主要技術の筆頭に挙げられている。</description>
+      <description>政府の戦略17分野における主要技術で「フィジカルAI」が最重要項目として挙げられた。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;大曽根宏幸 / Hiroyuki Osone&lt;/strong&gt; &lt;a href="https://x.com/OsoneHiroyuki"&gt;@OsoneHiroyuki&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;戦略17分野における「主要な製品・技術等」&lt;br&gt;1がフィジカルAI&lt;br&gt;https://cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai3/shiryou1.pdf…&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;政治&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://x.com/OsoneHiroyuki/status/2032360936825372862"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/OsoneHiroyuki/status/2032360936825372862</guid>
       <pubDate>Fri, 13 Mar 2026 07:39:41 +0000</pubDate>
@@ -137,7 +102,7 @@
     <item>
       <title>布留川英一 / Hidekazu Furukawa (@npaka123)</title>
       <link>https://x.com/npaka123/status/2032392758674288716</link>
-      <description>VRChatアバターをAIチャットで自動改変できる無料のUnityエディタ拡張「Unity AI Agent」がリリース。</description>
+      <description>VRChatアバターをAIチャットで自動改変できる無料のUnityエディタ拡張「Unity AI Agent」がリリースされた。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;布留川英一 / Hidekazu Furukawa&lt;/strong&gt; &lt;a href="https://x.com/npaka123"&gt;@npaka123&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;VRChatアバターカスタマイズが可能な無料のAIエージェント「Unity AI Agent」リリース！ Unity Editor上でAIとチャットするだけでアバター改変の操作を自動で実行するUnityエディタ拡張&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
@@ -148,7 +113,7 @@
     <item>
       <title>Ryan Yuan (@RainbowYuhui)</title>
       <link>https://x.com/RainbowYuhui/status/2032330740382515434</link>
-      <description>Canvaが世界最先端の画像レイヤー分解AIモデル「MagicLayers」をグローバル展開。</description>
+      <description>Canvaが画像からレイヤーを分解するAIモデル「MagicLayers」をグローバル展開。Qwen-Image-Layerより20～200倍高速でデザインに強い。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Ryan Yuan&lt;/strong&gt; &lt;a href="https://x.com/RainbowYuhui"&gt;@RainbowYuhui&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We’re excited to launch #MagicLayers globally at Canva &lt;br&gt;&lt;br&gt;This is currently the most advanced image-to-layer decomposition model in the world-purpose-built for design-native content.&lt;br&gt;&lt;br&gt; 20–200× faster than Qwen-Image-Layer&lt;br&gt; Super strong on designs&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
@@ -159,7 +124,7 @@
     <item>
       <title>DailyPapers (@HuggingPapers)</title>
       <link>https://x.com/HuggingPapers/status/2032369818221891817</link>
-      <description>Tencentと清華大学が、ストリーミング空間知能向けにテスト時学習Spatial-TTTを発表。</description>
+      <description>Tencentと清華大学の研究者が、ストリーミング空間知能向けにテスト時学習Spatial-TTTを発表。適応型高速重みで3D情報を蓄積する。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;DailyPapers&lt;/strong&gt; &lt;a href="https://x.com/HuggingPapers"&gt;@HuggingPapers&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Spatial-TTT&lt;br&gt;&lt;br&gt;Tencent Hunyuan and Tsinghua researchers introduce test-time training for streaming spatial intelligence, using adaptive fast weights to accumulate 3D evidence from unbounded video with near-linear memory scaling.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/2032369746373394432/pu/img/sNMbIaOVPxnxwr8Y.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -171,7 +136,7 @@
     <item>
       <title>DailyPapers (@HuggingPapers)</title>
       <link>https://x.com/HuggingPapers/status/2032316294301659170</link>
-      <description>FIRMは、強化学習ベースの画像編集・生成向けに堅牢な報酬モデルとベンチマークを導入した。</description>
+      <description>FIRMは、強化学習ベースの画像編集・生成向けに堅牢な報酬モデルと専用の8B批評家、FIRM-Benchベンチマークを導入した。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;DailyPapers&lt;/strong&gt; &lt;a href="https://x.com/HuggingPapers"&gt;@HuggingPapers&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Trust Your Critic&lt;br&gt;&lt;br&gt;FIRM introduces robust reward models for RL-based image editing and generation with 370K editing and 293K generation samples, specialized 8B critics, and the FIRM-Bench benchmark.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQ85fLXcAACTMf?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -181,9 +146,21 @@
       <pubDate>Fri, 13 Mar 2026 04:42:17 +0000</pubDate>
     </item>
     <item>
+      <title>Taku (@taku_sid)</title>
+      <link>https://x.com/taku_sid/status/2032408080131260593</link>
+      <description>SO-101改のテレオペレーション機能が問題なく動作した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Taku&lt;/strong&gt; &lt;a href="https://x.com/taku_sid"&gt;@taku_sid&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SO-101改のテレオペも問題なく動いた&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/2032408020999864320/pu/img/xjdBXXUETiNYBHXm.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/taku_sid/status/2032408080131260593"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/taku_sid/status/2032408080131260593</guid>
+      <pubDate>Fri, 13 Mar 2026 10:47:01 +0000</pubDate>
+    </item>
+    <item>
       <title>HomeMadeGarbage (@H0meMadeGarbage)</title>
       <link>https://x.com/H0meMadeGarbage/status/2032352236563734714</link>
-      <description>ロボットシミュレーションのMuJoCoは、正確なモデリングができれば実機と遜色ない性能を発揮する。</description>
+      <description>ロボットシミュレータMuJoCoは、正確なモデリングができれば実機と遜色ない性能を発揮する。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;HomeMadeGarbage&lt;/strong&gt; &lt;a href="https://x.com/H0meMadeGarbage"&gt;@H0meMadeGarbage&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;MuJoCo&lt;br&gt;モデリングが正確にできれば実機と全く変わらない&lt;br&gt;&lt;br&gt;モデリングが正確にできれば&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032352002706194436/img/CYQthZRvtkOf0eav.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
@@ -195,7 +172,7 @@
     <item>
       <title>落合陽一 Yoichi OCHIAI (@ochyai)</title>
       <link>https://x.com/ochyai/status/2032402222437605765</link>
-      <description>落合陽一氏がNewsPicksで、東京で幸せになる条件は「面白がる」ことだと語る。</description>
+      <description>落合陽一氏がNewsPicksで、東京で幸せになる条件は「面白がる」ことだと語った。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;落合陽一 Yoichi OCHIAI&lt;/strong&gt; &lt;a href="https://x.com/ochyai"&gt;@ochyai&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;【落合陽一】東京で幸せになれる条件は「面白がる」こと｜NewsPicks https://newspicks.com/news/16163767/ #NewsPicks&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
@@ -206,7 +183,7 @@
     <item>
       <title>Kenneth Roth (@KenRoth)</title>
       <link>https://x.com/KenRoth/status/2032236952758436315</link>
-      <description>国連専門家パネルが、トランプ氏らのヘイトスピーチと移民政策が深刻な人権侵害を招いたと指摘。</description>
+      <description>国連専門家パネルが、トランプ氏らのヘイトスピーチと移民規制が米国で重大な人権侵害を引き起こしたと報告した。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Kenneth Roth&lt;/strong&gt; &lt;a href="https://x.com/KenRoth"&gt;@KenRoth&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A U.N.-backed panel of independent experts says racist hate speech by Trump and other American political leaders, along with a crackdown on immigration in the United States, have led to “grave human rights violations.”&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;政治&lt;/span&gt;&lt;/p&gt;
@@ -215,38 +192,15 @@
       <pubDate>Thu, 12 Mar 2026 23:27:01 +0000</pubDate>
     </item>
     <item>
-      <title>852話(hakoniwa) (@8co28)</title>
-      <link>https://x.com/8co28/status/2032417709405900879</link>
-      <description>偶然を装い会えたことを喜び、相手の認識をからかう。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;852話(hakoniwa)&lt;/strong&gt; &lt;a href="https://x.com/8co28"&gt;@8co28&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;「今日も会えましたね！ふふっ、『偶然』？たまたま、って思ってるんですか？かーわいいｗ」&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032417584654802944/img/4o2g0zqRvuteEYDr.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;恋愛&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/8co28/status/2032417709405900879"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/8co28/status/2032417709405900879</guid>
-      <pubDate>Fri, 13 Mar 2026 11:25:17 +0000</pubDate>
-    </item>
-    <item>
       <title>深津 貴之 / THE GUILD, note (@fladdict)</title>
       <link>https://x.com/fladdict/status/2032418986567303612</link>
-      <description>AIが日常生活に不可欠になりつつあり、マップとGeminiの融合が進む。</description>
+      <description>AIが日常生活に不可欠になりつつあり、GoogleマップとGeminiが融合した。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;深津 貴之 / THE GUILD, note&lt;/strong&gt; &lt;a href="https://x.com/fladdict"&gt;@fladdict&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;そろそろAIに触らない日常生活というのが、成立しなくなってきてる。マップとGeminiが融合。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://x.com/fladdict/status/2032418986567303612"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/fladdict/status/2032418986567303612</guid>
       <pubDate>Fri, 13 Mar 2026 11:30:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>852話(hakoniwa) (@8co28)</title>
-      <link>https://x.com/8co28/status/2032421391170175086</link>
-      <description>田舎で唯一の若い女性であることを示唆し、相手に意味を問う。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;852話(hakoniwa)&lt;/strong&gt; &lt;a href="https://x.com/8co28"&gt;@8co28&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;「このド田舎……私しか若い女、いないの。……意味、わかる？」&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;恋愛&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/8co28/status/2032421391170175086"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/8co28/status/2032421391170175086</guid>
-      <pubDate>Fri, 13 Mar 2026 11:39:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
