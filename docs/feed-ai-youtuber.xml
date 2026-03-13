@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 17:13:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 18:20:35 +0000</lastBuildDate>
     <item>
       <title>AI Jason - wtf is Harness Engineer &amp; why is it important</title>
       <link>https://www.youtube.com/watch?v=kJPvfoLtFFY</link>
@@ -166,6 +166,29 @@ NVIDIAが、AI開発者向けの高性能なミニスーパーコンピュータ
       <content:encoded>&lt;p&gt;&lt;strong&gt;Matthew Berman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;## 未来の働き方、AIが変革する時代へ&lt;br&gt;&lt;br&gt;この動画は、未来のテクノロジーと働き方をテーマにしたライブイベント「The Future Live」の模様だ。SlackやMicrosoft AIといった大手企業のゲストが登壇し、2026年に向けた社会やビジネスの展望を語る。特に、人工知能（AI）の進化が私たちの仕事やコラボレーションにどう影響するか、その最前線が議論された。&lt;br&gt;&lt;br&gt;1.  **AIが個人の業務を強化する**&lt;br&gt;    AIは単なる自動化ツールではなく、人間の創造性や戦略的思考を強化する「コパイロット（副操縦士）」として機能する。Microsoft AIの専門家は、データ分析や情報整理をAIが担うことで、人間はより高度な業務に集中できると指摘した。これにより、個人の生産性が大きく向上する。&lt;br&gt;&lt;br&gt;2.  **コラボレーションの質を高めるAI**&lt;br&gt;    Slackのようなコミュニケーションツールは、AIと連携してチーム間の連携をさらにスムーズにする。AIが会議の要約作成やタスクの自動割り当て、関連情報の提示を行うことで、物理的な距離に関わらず効率的な共同作業が可能になる。チームはより本質的な議論に時間を割けるようになる。&lt;br&gt;&lt;br&gt;3.  **ビジネスモデルの変革を加速**&lt;br&gt;    テクノロジーの進化は、企業の競争力やサービス提供のあり方を根本から変える。ゲスト企業は、AIを活用したパーソナライズされた顧客体験の提供や、データに基づいた迅速な意思決定が、今後のビジネス成長の鍵を握ると強調した。新たなサービスや製品開発のサイクルも加速する見込みだ。&lt;br&gt;&lt;br&gt;4.  **社会への影響と課題**&lt;br&gt;    技術の進化は多くの恩恵をもたらす一方で、倫理的な利用やデジタルデバイド（情報格差）、スキルの再教育の必要性といった課題も生じる。技術の恩恵を公平に享受するための社会的な枠組み作りが重要であり、企業や個人がこれらの変化にどう適応していくかが問われる。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=5dfu6NvnTZM"&gt;YouTubeで見る&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://www.youtube.com/watch?v=5dfu6NvnTZM</guid>
       <pubDate>Fri, 13 Mar 2026 16:31:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Matt Wolfe - AI News: They All Launched the Same Thing!</title>
+      <link>https://www.youtube.com/watch?v=syx_8UlEWlA</link>
+      <description>## AIニュース：各社が似たような新機能を発表！
+
+今週、AI業界では各社が競うように新機能を発表した。AnthropicのClaudeとOpenAIのChatGPTは、それぞれ対話形式でインタラクティブなビジュアルを生成する機能をリリース。PerplexityはAIエージェント機能「Perplexity Computer」を、CanvaはAIによる画像レイヤー分離機能「Magic Layers</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Matt Wolfe&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;## AIニュース：各社が似たような新機能を発表！&lt;br&gt;&lt;br&gt;今週、AI業界では各社が競うように新機能を発表した。AnthropicのClaudeとOpenAIのChatGPTは、それぞれ対話形式でインタラクティブなビジュアルを生成する機能をリリース。PerplexityはAIエージェント機能「Perplexity Computer」を、CanvaはAIによる画像レイヤー分離機能「Magic Layers」を公開した。NVIDIAとGoogleも新たなAIモデルやGeminiの統合を発表し、AI技術の進化が加速している。&lt;br&gt;&lt;br&gt;### Claudeが対話型ビジュアル生成機能を強化&lt;br&gt;&lt;br&gt;AnthropicのClaudeは、ユーザーの指示に基づいて、インタラクティブなグラフ、図、視覚化を対話形式で生成できるようになった。例えば、複利計算のシミュレーション、AIモデルのリリース履歴のタイムライン、AI企業の所在地マップなどを生成可能だ。これにより、複雑な情報を視覚的に理解しやすくなる。ただし、複雑なビジュアルの生成には時間がかかったり、地図の正確性や表示に課題が見られたりするケースもある。&lt;br&gt;&lt;br&gt;### ChatGPTが数学・科学の概念をインタラクティブに解説&lt;br&gt;&lt;br&gt;OpenAIのChatGPTも、数学や科学の概念をインタラクティブなビジュアルで学べる新機能を導入した。Claudeと同様に、スライダーで数値を変更するとリアルタイムでビジュアルが変化する。この機能はClaudeよりも高速にビジュアルを生成できる。しかし、現時点では事前に用意された約70種類の学習ブロックから提供されるため、完全に自由なカスタムビジュアルの生成はできない。&lt;br&gt;&lt;br&gt;### Perplexity ComputerでAIエージェントがMac mini上で稼働&lt;br&gt;&lt;br&gt;Perplexityは、AIエージェント機能「Perplexity Computer」を発表した。これは専用のMac mini上で24時間稼働し、ローカルアプリやPerplexityのセキュアサーバーに接続して、ツールやタスク、ファイルを横断して作業を自動化する。マーケティングレポート作成やポートフォリオ分析など、多様なビジネスユースケースに対応可能だ。ただし、ユーザーが自身のMac miniにインストールするのではなく、Perplexityが提供するMac miniにアクセスする形となる。&lt;br&gt;&lt;br&gt;### CanvaのMagic Layersで画像編集が革新的に&lt;br&gt;&lt;br&gt;Canvaは、AIが画像を分析し、被写体や背景などを複数のレイヤーに自動で分離する「Magic Layers」機能を導入した。これにより、各要素を個別に移動、編集、再構成できるため、デザインの自由度が大幅に向上する。AI生成画像だけでなく、実写画像にも適用可能で、YouTubeのサムネイルやSNS広告の作成などに非常に役立つ。&lt;br&gt;&lt;br&gt;### その他の注目AIニュース&lt;br&gt;&lt;br&gt;*   **NVIDIA Nemotron 3 Super:** 1200億パラメータのオープンウェイトハイブリッドモデルで、エージェントAIのワークフロー向けに最適化されている。PerplexityやHugging Faceなどのプラットフォームで利用可能だ。&lt;br&gt;*   **Google Gemini Embedding 2:** Google初のネイティブなマルチモーダル埋め込みモデル。テキスト、画像、動画、音声、ドキュメントを単一の埋め込み空間にマッピングし、マルチモーダルな情報検索と分類を可能にする。&lt;br&gt;*   **Google WorkspaceのGemini統合:** Google Docs、Sheets、Slides、DriveにGeminiが統合され、ドキュメント作成、スプレッドシートへのデータ入力、プレゼンテーションスライド生成などを支援する。Google AI UltraおよびProサブスクライバーのみが利用できる。&lt;br&gt;*   **X (旧Twitter) のGrok機能強化:** Grokが長文記事を読み上げる音声オプションを追加した。また、アップロードしたメディアのGrokによる編集をブロックする機能も追加され、ユーザーのプライバシー保護に配慮している。&lt;br&gt;*   **Claude Code Desktopのスケジュールタスク:** Claude Code Desktopで、コードレビューや依存関係の監査など、定期的なタスクをスケジュール設定できるようになった。&lt;br&gt;*   **Microsoft Copilot Health:** 医療データとウェアラブルデータを統合し、パーソナライズされた健康インサイトを提供するCopilot機能。&lt;br&gt;*   **Andrej Karpathyの「autoresearch」:** 大規模言語モデル（LLM）が自律的に実験を行い、自己最適化を繰り返すオープンソースシステム。研究者が介入することなく、モデルが継続的に改善される。&lt;br&gt;*   **MetaによるMoltbook買収:** AIエージェント向けのソーシャルネットワーク「Moltbook」をMetaが買収した。これはAIエージェントがコンテンツを生成・投稿し、他のAIエージェントがコメントするプラットフォームだ。Metaがクリエイターへの支払いを削減し、AIエージェントによる購買意思決定を促進する可能性も示唆されている。&lt;br&gt;*   **FigureのHelix O2 Living Room Tidyロボット:** ヒューマノイドロボットが散らかったリビングルームを片付けるデモを公開した。ただし、デモはすでに整理された部屋で行われており、実際の散らかった部屋での性能は不明な点もある。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=syx_8UlEWlA"&gt;YouTubeで見る&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=syx_8UlEWlA</guid>
+      <pubDate>Fri, 13 Mar 2026 16:14:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Matthew Berman - Why Rivian Uses BOTH Cameras and LiDAR</title>
+      <link>https://www.youtube.com/watch?v=lJhBWsnETFM</link>
+      <description>自動運転はカメラだけじゃない？RivianがLiDARを併用する理由
+
+自動運転技術において、人間のように「目」となるカメラだけでなく、**LiDAR（ライダー）**というレーザー光で周囲を認識するセンサーを併用する重要性が高まっている。電気自動車メーカーのRivian（リビアン）は、この両方を活用し、より安全で高精度な自動運転を目指している。
+
+1.  **高解像度カメラによる全方位視覚**
+ </description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Matthew Berman&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;自動運転はカメラだけじゃない？RivianがLiDARを併用する理由&lt;br&gt;&lt;br&gt;自動運転技術において、人間のように「目」となるカメラだけでなく、**LiDAR（ライダー）**というレーザー光で周囲を認識するセンサーを併用する重要性が高まっている。電気自動車メーカーのRivian（リビアン）は、この両方を活用し、より安全で高精度な自動運転を目指している。&lt;br&gt;&lt;br&gt;1.  **高解像度カメラによる全方位視覚**&lt;br&gt;    Rivianの自動運転システムは、人間の視覚に倣い、多数の高解像度カメラを搭載している。合計65メガピクセル相当のカメラを車体の各所に配置し、死角をなくす設計だ。これにより、車の周囲を広範囲かつ高精細に捉え、人間の目では見落としがちな情報も確実に収集する。&lt;br&gt;&lt;br&gt;2.  **LiDARが補完する悪条件下の認識力**&lt;br&gt;    LiDARは、レーザー光を照射してその反射時間から物体の距離や形状を三次元で正確に測定するセンサーだ。カメラが苦手とする**暗闇や逆光、霧などの悪天候下でも、非常に高い精度で周囲の状況を把握できる**。カメラとは異なる情報を提供し、システムの認識能力を強力に補完する。&lt;br&gt;&lt;br&gt;3.  **センサーフュージョンでAI学習を強化**&lt;br&gt;    カメラとLiDARはそれぞれ異なる特性を持つため、互いの弱点を補い合うことで、より堅牢な認識システムを構築する。特に、LiDARが提供する高精度な3D空間データは、カメラが捉えた画像データのAI学習において、正確な「正解」として活用される。これにより、自動運転システムの判断精度を飛躍的に向上させ、どんな状況でも信頼性の高い運転を可能にする。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=lJhBWsnETFM"&gt;YouTubeで見る&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=lJhBWsnETFM</guid>
+      <pubDate>Fri, 13 Mar 2026 17:10:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

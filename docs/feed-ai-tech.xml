@@ -7,34 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 17:45:50 +0000</lastBuildDate>
-    <item>
-      <title>AK (@_akhaliq)</title>
-      <link>https://x.com/_akhaliq/status/2032497377869787501</link>
-      <description>ビデオ推論モデルの実世界適用可能性を問う研究論文が公開された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;AK&lt;/strong&gt; &lt;a href="https://x.com/_akhaliq"&gt;@_akhaliq&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Are Video Reasoning Models Ready to Go Outside?&lt;br&gt;&lt;br&gt;paper: https://huggingface.co/papers/2603.10652…&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/_akhaliq/status/2032497377869787501"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_akhaliq/status/2032497377869787501</guid>
-      <pubDate>Fri, 13 Mar 2026 16:41:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>AK (@_akhaliq)</title>
-      <link>https://x.com/_akhaliq/status/2032497900660421088</link>
-      <description>生成事前分布を用いた決定論的ビデオ深度推定に関する論文が公開された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;AK&lt;/strong&gt; &lt;a href="https://x.com/_akhaliq"&gt;@_akhaliq&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;DVD&lt;br&gt;&lt;br&gt;Deterministic Video Depth Estimation with Generative Priors&lt;br&gt;&lt;br&gt;paper: https://huggingface.co/papers/2603.12250…&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032497827612422147/img/DjIKaMAot23YF4Oa.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/_akhaliq/status/2032497900660421088"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_akhaliq/status/2032497900660421088</guid>
-      <pubDate>Fri, 13 Mar 2026 16:43:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Mar 2026 18:21:35 +0000</lastBuildDate>
     <item>
       <title>Adina Yakup (@AdinaYakup)</title>
       <link>https://x.com/AdinaYakup/status/2032497271581929827</link>
-      <description>RekaAIが7Bマルチモーダル視覚言語モデルをHugging Faceで公開した。</description>
+      <description>7Bマルチモーダル視覚言語モデルがHugging Faceで公開され、利用可能になった。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Adina Yakup&lt;/strong&gt; &lt;a href="https://x.com/AdinaYakup"&gt;@AdinaYakup&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Impressive 7B multimodal vision language model  &lt;br&gt;Available on @huggingface &lt;br&gt;&lt;br&gt;https://huggingface.co/RekaAI/reka-edge-2603…&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031774284872347651/img/lZCBgS6EmUS08NUB.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
