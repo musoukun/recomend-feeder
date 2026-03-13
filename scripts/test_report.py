@@ -18,7 +18,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 from dotenv import load_dotenv
 
-load_dotenv(Path(__file__).parent.parent / "src" / ".env")
+load_dotenv(Path(__file__).parent.parent / ".env")
 
 from report_generator import (
     generate_tech_report,
