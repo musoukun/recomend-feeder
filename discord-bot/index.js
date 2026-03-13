@@ -97,10 +97,16 @@ async function pollFeeds(client, posted) {
         let message = "";
 
         if (isYoutube) {
-          // YouTube: descriptionの1行目（タイトル行）を要約として使う
-          const desc = item.contentSnippet || "";
-          const firstLine = desc.split("\n").find((l) => l.trim()) || "";
-          message = firstLine ? `${firstLine}\n${url}` : url;
+          // YouTube: content:encodedから要約全文を取得
+          const full = (item["content:encodedSnippet"] || "").trim();
+          // 先頭のチャンネル名行を除去
+          const lines = full.split("\n");
+          const body = lines.slice(1).join("\n").trim();
+          const summary = body || full;
+          // Discord 2000文字制限を考慮してカット
+          const maxLen = 1900 - url.length;
+          const trimmed = summary.length > maxLen ? summary.substring(0, maxLen) + "..." : summary;
+          message = `${trimmed}\n${url}`;
         } else {
           // Twitter: 短い要約があれば付ける
           const summary = item.contentSnippet || "";
