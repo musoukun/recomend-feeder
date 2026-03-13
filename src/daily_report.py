@@ -82,29 +82,24 @@ def load_youtube_summaries() -> list[dict]:
 def main() -> None:
     load_dotenv()
 
-    list_url = os.getenv(
-        "TWITTER_LIST_URL",
-        "https://x.com/i/lists/2032409039397966259",
-    )
-    tweet_count = int(os.getenv("REPORT_TWEET_COUNT", "30"))
+    tweet_count = int(os.getenv("REPORT_TWEET_COUNT", "50"))
     today_str = date.today().isoformat()
 
     # Load webhook config
     webhook_config = load_webhook_config()
 
-    # 1. Scrape Twitter list
-    logger.info("Scraping Twitter list: %s (target: %d)", list_url, tweet_count)
+    # 1. Scrape recommended timeline (/home)
+    logger.info("Scraping recommended timeline (target: %d)", tweet_count)
     tweets = scrape_timeline(
         tweet_count=tweet_count,
         headless=False,
-        target_url=list_url,
     )
 
     if not tweets:
-        logger.warning("No tweets scraped from list.")
+        logger.warning("No tweets scraped.")
         sys.exit(0)
 
-    logger.info("Scraped %d tweets from list", len(tweets))
+    logger.info("Scraped %d tweets", len(tweets))
 
     # 2. Blacklist filter
     blacklist = load_blacklist()
