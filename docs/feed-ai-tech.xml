@@ -7,63 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Mar 2026 23:48:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 00:10:57 +0000</lastBuildDate>
     <item>
-      <title>Will Eastcott (@willeastcott)</title>
-      <link>https://x.com/willeastcott/status/2032163475271672102</link>
-      <description>3D Gaussian splattingにより、ウェブでインタラクティブな体験を公開可能に。カメラ操作や情報ホットスポットなどに対応し、PlayCanvasでレンダリング。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Will Eastcott&lt;/strong&gt; &lt;a href="https://x.com/willeastcott"&gt;@willeastcott&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Thanks to 3D Gaussian splatting, you can now publish amazing interactive experiences to the web.&lt;br&gt; Orbit, fly and first person cameras&lt;br&gt; Informational hotspots&lt;br&gt; Full screen effects&lt;br&gt; Custom skyboxes&lt;br&gt;Rendered by @PlayCanvas. Served up on SuperSplat.&lt;br&gt;Free and open source!&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032162546124300289/img/gfYYPWLzKBEloWpM.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>シャツひゃん (@syatsuhyan)</title>
+      <link>https://x.com/syatsuhyan/status/2031556611391762801</link>
+      <description>イラスト生成AIは特殊性癖の供給源としてゲームチェンジャーだが、原作キャラの表現改変には倫理的な問題がある。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;シャツひゃん&lt;/strong&gt; &lt;a href="https://x.com/syatsuhyan"&gt;@syatsuhyan&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;特殊性癖過ぎて供給がないし金を積んでも描いてくれるか怪しい性癖の持ち主にとってイラスト生成AIはゲームチェンジャーだよなと思う一方で、原作で貧乳のキャラをあそこまで盛るのは国連安保理決議違反だろ経済制裁しろという気持ちがある&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/willeastcott/status/2032163475271672102"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/willeastcott/status/2032163475271672102</guid>
-      <pubDate>Thu, 12 Mar 2026 18:35:02 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/syatsuhyan/status/2031556611391762801"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/syatsuhyan/status/2031556611391762801</guid>
+      <pubDate>Wed, 11 Mar 2026 02:23:35 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI Developers (@OpenAIDevs)</title>
-      <link>https://x.com/OpenAIDevs/status/2032222711032971548</link>
-      <description>OpenAIのAutomationsがGAに。モデル設定、実行ブランチ選択、テンプレート再利用が可能で、繰り返しタスクに活用できる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;OpenAI Developers&lt;/strong&gt; &lt;a href="https://x.com/OpenAIDevs"&gt;@OpenAIDevs&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Automations are now GA.&lt;br&gt;&lt;br&gt;You can now:&lt;br&gt;• Set the model and reasoning level&lt;br&gt;• Choose if runs happen in a worktree or existing branch&lt;br&gt;• Reuse workflows with templates&lt;br&gt;&lt;br&gt;Automations are great for recurring tasks — daily repo briefings, issue triage, PR comment follow-up, and more.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032222645887123456/img/rBRwbkGMNcIQuryP.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>el.cine (@EHuanglu)</title>
+      <link>https://x.com/EHuanglu/status/2032098574851334249</link>
+      <description>GoogleマップがGeminiを搭載し、運転中に何でも質問できるようになる。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;el.cine&lt;/strong&gt; &lt;a href="https://x.com/EHuanglu"&gt;@EHuanglu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;woww.. google map now powered by gemini &lt;br&gt;&lt;br&gt;you can ask anything while driving&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032076696267186176/img/EapRAKiylkqsep_Z?format=jpg&amp;name=120x120" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/OpenAIDevs/status/2032222711032971548"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/OpenAIDevs/status/2032222711032971548</guid>
-      <pubDate>Thu, 12 Mar 2026 22:30:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>月読いおり  (@tukiyomiiori)</title>
-      <link>https://x.com/tukiyomiiori/status/2032240533821931902</link>
-      <description>Claude CodeのOpus 4.6 Plan Modeで、モデルをSonnetに切り替える便利技が紹介された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;月読いおり &lt;/strong&gt; &lt;a href="https://x.com/tukiyomiiori"&gt;@tukiyomiiori&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Claude Code の便利技。&lt;br&gt;&lt;br&gt;- Opus 4.6のPlan Modeでプランを考えさせる。&lt;br&gt;- ４つの選択肢が出るので、4番目の自由欄に「モデルをsonnetに切り替えてから、進めたいです」&lt;br&gt;&lt;br&gt;とすると、モデルを切り替えさせてくれてから、再び４つの選択肢を選ばせてくれる。&lt;br&gt;（Xで見たことないけど、有用です）&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/tukiyomiiori/status/2032240533821931902"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/tukiyomiiori/status/2032240533821931902</guid>
-      <pubDate>Thu, 12 Mar 2026 23:41:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kuko（いなりくこ）/ Nyagsic (@kukoinari)</title>
-      <link>https://x.com/kukoinari/status/2032059442204975430</link>
-      <description>AIキャラ制作者向けにAITuberやLLMキャラ、音声合成などをテーマにしたLT・交流イベントが開催される。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Kuko（いなりくこ）/ Nyagsic&lt;/strong&gt; &lt;a href="https://x.com/kukoinari"&gt;@kukoinari&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AIキャラ作ってる人、集まりませんか？&lt;br&gt;&lt;br&gt;Connect AI #1&lt;br&gt;&lt;br&gt;・AITuber&lt;br&gt;・LLMキャラクター&lt;br&gt;・音声合成&lt;br&gt;・Live2D / VRM&lt;br&gt;・Unity AIキャラ&lt;br&gt;などの話をするLT &amp; 交流イベントです。&lt;br&gt; 3/27 18:00〜21:00&lt;br&gt; 東京 + オンライン&lt;br&gt;参加&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/kukoinari/status/2032059442204975430"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/kukoinari/status/2032059442204975430</guid>
-      <pubDate>Thu, 12 Mar 2026 11:41:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>いっちー|ゲームプログラマー・プロデューサー出身のSS事業責任者&amp;EM @辰巳電子工業 (@itchie_tatsumi)</title>
-      <link>https://x.com/itchie_tatsumi/status/2031930683338469647</link>
-      <description>ベテランエンジニアはコード修正前にgit blameや過去チケット、cronなどを確認し影響を読み切る。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;いっちー|ゲームプログラマー・プロデューサー出身のSS事業責任者&amp;EM @辰巳電子工業&lt;/strong&gt; &lt;a href="https://x.com/itchie_tatsumi"&gt;@itchie_tatsumi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;「コードを書き直す」のは一瞬ですが、「周辺への影響を読み切る」のにはその数倍の時間がかかります。なので、ベテランエンジニアは、エディタを開く前にまずこれらを確認する人が多くなるようです。&lt;br&gt;&lt;br&gt;・git blame / 過去チケット（当時の背景などの記載）&lt;br&gt;・cron / バッチ / ジョブ&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/itchie_tatsumi/status/2031930683338469647"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/itchie_tatsumi/status/2031930683338469647</guid>
-      <pubDate>Thu, 12 Mar 2026 03:10:01 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/EHuanglu/status/2032098574851334249"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/EHuanglu/status/2032098574851334249</guid>
+      <pubDate>Thu, 12 Mar 2026 14:17:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
