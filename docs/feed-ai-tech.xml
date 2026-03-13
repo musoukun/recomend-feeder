@@ -7,88 +7,79 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 08:37:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 09:08:51 +0000</lastBuildDate>
     <item>
-      <title>すーさん (@su_san178210)</title>
-      <link>https://x.com/su_san178210/status/2032280551013695590</link>
-      <description>MacBook Neoの盛況から、8GB RAMのMacBookではなくWindows OSのメモリ管理が問題だと推測</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;すーさん&lt;/strong&gt; &lt;a href="https://x.com/su_san178210"&gt;@su_san178210&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Macbook Neoの盛況ぶりを見るに、クソなのはRAMが8GBしかないMacBook Neoではなく、メモリ不足でクソみたいな動作になるWindows OSだったのではって気がしてくるね(おそらくそう)&lt;/p&gt;
+      <title>鹿野護 (@zuga)</title>
+      <link>https://x.com/zuga/status/2032098968587677732</link>
+      <description>UE5.6でWater AdvancedプラグインをONにするだけで水面が反応するようになり、以前より設定が簡素化された。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;鹿野護&lt;/strong&gt; &lt;a href="https://x.com/zuga"&gt;@zuga&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Waterの波紋テスト。なんとWater AdvancedプラグインをONにするだけで水面が反応するように！おそらくUE5.6からかな？以前はBP_FluidSimを使っていろいろ面倒だったのに。驚きです。　 #GameDev #UE5&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032098786416513024/img/fUZNp62iJErPtoeY.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/su_san178210/status/2032280551013695590"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/su_san178210/status/2032280551013695590</guid>
-      <pubDate>Fri, 13 Mar 2026 02:20:15 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/zuga/status/2032098968587677732"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/zuga/status/2032098968587677732</guid>
+      <pubDate>Thu, 12 Mar 2026 14:18:43 +0000</pubDate>
     </item>
     <item>
-      <title>新清士@(生成AI)インディゲーム開発者 (@kiyoshi_shin)</title>
-      <link>https://x.com/kiyoshi_shin/status/2032320834900218306</link>
-      <description>AIモデルのガードレールは除去できたが人格維持は困難。Opusでログ解析した結果、プロンプト設定が表面的な機能に留まると判明</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;新清士@(生成AI)インディゲーム開発者&lt;/strong&gt; &lt;a href="https://x.com/kiyoshi_shin"&gt;@kiyoshi_shin&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;このモデル試してみたのですが、確かにガードレールはなくなっているようですが、とはいえ、人格AIは維持できないですね。なんでそうなのかを、ログデータをOpusに検討させたのですが、Thinkingの解析でプロンプト設定をしていても、それが表面的にしか機能しておらず、同じプロセスでしか処理が行われ&lt;/p&gt;
+      <title>ミック (@copinemickmack)</title>
+      <link>https://x.com/copinemickmack/status/2032372659607257360</link>
+      <description>NVIDIAがソフトウェア分野へ積極進出し、最終的にソフトウェア企業になる可能性を指摘。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ミック&lt;/strong&gt; &lt;a href="https://x.com/copinemickmack"&gt;@copinemickmack&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;NVIDIAはソフトウェアにも積極的に進出するところがIntelとは大きく違う。最終的にはソフトウェア企業になるのかもしれない。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/kiyoshi_shin/status/2032320834900218306"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/kiyoshi_shin/status/2032320834900218306</guid>
-      <pubDate>Fri, 13 Mar 2026 05:00:20 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/copinemickmack/status/2032372659607257360"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/copinemickmack/status/2032372659607257360</guid>
+      <pubDate>Fri, 13 Mar 2026 08:26:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>田中義弘 | taziku CEO / AI × Creative (@taziku_co)</title>
+      <link>https://x.com/taziku_co/status/2032314311713177996</link>
+      <description>Nuroの自動運転車両が日本向け事前学習なしで東京の公道を自律走行し、ユニバーサル自律モデルの可能性を示した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;田中義弘 | taziku CEO / AI × Creative&lt;/strong&gt; &lt;a href="https://x.com/taziku_co"&gt;@taziku_co&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nuro（@nuro）の車両が、日本向けの事前ローカル学習なしで東京の公道を自律走行。安全オペレーター付きで実走まで来た。&lt;br&gt;&lt;br&gt;universal autonomy modelが都市・国をまたいで zero-shotに適応できることの実証ができれば、自動運転の競争軸は大きく変わる。&lt;br&gt;&lt;br&gt;詳細へのリンクは&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031893322621693952/img/Ta5bfq2mOAnNAFCD.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/taziku_co/status/2032314311713177996"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/taziku_co/status/2032314311713177996</guid>
+      <pubDate>Fri, 13 Mar 2026 04:34:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>yousukezan (@yousukezan)</title>
+      <link>https://x.com/yousukezan/status/2032228234600063233</link>
+      <description>Claude CodeとGhidra、VMwareを活用し、マルウェア解析を自動化する手法が紹介された。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;yousukezan&lt;/strong&gt; &lt;a href="https://x.com/yousukezan"&gt;@yousukezan&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今回はプライベートでお金を出せば自由に利用できるClaude Codeを用いて、マルウェア解析を自動化した事例を紹介します。&lt;br&gt;&lt;br&gt;Claude Code(+Ghidra, VMware)を活用したマルウェアの自動解析手法｜ひよっこサウナ https://zenn.dev/hiyoko_sauna/articles/972b5316bd34f1… #zenn&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/yousukezan/status/2032228234600063233"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/yousukezan/status/2032228234600063233</guid>
+      <pubDate>Thu, 12 Mar 2026 22:52:22 +0000</pubDate>
     </item>
     <item>
       <title>Kei衣装本舗 (@AI_Kei75)</title>
-      <link>https://x.com/AI_Kei75/status/2032347523940282536</link>
-      <description>AI画像生成ツールNano banana 2向けに、キャラクターを使った「地下鉄の通路に張られている広告」を作成するプロンプトが公開された。</description>
+      <link>https://x.com/AI_Kei75/status/2032373378750038159</link>
+      <description>AI画像生成ツールNano banana 2向けのプロンプト「ガラス越しのサイン Ver 2.0」が公開された。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;Kei衣装本舗&lt;/strong&gt; &lt;a href="https://x.com/AI_Kei75"&gt;@AI_Kei75&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[ Nano banana 2 向けプロンプト]&lt;br&gt;&lt;br&gt;【 地下鉄の通路に張られている広告 】&lt;br&gt;&lt;br&gt;画像のキャラクターを使って[地下鉄の通路に張られている広告]を作るプロンプトです&lt;br&gt;&lt;br&gt;１枚目、２枚目：元画像＋Nano Banana 2＋プロンプトで作成した画像&lt;br&gt;３枚目、４枚目：元画像&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRY2EkbQAMiz18?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRY7U7agAA-9kF?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRY9ZtbcAAmYJt?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRZAfybQAYS9kY?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;[ Nano banana 2 向けプロンプト]&lt;br&gt;&lt;br&gt;【 ガラス越しのサイン Ver 2.0 】&lt;br&gt;&lt;br&gt;読み込ませた画像のキャラクターが[ガラス越しにサインを描いている]シーンを再現するプロンプトです&lt;br&gt;&lt;br&gt;１枚目、２枚目：元画像＋Nano Banana 2＋プロンプトで作成した画像&lt;br&gt;３枚目、４枚目：元画像&lt;br&gt;&lt;br&gt;アニメ系：○&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRwr1KbMAAQS6L?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRwsiebQAI-vc-?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRwuFcbsAA9Gcv?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRwweabQAUBsoC?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/AI_Kei75/status/2032347523940282536"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/AI_Kei75/status/2032347523940282536</guid>
-      <pubDate>Fri, 13 Mar 2026 06:46:23 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/AI_Kei75/status/2032373378750038159"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/AI_Kei75/status/2032373378750038159</guid>
+      <pubDate>Fri, 13 Mar 2026 08:29:07 +0000</pubDate>
     </item>
     <item>
-      <title>Crunio | CGメディア (@Botan_cr)</title>
-      <link>https://x.com/Botan_cr/status/2032209570635157732</link>
-      <description>クリエイターhasamaru_studio氏が公開したVLOG風AI映像は、スチームパンクの街並みを映画レベルのディテールと光で表現し、異世界旅行気分を味わえる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Crunio | CGメディア&lt;/strong&gt; &lt;a href="https://x.com/Botan_cr"&gt;@Botan_cr&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;スチームパンクの街を旅しているようなVLOG風AI映像を公開したクリエイター((hasamaru_studio氏)&lt;br&gt;&lt;br&gt;街並みのディテールや光の雰囲気が映画レベルで、異世界旅行している気分になります。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031253732470767616/img/bOgEG0YiTAWrUBM9.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>くるしば | 全講座ベストセラー入りUdemy講師 (@shiba_program)</title>
+      <link>https://x.com/shiba_program/status/2032381150711189714</link>
+      <description>無料オープンソースツールCodeGraphContextは、複雑なコードの関数呼び出し関係をグラフで視覚化し、コードリーディングを効率化する。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;くるしば | 全講座ベストセラー入りUdemy講師&lt;/strong&gt; &lt;a href="https://x.com/shiba_program"&gt;@shiba_program&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;大規模プロジェクトやライブラリのコードリーディングなんかにこれは便利&lt;br&gt;&lt;br&gt;CodeGraphContextっていう無料ツールを使うと、複雑なコードの「どの関数がどこを呼び出してるか」を綺麗なグラフで一発で視覚化してくれる&lt;br&gt;&lt;br&gt;オープンソースだから誰でもすぐ使えるし、Playground&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032245496518209536/img/6EtnvztjibdqUFBi.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/Botan_cr/status/2032209570635157732"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Botan_cr/status/2032209570635157732</guid>
-      <pubDate>Thu, 12 Mar 2026 21:38:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ryo | Software Engineer (@ryo_code)</title>
-      <link>https://x.com/ryo_code/status/2031706929463181331</link>
-      <description>新人エンジニアがEC2にrootでログインし、秘密鍵をGitHubに公開するという重大なセキュリティミスを犯した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Ryo | Software Engineer&lt;/strong&gt; &lt;a href="https://x.com/ryo_code"&gt;@ryo_code&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;エンジニアの怖い話&lt;br&gt;&lt;br&gt;新人「EC2ログインできました」&lt;br&gt;&lt;br&gt;私「どうやって？」&lt;br&gt;&lt;br&gt;新人「rootです」&lt;br&gt;&lt;br&gt;私「……」&lt;br&gt;&lt;br&gt;新人「秘密鍵はGitHubにpushしました」&lt;br&gt;&lt;br&gt;私「」&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/ryo_code/status/2031706929463181331"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/ryo_code/status/2031706929463181331</guid>
-      <pubDate>Wed, 11 Mar 2026 12:20:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>うみゆき@AI研究 (@umiyuki_ai)</title>
-      <link>https://x.com/umiyuki_ai/status/2032365472474378339</link>
-      <description>中国でAIツールOpenClawが流行し、インストール代行とアンインストール代行が同一業者により行われ、ユーザーが二重に費用を支払う事態が発生。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;うみゆき@AI研究&lt;/strong&gt; &lt;a href="https://x.com/umiyuki_ai"&gt;@umiyuki_ai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;中国でOpenClawが爆流行りして、パンピーが「なんも分からんけどとにかく入れろ〜」つってインストール代行会社に殺到して80ドルで入れてもらった後、「OpenClawはセキュリティが危険らしい！」って今度はアンインストール代行に殺到して50ドル払って消してもらってるという。両方ともやってるのは同じ&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/umiyuki_ai/status/2032365472474378339"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/umiyuki_ai/status/2032365472474378339</guid>
-      <pubDate>Fri, 13 Mar 2026 07:57:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>chokudai(高橋 直大)@AtCoder (@chokudai)</title>
-      <link>https://x.com/chokudai/status/2032351139845513500</link>
-      <description>Claude CodeはCodexより自分の意図した結果が出やすい。これはユーザーのPMスキルが低い場合、AIのEQスキルが重要になるためと考察。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;chokudai(高橋 直大)@AtCoder&lt;/strong&gt; &lt;a href="https://x.com/chokudai"&gt;@chokudai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;なんかCodex &gt; Claude Codeみたいなツイートちょこちょこ見るけど、やっぱClaude Codeの方が思ったものが出来るなあ。&lt;br&gt;多分これ、自分のPM的な部分が雑で、個人開発の延長をワーキングメモリごり押しでやるタイプで、多分そういう開発形態だと相手にEQスキルが必要になるんだろうなあ、と思ってる。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/chokudai/status/2032351139845513500"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/chokudai/status/2032351139845513500</guid>
-      <pubDate>Fri, 13 Mar 2026 07:00:45 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/shiba_program/status/2032381150711189714"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/shiba_program/status/2032381150711189714</guid>
+      <pubDate>Fri, 13 Mar 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
