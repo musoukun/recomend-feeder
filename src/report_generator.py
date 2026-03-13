@@ -196,7 +196,7 @@ def post_to_discord_webhook(report_md: str, webhook_url: str) -> bool:
     chunks = _split_report(report_md, max_len=1900)
 
     for i, chunk in enumerate(chunks):
-        payload = json.dumps({"content": chunk, "flags": 4096})
+        payload = json.dumps({"content": chunk, "flags": 4096}, ensure_ascii=False)
         req = urllib.request.Request(
             webhook_url,
             data=payload.encode("utf-8"),
@@ -223,7 +223,7 @@ def post_to_discord_webhook(report_md: str, webhook_url: str) -> bool:
 
 
 def _split_report(text: str, max_len: int = 1900) -> list[str]:
-    """Split report on section boundaries (## headings)."""
+    """Split report so each chunk stays under max_len."""
     if len(text) <= max_len:
         return [text]
 
@@ -231,14 +231,17 @@ def _split_report(text: str, max_len: int = 1900) -> list[str]:
     current = ""
 
     for line in text.split("\n"):
-        if line.startswith("## ") and len(current) + len(line) > max_len and current:
-            chunks.append(current.rstrip())
-            current = ""
-        current += line + "\n"
-
-        if len(current) > max_len:
-            chunks.append(current.rstrip())
-            current = ""
+        candidate = current + line + "\n"
+        if len(candidate) > max_len:
+            if current.strip():
+                chunks.append(current.rstrip())
+            current = line + "\n"
+            # single line exceeds max_len — force split
+            if len(current) > max_len:
+                chunks.append(current.rstrip())
+                current = ""
+        else:
+            current = candidate
 
     if current.strip():
         chunks.append(current.rstrip())
