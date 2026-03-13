@@ -7,63 +7,50 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 10:12:05 +0000</lastBuildDate>
-    <item>
-      <title>Shin丨AI×プロダクト開発の専門家 (@shin_sasaki19)</title>
-      <link>https://x.com/shin_sasaki19/status/2032378670451712232</link>
-      <description>日本では解雇規制によりAIによる失業は増えないが、新しい雇用が減少する。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Shin丨AI×プロダクト開発の専門家&lt;/strong&gt; &lt;a href="https://x.com/shin_sasaki19"&gt;@shin_sasaki19&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;日本の場合は解雇規制のためAI失業は増えないかわりに新しい雇用が減ります。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/shin_sasaki19/status/2032378670451712232"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/shin_sasaki19/status/2032378670451712232</guid>
-      <pubDate>Fri, 13 Mar 2026 08:50:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Mar 2026 10:43:37 +0000</lastBuildDate>
     <item>
       <title>情報の灯台 (@joho_no_todai)</title>
-      <link>https://x.com/joho_no_todai/status/2032370892936818877</link>
-      <description>プログラマーの仕事はAIエージェントとの会話が中心に変化し、自然言語で要件を伝えAIを動かすことで、生産性が大幅に向上している。</description>
+      <link>https://x.com/joho_no_todai/status/2032285730278642095</link>
+      <description>AIに仕事を奪われた専門職が、今度はAIに正しい仕事のやり方を教える側に回っている。MercorはOpenAIなどにデータ供給。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;情報の灯台&lt;/strong&gt; &lt;a href="https://x.com/joho_no_todai"&gt;@joho_no_todai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;かつてプログラマーの仕事は「コードを書くこと」だった。&lt;br&gt;その大半がもうほとんどコードを書いていない。&lt;br&gt;代わりにやっているのは、AIエージェントとの会話だ。&lt;br&gt;自然言語で要件を伝え、計画を承認し、走らせる。&lt;br&gt;&lt;br&gt;Googleでは生産性向上が約10%。スタートアップでは「20倍速」を語る創業者もいる。&lt;/p&gt;
+&lt;p&gt;弁護士、科学者、脚本家。&lt;br&gt;AIに仕事を奪われた専門職が、今度はそのAIに「正しい仕事のやり方」を教える側に回っている。&lt;br&gt;&lt;br&gt;評価額1兆6,000億円のスタートアップMercorは、3万人の契約労働者を抱え、OpenAIやAnthropicにデータを供給する。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/joho_no_todai/status/2032370892936818877"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/joho_no_todai/status/2032370892936818877</guid>
-      <pubDate>Fri, 13 Mar 2026 08:19:15 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/joho_no_todai/status/2032285730278642095"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/joho_no_todai/status/2032285730278642095</guid>
+      <pubDate>Fri, 13 Mar 2026 02:40:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>mizchi (@mizchi)</title>
+      <link>https://x.com/mizchi/status/2032385604168884531</link>
+      <description>AIによる生産性向上は既存SaaSの設計と無関係に決まるため、AI最適化されたプロダクトが既存SaaSに優位に立つ可能性がある。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;mizchi&lt;/strong&gt; &lt;a href="https://x.com/mizchi"&gt;@mizchi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AIで既存の SaaS が厳しいの、AIによって生産性が向上するかどうかが既存の設計とは無関係に決まるから、AI最適化されたプロダクトに勝てない、というのはありそう&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/mizchi/status/2032385604168884531"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/mizchi/status/2032385604168884531</guid>
+      <pubDate>Fri, 13 Mar 2026 09:17:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>日本経済新聞 電子版（日経電子版） (@nikkei)</title>
+      <link>https://x.com/nikkei/status/2032376529464828102</link>
+      <description>日本経済新聞の調査で、経済学者50人のうち38%が日本でのAI失業増加に否定的見解を示した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;日本経済新聞 電子版（日経電子版）&lt;/strong&gt; &lt;a href="https://x.com/nikkei"&gt;@nikkei&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;日本で「ＡＩ失業」は増える？　38％が否定的、経済学者50人の見方&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/nikkei/status/2032376529464828102"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/nikkei/status/2032376529464828102</guid>
+      <pubDate>Fri, 13 Mar 2026 08:41:39 +0000</pubDate>
     </item>
     <item>
       <title>只の人。 (@aibi0123)</title>
-      <link>https://x.com/aibi0123/status/2032186973755248835</link>
-      <description>オラクルでAI関連の理由により4万5000人が解雇される予定。</description>
+      <link>https://x.com/aibi0123/status/2032205529989464300</link>
+      <description>AmazonやBlockがAIによる従業員の仕事置き換えを進め、解雇に繋がっている。企業はAI学習とテストで置き換えを判断し、この動きは継続すると予測される。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;只の人。&lt;/strong&gt; &lt;a href="https://x.com/aibi0123"&gt;@aibi0123&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;オラクルでは4万5000人が解雇される予定だ。&lt;br&gt;全員AI関連だ。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOhVojWsAAGkgg?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;AmazonやBlockのAIリストラから見えるのは企業はすでに内部でAI置き換えの準備を進めている&lt;br&gt;従業員に仕事の内容・やり方等を提出させAIに学ばせる&lt;br&gt;それを元に内部でテストし置き換え可能か判断する&lt;br&gt;可能と判断された場合は解雇する&lt;br&gt;そしてこれは一回に終わりではない&lt;br&gt;これから永遠に続くのである&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/aibi0123/status/2032186973755248835"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/aibi0123/status/2032186973755248835</guid>
-      <pubDate>Thu, 12 Mar 2026 20:08:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>あいシンギュラリティ (@singularity20xy)</title>
-      <link>https://x.com/singularity20xy/status/2032334900167393379</link>
-      <description>サム・アルトマンは、AIが数時間から数週間のタスクをこなし、ベテラン社員のように仕事に統合され、指数関数的成長が始まると予測している。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;あいシンギュラリティ&lt;/strong&gt; &lt;a href="https://x.com/singularity20xy"&gt;@singularity20xy&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;サム・アルトマン：最初は数時間かかるタスクから始まるものが、すぐに数日、さらには数週間に及ぶものになるでしょう。AIがあなたの生活や仕事に積極的に統合され、信頼できるベテラン社員のように完全な文脈を持って行動することを期待してください。指数関数的成長が始まります。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032068343901888512/img/5lZrPP5COsTJZgyx.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/singularity20xy/status/2032334900167393379"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/singularity20xy/status/2032334900167393379</guid>
-      <pubDate>Fri, 13 Mar 2026 05:56:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>溝口 然 / Incubate Fund (@zenmizo)</title>
-      <link>https://x.com/zenmizo/status/2031875128267796600</link>
-      <description>日経記事によると、AIでメール作成しつつ、人の温かみが購買の最終決定打となるため、あえて人の架電を強化する逆張り戦略が注目されている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;溝口 然 / Incubate Fund&lt;/strong&gt; &lt;a href="https://x.com/zenmizo"&gt;@zenmizo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;1時間15件の架電。保留中にAIでメール作成。インターバルは10秒。&lt;br&gt;&lt;br&gt;Grand Centralの新卒トップ営業に密着した日経の記事が興味深い。&lt;br&gt;&lt;br&gt;AIが電話営業を完結できる時代に、あえて「人の架電」を強化する逆張り戦略。&lt;br&gt;&lt;br&gt;理由は明快で、「人の温かみが購買の最終決定打になる」と。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/zenmizo/status/2031875128267796600"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/zenmizo/status/2031875128267796600</guid>
-      <pubDate>Wed, 11 Mar 2026 23:29:15 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/aibi0123/status/2032205529989464300"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/aibi0123/status/2032205529989464300</guid>
+      <pubDate>Thu, 12 Mar 2026 21:22:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

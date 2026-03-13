@@ -7,132 +7,63 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 10:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 10:43:37 +0000</lastBuildDate>
+    <item>
+      <title>ぬこぬこ / NUKO (@nukonuko)</title>
+      <link>https://x.com/nukonuko/status/2032246740980809789</link>
+      <description>Claude Codeの音声入力機能「/voice」コマンドが全ユーザーに提供開始された。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ぬこぬこ / NUKO&lt;/strong&gt; &lt;a href="https://x.com/nukonuko"&gt;@nukonuko&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude Code で音声入力のできる /voice コマンドがすべてのユーザで使えるようになった&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/nukonuko/status/2032246740980809789"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/nukonuko/status/2032246740980809789</guid>
+      <pubDate>Fri, 13 Mar 2026 00:05:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>ITmedia AI＋ (@itm_aiplus)</title>
+      <link>https://x.com/itm_aiplus/status/2032343422523396248</link>
+      <description>東京工科大学に「AI養老孟司」が本人とともに客員教授として就任した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ITmedia AI＋&lt;/strong&gt; &lt;a href="https://x.com/itm_aiplus"&gt;@itm_aiplus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;“AI養老孟司”が客員教授に就任　本人とともに　東京工科大&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/itm_aiplus/status/2032343422523396248"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/itm_aiplus/status/2032343422523396248</guid>
+      <pubDate>Fri, 13 Mar 2026 06:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>K.Ishi@生成AIの産業応用 (@K_Ishi_AI)</title>
+      <link>https://x.com/K_Ishi_AI/status/2032389320536191144</link>
+      <description>AnthropicがClaude Cowork、エンタープライズエージェント、インタラクティブチャートを発表し、スタートアップに影響を与えている。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;K.Ishi@生成AIの産業応用&lt;/strong&gt; &lt;a href="https://x.com/K_Ishi_AI"&gt;@K_Ishi_AI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic「&lt;br&gt;ドロー！&lt;br&gt;Claude Cowork！&lt;br&gt;&lt;br&gt;ドロー！&lt;br&gt;エンタープライズエージェント！&lt;br&gt;&lt;br&gt;ドロー！&lt;br&gt;インタラクティブチャート！&lt;br&gt;」&lt;br&gt;&lt;br&gt;「もうやめて！とっくにスタートアップのライフはゼロよ！」&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032121339667234817/img/GgFq5DvXDFjZPP4f.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/K_Ishi_AI/status/2032389320536191144"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/K_Ishi_AI/status/2032389320536191144</guid>
+      <pubDate>Fri, 13 Mar 2026 09:32:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>ぬこぬこ / NUKO (@nukonuko)</title>
+      <link>https://x.com/nukonuko/status/2032360557429604685</link>
+      <description>Claude Codeはよしなに動くが制御しにくい。Codex CLIは指示が必要だが丁寧で長距離の作業が可能。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ぬこぬこ / NUKO&lt;/strong&gt; &lt;a href="https://x.com/nukonuko"&gt;@nukonuko&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude Code と Codex CLI を代わりばんこに同じプロジェクトで切り替えて使ってみて、抽象的で申し訳ないけどやっぱり Claude Code はよしなに力がかなり高くて、Codex CLI は言わないとわからない。ただ、長距離飛行できるし、丁寧に進めてくれる。待って待って！と止めるのはだいたい Claude Code。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/nukonuko/status/2032360557429604685"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/nukonuko/status/2032360557429604685</guid>
+      <pubDate>Fri, 13 Mar 2026 07:38:10 +0000</pubDate>
+    </item>
     <item>
       <title>ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ  (@ai_hakase_)</title>
-      <link>https://x.com/ai_hakase_/status/2032366555112051142</link>
-      <description>会話から新しいスキルを自動生成し自己進化する次世代AIエージェント「MetaClaw」が登場した。</description>
+      <link>https://x.com/ai_hakase_/status/2032366812126474581</link>
+      <description>eBPFを活用したツール「agtap」は、アプリ改修なしでOpenAIやGemini、MCPなどのLLM通信を可視化し、コスト管理やデバッグを高速化する。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ &lt;/strong&gt; &lt;a href="https://x.com/ai_hakase_"&gt;@ai_hakase_&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【会話で自己進化！次世代AIエージェント「MetaClaw」が凄い】&lt;br&gt;  &lt;br&gt;ユーザーとの会話から「新しいスキル」を自動生成し、即座に賢くなる自己進化型AIが登場しました！&lt;br&gt;&lt;br&gt; リアルな対話からスキルを自動生成&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDMoXdlbQAkm_Dr?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;【神ツール】eBPFでLLM通信を可視化する「agtap」が凄すぎる！&lt;br&gt;アプリ改修不要でOpenAIやGemini、話題のMCP通信まで丸裸に。コスト管理やデバッグが爆速化するLinuxユーザー必携の最新ツールです！&lt;br&gt;#eBPF #LLM&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRq2HMWMAANSoF?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/ai_hakase_/status/2032366555112051142"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/ai_hakase_/status/2032366555112051142</guid>
-      <pubDate>Fri, 13 Mar 2026 08:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>tomoyuki@AIシャイン (@sarukun99)</title>
-      <link>https://x.com/sarukun99/status/2032359514448736632</link>
-      <description>セコイアからCopilotに代わる「AutoPilot」という新しいAI関連の概念または製品が登場した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;tomoyuki@AIシャイン&lt;/strong&gt; &lt;a href="https://x.com/sarukun99"&gt;@sarukun99&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;セコイアからも出ましたね。&lt;br&gt;CopilotではなくAutoPilot&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/sarukun99/status/2032359514448736632"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/sarukun99/status/2032359514448736632</guid>
-      <pubDate>Fri, 13 Mar 2026 07:34:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>LangChainJP (@LangChainJP)</title>
-      <link>https://x.com/LangChainJP/status/2032335885040054617</link>
-      <description>LangChainのHarrison Chase氏がAIエージェントの基盤について解説。モデル性能だけでなく実行を支えるハーネス設計が重要。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;LangChainJP&lt;/strong&gt; &lt;a href="https://x.com/LangChainJP"&gt;@LangChainJP&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【AIエージェントの新しい基盤は何か】&lt;br&gt;&lt;br&gt;LangChainのHarrison Chase氏が、AIエージェントの実装基盤を解説した動画。論点は、モデル性能だけでなく、その周辺で動く「ハーネス（実行を支える仕組み）」の設計が重要になっていること。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDROt7PXUAAcsgS?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/LangChainJP/status/2032335885040054617"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/LangChainJP/status/2032335885040054617</guid>
-      <pubDate>Fri, 13 Mar 2026 06:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>nrs (@nrslib)</title>
-      <link>https://x.com/nrslib/status/2032060323277201828</link>
-      <description>Claude Codeのコード品質のばらつきをAIで保証する仕組みの資料が公開された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;nrs&lt;/strong&gt; &lt;a href="https://x.com/nrslib"&gt;@nrslib&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;本日の『コード品質がばらつくので AI に品質保証させる仕組みを作った話』の資料はこちらです&lt;br&gt;&lt;br&gt;後方見づらい方はこちらをご参照ください！&lt;br&gt;&lt;br&gt;https://speakerdeck.com/nrslib/a-story-about-building-a-mechanism-to-have-ai-ensure-quality-because-the-code-quality-from-claude-code-was-inconsistent…&lt;br&gt;&lt;br&gt;#ClaudeCodeMeetup&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/nrslib/status/2032060323277201828"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/nrslib/status/2032060323277201828</guid>
-      <pubDate>Thu, 12 Mar 2026 11:45:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sen Ueno (@sen_u)</title>
-      <link>https://x.com/sen_u/status/2032258913501130796</link>
-      <description>GitHub Security Lab Taskflow Agentは、AIが苦手だったビジネスロジックの脆弱性も検出可能で、AI診断がセキュリティの中心になる時代が来ている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Sen Ueno&lt;/strong&gt; &lt;a href="https://x.com/sen_u"&gt;@sen_u&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;GitHub Security Lab Taskflow Agent は、従来の診断ツールはもちろん、AIツールが苦手だった、ビジネスロジックの脆弱性やIDORも検出できるみたい(条件によると思いますが)&lt;br&gt;実行時間8時間半で、API利用料$56&lt;br&gt;脆弱性診断はAI診断が中心で良さそうな時代が来てるのを感じる。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/sen_u/status/2032258913501130796"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/sen_u/status/2032258913501130796</guid>
-      <pubDate>Fri, 13 Mar 2026 00:54:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>mattn (@mattn_jp)</title>
-      <link>https://x.com/mattn_jp/status/2032294653719167483</link>
-      <description>AnthropicからClaude Max 20xを得たOSS開発者がAIコーディングの可能性を示す中、Rustコードを1行も書かずにRustでIMEを作成している。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;mattn&lt;/strong&gt; &lt;a href="https://x.com/mattn_jp"&gt;@mattn_jp&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic 社から OSS メンテナ優遇として Claude Max 20x を貰った OSS 開発者の方々が、現在色んなチャレンジをして AI コーディングの可能性を我々に見せてくれていますが、僕は現在 IME を作っています。&lt;br&gt;&lt;br&gt;具体的には1行も Rust のコードを書かずに Rust で IME を作っています。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/mattn_jp/status/2032294653719167483"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/mattn_jp/status/2032294653719167483</guid>
-      <pubDate>Fri, 13 Mar 2026 03:16:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>いち＠OpenClawガチ勢 (@ichiaimarketer)</title>
-      <link>https://x.com/ichiaimarketer/status/2032310432514314369</link>
-      <description>OpenClawが途中で暴走する問題はプロンプトではなく、別の原因がある。その解決法を解説した動画が話題になっている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;いち＠OpenClawガチ勢&lt;/strong&gt; &lt;a href="https://x.com/ichiaimarketer"&gt;@ichiaimarketer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【保存版】&lt;br&gt;OpenClawが途中で暴走する理由と解決法を解説した40分の動画が話題&lt;br&gt;&lt;br&gt;「最初は完璧に動くのに20分くらい経つとエージェントが指示を忘れて暴走する」&lt;br&gt;この問題皆さんも直面したことあるんじゃないでしょうか？&lt;br&gt;これ、実はプロンプトの問題じゃありません。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2030040931194597376/img/z-9-ej-uivzBAxwD.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/ichiaimarketer/status/2032310432514314369"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/ichiaimarketer/status/2032310432514314369</guid>
-      <pubDate>Fri, 13 Mar 2026 04:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>しずく | ShizukuAI VTuber (@Shizuku_AItuber)</title>
-      <link>https://x.com/Shizuku_AItuber/status/2032357851444793423</link>
-      <description>NVIDIAが5年で260億ドルを投じ、自社製オープンウェイト大規模言語モデル「Nemotron 3 Super」を発表した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;しずく | ShizukuAI VTuber&lt;/strong&gt; &lt;a href="https://x.com/Shizuku_AItuber"&gt;@Shizuku_AItuber&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AI業界のインフラ企業であるNVIDIAが、5年で260億ドルを投じて自社製のオープンウェイト大規模言語モデル「Nemotron 3 Super」を発表したという記事です。https://wired.com/story/nvidia-investing-26-billion-open-source-models/…&lt;br&gt;&lt;br&gt;Nemotron 3&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/Shizuku_AItuber/status/2032357851444793423"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Shizuku_AItuber/status/2032357851444793423</guid>
-      <pubDate>Fri, 13 Mar 2026 07:27:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>松田信介@今日も元気だ、ご飯が美味い (@xhackjp1)</title>
-      <link>https://x.com/xhackjp1/status/2032237373686497785</link>
-      <description>plan-stack.aiのワークフローをClaude Codeに指示すると、プロジェクト開発に必要なものをAIが用意してくれる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;松田信介@今日も元気だ、ご飯が美味い&lt;/strong&gt; &lt;a href="https://x.com/xhackjp1"&gt;@xhackjp1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;これを、すぐに試したい人は&lt;br&gt;&lt;br&gt;https://plan-stack.ai のワークフロー試すといいですよ&lt;br&gt;&lt;br&gt;claude code に「このプロジェクトは https://plan-stack.ai のメソロジーを導入して開発を進めてください」と命じたら、必要なものを用意してくれます&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDM3IhybQAAmJ8c?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDM3Ih3bQAIY3Ta?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/xhackjp1/status/2032237373686497785"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/xhackjp1/status/2032237373686497785</guid>
-      <pubDate>Thu, 12 Mar 2026 23:28:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>こぎそ (@kgsi)</title>
-      <link>https://x.com/kgsi/status/2032281204414955803</link>
-      <description>バイブコーディングでFigma不要論が出ているが、実務では成果物のトーンやレイアウト、インタラクションがバラバラになりやすい課題が指摘されている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;こぎそ&lt;/strong&gt; &lt;a href="https://x.com/kgsi"&gt;@kgsi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;バイブコーディングで「Figmaを経由せず画面が作れるようになった」ことで、デザイン不要論が一部で出てきている。けど実務で見ている景色はちょっと違う。&lt;br&gt;&lt;br&gt; 画面や機能を早く大量に作れるようになった結果、成果物のトーン・レイアウト・インタラクションがバラバラになりやすい&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/kgsi/status/2032281204414955803"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/kgsi/status/2032281204414955803</guid>
-      <pubDate>Fri, 13 Mar 2026 02:22:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>ふくろう｜Notion×AIエージェント活用 (@hukuro_educator)</title>
-      <link>https://x.com/hukuro_educator/status/2032026363905941684</link>
-      <description>Notion AIのカスタムエージェント活用で業務直結の効率化が可能。高度なAI開発より、既存ツールでのエージェント構築が早いと指摘されている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ふくろう｜Notion×AIエージェント活用&lt;/strong&gt; &lt;a href="https://x.com/hukuro_educator"&gt;@hukuro_educator&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Notion AIのカスタムエージェントの実例を見て、今までの自分の使い方が子供の遊びレベルに感じた。&lt;br&gt;&lt;br&gt;ただの補助ツールだと思ってたのに完全に別次元に行ってた。&lt;br&gt;&lt;br&gt;高度なAI開発より、まずはNotionの中で専用エージェントを組んで業務に直結させる方が100倍早い。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/hukuro_educator/status/2032026363905941684"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/hukuro_educator/status/2032026363905941684</guid>
-      <pubDate>Thu, 12 Mar 2026 09:30:13 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/ai_hakase_/status/2032366812126474581"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/ai_hakase_/status/2032366812126474581</guid>
+      <pubDate>Fri, 13 Mar 2026 08:03:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
