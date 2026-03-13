@@ -7,63 +7,157 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 10:43:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 11:18:29 +0000</lastBuildDate>
     <item>
-      <title>ぬこぬこ / NUKO (@nukonuko)</title>
-      <link>https://x.com/nukonuko/status/2032246740980809789</link>
-      <description>Claude Codeの音声入力機能「/voice」コマンドが全ユーザーに提供開始された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ぬこぬこ / NUKO&lt;/strong&gt; &lt;a href="https://x.com/nukonuko"&gt;@nukonuko&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Claude Code で音声入力のできる /voice コマンドがすべてのユーザで使えるようになった&lt;/p&gt;
+      <title>Micky (@Rasmic)</title>
+      <link>https://x.com/Rasmic/status/2032099718705119714</link>
+      <description>gpt-5.4とopus 4.6に計画を生成させ、gptの計画をopusに与えたところ、opusがより良い計画だと認めた。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Micky&lt;/strong&gt; &lt;a href="https://x.com/Rasmic"&gt;@Rasmic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I got both gpt-5.4 and opus 4.6 to generate a plan... I gave gpt's plan to opus and it admitted that it was a better plan lol&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDN30CbXoAA6dZo?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/nukonuko/status/2032246740980809789"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/nukonuko/status/2032246740980809789</guid>
-      <pubDate>Fri, 13 Mar 2026 00:05:55 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/Rasmic/status/2032099718705119714"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Rasmic/status/2032099718705119714</guid>
+      <pubDate>Thu, 12 Mar 2026 14:21:42 +0000</pubDate>
     </item>
     <item>
-      <title>ITmedia AI＋ (@itm_aiplus)</title>
-      <link>https://x.com/itm_aiplus/status/2032343422523396248</link>
-      <description>東京工科大学に「AI養老孟司」が本人とともに客員教授として就任した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ITmedia AI＋&lt;/strong&gt; &lt;a href="https://x.com/itm_aiplus"&gt;@itm_aiplus&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;“AI養老孟司”が客員教授に就任　本人とともに　東京工科大&lt;/p&gt;
+      <title>テクノエッジ TechnoEdge (@TechnoEdgeJP)</title>
+      <link>https://x.com/TechnoEdgeJP/status/2032248283784233446</link>
+      <description>8GBメモリのMacBook Neo上で構築されたAIエージェントが、音声対話とMVビジュアライザーを実装し進化。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;テクノエッジ TechnoEdge&lt;/strong&gt; &lt;a href="https://x.com/TechnoEdgeJP"&gt;@TechnoEdgeJP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;「わずか8GBのメモリ」MacBook Neo上に構築した完全オリジナルAIエージェントをさらに進化させる。音声対話、MVビジュアライザーを実装した（CloseBox） | テクノエッジ TechnoEdge&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/itm_aiplus/status/2032343422523396248"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/itm_aiplus/status/2032343422523396248</guid>
-      <pubDate>Fri, 13 Mar 2026 06:30:05 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/TechnoEdgeJP/status/2032248283784233446"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/TechnoEdgeJP/status/2032248283784233446</guid>
+      <pubDate>Fri, 13 Mar 2026 00:12:02 +0000</pubDate>
     </item>
     <item>
-      <title>K.Ishi@生成AIの産業応用 (@K_Ishi_AI)</title>
-      <link>https://x.com/K_Ishi_AI/status/2032389320536191144</link>
-      <description>AnthropicがClaude Cowork、エンタープライズエージェント、インタラクティブチャートを発表し、スタートアップに影響を与えている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;K.Ishi@生成AIの産業応用&lt;/strong&gt; &lt;a href="https://x.com/K_Ishi_AI"&gt;@K_Ishi_AI&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Anthropic「&lt;br&gt;ドロー！&lt;br&gt;Claude Cowork！&lt;br&gt;&lt;br&gt;ドロー！&lt;br&gt;エンタープライズエージェント！&lt;br&gt;&lt;br&gt;ドロー！&lt;br&gt;インタラクティブチャート！&lt;br&gt;」&lt;br&gt;&lt;br&gt;「もうやめて！とっくにスタートアップのライフはゼロよ！」&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032121339667234817/img/GgFq5DvXDFjZPP4f.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>852話(hakoniwa) (@8co28)</title>
+      <link>https://x.com/8co28/status/2032291452039123080</link>
+      <description>AIで生成された猫の3Dアニメーション。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;852話(hakoniwa)&lt;/strong&gt; &lt;a href="https://x.com/8co28"&gt;@8co28&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AI Cat 3D animation&lt;br&gt;#aianime&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032291134274437120/img/Cf5kbUxF_Z7YRJHk.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/K_Ishi_AI/status/2032389320536191144"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/K_Ishi_AI/status/2032389320536191144</guid>
-      <pubDate>Fri, 13 Mar 2026 09:32:28 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/8co28/status/2032291452039123080"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/8co28/status/2032291452039123080</guid>
+      <pubDate>Fri, 13 Mar 2026 03:03:34 +0000</pubDate>
     </item>
     <item>
-      <title>ぬこぬこ / NUKO (@nukonuko)</title>
-      <link>https://x.com/nukonuko/status/2032360557429604685</link>
-      <description>Claude Codeはよしなに動くが制御しにくい。Codex CLIは指示が必要だが丁寧で長距離の作業が可能。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ぬこぬこ / NUKO&lt;/strong&gt; &lt;a href="https://x.com/nukonuko"&gt;@nukonuko&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Claude Code と Codex CLI を代わりばんこに同じプロジェクトで切り替えて使ってみて、抽象的で申し訳ないけどやっぱり Claude Code はよしなに力がかなり高くて、Codex CLI は言わないとわからない。ただ、長距離飛行できるし、丁寧に進めてくれる。待って待って！と止めるのはだいたい Claude Code。&lt;/p&gt;
+      <title>Simon Willison (@simonw)</title>
+      <link>https://x.com/simonw/status/2032305546129485851</link>
+      <description>Liquidテンプレート言語のパフォーマンスが、autoresearch PRによりベンチマークで53%向上した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Simon Willison&lt;/strong&gt; &lt;a href="https://x.com/simonw"&gt;@simonw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Published some notes on @tobi's autoresearch PR that improved the performance benchmark scores of the Liquid template language (which Tobi created for Shopify 20 years ago) by a hefty 53% https://simonwillison.net/2026/Mar/13/liquid/…&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQzFqlbQAEjSDN?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/nukonuko/status/2032360557429604685"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/nukonuko/status/2032360557429604685</guid>
-      <pubDate>Fri, 13 Mar 2026 07:38:10 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/simonw/status/2032305546129485851"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/simonw/status/2032305546129485851</guid>
+      <pubDate>Fri, 13 Mar 2026 03:59:35 +0000</pubDate>
     </item>
     <item>
-      <title>ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ  (@ai_hakase_)</title>
-      <link>https://x.com/ai_hakase_/status/2032366812126474581</link>
-      <description>eBPFを活用したツール「agtap」は、アプリ改修なしでOpenAIやGemini、MCPなどのLLM通信を可視化し、コスト管理やデバッグを高速化する。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ &lt;/strong&gt; &lt;a href="https://x.com/ai_hakase_"&gt;@ai_hakase_&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【神ツール】eBPFでLLM通信を可視化する「agtap」が凄すぎる！&lt;br&gt;アプリ改修不要でOpenAIやGemini、話題のMCP通信まで丸裸に。コスト管理やデバッグが爆速化するLinuxユーザー必携の最新ツールです！&lt;br&gt;#eBPF #LLM&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRq2HMWMAANSoF?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>深津 貴之 / THE GUILD, note (@fladdict)</title>
+      <link>https://x.com/fladdict/status/2032319293132849310</link>
+      <description>多くのサービスはClaudeCodeで作成可能だが、自作・運用・メンテのコストは割に合わない。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;深津 貴之 / THE GUILD, note&lt;/strong&gt; &lt;a href="https://x.com/fladdict"&gt;@fladdict&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;そう、多くのサービスはClaudeCodeで「作れる」が、自作して運用してメンテするコストは、だいたい見合わない。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/ai_hakase_/status/2032366812126474581"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/ai_hakase_/status/2032366812126474581</guid>
-      <pubDate>Fri, 13 Mar 2026 08:03:02 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/fladdict/status/2032319293132849310"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/fladdict/status/2032319293132849310</guid>
+      <pubDate>Fri, 13 Mar 2026 04:54:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>モジョン (@mojon1)</title>
+      <link>https://x.com/mojon1/status/2032315696080961587</link>
+      <description>Photoshop betaの3D回転機能でイラストも回転可能になったが、破綻する場合もある。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;モジョン&lt;/strong&gt; &lt;a href="https://x.com/mojon1"&gt;@mojon1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Photoshop betaの3D回転。イラストも回転できた…&lt;br&gt;（破綻することもある）&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032314797463912451/img/zs2D54HetXWsZcEU.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032184968840167426/img/w8blbMjpA2XT6Gf0?format=jpg&amp;name=240x240" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/mojon1/status/2032315696080961587"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/mojon1/status/2032315696080961587</guid>
+      <pubDate>Fri, 13 Mar 2026 04:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zhuokai Zhao (@zhuokaiz)</title>
+      <link>https://x.com/zhuokaiz/status/2032201769053212682</link>
+      <description>AMI LabsとWorld Labsがそれぞれ10億ドル超を調達し、ワールドモデルに注力。5つのカテゴリを提示。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Zhuokai Zhao&lt;/strong&gt; &lt;a href="https://x.com/zhuokaiz"&gt;@zhuokaiz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AMI Labs just raised $1.03B. World Labs raised $1B a few weeks earlier. Both are betting on world models.&lt;br&gt;&lt;br&gt;But almost nobody means the same thing by that term.&lt;br&gt;&lt;br&gt;Here are, in my view, five categories of world models.&lt;br&gt;&lt;br&gt;---&lt;br&gt;&lt;br&gt;1. Joint Embedding Predictive Architecture (JEPA)&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/zhuokaiz/status/2032201769053212682"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/zhuokaiz/status/2032201769053212682</guid>
+      <pubDate>Thu, 12 Mar 2026 21:07:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>大曽根宏幸 / Hiroyuki Osone (@OsoneHiroyuki)</title>
+      <link>https://x.com/OsoneHiroyuki/status/2032360936825372862</link>
+      <description>政府の戦略17分野の主要技術にフィジカルAIが挙げられている。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;大曽根宏幸 / Hiroyuki Osone&lt;/strong&gt; &lt;a href="https://x.com/OsoneHiroyuki"&gt;@OsoneHiroyuki&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;戦略17分野における「主要な製品・技術等」&lt;br&gt;1がフィジカルAI&lt;br&gt;https://cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai3/shiryou1.pdf…&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/OsoneHiroyuki/status/2032360936825372862"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/OsoneHiroyuki/status/2032360936825372862</guid>
+      <pubDate>Fri, 13 Mar 2026 07:39:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>布留川英一 / Hidekazu Furukawa (@npaka123)</title>
+      <link>https://x.com/npaka123/status/2032392758674288716</link>
+      <description>VRChatアバターをAIチャットで自動改変できる無料のUnityエディタ拡張「Unity AI Agent」がリリースされた。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;布留川英一 / Hidekazu Furukawa&lt;/strong&gt; &lt;a href="https://x.com/npaka123"&gt;@npaka123&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;VRChatアバターカスタマイズが可能な無料のAIエージェント「Unity AI Agent」リリース！ Unity Editor上でAIとチャットするだけでアバター改変の操作を自動で実行するUnityエディタ拡張&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/npaka123/status/2032392758674288716"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/npaka123/status/2032392758674288716</guid>
+      <pubDate>Fri, 13 Mar 2026 09:46:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ryan Yuan (@RainbowYuhui)</title>
+      <link>https://x.com/RainbowYuhui/status/2032330740382515434</link>
+      <description>Canvaが画像からレイヤー分解するAIモデルMagicLayersをリリース。Qwen-Image-Layerより20～200倍高速。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Ryan Yuan&lt;/strong&gt; &lt;a href="https://x.com/RainbowYuhui"&gt;@RainbowYuhui&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We’re excited to launch #MagicLayers globally at Canva &lt;br&gt;&lt;br&gt;This is currently the most advanced image-to-layer decomposition model in the world-purpose-built for design-native content.&lt;br&gt;&lt;br&gt; 20–200× faster than Qwen-Image-Layer&lt;br&gt; Super strong on designs&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/RainbowYuhui/status/2032330740382515434"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/RainbowYuhui/status/2032330740382515434</guid>
+      <pubDate>Fri, 13 Mar 2026 05:39:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>DailyPapers (@HuggingPapers)</title>
+      <link>https://x.com/HuggingPapers/status/2032369818221891817</link>
+      <description>Tencentと清華大が、ストリーミング空間知能向けにテスト時学習Spatial-TTTを開発した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;DailyPapers&lt;/strong&gt; &lt;a href="https://x.com/HuggingPapers"&gt;@HuggingPapers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Spatial-TTT&lt;br&gt;&lt;br&gt;Tencent Hunyuan and Tsinghua researchers introduce test-time training for streaming spatial intelligence, using adaptive fast weights to accumulate 3D evidence from unbounded video with near-linear memory scaling.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/2032369746373394432/pu/img/sNMbIaOVPxnxwr8Y.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/HuggingPapers/status/2032369818221891817"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/HuggingPapers/status/2032369818221891817</guid>
+      <pubDate>Fri, 13 Mar 2026 08:14:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>DailyPapers (@HuggingPapers)</title>
+      <link>https://x.com/HuggingPapers/status/2032316294301659170</link>
+      <description>FIRMは、RLベースの画像編集・生成向けに堅牢な報酬モデルと8B批評家、FIRM-Benchベンチマークを導入した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;DailyPapers&lt;/strong&gt; &lt;a href="https://x.com/HuggingPapers"&gt;@HuggingPapers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Trust Your Critic&lt;br&gt;&lt;br&gt;FIRM introduces robust reward models for RL-based image editing and generation with 370K editing and 293K generation samples, specialized 8B critics, and the FIRM-Bench benchmark.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQ85fLXcAACTMf?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/HuggingPapers/status/2032316294301659170"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/HuggingPapers/status/2032316294301659170</guid>
+      <pubDate>Fri, 13 Mar 2026 04:42:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>HomeMadeGarbage (@H0meMadeGarbage)</title>
+      <link>https://x.com/H0meMadeGarbage/status/2032352236563734714</link>
+      <description>物理シミュレーションエンジンMuJoCoは、正確なモデリングで実機と遜色ない挙動を実現する。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;HomeMadeGarbage&lt;/strong&gt; &lt;a href="https://x.com/H0meMadeGarbage"&gt;@H0meMadeGarbage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MuJoCo&lt;br&gt;モデリングが正確にできれば実機と全く変わらない&lt;br&gt;&lt;br&gt;モデリングが正確にできれば&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032352002706194436/img/CYQthZRvtkOf0eav.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/H0meMadeGarbage/status/2032352236563734714"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/H0meMadeGarbage/status/2032352236563734714</guid>
+      <pubDate>Fri, 13 Mar 2026 07:05:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
