@@ -188,7 +188,10 @@ def post_to_discord_webhook(report_md: str, webhook_url: str) -> bool:
         req = urllib.request.Request(
             webhook_url,
             data=payload.encode("utf-8"),
-            headers={"Content-Type": "application/json"},
+            headers={
+                "Content-Type": "application/json",
+                "User-Agent": "RecommendFeeder/1.0",
+            },
             method="POST",
         )
         try:
