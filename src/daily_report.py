@@ -1,4 +1,4 @@
-"""Daily AI Report: scrape Twitter list + YouTube summaries -> unified report."""
+"""Daily AI Report: scrape Twitter list -> RSS feeds + daily report."""
 
 import json
 import logging
@@ -11,6 +11,8 @@ from dotenv import load_dotenv
 
 from scraper import scrape_timeline
 from classifier import classify_tweets
+from feed_generator import generate_feeds
+from spreadsheet import push_to_spreadsheet
 from report_generator import (
     generate_daily_report,
     generate_report_feed,
@@ -35,13 +37,12 @@ def load_blacklist() -> set[str]:
         return set()
 
 
-def load_todays_youtube_summaries() -> list[dict]:
-    """Load YouTube summaries from video_summaries.json (all recent)."""
+def load_youtube_summaries() -> list[dict]:
+    """Load recent YouTube summaries for daily report."""
     summaries_file = Path(__file__).parent.parent / "video_summaries.json"
     try:
         if summaries_file.exists():
             all_summaries = json.loads(summaries_file.read_text(encoding="utf-8"))
-            # 直近10件を使用（日付フィルタなし、レポートに含める価値のあるもの）
             return all_summaries[:10]
     except Exception:
         pass
@@ -55,10 +56,10 @@ def main() -> None:
         "TWITTER_LIST_URL",
         "https://x.com/i/lists/2032409039397966259",
     )
-    tweet_count = int(os.getenv("REPORT_TWEET_COUNT", "100"))
+    tweet_count = int(os.getenv("REPORT_TWEET_COUNT", "30"))
 
     # 1. Scrape Twitter list
-    logger.info("Scraping Twitter list: %s", list_url)
+    logger.info("Scraping Twitter list: %s (target: %d)", list_url, tweet_count)
     tweets = scrape_timeline(
         tweet_count=tweet_count,
         headless=False,
@@ -88,33 +89,34 @@ def main() -> None:
     classify_tweets(tweets)
     logger.info("%d tweets after classification/skip filter", len(tweets))
 
-    # 4. Load YouTube summaries
-    youtube_summaries = load_todays_youtube_summaries()
-    logger.info("Loaded %d YouTube summaries", len(youtube_summaries))
+    # 4. Generate category RSS feeds (bot が監視して投稿する)
+    output_dir = Path(__file__).parent.parent / "docs"
+    generate_feeds(tweets, output_dir=output_dir)
 
-    # 5. Generate report
+    # 5. Push to spreadsheet
+    if tweets:
+        logger.info("Pushing %d tweets to spreadsheet...", len(tweets))
+        push_to_spreadsheet(tweets, sheet="twitter")
+
+    # 6. Generate daily report
+    youtube_summaries = load_youtube_summaries()
+    logger.info("Loaded %d YouTube summaries for report", len(youtube_summaries))
+
     logger.info("Generating daily report...")
     report_md = generate_daily_report(tweets, youtube_summaries)
 
-    if not report_md:
-        logger.error("Failed to generate report")
-        sys.exit(1)
+    if report_md:
+        today_str = date.today().isoformat()
+        save_report(report_md, today_str)
+        generate_report_feed(report_md, today_str)
 
-    # 6. Save report
-    today_str = date.today().isoformat()
-    save_report(report_md, today_str)
-
-    # 7. Generate RSS feed
-    generate_report_feed(report_md, today_str)
-
-    # 8. Post to Discord (if webhook configured)
-    webhook_url = os.getenv("DISCORD_REPORT_WEBHOOK")
-    if webhook_url:
-        post_to_discord_webhook(report_md, webhook_url)
+        webhook_url = os.getenv("DISCORD_REPORT_WEBHOOK")
+        if webhook_url:
+            post_to_discord_webhook(report_md, webhook_url)
     else:
-        logger.info("DISCORD_REPORT_WEBHOOK not set, skipping Discord post")
+        logger.warning("Failed to generate daily report")
 
-    logger.info("Daily report complete!")
+    logger.info("Done!")
 
 
 if __name__ == "__main__":
