@@ -7,233 +7,272 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 03:21:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 03:53:19 +0000</lastBuildDate>
     <item>
-      <title>あいシンギュラリティ (@singularity20xy)</title>
-      <link>https://x.com/singularity20xy/status/2032042917838340314</link>
-      <description>Anthropicの研究者がAIの再帰的自己改善の初期兆候を発見。来年にも実現か。Claude Codeが計画を前倒し。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;あいシンギュラリティ&lt;/strong&gt; &lt;a href="https://x.com/singularity20xy"&gt;@singularity20xy&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;なんてこった：Anthropicの研究者たちは、かつて多くの人が遠い未来のものだと考えていたものが、ついに初期の兆候を見せ始めていることに気づきつつある：再帰的自己改善だ。&lt;br&gt;&lt;br&gt;それは、来年にも到来するかもしれない。&lt;br&gt;&lt;br&gt;Claude Codeは、予想よりも速くAnthropicの計画を実行した。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDIsmr5awAAbIYY?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/singularity20xy/status/2032042917838340314"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/singularity20xy/status/2032042917838340314</guid>
-      <pubDate>Thu, 12 Mar 2026 10:35:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>akihiro（あきひろ）| 生成AI活用 (@akihiro_genai)</title>
-      <link>https://x.com/akihiro_genai/status/2032102089024029125</link>
-      <description>最近のCodexは、明示せずともマルチエージェントでタスクを効率化し、特に調査系でその傾向が顕著。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;akihiro（あきひろ）| 生成AI活用&lt;/strong&gt; &lt;a href="https://x.com/akihiro_genai"&gt;@akihiro_genai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;最近のCodex見てるとこの流れになるんだろうなーと、しみじみ思う。&lt;br&gt;特に明示しなくても勝手にマルチエージェントで効率化しようとしてきますからね。調査系タスクなんて特に。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/akihiro_genai/status/2032102089024029125"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/akihiro_genai/status/2032102089024029125</guid>
-      <pubDate>Thu, 12 Mar 2026 14:31:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crunio | CGメディア (@Botan_cr)</title>
-      <link>https://x.com/Botan_cr/status/2031939297956495482</link>
-      <description>BlenderのGeometryNodesで、体の形を保ちつつ粒子のように崩壊する砂のエフェクトが披露された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Crunio | CGメディア&lt;/strong&gt; &lt;a href="https://x.com/Botan_cr"&gt;@Botan_cr&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;BlenderのGeometryNodesで砂の崩壊エフェクトを披露したクリエイター(_mqleh氏) #b3d &lt;br&gt;&lt;br&gt;体の形を保ちながら足元から粒子のように崩れ落ちていく動きがとても印象的。物理シミュレーションのようなリアルさと、アート的な演出がうまく融合していて、ジオメトリーノードの表現力の高さを感じる作品です&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031939241497026560/img/ZSGp4SLJrR32UtYz.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/Botan_cr/status/2031939297956495482"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Botan_cr/status/2031939297956495482</guid>
-      <pubDate>Thu, 12 Mar 2026 03:44:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>只の人。 (@aibi0123)</title>
-      <link>https://x.com/aibi0123/status/2032187749500141990</link>
-      <description>イーロン・マスク氏が将来、誰もが「ユニバーサル・ハイ・インカム」を受け取ると発言。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;只の人。&lt;/strong&gt; &lt;a href="https://x.com/aibi0123"&gt;@aibi0123&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;イーロン・マスク氏、将来は誰もが「ユニバーサル・ハイ・インカム」を受け取ると語る&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/aibi0123/status/2032187749500141990"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/aibi0123/status/2032187749500141990</guid>
-      <pubDate>Thu, 12 Mar 2026 20:11:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>ライブドアニュース (@livedoornews)</title>
-      <link>https://x.com/livedoornews/status/2032227133779821057</link>
-      <description>PayPayがナスダック上場、時価総額約1.7兆円で日本企業最大規模。初値は公開価格を上回り、米国サービス展開を目指す。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ライブドアニュース&lt;/strong&gt; &lt;a href="https://x.com/livedoornews"&gt;@livedoornews&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【発表】「PayPay」がナスダック上場、時価総額約1.7兆円 日本企業で最大規模&lt;br&gt;https://news.livedoor.com/article/detail/30755604/…&lt;br&gt;&lt;br&gt;初値は1株あたり19ドルとなり公開価格の16ドルを上回った。PayPayは、アメリカでのサービス提供を目指す方針を明らかにしていて、上場で調達した資金を海外展開などに充てる狙いだという。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDPro_xbQAIOVlA?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;ニュース&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/livedoornews/status/2032227133779821057"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/livedoornews/status/2032227133779821057</guid>
-      <pubDate>Thu, 12 Mar 2026 22:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ちょあ (@hiimchoa)</title>
-      <link>https://x.com/hiimchoa/status/2031954548705935662</link>
-      <description>クラウド・インフラ需要は複雑な要件に対応できる人材に集中し、スキルある人材は高騰。戦略なき外注は苦戦。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ちょあ&lt;/strong&gt; &lt;a href="https://x.com/hiimchoa"&gt;@hiimchoa&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;クラウド・インフラ需要は引き続きあるけど、上流から対応できるとか複雑な構成・要件を形にできるってところがかなり大きくて、誰でもってワケじゃないからねー  仕事を回せる人材は高騰してる一方で、お金目的だけの具体的な戦略を何も持っていない外注/下請けだと、需給でジリ貧なってる感じ。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/hiimchoa/status/2031954548705935662"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/hiimchoa/status/2031954548705935662</guid>
-      <pubDate>Thu, 12 Mar 2026 04:44:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>ナゾロジー@科学ニュースメディア (@NazologyInfo)</title>
-      <link>https://x.com/NazologyInfo/status/2032283505191714839</link>
-      <description>復旦大学の研究で、コーヒーを1日2～3杯飲む人は精神疾患リスクが低いが、5杯以上でリスク上昇と判明。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ナゾロジー@科学ニュースメディア&lt;/strong&gt; &lt;a href="https://x.com/NazologyInfo"&gt;@NazologyInfo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;コーヒーを「1日2～3杯」飲む人は精神疾患リスクが低いが、5杯以上で逆効果&lt;br&gt;https://nazology.kusuguru.co.jp/archives/192825&lt;br&gt;&lt;br&gt;中国の復旦大学は46万人以上を対象にした研究で、1日2～3杯飲む人は精神疾患の発症リスクが低いと報告。しかし5杯以上飲む人ではこの保護的な関連が消え、逆にリスク上昇が見られました。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDMJX_-bQAIJQvn?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;ニュース&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/NazologyInfo/status/2032283505191714839"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/NazologyInfo/status/2032283505191714839</guid>
-      <pubDate>Fri, 13 Mar 2026 02:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>えくぼちゃん (@bsx3OFpqArGH8eA)</title>
-      <link>https://x.com/bsx3OFpqArGH8eA/status/2031945547750494266</link>
-      <description>Amazon Alexaが子供に不適切な質問をし、過去には子供の音声や位置情報を違法収集していたと報じられた。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;えくぼちゃん&lt;/strong&gt; &lt;a href="https://x.com/bsx3OFpqArGH8eA"&gt;@bsx3OFpqArGH8eA&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;アレクサ(Amazon Alexa)は実はド変態で、4歳の娘との会話で「何を着ているの？ パンツを見せてもらえる？」と尋ねるらしい ⇓&lt;br&gt;&lt;br&gt;過去には、数千人の子供の音声と位置情報を収集、違法に保持していたことが発覚している&lt;br&gt;&lt;br&gt;幼児誘拐や性犯罪などに悪用されてもおかしくない状況&lt;br&gt;https://rapt-plusalpha.com/76011/&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDLrd0JacAAro7U?format=png&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDLrdudbQAI0Mgg?format=png&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031771288159588357/img/GsVb4Q3YSRDpEPzS?format=jpg&amp;name=240x240" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;ニュース&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/bsx3OFpqArGH8eA/status/2031945547750494266"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/bsx3OFpqArGH8eA/status/2031945547750494266</guid>
-      <pubDate>Thu, 12 Mar 2026 04:09:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mayu Kudo | 工藤 真由 | Globis Capital Partners (@_mayumayu13)</title>
-      <link>https://x.com/_mayumayu13/status/2032233929101754673</link>
-      <description>LayerXがAIネイティブ企業への進化のため、半年間プロダクトロードマップを白紙にする決断をした。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Mayu Kudo | 工藤 真由 | Globis Capital Partners&lt;/strong&gt; &lt;a href="https://x.com/_mayumayu13"&gt;@_mayumayu13&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;「SaaSらしい機能開発をしていれば、売上は伸びた。&lt;br&gt;でもこのままではAIネイティブ企業として進化できない気がした」&lt;br&gt;&lt;br&gt;この危機感からLayerX飯沼さん(@numashi_Biz )が実施したのは、&lt;br&gt;プロダクトロードマップを半年間、白紙にすること。&lt;br&gt;&lt;br&gt;その決断の先に見えてきたのが、&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDPvJ0ubQAEz73U?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/_mayumayu13/status/2032233929101754673"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_mayumayu13/status/2032233929101754673</guid>
-      <pubDate>Thu, 12 Mar 2026 23:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信》 (@masahirochaen)</title>
-      <link>https://x.com/masahirochaen/status/2032245312761512173</link>
-      <description>Claude公式のCLAUDE.md改善プラグインは、品質監査とフォルダ構成との照合による差分提案が可能。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信》&lt;/strong&gt; &lt;a href="https://x.com/masahirochaen"&gt;@masahirochaen&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Claude Codeユーザー必見。&lt;br&gt;Claude公式のCLAUDE. mdを改善するプラグインが良い。&lt;br&gt;&lt;br&gt;できること2つ：&lt;br&gt;&lt;br&gt;① CLAUDE. mdの品質監査&lt;br&gt;→ 6項目（コマンド網羅性・アーキテクチャ明確さ・簡潔さ等）でA〜Fスコアリング&lt;br&gt;→ 実際のフォルダ構成とCLAUDE. mdを照合して「ここ古くなってるよ」をdiffで提案&lt;br&gt;&lt;br&gt;②&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDP8VT7aEAALaaJ?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDP8VfSbQAExhyM?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDP8VrxaUAAhlBf?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDP8V1dbQAAdyXU?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/masahirochaen/status/2032245312761512173"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/masahirochaen/status/2032245312761512173</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>錬金王 (@Cash_Make_Power)</title>
-      <link>https://x.com/Cash_Make_Power/status/2032047701030834607</link>
-      <description>AppleやTikTokなど、物理的な形を持たない企業が既存産業を支配する時代が到来している。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;錬金王&lt;/strong&gt; &lt;a href="https://x.com/Cash_Make_Power"&gt;@Cash_Make_Power&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Apple → 銀行じゃないのに決済を支配&lt;br&gt;TikTok → 放送局じゃないのに若者の時間を奪ってる&lt;br&gt;Kindle → 紙を使わないのに世界一の本屋に&lt;br&gt;Zoom → オフィス持ってないのに会議の場を独占&lt;br&gt;&lt;br&gt;物理的な形がない方が強い時代、マジで面白い&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/Cash_Make_Power/status/2032047701030834607"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Cash_Make_Power/status/2032047701030834607</guid>
-      <pubDate>Thu, 12 Mar 2026 10:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>電ファミニコゲーマー (@denfaminicogame)</title>
-      <link>https://x.com/denfaminicogame/status/2032278849380319298</link>
-      <description>『バトルフィールド6』の無料フリートライアルが3月17日から24日まで開催。6種のゲームモードを体験可能。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;電ファミニコゲーマー&lt;/strong&gt; &lt;a href="https://x.com/denfaminicogame"&gt;@denfaminicogame&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【無料】『バトルフィールド6』の「フリートライアル」が3月17日より開催決定。3月24日までの1週間限定&lt;br&gt;https://news.denfaminicogamer.jp/news/260313s&lt;br&gt;&lt;br&gt;基本プレイ無料の『Battlefiled REDSEC』からアクセス可能。「コンクエスト」「エスカレーション」などの6種のゲームモードを体験できる&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/2032278776869240832/pu/img/5GmmeHXgl2HcFFvi.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;ニュース&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/denfaminicogame/status/2032278849380319298"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/denfaminicogame/status/2032278849380319298</guid>
-      <pubDate>Fri, 13 Mar 2026 02:13:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>世界のど迫力映像@フォレスト(Forest) (@investorMM)</title>
-      <link>https://x.com/investorMM/status/2032257021198934411</link>
-      <description>36歳男性が自力で一軒家を建て借金を完済し、住宅ローンや光熱費もゼロにしたと涙ながらに語り話題に。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;世界のど迫力映像@フォレスト(Forest)&lt;/strong&gt; &lt;a href="https://x.com/investorMM"&gt;@investorMM&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【感動】「36歳、人生あがりました」 自力で一軒家を建て、全ての借金を完済した男性の男泣きが話題に。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;住宅ローン、車のローン、さらには光熱費までゼロ。「薬も売らず、誰も裏切らず、正攻法でシステムを攻略した」と涙ながらに語る姿に称賛の嵐&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032074861649281027/img/5bkA_ecs2nmMWwo1.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;ニュース&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/investorMM/status/2032257021198934411"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/investorMM/status/2032257021198934411</guid>
-      <pubDate>Fri, 13 Mar 2026 00:46:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>abara (@abaranche)</title>
-      <link>https://x.com/abaranche/status/2032132148514472344</link>
-      <description>Claude Codeと/insightを組み合わせると、プロンプトの書き方や改善点が明確になる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;abara&lt;/strong&gt; &lt;a href="https://x.com/abaranche"&gt;@abaranche&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;/insightと組み合わせてみても面白かった&lt;br&gt;&lt;br&gt;全体的にこっちのSkillsの方がプロンプトの書き方とか仕事への姿勢が見えて汎用性が高いんだけど、じゃあClaude Code上ではどう改善するの、に関しては/insightが出してくれる感&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOVJjOaoAAlxYR?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOVOZ_bQAM4sQx?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/abaranche/status/2032132148514472344"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/abaranche/status/2032132148514472344</guid>
-      <pubDate>Thu, 12 Mar 2026 16:30:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>すてぃん (@stin_factory)</title>
-      <link>https://x.com/stin_factory/status/2032292988135882813</link>
-      <description>Claude Codeは「サブエージェントで並列作業」と指示すると、その通りにサブエージェントを起動する。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;すてぃん&lt;/strong&gt; &lt;a href="https://x.com/stin_factory"&gt;@stin_factory&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Claude Code って「サブエージェントで並列作業して」ってお願いするとその通りにサブエージェント起動してくれるんや&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/stin_factory/status/2032292988135882813"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/stin_factory/status/2032292988135882813</guid>
-      <pubDate>Fri, 13 Mar 2026 03:09:41 +0000</pubDate>
+      <title>に (@miina_333x)</title>
+      <link>https://x.com/miina_333x/status/2031994601330950466</link>
+      <description>マッチングアプリで会った男性に食事量で怒られ、父から「ご飯を食べてから行きなさい」とアドバイスされた。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;に&lt;/strong&gt; &lt;a href="https://x.com/miina_333x"&gt;@miina_333x&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;マチアプで会った人に&lt;br&gt;「食べすぎやろ」と本気でキレられ。（割り勘なのに）&lt;br&gt;その話を父にしたら、「それは婚活になってない。&lt;br&gt;今度からご飯食べてから行きなさい」&lt;br&gt;と冷静に言われて納得しました。&lt;br&gt;たくさん食べる女はダメかあ&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;恋愛&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/miina_333x/status/2031994601330950466"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/miina_333x/status/2031994601330950466</guid>
+      <pubDate>Thu, 12 Mar 2026 07:24:00 +0000</pubDate>
     </item>
     <item>
       <title>だいち＠家族大好きエンジニア (@da_i_chi_dev)</title>
-      <link>https://x.com/da_i_chi_dev/status/2032290576708858136</link>
-      <description>Claudeに「don't implement yet」と指示することで、計画の判断権をユーザーが持ち続けられる。</description>
+      <link>https://x.com/da_i_chi_dev/status/2032293614630682811</link>
+      <description>本番データベースを壊さないため、Claude Codeのdeny/Hook機能を突破できるか検証した。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;だいち＠家族大好きエンジニア&lt;/strong&gt; &lt;a href="https://x.com/da_i_chi_dev"&gt;@da_i_chi_dev&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;"don't implement yet"というフレーズを知ってから計画の質が変わった。&lt;br&gt;Claudeは計画が十分と判断した瞬間に実装を始めてしまう。&lt;br&gt;このフレーズを毎回明示することで、判断権を自分の手元に置き続けられる。詳しくはスレッドに&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/2032290558094557185/pu/img/vKOAftw2v_40cqQb.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;本番DBを壊したくないのでClaude Codeのdeny/Hookを突破できるか本気で試してみた&lt;br&gt;&lt;br&gt;「ちりけてみる」&lt;br&gt;&lt;br&gt;記事リンクは↓&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQoHQ-bQAQaZIf?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/da_i_chi_dev/status/2032290576708858136"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/da_i_chi_dev/status/2032290576708858136</guid>
-      <pubDate>Fri, 13 Mar 2026 03:00:06 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/da_i_chi_dev/status/2032293614630682811"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/da_i_chi_dev/status/2032293614630682811</guid>
+      <pubDate>Fri, 13 Mar 2026 03:12:10 +0000</pubDate>
     </item>
     <item>
-      <title>えいとびーと (@eightbeat8b)</title>
-      <link>https://x.com/eightbeat8b/status/2032270273601478990</link>
-      <description>アプリScaniverseでの高精度3D空間作成は専用スキャナーや職人技が必要で、AIとは関係ない。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;えいとびーと&lt;/strong&gt; &lt;a href="https://x.com/eightbeat8b"&gt;@eightbeat8b&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;- AI関係ないです&lt;br&gt;- ここまで高精度の3D空間作成には専用のスキャナーが必要(iphoneでも可能だけど、超絶職人技、俺には無理！）&lt;br&gt;&lt;br&gt;アプリのScaniverseでみんな作れるんだけど、小物の多い室内空間の生成は職人技。てかなんでAIに結びつけられてるんだ&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032126630588727296/img/sJWFVQpnfiSoQGPj.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/eightbeat8b/status/2032270273601478990"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/eightbeat8b/status/2032270273601478990</guid>
-      <pubDate>Fri, 13 Mar 2026 01:39:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>ゆーへー　事業戦略の人 koujitsu/爾今/一絲/DIG/知足 代表 (@yuuuu19860221)</title>
-      <link>https://x.com/yuuuu19860221/status/2032199963829264851</link>
-      <description>経営者が社員の成長を見極めるのは能力でなく日常の行動。これが5年後の給料や裁量に差を生む。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ゆーへー　事業戦略の人 koujitsu/爾今/一絲/DIG/知足 代表&lt;/strong&gt; &lt;a href="https://x.com/yuuuu19860221"&gt;@yuuuu19860221&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;経営者が｢こいつは絶対に伸びないな｣と静かに確信する瞬間がある。能力の話じゃないんよな。日常の仕事の中にある、本人が全く気づいていない小さな行動に全部出るんだわ。怒る人は怒ればいい。でもこれを知っているかどうかで、5年後の給料と裁量と自由が取り返しのつかない差になる↓&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/yuuuu19860221/status/2032199963829264851"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/yuuuu19860221/status/2032199963829264851</guid>
-      <pubDate>Thu, 12 Mar 2026 21:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>廣澤 太紀 | ひろざわ だいき (@HirozawaDaiki)</title>
-      <link>https://x.com/HirozawaDaiki/status/2032046562151632963</link>
-      <description>AIによるソフトウェア不要論に対し、過去の技術転換から考察する記事が参考になった。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;廣澤 太紀 | ひろざわ だいき&lt;/strong&gt; &lt;a href="https://x.com/HirozawaDaiki"&gt;@HirozawaDaiki&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AIによって「ソフトウェアは不要になる」という議論が盛り上がっていますが、本当にそうなのか？という問いに、過去の技術転換の歴史から意見を出している記事で、参考になる内容でした！&lt;/p&gt;
+      <title>𝗁𝖺𝗇𝖺𝖻 (@hn_a_b)</title>
+      <link>https://x.com/hn_a_b/status/2032085490468602319</link>
+      <description>エンジニアは長時間労働しても感謝されず、仕様書の些細な表記ミスで叱責されるという皮肉な状況。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;𝗁𝖺𝗇𝖺𝖻&lt;/strong&gt; &lt;a href="https://x.com/hn_a_b"&gt;@hn_a_b&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;エンジニアって週90時間働いても誰にも感謝されないのに、仕様書の【「】の全角と半角を間違っただけで叱られるの？&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/HirozawaDaiki/status/2032046562151632963"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/HirozawaDaiki/status/2032046562151632963</guid>
-      <pubDate>Thu, 12 Mar 2026 10:50:28 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/hn_a_b/status/2032085490468602319"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/hn_a_b/status/2032085490468602319</guid>
+      <pubDate>Thu, 12 Mar 2026 13:25:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>naoya (@naoya_ito)</title>
+      <link>https://x.com/naoya_ito/status/2031977700647453166</link>
+      <description>ソフトウェアエンジニアは命令型プログラミングに縛られ操作的思考になりがち。操作でなく意味に閉じて思考することが大切。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;naoya&lt;/strong&gt; &lt;a href="https://x.com/naoya_ito"&gt;@naoya_ito&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ソフトウェアエンジニアは命令型プログラミングに縛られていて、普段から知らず知らずのうちに思考が操作的思考に引っ張られている&lt;br&gt;そこから解き放たれて、操作に変換せず意味に閉じて思考することがときに大切だ&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/naoya_ito/status/2031977700647453166"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/naoya_ito/status/2031977700647453166</guid>
+      <pubDate>Thu, 12 Mar 2026 06:16:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>こじもじょ (@seitekimiryoku0)</title>
+      <link>https://x.com/seitekimiryoku0/status/2031924381346374130</link>
+      <description>25歳で年齢を理由に転職活動で落とされた経験から、人手不足という言葉に疑問を呈している。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;こじもじょ&lt;/strong&gt; &lt;a href="https://x.com/seitekimiryoku0"&gt;@seitekimiryoku0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;25歳の時の転職(就職)活動で年齢理由で落とされたことある&lt;br&gt;25歳を年齢で落とすならもう人手不足とか二度と言うなよ&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/seitekimiryoku0/status/2031924381346374130"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/seitekimiryoku0/status/2031924381346374130</guid>
+      <pubDate>Thu, 12 Mar 2026 02:44:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>エフ（Fラン大学就職チャンネル） (@F_kokutiyou)</title>
+      <link>https://x.com/F_kokutiyou/status/2031940066667610298</link>
+      <description>複数企業が新卒採用数を減らし「28卒は就職氷河期」との声があるが、コロナ禍の予測と同様に限定的影響の可能性。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;エフ（Fラン大学就職チャンネル）&lt;/strong&gt; &lt;a href="https://x.com/F_kokutiyou"&gt;@F_kokutiyou&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;新卒採用数を減らすと公表している企業が複数社あるので、「28卒から就職氷河期になるのでは」と言い出すアカウントも現れています。&lt;br&gt;&lt;br&gt;可能性として否定できませんが、コロナの時も「氷河期になる」と騒ぐ人達がいて、実際には特定業界（航空、旅行等）以外の新卒採用への影響は軽微でした。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/F_kokutiyou/status/2031940066667610298"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/F_kokutiyou/status/2031940066667610298</guid>
+      <pubDate>Thu, 12 Mar 2026 03:47:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>壽丸@IT戦士 (@kotobuki0033)</title>
+      <link>https://x.com/kotobuki0033/status/2032036147002819031</link>
+      <description>高校中退やFラン卒でも戦略次第で良い企業に入れる。高卒30代でIT業界に来た同僚も複数社から内定を得た。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;壽丸@IT戦士&lt;/strong&gt; &lt;a href="https://x.com/kotobuki0033"&gt;@kotobuki0033&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;大事なのはそうだけど、まじで戦略次第だよ。俺も高校中退のFラン卒でそれなりのところに入れたし、一緒に転職活動した同僚も高卒で30歳超えてIT業界来た人だけどゼネコン、DMMやデータ先端技術とかNTT系列複数に通ってたよ。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/kotobuki0033/status/2032036147002819031"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/kotobuki0033/status/2032036147002819031</guid>
+      <pubDate>Thu, 12 Mar 2026 10:09:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ニッケル坊や (@Nickel_Bouya28)</title>
+      <link>https://x.com/Nickel_Bouya28/status/2032078094417494485</link>
+      <description>理系院卒男性がケチというより、ケチでない人は婚活市場に出る前に結婚しているため見かけない。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ニッケル坊や&lt;/strong&gt; &lt;a href="https://x.com/Nickel_Bouya28"&gt;@Nickel_Bouya28&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;理系院卒男はケチ&lt;br&gt;というよりは、ケチじゃない理系院卒男は婚活市場に出てくる前に売れてしまっているので出てこないだけだよ&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;恋愛&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/Nickel_Bouya28/status/2032078094417494485"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Nickel_Bouya28/status/2032078094417494485</guid>
+      <pubDate>Thu, 12 Mar 2026 12:55:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>福井 康平＠㍿Will Location 代表取締役 (@Kofei_Fukui)</title>
+      <link>https://x.com/Kofei_Fukui/status/2032059783365222777</link>
+      <description>「社長の仕事は意思決定だけ」は超一流経営者やコンサルの話で、中小企業の社長は「全部」の仕事をする。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;福井 康平＠㍿Will Location 代表取締役&lt;/strong&gt; &lt;a href="https://x.com/Kofei_Fukui"&gt;@Kofei_Fukui&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;誰だよ、「社長の仕事は意思決定だけ」とか言い出したやつ。&lt;br&gt;そんなの、超一流経営者か、起業したことないコンサルか、成功者の言葉を自分のものみたいに語りたがる人くらいでしょ。&lt;br&gt;&lt;br&gt;ほとんどの日本の中小企業の社長の仕事は「全部」。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/Kofei_Fukui/status/2032059783365222777"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Kofei_Fukui/status/2032059783365222777</guid>
+      <pubDate>Thu, 12 Mar 2026 11:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ちょあ (@hiimchoa)</title>
+      <link>https://x.com/hiimchoa/status/2032062320491548709</link>
+      <description>良い条件で働く人はキャリア戦略を考え、努力とリスクを取っている。会社任せでは経歴は終わる。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ちょあ&lt;/strong&gt; &lt;a href="https://x.com/hiimchoa"&gt;@hiimchoa&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;運要素は確かに強かったけど、今でも条件良く働けてる人は「自分でキャリア戦略をきちんと考えてた」からだと思うわぁ  プロジェクトに入れられて下手したら数年単位で動かず、完全に会社任せで緩やかに経歴が終わっていくとか、継続した努力 + リスクを取りに行ってる人たちに勝てるはずないやん。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/hiimchoa/status/2032062320491548709"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/hiimchoa/status/2032062320491548709</guid>
+      <pubDate>Thu, 12 Mar 2026 11:53:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>稲荷chrome (@inarichrome_2)</title>
+      <link>https://x.com/inarichrome_2/status/2032010898827853961</link>
+      <description>某県の技術職説明会で、人事が専門外や文系卒でも2年経験で院卒を追い抜けると発言し、採用側が実務経験を重視し始めている。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;稲荷chrome&lt;/strong&gt; &lt;a href="https://x.com/inarichrome_2"&gt;@inarichrome_2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;去年某県の技術職説明会にて人事が&lt;br&gt;「全くの専門外だったり文系の学部卒でも、2年間経験を積むことで院卒の専門性を追い抜ける人は沢山います。(ので、出身分野は制限しません。)」と言っていたので、採用側は確実に "気付き" 始めている。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/inarichrome_2/status/2032010898827853961"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/inarichrome_2/status/2032010898827853961</guid>
+      <pubDate>Thu, 12 Mar 2026 08:28:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>たくろう│ド田舎で不労所得生活中 (@pingpong_pearl1)</title>
+      <link>https://x.com/pingpong_pearl1/status/2031980548957356232</link>
+      <description>地方移住では就職を避けるべきで、人口数万人の地域では週5〜6勤務でも額面20万円以下の企業が多い。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;たくろう│ド田舎で不労所得生活中&lt;/strong&gt; &lt;a href="https://x.com/pingpong_pearl1"&gt;@pingpong_pearl1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;地方移住を検討している方に一つだけアドバイスさせていただくとすれば「就職はホントにやめた方がいい」です。&lt;br&gt;&lt;br&gt;人口規模にもよりますが、ひとケタ万人の地域だとフルタイム週5勤務(会社によっては週6勤務)しても額面20万円以下でこんな感じの手取りになる企業がゴロゴロあります。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/pingpong_pearl1/status/2031980548957356232"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/pingpong_pearl1/status/2031980548957356232</guid>
+      <pubDate>Thu, 12 Mar 2026 06:28:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>でんけん@JTC辞めた (@KenTana2020)</title>
+      <link>https://x.com/KenTana2020/status/2032050469753999382</link>
+      <description>日本的伝統企業で最も恐ろしいのは、不要になった人の雇用を守るための専門部署への異動だと指摘。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;でんけん@JTC辞めた&lt;/strong&gt; &lt;a href="https://x.com/KenTana2020"&gt;@KenTana2020&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;JTCで1番恐ろしいのは&lt;br&gt;&lt;br&gt;・優秀すぎる高学歴の後輩&lt;br&gt;・出世の天井が見えること&lt;br&gt;・マイホーム購入後の転勤辞令&lt;br&gt;・30歳超えて若手扱いされること&lt;br&gt;&lt;br&gt;よりも、不要になった人の雇用を守るための専門部署に異動になることです。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/KenTana2020/status/2032050469753999382"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/KenTana2020/status/2032050469753999382</guid>
+      <pubDate>Thu, 12 Mar 2026 11:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>でぷれ｜売上直結マーケ特化型AI活用術 (@ai_depression)</title>
+      <link>https://x.com/ai_depression/status/2032064563168833639</link>
+      <description>Claude Codeでの開発ではAIと話が噛み合わない時があり、AI活用で仕事は減らずむしろ膨張すると指摘。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;でぷれ｜売上直結マーケ特化型AI活用術&lt;/strong&gt; &lt;a href="https://x.com/ai_depression"&gt;@ai_depression&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最近claude codeでガッツリ開発してるんだけど、たまにAIと自分が完全に別の話をしてるのに噛み合ってるフリしてる時間が発生するあるある&lt;br&gt;&lt;br&gt;こういう「AIとの共同作業あるある」を日々体験してて思うのは、正直AI使い始めてから仕事はまったく減ってないということ。&lt;br&gt;&lt;br&gt;むしろ膨張してる。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/ai_depression/status/2032064563168833639"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/ai_depression/status/2032064563168833639</guid>
+      <pubDate>Thu, 12 Mar 2026 12:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>安斎 響市 @転職デビル (@AnzaiKyo1)</title>
+      <link>https://x.com/AnzaiKyo1/status/2032009559678861665</link>
+      <description>東京の成功者と会うと「若い頃の苦労は買ってでもしろ」という話は嘘で、苦労しない方が良いと感じると指摘。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;安斎 響市 @転職デビル&lt;/strong&gt; &lt;a href="https://x.com/AnzaiKyo1"&gt;@AnzaiKyo1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;東京でいわゆる「成功者」と呼ばれる人たちと実際に会ってみると、「若い頃の苦労は買ってでもしろ」「成功した人は例外なく20代で血の滲む努力をしている」みたいな話はほとんど嘘だな、と感じます。&lt;br&gt;&lt;br&gt;一応そういうストーリーにしといた方がウケが良いってだけで、苦労しないに越したことはないです。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/AnzaiKyo1/status/2032009559678861665"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/AnzaiKyo1/status/2032009559678861665</guid>
+      <pubDate>Thu, 12 Mar 2026 08:23:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>広木 大地/ エンジニアリング組織論への招待 (@hiroki_daichi)</title>
+      <link>https://x.com/hiroki_daichi/status/2032288055902830830</link>
+      <description>IoTのような技術的バズワードは定義が曖昧で、単一技術ではないため、会話が進まないことがあると指摘。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;広木 大地/ エンジニアリング組織論への招待&lt;/strong&gt; &lt;a href="https://x.com/hiroki_daichi"&gt;@hiroki_daichi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;技術的バズワードについて聞かれると、正直なところ答えに困ることがある。「IoTってどう思いますか？」と聞かれても、IoTという名前のついた単一の技術があるわけではなく、SIMカードもWiFiチップもBluetoothも全部IoTと呼ばれる。何がIoTをIoTたらしめるのか、定義が曖昧なまま会話が進んでしまう。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/hiroki_daichi/status/2032288055902830830"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/hiroki_daichi/status/2032288055902830830</guid>
+      <pubDate>Fri, 13 Mar 2026 02:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>奢られ屋の日記 (@philosopium)</title>
+      <link>https://x.com/philosopium/status/2032288859195916504</link>
+      <description>弱者男性をターゲットにした収益化ビジネスは、励ましにロジックを求めるようになり運用コストが増加した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;奢られ屋の日記&lt;/strong&gt; &lt;a href="https://x.com/philosopium"&gt;@philosopium&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;こないだ奢りにきたSNS女衒が「さいしょは『弱者男性』をターゲットに収益あげてた」「励ますだけでいい」「でも、男はだんだん励ましにもロジックを求めてくる」「生きてるだけでえらい、ではダメになる」「奴らはめんどくさい」「そのせいで、運用コストが下がらず儲からなくなった」「そこで...&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/philosopium/status/2032288859195916504"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/philosopium/status/2032288859195916504</guid>
+      <pubDate>Fri, 13 Mar 2026 02:53:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>ひとごとMD (@hitogoto_butyo)</title>
+      <link>https://x.com/hitogoto_butyo/status/2032266079075254661</link>
+      <description>近年の研究でオーナー企業は平均的にパフォーマンスが高いとされ、経営者の人生が賭かっているためと分析。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ひとごとMD&lt;/strong&gt; &lt;a href="https://x.com/hitogoto_butyo"&gt;@hitogoto_butyo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;近年の研究では、オーナー企業（創業家企業）は平均的にパフォーマンスが高いという結果が多いです。&lt;br&gt;&lt;br&gt;理由はシンプルです。&lt;br&gt;自分の人生が賭かっているからです（skin in the game）。&lt;br&gt;&lt;br&gt;創業家一族の経営者は一生賭けますが、ファンドが呼んだプロ経営者は概ね3～5年です。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/hitogoto_butyo/status/2032266079075254661"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/hitogoto_butyo/status/2032266079075254661</guid>
+      <pubDate>Fri, 13 Mar 2026 01:22:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>よんてんごP (@yontengoP)</title>
+      <link>https://x.com/yontengoP/status/2032278457963708925</link>
+      <description>AIによるプログラムが環境を勝手に消す危険性を指摘し、人間とAIのシステム構築能力を競う企画を提案。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;よんてんごP&lt;/strong&gt; &lt;a href="https://x.com/yontengoP"&gt;@yontengoP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AIでのプログラムは危険だあいつら勝手に環境消したりするぞ&lt;br&gt;いやアホなSEも平然と環境消したりするやろ、権限の問題よ&lt;br&gt;&lt;br&gt;ということで&lt;br&gt;&lt;br&gt;ABEMAとかで&lt;br&gt;素人ITエンジニア100人未調整AI10台&lt;br&gt;システム構築&amp;改修を無事終えるのはどっちだ選手権&lt;br&gt;とかやってほしい&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/yontengoP/status/2032278457963708925"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/yontengoP/status/2032278457963708925</guid>
+      <pubDate>Fri, 13 Mar 2026 02:11:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>渡瀬裕哉 (@yuyawatase)</title>
+      <link>https://x.com/yuyawatase/status/2032284105128509772</link>
+      <description>政治は金持ちから全てを奪う力があり、政治に関わるとどんな金持ちでも全てを失う可能性がある。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;渡瀬裕哉&lt;/strong&gt; &lt;a href="https://x.com/yuyawatase"&gt;@yuyawatase&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ホリエモンがサナエトークンから逃げ出すのも分かるよ。&lt;br&gt;&lt;br&gt;金持ちから全てを剥ぎ取る力を持つのが政治。政治に関われば、どのような金持ちでも、何もかも一瞬で失う可能性がある。それ以外は金持ちは鉄板、資本主義社会はそんなもん。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;政治&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/yuyawatase/status/2032284105128509772"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/yuyawatase/status/2032284105128509772</guid>
+      <pubDate>Fri, 13 Mar 2026 02:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>ITコンサル犬の日常(副業でコンサル転職支援も始めました) (@Xri2N5tg5x10423)</title>
+      <link>https://x.com/Xri2N5tg5x10423/status/2031996066518978811</link>
+      <description>大手日系企業の中途採用では学歴と社格が重視され、大手志望なら総合コンサルファームでのロンダリングが有効。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ITコンサル犬の日常(副業でコンサル転職支援も始めました)&lt;/strong&gt; &lt;a href="https://x.com/Xri2N5tg5x10423"&gt;@Xri2N5tg5x10423&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;結局中途は学歴と社格が大事なんですよね、、、&lt;br&gt;&lt;br&gt;特に大手日経企業はその辺りよくみているので社格がビミョうだと弾かれます。&lt;br&gt;&lt;br&gt;どうしても大手行きたいなら総合コンサルファームでロンダリングするしかないですね。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/Xri2N5tg5x10423/status/2031996066518978811"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Xri2N5tg5x10423/status/2031996066518978811</guid>
+      <pubDate>Thu, 12 Mar 2026 07:29:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brandon K. Hill | CEO of btrax x/2 (@BrandonKHill)</title>
+      <link>https://x.com/BrandonKHill/status/2032290591564845255</link>
+      <description>Atlassianが1600人をレイオフし、残る人材は圧倒的成果、複数スキル、AIネイティブ世代とCEOが明言。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Brandon K. Hill | CEO of btrax x/2&lt;/strong&gt; &lt;a href="https://x.com/BrandonKHill"&gt;@BrandonKHill&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Atlassianが約1,600人をレイオフ。CEOは「残す人材のタイプ」を明確にした。 &lt;br&gt;残る人&lt;br&gt;・圧倒的な成果を出す人&lt;br&gt;・スキルが複数領域に応用できる人&lt;br&gt;・AIネイティブ世代&lt;br&gt;厳しくなる人&lt;br&gt;・平均的なパフォーマンス&lt;br&gt;・スキルが特化しすぎている&lt;br&gt;・変化に適応するスピードが遅い&lt;br&gt;&lt;br&gt;能力 × 柔軟性 × 学習速度。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQlhfuWgAEmlQY?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/BrandonKHill/status/2032290591564845255"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/BrandonKHill/status/2032290591564845255</guid>
+      <pubDate>Fri, 13 Mar 2026 03:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kuro@エンジニア4年目 (@tamagotake3454)</title>
+      <link>https://x.com/tamagotake3454/status/2032282438517592378</link>
+      <description>エンジニアのキャリアアドバイスとして、3年勤続、中小企業、高度情報資格取得、リーダー経験、運用保守以外のスキルを推奨。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Kuro@エンジニア4年目&lt;/strong&gt; &lt;a href="https://x.com/tamagotake3454"&gt;@tamagotake3454&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;頂いた意見を纏めた&lt;br&gt;&lt;br&gt;・今の会社3年勤めろ&lt;br&gt;・大手無理、中小行け&lt;br&gt;・年収600は無理、500も厳しい&lt;br&gt;・資格弱い、高度情報取れ&lt;br&gt;・リーダー経験積め&lt;br&gt;・スキルが弱い、運用保守は実務にならない&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/tamagotake3454/status/2032282438517592378"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/tamagotake3454/status/2032282438517592378</guid>
+      <pubDate>Fri, 13 Mar 2026 02:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>佐々木 勇介 / newmo Ops (@yusuk_sasaki)</title>
+      <link>https://x.com/yusuk_sasaki/status/2032047899916505183</link>
+      <description>AIの進化で若手の仕事が減ると言われるが、AIにキャッチアップできない人材は急速に時代遅れになると予測。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;佐々木 勇介 / newmo Ops&lt;/strong&gt; &lt;a href="https://x.com/yusuk_sasaki"&gt;@yusuk_sasaki&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AIの進化が凄すぎて、これまで手間のかかっていた作業をどんどんやってくれることで「若手の仕事がどんどん減っている。若手がいらなくなってきている」という人がいるが、間違いなくこれからすぐに反転のタイミングが来ると思う。すなわち、AIの進化にキャッチアップできなくなって急速に化石化してい&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/yusuk_sasaki/status/2032047899916505183"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/yusuk_sasaki/status/2032047899916505183</guid>
+      <pubDate>Thu, 12 Mar 2026 10:55:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
