@@ -4,13 +4,6 @@ echo  Recommend Feeder - All-in-One Runner
 echo ============================================
 echo.
 
-:: Discord bot をバックグラウンドで起動
-echo [%date% %time%] Starting Discord bot...
-cd /d C:\Users\waros\Documents\Develop\recomend-feeder\discord-bot
-start "DiscordBot" /min cmd /c "node index.js"
-echo Discord bot started in background.
-echo.
-
 :: メインループ
 set LOOP_COUNT=0
 
