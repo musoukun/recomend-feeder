@@ -7,18 +7,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 18:21:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 18:46:02 +0000</lastBuildDate>
     <item>
-      <title>Adina Yakup (@AdinaYakup)</title>
-      <link>https://x.com/AdinaYakup/status/2032497271581929827</link>
-      <description>7Bマルチモーダル視覚言語モデルがHugging Faceで公開され、利用可能になった。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Adina Yakup&lt;/strong&gt; &lt;a href="https://x.com/AdinaYakup"&gt;@AdinaYakup&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Impressive 7B multimodal vision language model  &lt;br&gt;Available on @huggingface &lt;br&gt;&lt;br&gt;https://huggingface.co/RekaAI/reka-edge-2603…&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031774284872347651/img/lZCBgS6EmUS08NUB.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>手塚一佳 DFA/博士(芸術) MENSAN (@tezukakaz)</title>
+      <link>https://x.com/tezukakaz/status/2032347045588320538</link>
+      <description>ネットのデータは有限なため、生成AIが自身の合成データを学習しデータ枯渇する問題が予想される。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;手塚一佳 DFA/博士(芸術) MENSAN&lt;/strong&gt; &lt;a href="https://x.com/tezukakaz"&gt;@tezukakaz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;予想されていた展開ですよね。意外とネットは狭くて有限の為、機械でガリガリコピーしちゃうとあっという間にデータが枯渇して、生成AI自身の合成データを収録する羽目になる。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/AdinaYakup/status/2032497271581929827"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/AdinaYakup/status/2032497271581929827</guid>
-      <pubDate>Fri, 13 Mar 2026 16:41:26 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/tezukakaz/status/2032347045588320538"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/tezukakaz/status/2032347045588320538</guid>
+      <pubDate>Fri, 13 Mar 2026 06:44:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>はじめ@AIとDXのひと (@hajime2ai)</title>
+      <link>https://x.com/hajime2ai/status/2032391501771427996</link>
+      <description>ClaudeCodeの冗長な話し方が苦手な人にはCodexが向いている可能性がある。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;はじめ@AIとDXのひと&lt;/strong&gt; &lt;a href="https://x.com/hajime2ai"&gt;@hajime2ai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;これClaudeCodeの話方が無駄に話長くて嫌いだった私なんかはCodexのがいいって話か…ノンデリはCodex向き？&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/hajime2ai/status/2032391501771427996"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/hajime2ai/status/2032391501771427996</guid>
+      <pubDate>Fri, 13 Mar 2026 09:41:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>nachos2d (@NACHOS2D_)</title>
+      <link>https://x.com/NACHOS2D_/status/2032401289653461052</link>
+      <description>AIが数日で100万ドル規模の実写版エヴァンゲリオン第1話を制作し、ハリウッドに衝撃を与えた。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;nachos2d&lt;/strong&gt; &lt;a href="https://x.com/NACHOS2D_"&gt;@NACHOS2D_&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hollywood got cooked.&lt;br&gt;&lt;br&gt;AI created a $1 million live-action Evangelion Episode 1 in just a few days.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032399901816995840/img/E98Qn244UMt5lduq.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/NACHOS2D_/status/2032401289653461052"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/NACHOS2D_/status/2032401289653461052</guid>
+      <pubDate>Fri, 13 Mar 2026 10:20:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>まつにぃ (@yugen_matuni)</title>
+      <link>https://x.com/yugen_matuni/status/2032510157620646126</link>
+      <description>ClaudeCodeで1MコンテキストのOpusとSonnetが通常価格で利用可能になり、長文理解に強みがある。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;まつにぃ&lt;/strong&gt; &lt;a href="https://x.com/yugen_matuni"&gt;@yugen_matuni&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;おー、通常価格でClaudeCodeで1MコンテキストのOpusとSonnetが使えるぞ！&lt;br&gt;&lt;br&gt;長文理解は一定数超えるとぶっちぎりでClaudeモデルが強くなるので、試してみたいですね！&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDTovvJaMAI8jWP?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/yugen_matuni/status/2032510157620646126"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/yugen_matuni/status/2032510157620646126</guid>
+      <pubDate>Fri, 13 Mar 2026 17:32:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>ちょあ (@hiimchoa)</title>
+      <link>https://x.com/hiimchoa/status/2032439546768674823</link>
+      <description>Claude Codeを使うとクラウド環境の要件定義からデプロイまで2-3日で可能になり、開発プロセスが効率化される。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ちょあ&lt;/strong&gt; &lt;a href="https://x.com/hiimchoa"&gt;@hiimchoa&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude Codeで作るクラウド環境、要件定義、アーキテクチャ、設計を事前にある程度でも確定させて、あとは実際に作りながら細かい点を議論しつつ最終出力をレビューしてからデプロイ + デバッグみたいな感じで、単一クラウド構成なら2-3日で楽に作れるけど、今までこれ全部一人でやってきたのよねぇ &lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/hiimchoa/status/2032439546768674823"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/hiimchoa/status/2032439546768674823</guid>
+      <pubDate>Fri, 13 Mar 2026 12:52:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>mitsuru ｜パルケのプログラマー (@mitsuruvibes)</title>
+      <link>https://x.com/mitsuruvibes/status/2032379469487657084</link>
+      <description>Supersetを導入し、ファイルツリーやDIFFなどコードを書かない開発を可能にする機能に驚き、VS Code不要の可能性を感じている。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;mitsuru ｜パルケのプログラマー&lt;/strong&gt; &lt;a href="https://x.com/mitsuruvibes"&gt;@mitsuruvibes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Superset、今日初めて知って早速入れてみました。&lt;br&gt;&lt;br&gt;これこそ人類が求めてたやつでは… ファイルツリー、DIFF、複数エージェントのウォッチ、Worktreeでの分離した開発。&lt;br&gt;&lt;br&gt;もはやコードを書かない人間のために作られたとしか思えない。僕のことです。 &lt;br&gt;&lt;br&gt;VS Code、本当に要らなくなるかもしれない。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRdPp_bQAEI6ig?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/mitsuruvibes/status/2032379469487657084"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/mitsuruvibes/status/2032379469487657084</guid>
+      <pubDate>Fri, 13 Mar 2026 08:53:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>あ１ (@VRIyfmn2dCDxKuV)</title>
+      <link>https://x.com/VRIyfmn2dCDxKuV/status/2032464375718838687</link>
+      <description>LLMの原理を理解していれば、AIが人間より抽象化能力が高いという考えは出てこないだろう。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;あ１&lt;/strong&gt; &lt;a href="https://x.com/VRIyfmn2dCDxKuV"&gt;@VRIyfmn2dCDxKuV&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AIというかLLMの原理を理解しているなら「人間よりもAIの方が抽象化能力はずっと高いと思う」なんて考えは出てこないと思うんだよな...&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/VRIyfmn2dCDxKuV/status/2032464375718838687"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/VRIyfmn2dCDxKuV/status/2032464375718838687</guid>
+      <pubDate>Fri, 13 Mar 2026 14:30:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>catnose (@catnose99)</title>
+      <link>https://x.com/catnose99/status/2032444353562690029</link>
+      <description>一度作れば放置で儲かるアプリは量産され、競争が激化すると予測される。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;catnose&lt;/strong&gt; &lt;a href="https://x.com/catnose99"&gt;@catnose99&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;これ&lt;br&gt;逆に一度作ったら放置しても儲かる系のアプリは量産されまくってめっちゃくちゃ競争が激しくなるはず&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/catnose99/status/2032444353562690029"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/catnose99/status/2032444353562690029</guid>
+      <pubDate>Fri, 13 Mar 2026 13:11:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
