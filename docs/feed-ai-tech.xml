@@ -7,103 +7,99 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 07:02:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 07:34:16 +0000</lastBuildDate>
     <item>
-      <title>さと｜社会不適合から個人開発で生きてる (@sato_neet)</title>
-      <link>https://x.com/sato_neet/status/2032252088517083455</link>
-      <description>高コストなOpus4.6を避け、OCをインターフェースにCCでスキル実行し、失敗時はSSHで改善するAIワークフローを構築。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;さと｜社会不適合から個人開発で生きてる&lt;/strong&gt; &lt;a href="https://x.com/sato_neet"&gt;@sato_neet&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;私の場合、OCでOpus4.6使うと凄まじく高いから、OCはCCと人間繋ぐためのインターフェースにして難しいことはさせない&lt;br&gt;cron のワークフローはCC起動して、スキル実行させるだけにして、失敗した時にSSHでCC繋いでスキルを改善するみたいな使い方に落ち着いた〜&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032230989871923201/img/I5v0zNDYt19F5y7z.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>Kei衣装本舗 (@AI_Kei75)</title>
+      <link>https://x.com/AI_Kei75/status/2032347523940282536</link>
+      <description>Nano banana 2向けに、地下鉄広告の画像を生成するプロンプトと作成例が公開された。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Kei衣装本舗&lt;/strong&gt; &lt;a href="https://x.com/AI_Kei75"&gt;@AI_Kei75&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[ Nano banana 2 向けプロンプト]&lt;br&gt;&lt;br&gt;【 地下鉄の通路に張られている広告 】&lt;br&gt;&lt;br&gt;画像のキャラクターを使って[地下鉄の通路に張られている広告]を作るプロンプトです&lt;br&gt;&lt;br&gt;１枚目、２枚目：元画像＋Nano Banana 2＋プロンプトで作成した画像&lt;br&gt;３枚目、４枚目：元画像&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRY2EkbQAMiz18?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRY7U7agAA-9kF?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRY9ZtbcAAmYJt?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRZAfybQAYS9kY?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/sato_neet/status/2032252088517083455"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/sato_neet/status/2032252088517083455</guid>
-      <pubDate>Fri, 13 Mar 2026 00:27:09 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/AI_Kei75/status/2032347523940282536"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/AI_Kei75/status/2032347523940282536</guid>
+      <pubDate>Fri, 13 Mar 2026 06:46:23 +0000</pubDate>
     </item>
     <item>
-      <title>nogu (@_nogu66)</title>
-      <link>https://x.com/_nogu66/status/2032127226750329221</link>
-      <description>AIチャットツールClaudeで、チャットから直接表や図を作成する機能が追加された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;nogu&lt;/strong&gt; &lt;a href="https://x.com/_nogu66"&gt;@_nogu66&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Claudeのチャットから直接 表や図をを作成できるようになった！&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032121339667234817/img/GgFq5DvXDFjZPP4f.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>akihiro（あきひろ）| 生成AI活用 (@akihiro_genai)</title>
+      <link>https://x.com/akihiro_genai/status/2032230168773984521</link>
+      <description>Claude Codeは開発向きでカスタマイズ性が高く、Codexは非エンジニア向けでシンプルだと分析。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;akihiro（あきひろ）| 生成AI活用&lt;/strong&gt; &lt;a href="https://x.com/akihiro_genai"&gt;@akihiro_genai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;機能的な面で言うとClaude Codeってやっぱ開発向きだよね。Hooksとかハーネス的なカスタマイズ要素が多いし。それに比べるとCodexの方がシンプルで非エンジニア業務にあってる気がする。学習コストもコスパ面で考えても。&lt;br&gt;わざわざ非エンジニアがClaude Code選ぶのって何故なんだろう。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/_nogu66/status/2032127226750329221"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/_nogu66/status/2032127226750329221</guid>
-      <pubDate>Thu, 12 Mar 2026 16:11:00 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/akihiro_genai/status/2032230168773984521"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/akihiro_genai/status/2032230168773984521</guid>
+      <pubDate>Thu, 12 Mar 2026 23:00:03 +0000</pubDate>
     </item>
     <item>
-      <title>炎鎮 - ₿onochin - (@super_bonochin)</title>
-      <link>https://x.com/super_bonochin/status/2032329940801380447</link>
-      <description>ChatGPTの全機能をCodexからAgenticに利用できれば、多くの問題が解決すると提言。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;炎鎮 - ₿onochin -&lt;/strong&gt; &lt;a href="https://x.com/super_bonochin"&gt;@super_bonochin&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;だから結局ワイがずっと言ってることじゃないか！&lt;br&gt;ChatGPT が Web アプリケーションとして持っている機能すべてを Codex から Agentic に使えたら全部解決するんだよ。&lt;br&gt;言ってることが逆に見えるけど、結局同じことを言ってるんだよ。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRIna9aAAA7bOs?format=png&amp;name=900x900" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRIsRhbQAovdVI?format=png&amp;name=900x900" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRIvN-aUAAtfae?format=jpg&amp;name=900x900" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRIxoCaEAABHKc?format=png&amp;name=900x900" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>ぬこぬこ / NUKO (@nukonuko)</title>
+      <link>https://x.com/nukonuko/status/2032329871951872008</link>
+      <description>Codex CLIのGPT-5.4 /fastはClaude CodeのOpus 4.6より高速で、速度が重要だと感じる。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ぬこぬこ / NUKO&lt;/strong&gt; &lt;a href="https://x.com/nukonuko"&gt;@nukonuko&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Codex CLI の GPT-5.4 /fast に慣れてしまうと、Claude Code の Opus 4.6 がめちゃくちゃ遅く感じるので、速さこそパワーだと思ってしまう&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/super_bonochin/status/2032329940801380447"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/super_bonochin/status/2032329940801380447</guid>
-      <pubDate>Fri, 13 Mar 2026 05:36:31 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/nukonuko/status/2032329871951872008"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/nukonuko/status/2032329871951872008</guid>
+      <pubDate>Fri, 13 Mar 2026 05:36:14 +0000</pubDate>
     </item>
     <item>
-      <title>只の人。 (@aibi0123)</title>
-      <link>https://x.com/aibi0123/status/2032169707735040258</link>
-      <description>サム・アルトマンは、o1リリースから16ヶ月でAI推論コストが1000倍急減したと発表。モデルとエンジニアリングの相乗効果が要因。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;只の人。&lt;/strong&gt; &lt;a href="https://x.com/aibi0123"&gt;@aibi0123&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;サム・アルトマン「約1000倍のコスト削減」&lt;br&gt;&lt;br&gt;アルトマンはo1のリリースからわずか16か月で難しい推論問題を解決するコストが1,000倍急減した事を明らかにした（o1を5.4モデルと比較して）&lt;br&gt;&lt;br&gt;より良いモデル＋より良い人間のエンジニアリングの相乗効果がAI推論コストの指数関数的な減少を推進している&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031865630920478721/img/TtNPRCL2NPCCNk8B.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>AUTOMATON（オートマトン） (@AUTOMATONJapan)</title>
+      <link>https://x.com/AUTOMATONJapan/status/2032304967189741685</link>
+      <description>Steamのゲームがマルウェア感染し、FBIが調査を開始。被害者に協力を呼びかける。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;AUTOMATON（オートマトン）&lt;/strong&gt; &lt;a href="https://x.com/AUTOMATONJapan"&gt;@AUTOMATONJapan&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【ニュース】Steamで“マルウェア入りアプデ”されたゲーム、なんとFBIが調査に乗り出す。被害者に協力呼びかける&lt;br&gt;https://automaton-media.com/articles/newsjp/20260313-428886/…&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQykzma4AAh0E6?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/aibi0123/status/2032169707735040258"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/aibi0123/status/2032169707735040258</guid>
-      <pubDate>Thu, 12 Mar 2026 18:59:48 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/AUTOMATONJapan/status/2032304967189741685"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/AUTOMATONJapan/status/2032304967189741685</guid>
+      <pubDate>Fri, 13 Mar 2026 03:57:17 +0000</pubDate>
     </item>
     <item>
-      <title>まさお@AI駆動開発 (@AI_masaou)</title>
-      <link>https://x.com/AI_masaou/status/2032331781597536643</link>
-      <description>Claude Code利用者はpermissions.denyだけでなく、サンドボックス前提でセキュリティを考える重要性を解説した記事を読むべき。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;まさお@AI駆動開発&lt;/strong&gt; &lt;a href="https://x.com/AI_masaou"&gt;@AI_masaou&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;これ、Claude Code を触る人は一度読んでおくといい記事&lt;br&gt;permissions.deny だけで安心しないこと、sandbox 前提で考えることの大事さが分かりやすい&lt;br&gt;&lt;br&gt;あと、個人的に慧眼だと思って参考にさせてもらってる @taki_4416 さんの記事やから間違いない&lt;/p&gt;
+      <title>火鍋チャンネル跡地 (@hinabe_ch)</title>
+      <link>https://x.com/hinabe_ch/status/2032353021552967867</link>
+      <description>AI開発ではClaude CodeやOpus 4.6を中心に使うのが良いとし、トークンを大量消費する試作の必要性に疑問を呈する。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;火鍋チャンネル跡地&lt;/strong&gt; &lt;a href="https://x.com/hinabe_ch"&gt;@hinabe_ch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Claude codeに戻る一択というかopus4.6中心で当面はいいと思う&lt;br&gt;&lt;br&gt;ただトークン破産するほどぶん回す系の試作ってそんなあるんかな、知らんけど https://x.com/taishiyade/sta/taishiyade/status/2032231850866081938…&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/AI_masaou/status/2032331781597536643"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/AI_masaou/status/2032331781597536643</guid>
-      <pubDate>Fri, 13 Mar 2026 05:43:50 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/hinabe_ch/status/2032353021552967867"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/hinabe_ch/status/2032353021552967867</guid>
+      <pubDate>Fri, 13 Mar 2026 07:08:14 +0000</pubDate>
     </item>
     <item>
-      <title>モジョン (@mojon1)</title>
-      <link>https://x.com/mojon1/status/2032315696080961587</link>
-      <description>Photoshop betaの3D回転機能でイラストも回転可能になったが、破綻することもある。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;モジョン&lt;/strong&gt; &lt;a href="https://x.com/mojon1"&gt;@mojon1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Photoshop betaの3D回転。イラストも回転できた…&lt;br&gt;（破綻することもある）&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032314797463912451/img/zs2D54HetXWsZcEU.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032184968840167426/img/w8blbMjpA2XT6Gf0?format=jpg&amp;name=240x240" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>ガガロット (@gagarot200)</title>
+      <link>https://x.com/gagarot200/status/2032041621366423625</link>
+      <description>AIを活用した「Vibe Coding」のワークフローを解説。CursorとChatGPTを使い、プロンプトを繰り返し投げてコードを生成する。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ガガロット&lt;/strong&gt; &lt;a href="https://x.com/gagarot200"&gt;@gagarot200&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; Vibe Coding&lt;br&gt;バイブコーディング&lt;br&gt;┃&lt;br&gt;┣  準備&lt;br&gt;┃ ┣  Cursorを開く&lt;br&gt;┃ ┣  ChatGPTを開く&lt;br&gt;┃ ┣  コーヒー&lt;br&gt;┃ ┗  「なんか作るか」&lt;br&gt;┃&lt;br&gt;┣  開発&lt;br&gt;┃ ┣  プロンプト投げる&lt;br&gt;┃ ┣  また投げる&lt;br&gt;┃ ┣  微調整して投げる&lt;br&gt;┃ ┣  もう一回投げる&lt;br&gt;┃ ┗  コードをコピペ&lt;br&gt;┃&lt;br&gt;┣ &lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/mojon1/status/2032315696080961587"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/mojon1/status/2032315696080961587</guid>
-      <pubDate>Fri, 13 Mar 2026 04:39:55 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/gagarot200/status/2032041621366423625"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/gagarot200/status/2032041621366423625</guid>
+      <pubDate>Thu, 12 Mar 2026 10:30:50 +0000</pubDate>
     </item>
     <item>
-      <title>Hideki Kakeya, Dr.Eng. (@hkakeya)</title>
-      <link>https://x.com/hkakeya/status/2032098604475957334</link>
-      <description>日本にはAI技術力がなく、官民投資も無駄に終わると指摘。東ロボの失敗とChatGPTの成功がその証拠。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Hideki Kakeya, Dr.Eng.&lt;/strong&gt; &lt;a href="https://x.com/hkakeya"&gt;@hkakeya&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;日本にAIの技術力はないので無駄に終わります。東ロボができなかったことをChatGPTがあっという間に実現したことが何よりの証拠です。そもそも官民投資で成功するはずがない。米国のビッグテックを見れば分かるはず。&lt;/p&gt;
+      <title>chokudai(高橋 直大)@AtCoder (@chokudai)</title>
+      <link>https://x.com/chokudai/status/2032351139845513500</link>
+      <description>Claude CodeがCodexより良いと感じる。自身のPMスキルが雑な個人開発スタイルでは、AIにEQスキルが求められると考察。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;chokudai(高橋 直大)@AtCoder&lt;/strong&gt; &lt;a href="https://x.com/chokudai"&gt;@chokudai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;なんかCodex &gt; Claude Codeみたいなツイートちょこちょこ見るけど、やっぱClaude Codeの方が思ったものが出来るなあ。&lt;br&gt;多分これ、自分のPM的な部分が雑で、個人開発の延長をワーキングメモリごり押しでやるタイプで、多分そういう開発形態だと相手にEQスキルが必要になるんだろうなあ、と思ってる。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/hkakeya/status/2032098604475957334"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/hkakeya/status/2032098604475957334</guid>
-      <pubDate>Thu, 12 Mar 2026 14:17:16 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/chokudai/status/2032351139845513500"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/chokudai/status/2032351139845513500</guid>
+      <pubDate>Fri, 13 Mar 2026 07:00:45 +0000</pubDate>
     </item>
     <item>
-      <title>大佐 (@zundaisky)</title>
-      <link>https://x.com/zundaisky/status/2032055611236798549</link>
-      <description>無検閲AIモデル「Qwen3.5-35B-A3B Uncensored」がリリースされ、今後高精度な無検閲モデルが増加すると予測。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;大佐&lt;/strong&gt; &lt;a href="https://x.com/zundaisky"&gt;@zundaisky&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;先日、無検閲モデルのQwen3.5-35B-A3B Uncensoredが出ましてね…&lt;br&gt;さらに高精度な無検閲モデルが増えてくと思う&lt;/p&gt;
+      <title>まつにぃ (@yugen_matuni)</title>
+      <link>https://x.com/yugen_matuni/status/2032321143793991878</link>
+      <description>WordやExcelなどの個人ファイルをDBでインデックス化し、AIで検索・参照する仕組みは精度が高く、WorkIQの個人版のようだと述べる。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;まつにぃ&lt;/strong&gt; &lt;a href="https://x.com/yugen_matuni"&gt;@yugen_matuni&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;所謂WordとかExcelとかファイル単位で個人で触るものもインデックス化してDB経由で当たりつけて必要に応じてファイル全文見るとかを個人でもやれると全然精度違うなって思います。&lt;br&gt;&lt;br&gt;WorkIQの個人版でしょうか。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/zundaisky/status/2032055611236798549"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/zundaisky/status/2032055611236798549</guid>
-      <pubDate>Thu, 12 Mar 2026 11:26:26 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/yugen_matuni/status/2032321143793991878"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/yugen_matuni/status/2032321143793991878</guid>
+      <pubDate>Fri, 13 Mar 2026 05:01:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
