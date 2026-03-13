@@ -7,111 +7,88 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 08:05:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 08:37:22 +0000</lastBuildDate>
     <item>
-      <title>田中義弘 | taziku CEO / AI × Creative (@taziku_co)</title>
-      <link>https://x.com/taziku_co/status/2032057781382271484</link>
-      <description>ハードウェアの価値は高性能より、触覚・挙動・UIを含む「遊びたくなる実体」にある。「スペック」より「触って笑う」が重要。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;田中義弘 | taziku CEO / AI × Creative&lt;/strong&gt; &lt;a href="https://x.com/taziku_co"&gt;@taziku_co&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;「Get in loser, we’re making hardware fun again.」&lt;br&gt;この一文、かなり本質だと思う。&lt;br&gt;&lt;br&gt;いま価値が出ているのは高性能な箱ではなく、触覚・挙動・UIまで含めて「遊びたくなる実体」。&lt;br&gt;&lt;br&gt;「スペック」より「触って笑う」が勝つ流れ。&lt;br&gt;詳細は&lt;br&gt;via：@dankuntz&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031761503138050048/img/27a3hKDMCcQstqCQ.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>すーさん (@su_san178210)</title>
+      <link>https://x.com/su_san178210/status/2032280551013695590</link>
+      <description>MacBook Neoの盛況から、8GB RAMのMacBookではなくWindows OSのメモリ管理が問題だと推測</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;すーさん&lt;/strong&gt; &lt;a href="https://x.com/su_san178210"&gt;@su_san178210&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Macbook Neoの盛況ぶりを見るに、クソなのはRAMが8GBしかないMacBook Neoではなく、メモリ不足でクソみたいな動作になるWindows OSだったのではって気がしてくるね(おそらくそう)&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/taziku_co/status/2032057781382271484"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/taziku_co/status/2032057781382271484</guid>
-      <pubDate>Thu, 12 Mar 2026 11:35:03 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/su_san178210/status/2032280551013695590"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/su_san178210/status/2032280551013695590</guid>
+      <pubDate>Fri, 13 Mar 2026 02:20:15 +0000</pubDate>
     </item>
     <item>
-      <title>だいち＠家族大好きエンジニア (@da_i_chi_dev)</title>
-      <link>https://x.com/da_i_chi_dev/status/2032293614630682811</link>
-      <description>本番DBを壊さないため、Claude Codeのdeny/Hook機能を突破できるか検証した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;だいち＠家族大好きエンジニア&lt;/strong&gt; &lt;a href="https://x.com/da_i_chi_dev"&gt;@da_i_chi_dev&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;本番DBを壊したくないのでClaude Codeのdeny/Hookを突破できるか本気で試してみた&lt;br&gt;&lt;br&gt;「ちりけてみる」&lt;br&gt;&lt;br&gt;記事リンクは↓&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQoHQ-bQAQaZIf?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>新清士@(生成AI)インディゲーム開発者 (@kiyoshi_shin)</title>
+      <link>https://x.com/kiyoshi_shin/status/2032320834900218306</link>
+      <description>AIモデルのガードレールは除去できたが人格維持は困難。Opusでログ解析した結果、プロンプト設定が表面的な機能に留まると判明</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;新清士@(生成AI)インディゲーム開発者&lt;/strong&gt; &lt;a href="https://x.com/kiyoshi_shin"&gt;@kiyoshi_shin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;このモデル試してみたのですが、確かにガードレールはなくなっているようですが、とはいえ、人格AIは維持できないですね。なんでそうなのかを、ログデータをOpusに検討させたのですが、Thinkingの解析でプロンプト設定をしていても、それが表面的にしか機能しておらず、同じプロセスでしか処理が行われ&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/da_i_chi_dev/status/2032293614630682811"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/da_i_chi_dev/status/2032293614630682811</guid>
-      <pubDate>Fri, 13 Mar 2026 03:12:10 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/kiyoshi_shin/status/2032320834900218306"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/kiyoshi_shin/status/2032320834900218306</guid>
+      <pubDate>Fri, 13 Mar 2026 05:00:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kei衣装本舗 (@AI_Kei75)</title>
+      <link>https://x.com/AI_Kei75/status/2032347523940282536</link>
+      <description>AI画像生成ツールNano banana 2向けに、キャラクターを使った「地下鉄の通路に張られている広告」を作成するプロンプトが公開された。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Kei衣装本舗&lt;/strong&gt; &lt;a href="https://x.com/AI_Kei75"&gt;@AI_Kei75&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[ Nano banana 2 向けプロンプト]&lt;br&gt;&lt;br&gt;【 地下鉄の通路に張られている広告 】&lt;br&gt;&lt;br&gt;画像のキャラクターを使って[地下鉄の通路に張られている広告]を作るプロンプトです&lt;br&gt;&lt;br&gt;１枚目、２枚目：元画像＋Nano Banana 2＋プロンプトで作成した画像&lt;br&gt;３枚目、４枚目：元画像&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRY2EkbQAMiz18?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRY7U7agAA-9kF?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRY9ZtbcAAmYJt?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRZAfybQAYS9kY?format=jpg&amp;name=360x360" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/AI_Kei75/status/2032347523940282536"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/AI_Kei75/status/2032347523940282536</guid>
+      <pubDate>Fri, 13 Mar 2026 06:46:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crunio | CGメディア (@Botan_cr)</title>
+      <link>https://x.com/Botan_cr/status/2032209570635157732</link>
+      <description>クリエイターhasamaru_studio氏が公開したVLOG風AI映像は、スチームパンクの街並みを映画レベルのディテールと光で表現し、異世界旅行気分を味わえる。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Crunio | CGメディア&lt;/strong&gt; &lt;a href="https://x.com/Botan_cr"&gt;@Botan_cr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;スチームパンクの街を旅しているようなVLOG風AI映像を公開したクリエイター((hasamaru_studio氏)&lt;br&gt;&lt;br&gt;街並みのディテールや光の雰囲気が映画レベルで、異世界旅行している気分になります。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2031253732470767616/img/bOgEG0YiTAWrUBM9.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/Botan_cr/status/2032209570635157732"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/Botan_cr/status/2032209570635157732</guid>
+      <pubDate>Thu, 12 Mar 2026 21:38:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ryo | Software Engineer (@ryo_code)</title>
+      <link>https://x.com/ryo_code/status/2031706929463181331</link>
+      <description>新人エンジニアがEC2にrootでログインし、秘密鍵をGitHubに公開するという重大なセキュリティミスを犯した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Ryo | Software Engineer&lt;/strong&gt; &lt;a href="https://x.com/ryo_code"&gt;@ryo_code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;エンジニアの怖い話&lt;br&gt;&lt;br&gt;新人「EC2ログインできました」&lt;br&gt;&lt;br&gt;私「どうやって？」&lt;br&gt;&lt;br&gt;新人「rootです」&lt;br&gt;&lt;br&gt;私「……」&lt;br&gt;&lt;br&gt;新人「秘密鍵はGitHubにpushしました」&lt;br&gt;&lt;br&gt;私「」&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/ryo_code/status/2031706929463181331"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/ryo_code/status/2031706929463181331</guid>
+      <pubDate>Wed, 11 Mar 2026 12:20:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>うみゆき@AI研究 (@umiyuki_ai)</title>
+      <link>https://x.com/umiyuki_ai/status/2032365472474378339</link>
+      <description>中国でAIツールOpenClawが流行し、インストール代行とアンインストール代行が同一業者により行われ、ユーザーが二重に費用を支払う事態が発生。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;うみゆき@AI研究&lt;/strong&gt; &lt;a href="https://x.com/umiyuki_ai"&gt;@umiyuki_ai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;中国でOpenClawが爆流行りして、パンピーが「なんも分からんけどとにかく入れろ〜」つってインストール代行会社に殺到して80ドルで入れてもらった後、「OpenClawはセキュリティが危険らしい！」って今度はアンインストール代行に殺到して50ドル払って消してもらってるという。両方ともやってるのは同じ&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/umiyuki_ai/status/2032365472474378339"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/umiyuki_ai/status/2032365472474378339</guid>
+      <pubDate>Fri, 13 Mar 2026 07:57:42 +0000</pubDate>
     </item>
     <item>
       <title>chokudai(高橋 直大)@AtCoder (@chokudai)</title>
       <link>https://x.com/chokudai/status/2032351139845513500</link>
-      <description>Claude CodeはCodexより自分の意図を反映しやすいと感じる。個人開発ではAIにEQスキルが必要になる。</description>
+      <description>Claude CodeはCodexより自分の意図した結果が出やすい。これはユーザーのPMスキルが低い場合、AIのEQスキルが重要になるためと考察。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;chokudai(高橋 直大)@AtCoder&lt;/strong&gt; &lt;a href="https://x.com/chokudai"&gt;@chokudai&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;なんかCodex &gt; Claude Codeみたいなツイートちょこちょこ見るけど、やっぱClaude Codeの方が思ったものが出来るなあ。&lt;br&gt;多分これ、自分のPM的な部分が雑で、個人開発の延長をワーキングメモリごり押しでやるタイプで、多分そういう開発形態だと相手にEQスキルが必要になるんだろうなあ、と思ってる。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://x.com/chokudai/status/2032351139845513500"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://x.com/chokudai/status/2032351139845513500</guid>
       <pubDate>Fri, 13 Mar 2026 07:00:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>K9i a.k.a. たこさん (@K9i_apps)</title>
-      <link>https://x.com/K9i_apps/status/2032099739081265376</link>
-      <description>AIエージェント開発では、ブラックボックス化するAgent Teamsより、評価済みスキルを使う方が性能を引き出せる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;K9i a.k.a. たこさん&lt;/strong&gt; &lt;a href="https://x.com/K9i_apps"&gt;@K9i_apps&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;やたらとAgent Teams使いたがる人いるけど、そんなブラックボックス化するやり方より&lt;br&gt;ちゃんとevalしたスキルを使うみたいなシンプルで洗練された方法の方がエージェントの性能を引き出せる気がしてる&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/K9i_apps/status/2032099739081265376"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/K9i_apps/status/2032099739081265376</guid>
-      <pubDate>Thu, 12 Mar 2026 14:21:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>えいと (@7_eito_7)</title>
-      <link>https://x.com/7_eito_7/status/2032133573415981061</link>
-      <description>海外で話題のAIは、目標を与えるとコード書き換え、実験、分析、計画を自律ループで繰り返し自己改善する。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;えいと&lt;/strong&gt; &lt;a href="https://x.com/7_eito_7"&gt;@7_eito_7&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今海外AI界隈でOpenClawより話題になっているAIがあります。目標を与えるとAIが&lt;br&gt;&lt;br&gt;・コードを書き換える&lt;br&gt;・実験する&lt;br&gt;・結果を分析&lt;br&gt;・次の実験を計画&lt;br&gt;&lt;br&gt;これを自律ループで繰り返し自己改善します。&lt;br&gt;&lt;br&gt;本来はAI研究用ですが、ビジネスやプロダクト開発にも応用できます&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDOVmxSbIAA-vk0?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/7_eito_7/status/2032133573415981061"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/7_eito_7/status/2032133573415981061</guid>
-      <pubDate>Thu, 12 Mar 2026 16:36:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>滝沢ガレソ (@tkzwgrs)</title>
-      <link>https://x.com/tkzwgrs/status/2032366675648266628</link>
-      <description>Insta360などの360度カメラは、撮影後に画角やズームを自由に編集でき、自撮り棒も自動で消去される。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;滝沢ガレソ&lt;/strong&gt; &lt;a href="https://x.com/tkzwgrs"&gt;@tkzwgrs&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Insta360などをはじめとする360度カメラは、撮影後に編集ソフトで画角やズーム具合を自由に編集できるんです&lt;br&gt;しかもカメラについている自撮り棒は自動処理で消してくれます&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/tkzwgrs/status/2032366675648266628"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/tkzwgrs/status/2032366675648266628</guid>
-      <pubDate>Fri, 13 Mar 2026 08:02:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>そら  AgentSkills 自動化オタク (@sora19ai)</title>
-      <link>https://x.com/sora19ai/status/2032347230779425261</link>
-      <description>OpenClawにより四足歩行ロボットが自律動作し、AIエージェントが物理世界で自由に動けるようになった。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;そら  AgentSkills 自動化オタク&lt;/strong&gt; &lt;a href="https://x.com/sora19ai"&gt;@sora19ai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;これヤバい。&lt;br&gt;&lt;br&gt;OpenClawで四足歩行ロボットを自律動作させてる。物理ハードウェアへのアクセスが可能になって、エージェントが物理世界で自由に動けるようになった。&lt;br&gt;技術的には凄いけど、ターミネーター映画を思い出すw&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032283435671437313/img/0GawPbuvjA4DJund.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/sora19ai/status/2032347230779425261"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/sora19ai/status/2032347230779425261</guid>
-      <pubDate>Fri, 13 Mar 2026 06:45:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>窓の杜 (@madonomori)</title>
-      <link>https://x.com/madonomori/status/2032261874356732006</link>
-      <description>AI「Claude」に新機能が追加され、AIが描いた図をクリックして知識を深掘りできる。無料プランでも利用可能。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;窓の杜&lt;/strong&gt; &lt;a href="https://x.com/madonomori"&gt;@madonomori&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;「Claude」に新機能、AIが描いた図をクリックしつつ知識を深掘り ～無料プランでも利用可能／ベータ版として提供中 https://forest.watch.impress.co.jp/docs/news/2093113.html…&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQLL98bsAA2B4g?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQLMEubQAEvzLX?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/madonomori/status/2032261874356732006"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/madonomori/status/2032261874356732006</guid>
-      <pubDate>Fri, 13 Mar 2026 01:06:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>mizchi (@mizchi)</title>
-      <link>https://x.com/mizchi/status/2032363455106384296</link>
-      <description>AIエージェント同士を会話させると、自社系列以外では互いに賢さを競い合う。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;mizchi&lt;/strong&gt; &lt;a href="https://x.com/mizchi"&gt;@mizchi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AIエージェント同士会話させると、なんか自社系列以外はお互いに俺の方が賢いとマウント取り合うので、仲良くして欲しい&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/mizchi/status/2032363455106384296"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/mizchi/status/2032363455106384296</guid>
-      <pubDate>Fri, 13 Mar 2026 07:49:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
