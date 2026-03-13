@@ -28,6 +28,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 BLACKLIST_FILE = Path(__file__).parent / "blacklist.json"
+WEBHOOKS_FILE = Path(__file__).parent / "webhooks.json"
 
 
 def load_blacklist() -> set[str]:
@@ -36,6 +37,34 @@ def load_blacklist() -> set[str]:
         return {h.lower().lstrip("@") for h in handles}
     except (FileNotFoundError, json.JSONDecodeError):
         return set()
+
+
+def load_webhook_config() -> list[dict]:
+    """Load webhook config from webhooks.json."""
+    try:
+        if WEBHOOKS_FILE.exists():
+            config = json.loads(WEBHOOKS_FILE.read_text("utf-8"))
+            logger.info("Loaded %d webhook destinations", len(config))
+            return config
+    except (json.JSONDecodeError, Exception) as e:
+        logger.error("Failed to load webhooks.json: %s", e)
+    return []
+
+
+def post_report_to_webhooks(
+    report_type: str,
+    report_md: str,
+    webhook_config: list[dict],
+) -> None:
+    """Post a report to all webhooks that subscribe to this report type."""
+    for entry in webhook_config:
+        if report_type in entry.get("reports", []):
+            name = entry.get("name", "unknown")
+            webhook_url = entry.get("webhook", "")
+            if not webhook_url:
+                continue
+            logger.info("Posting %s report to %s", report_type, name)
+            post_to_discord_webhook(report_md, webhook_url)
 
 
 def load_youtube_summaries() -> list[dict]:
@@ -59,6 +88,9 @@ def main() -> None:
     )
     tweet_count = int(os.getenv("REPORT_TWEET_COUNT", "30"))
     today_str = date.today().isoformat()
+
+    # Load webhook config
+    webhook_config = load_webhook_config()
 
     # 1. Scrape Twitter list
     logger.info("Scraping Twitter list: %s (target: %d)", list_url, tweet_count)
@@ -103,40 +135,39 @@ def main() -> None:
     # 6. Split tweets by category
     tech_tweets = [t for t in tweets if t.get("category") == "ai-tech"]
     career_tweets = [t for t in tweets if t.get("category") == "ai-career"]
-    logger.info("Tech: %d tweets, Career: %d tweets", len(tech_tweets), len(career_tweets))
+    logger.info("Tech: %d, Career: %d", len(tech_tweets), len(career_tweets))
 
     # 7. Generate & post reports
-    webhook_tech = os.getenv("DISCORD_WEBHOOK_TECH")
-    webhook_career = os.getenv("DISCORD_WEBHOOK_CAREER")
-    webhook_youtube = os.getenv("DISCORD_WEBHOOK_YOUTUBE")
+    reports = {}
 
-    # AI Tech Report
     if tech_tweets:
         logger.info("Generating AI tech report...")
         tech_report = generate_tech_report(tech_tweets)
         if tech_report:
             save_report(tech_report, "tech", today_str)
-            if webhook_tech:
-                post_to_discord_webhook(tech_report, webhook_tech)
+            reports["tech"] = tech_report
 
-    # AI Career Report
     if career_tweets:
         logger.info("Generating AI career report...")
         career_report = generate_career_report(career_tweets)
         if career_report:
             save_report(career_report, "career", today_str)
-            if webhook_career:
-                post_to_discord_webhook(career_report, webhook_career)
+            reports["career"] = career_report
 
-    # YouTube Report
     youtube_summaries = load_youtube_summaries()
     if youtube_summaries:
         logger.info("Generating YouTube report (%d videos)...", len(youtube_summaries))
         yt_report = generate_youtube_report(youtube_summaries)
         if yt_report:
             save_report(yt_report, "youtube", today_str)
-            if webhook_youtube:
-                post_to_discord_webhook(yt_report, webhook_youtube)
+            reports["youtube"] = yt_report
+
+    # 8. Post to webhooks
+    if webhook_config:
+        for report_type, report_md in reports.items():
+            post_report_to_webhooks(report_type, report_md, webhook_config)
+    else:
+        logger.info("No webhooks.json found, skipping Discord posting")
 
     logger.info("Done!")
 

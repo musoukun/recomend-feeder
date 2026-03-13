@@ -1,0 +1,17 @@
+[
+  {
+    "name": "OpenTimes-AI",
+    "webhook": "https://discord.com/api/webhooks/xxx/yyy",
+    "reports": ["tech", "youtube"]
+  },
+  {
+    "name": "OpenTimes-雇用",
+    "webhook": "https://discord.com/api/webhooks/aaa/bbb",
+    "reports": ["career"]
+  },
+  {
+    "name": "CACの隅っこ-AI",
+    "webhook": "https://discord.com/api/webhooks/ccc/ddd",
+    "reports": ["tech", "youtube"]
+  }
+]

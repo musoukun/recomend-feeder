@@ -13,3 +13,4 @@ discord-bot*/posted.json
 discord-bot*/channels.json
 processed_videos.json
 video_summaries.json
+src/webhooks.json
