@@ -11,7 +11,7 @@ git pull
 :: Run scraper
 echo [%date% %time%] Running Twitter scraper...
 cd /d C:\Users\waros\Documents\Develop\recomend-feeder\src
-python main.py
+python _deprecated_main_recommend.py
 
 :: Push to GitHub Pages
 cd /d C:\Users\waros\Documents\Develop\recomend-feeder
