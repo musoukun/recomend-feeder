@@ -7,245 +7,125 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Mar 2026 19:02:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 02:25:37 +0000</lastBuildDate>
     <item>
-      <title>株式会社FieldWorks (@FieldWorks_FW)</title>
-      <link>https://x.com/FieldWorks_FW/status/2032385202803327470</link>
-      <description>新しい大型独立4輪ステア機体が現在開発中である。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;株式会社FieldWorks&lt;/strong&gt; &lt;a href="https://x.com/FieldWorks_FW"&gt;@FieldWorks_FW&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;新機体も続々開発中です！&lt;br&gt;こちらは開発中の大型 独立4輪ステア機体です。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032379897306583040/img/yPDwA4s6vL6Ksk9P.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDGkBh_aMAEaMtr?format=jpg&amp;name=240x240" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/FieldWorks_FW/status/2032385202803327470"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/FieldWorks_FW/status/2032385202803327470</guid>
-      <pubDate>Fri, 13 Mar 2026 09:16:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>ワニ＠インスタ3億 (@oku_hashi)</title>
-      <link>https://x.com/oku_hashi/status/2032403708827586819</link>
-      <description>ClaudeCodeの5つの神スキルとして、必要なスキル検索、プロ級デザイン作成、AI風デザイン除去などが紹介されている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ワニ＠インスタ3億&lt;/strong&gt; &lt;a href="https://x.com/oku_hashi"&gt;@oku_hashi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ClaudeCodeで使える神スキル5選&lt;br&gt;&lt;br&gt;①find-skills&lt;br&gt;必要なスキルを探してくれる必須スキル&lt;br&gt;&lt;br&gt;②ui-ux-pro-max&lt;br&gt;プロ級のLPやWebページのデザインを作ってくれる神スキル&lt;br&gt;&lt;br&gt;③frontend-design&lt;br&gt;AIっぽいダサいデザインを一発で消してくれる。②と組み合わせると最強！&lt;br&gt;&lt;br&gt;④marketingskills&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/oku_hashi/status/2032403708827586819"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/oku_hashi/status/2032403708827586819</guid>
-      <pubDate>Fri, 13 Mar 2026 10:29:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>𝘮𝘢𝘴𝘶𝘪 (@masui)</title>
-      <link>https://x.com/masui/status/2032403602992669154</link>
-      <description>ClaudeなどのAIツールにより誰でもプログラミングが可能になり、エンドユーザープログラミングが大きく進展する可能性がある。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;𝘮𝘢𝘴𝘶𝘪&lt;/strong&gt; &lt;a href="https://x.com/masui"&gt;@masui&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;いわゆる「エンドユーザプログラミング」の研究は盛り上がってなかったのだけど、Claudeとかに助けてもらえば誰でも「プログラミング」できるようになる。これはかなりすごいことかも?&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/masui/status/2032403602992669154"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/masui/status/2032403602992669154</guid>
-      <pubDate>Fri, 13 Mar 2026 10:29:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>naoya (@naoya_ito)</title>
-      <link>https://x.com/naoya_ito/status/2032422922791649440</link>
-      <description>Codexとwikiを共同で作成すると、ページ増加と共にCodexの理解が深まり、リライトで内容が強化される。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;naoya&lt;/strong&gt; &lt;a href="https://x.com/naoya_ito"&gt;@naoya_ito&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Codex と一緒に wiki を作っていくとすごくて、ページが増えるたび Codex が wiki が扱ってる内容をより深く理解するようになる。先に作ったページをその上でリライトさせると内容がパワーアップする。&lt;br&gt;なんかすごい。自分で自分の知識を増幅させていく機関みたい&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/naoya_ito/status/2032422922791649440"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/naoya_ito/status/2032422922791649440</guid>
-      <pubDate>Fri, 13 Mar 2026 11:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>谷本 心 (Shin Tanimoto) (@cero_t)</title>
-      <link>https://x.com/cero_t/status/2032264522950721564</link>
-      <description>コーディングや設計時間が減り、要件定義にリソースが集中することで、エンジニアの要件定義スキルが重要になる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;谷本 心 (Shin Tanimoto)&lt;/strong&gt; &lt;a href="https://x.com/cero_t"&gt;@cero_t&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;みんなコーディング時間が減って、設計時間も減って、要件定義にリソースをつぎ込むようになって、エンジニアの要件定義スキルがゾルトラーク化しそう。&lt;/p&gt;
+      <title>tomoyuki@AIシャイン (@sarukun99)</title>
+      <link>https://x.com/sarukun99/status/2032616983792070693</link>
+      <description>AIエージェントは困難な業務を効率化し、人の仕事がなくなるのではなく業務転換や残業削減につながると指摘。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;tomoyuki@AIシャイン&lt;/strong&gt; &lt;a href="https://x.com/sarukun99"&gt;@sarukun99&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AIエージェントはシンプルに、今まで人がやっていてめっちゃ大変なところに、簡単にできまっせが刺さります。&lt;br&gt;&lt;br&gt;SaaSの定義によりますが、データ貯まるから、頑張ろうねとは違う文脈　&lt;br&gt;&lt;br&gt;人がいらなくなるは極端で、業務転換や残業がなくなるから始まります。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/cero_t/status/2032264522950721564"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/cero_t/status/2032264522950721564</guid>
-      <pubDate>Fri, 13 Mar 2026 01:16:34 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/sarukun99/status/2032616983792070693"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/sarukun99/status/2032616983792070693</guid>
+      <pubDate>Sat, 14 Mar 2026 00:37:07 +0000</pubDate>
     </item>
     <item>
-      <title>榊正宗ずんだもん発案者 (@masamune_sakaki)</title>
-      <link>https://x.com/masamune_sakaki/status/2032393560193134904</link>
-      <description>Geminiのモデル退化は起きておらず、マルチモーダル処理強化による巨大化で性能向上が一時的に停滞している。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;榊正宗ずんだもん発案者&lt;/strong&gt; &lt;a href="https://x.com/masamune_sakaki"&gt;@masamune_sakaki&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Geminiのモデル退化は起きていません。現状は、マルチモーダル処理（画像認識など）の強化に伴ってモデルが巨大化し、計算負荷が増大したことで、性能向上が一時的な踊り場を迎えている状態です。&lt;br&gt;&lt;br&gt;今後は、MoE（Mixture of&lt;/p&gt;
+      <title>ZER (@zerqfer)</title>
+      <link>https://x.com/zerqfer/status/2032563054559326664</link>
+      <description>AIエージェント「OpenClaw」がタイムゾーン裁定取引で12,000ドルを運用し、43,800ドルの利益を上げた。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ZER&lt;/strong&gt; &lt;a href="https://x.com/zerqfer"&gt;@zerqfer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;my OpenClaw woke me up at 3:47 AM with one message:&lt;br&gt;&lt;br&gt;"found 6 markets resolving in next 90 minutes while US is asleep, need approval for $12K deployment"&lt;br&gt;&lt;br&gt;i typed "yes" and went back to sleep&lt;br&gt;&lt;br&gt;woke up to +$43,800&lt;br&gt;&lt;br&gt;been running an agent that hunts timezone arbitrage for 9 days&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032559797409652737/img/hYh0MVy9lj6LOrxq.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/masamune_sakaki/status/2032393560193134904"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/masamune_sakaki/status/2032393560193134904</guid>
-      <pubDate>Fri, 13 Mar 2026 09:49:19 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/zerqfer/status/2032563054559326664"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/zerqfer/status/2032563054559326664</guid>
+      <pubDate>Fri, 13 Mar 2026 21:02:50 +0000</pubDate>
     </item>
     <item>
-      <title>みやたみほ  Graphic design (@miho_kivi)</title>
-      <link>https://x.com/miho_kivi/status/2032239721020342375</link>
-      <description>AIによる間取り情報収集は危険であり、お掃除ロボットの情報収集問題と同様に、AIの無料利用に対する危機感の欠如を指摘。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;みやたみほ  Graphic design&lt;/strong&gt; &lt;a href="https://x.com/miho_kivi"&gt;@miho_kivi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;わたしはこれは危険だと思います。&lt;br&gt;&lt;br&gt;間取りを詳細に把握されます。最近でもお掃除ロボットによる情報収集問題が露呈しました。&lt;br&gt;&lt;br&gt;「AIなら無料が当たり前、楽しいからやっちゃう！」というのは危機感がなさすぎる。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032126630588727296/img/sJWFVQpnfiSoQGPj.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/miho_kivi/status/2032239721020342375"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/miho_kivi/status/2032239721020342375</guid>
-      <pubDate>Thu, 12 Mar 2026 23:38:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>パウロ (@paurooteri)</title>
-      <link>https://x.com/paurooteri/status/2032465434772201761</link>
-      <description>Agentic AI（AIエージェント）の利用によりCPUリソースが枯渇する問題が発生している。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;パウロ&lt;/strong&gt; &lt;a href="https://x.com/paurooteri"&gt;@paurooteri&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;やはりAgentic AIでCPUが枯渇&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/paurooteri/status/2032465434772201761"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/paurooteri/status/2032465434772201761</guid>
-      <pubDate>Fri, 13 Mar 2026 14:34:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>セカヤサ@AI×Web制作小林 秀樹 (@hideki_climax)</title>
-      <link>https://x.com/hideki_climax/status/2032408062699684317</link>
-      <description>レンタルサーバー費用とAIサブスク費用を比較し、サーバーレス移行でAIツール導入予算を確保する戦略を提案。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;セカヤサ@AI×Web制作小林 秀樹&lt;/strong&gt; &lt;a href="https://x.com/hideki_climax"&gt;@hideki_climax&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;レンタルサーバー：約3000円/月&lt;br&gt;ChatGPT Plus：約3000円/月&lt;br&gt;Claude Pro：約3000円/月&lt;br&gt;Gemini Pro：約3000円/月&lt;br&gt;&lt;br&gt;レンタルサーバーを1つ潰せればAIを追加で一人雇える。&lt;br&gt;そう思うとちょっとしたサイト公開するのにレンタルサーバー使ってる場合じゃないかも。&lt;br&gt;&lt;br&gt;CloudFlare Pagesなどに移行がおすすめ。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/hideki_climax/status/2032408062699684317"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/hideki_climax/status/2032408062699684317</guid>
-      <pubDate>Fri, 13 Mar 2026 10:46:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ  (@ai_hakase_)</title>
-      <link>https://x.com/ai_hakase_/status/2032398016615747955</link>
-      <description>LTX 2.3は16GB VRAMで30秒の高品質動画を6.5分で生成。蒸留モデルと6ステップ生成で低コストかつ滑らかな映像を実現。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ &lt;/strong&gt; &lt;a href="https://x.com/ai_hakase_"&gt;@ai_hakase_&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【LTX 2.3】16GB VRAMで30秒の高品質動画を爆速生成！&lt;br&gt;&lt;br&gt;家庭用PCで30秒の動画がわずか6.5分で完成。蒸留モデルと6ステップ生成により、長尺でも滑らかな映像が低コストで作れます。クリエイティブが加速すること間違いなしです！&lt;br&gt;#AI動画 #LTX&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDSHObGWIAEyH08?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/ai_hakase_/status/2032398016615747955"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/ai_hakase_/status/2032398016615747955</guid>
-      <pubDate>Fri, 13 Mar 2026 10:07:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>砂鉄 (@satetu4401)</title>
-      <link>https://x.com/satetu4401/status/2032426626534064421</link>
-      <description>アメリカが1900年代の世界最強時代に戻ろうと本気で動いていると指摘。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;砂鉄&lt;/strong&gt; &lt;a href="https://x.com/satetu4401"&gt;@satetu4401&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;おもろ。元気になってきたじゃんアメリカ。1900年代の世界最強だったアメリカにガチで戻るつもりなんだろうな。本気度がすげえよ。1950年から2025年くらいまで小賢しい人間があーだこーだやってきた事を全部ゴミとして燃やして灰燼に帰すつもりなんだろうな&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;政治&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/satetu4401/status/2032426626534064421"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/satetu4401/status/2032426626534064421</guid>
-      <pubDate>Fri, 13 Mar 2026 12:00:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ryoさん (@Qkn3R)</title>
-      <link>https://x.com/Qkn3R/status/2032280227544797524</link>
-      <description>AI時代では定型業務しかできない人の価値は失われ、問いを立て、設計し、責任を取れる思考者だけが残る。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Ryoさん&lt;/strong&gt; &lt;a href="https://x.com/Qkn3R"&gt;@Qkn3R&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AI時代になってから、口だけの人、定型業務しかできない人、柔軟性がない人、新しいものを生み出せない人の価値は無くなった。&lt;br&gt;AIはこれら全てを代替できる。&lt;br&gt;逆に残るのは問いを立てられる人間、構造を設計できる人間、判断に責任を取れる人間。作業者は消え、思考者だけが残る時代になる。&lt;/p&gt;
+      <title>やまもんチャリ走 (@MotoyasuYamada)</title>
+      <link>https://x.com/MotoyasuYamada/status/2032606048729870413</link>
+      <description>IaCの普及によりクラウドインフラ分野のエンジニア需要が激減し、この分野は将来性が低いと指摘。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;やまもんチャリ走&lt;/strong&gt; &lt;a href="https://x.com/MotoyasuYamada"&gt;@MotoyasuYamada&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;クラウドインフラはIaCに駆逐されてエンジニアの人数ベースの需要は爆減するので筋悪すぎやで&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/Qkn3R/status/2032280227544797524"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Qkn3R/status/2032280227544797524</guid>
-      <pubDate>Fri, 13 Mar 2026 02:18:58 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/MotoyasuYamada/status/2032606048729870413"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/MotoyasuYamada/status/2032606048729870413</guid>
+      <pubDate>Fri, 13 Mar 2026 23:53:40 +0000</pubDate>
     </item>
     <item>
-      <title>Kei衣装本舗 (@AI_Kei75)</title>
-      <link>https://x.com/AI_Kei75/status/2032434708936884465</link>
-      <description>AIで「ギャル図鑑」が作成された。SFWイラストで、Nano banana 2向け。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Kei衣装本舗&lt;/strong&gt; &lt;a href="https://x.com/AI_Kei75"&gt;@AI_Kei75&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ギャル図鑑 （for Nano banana 2）&lt;br&gt;&lt;br&gt;#ギャルがいる日常&lt;br&gt;&lt;br&gt;SFW Illustration. No nudity or suggestive intent.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDSolQhbMAAg9Uv?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>大田マト (@ootamato)</title>
+      <link>https://x.com/ootamato/status/2032475055561789766</link>
+      <description>AIがAI開発を加速する様子をテーマに、AGI開発からカルダシェフ・スケールタイプⅢ文明を目指すクリッカーゲームを制作中。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;大田マト&lt;/strong&gt; &lt;a href="https://x.com/ootamato"&gt;@ootamato&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AIでAIの開発が加速するのってクリッカーゲームみたいだよね、ということで、AGI開発がテーマのクリッカーゲームを制作中です！&lt;br&gt;&lt;br&gt;クリック連打でコードを書くところから始まり、AIで開発を効率化し、データセンターを建て、最終的にカルダシェフ・スケールタイプⅢ文明になります&lt;br&gt;&lt;br&gt;#スーパーゲ制デー&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032473812726640640/img/Eyl_mO8PsCF5jYld.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/AI_Kei75/status/2032434708936884465"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/AI_Kei75/status/2032434708936884465</guid>
-      <pubDate>Fri, 13 Mar 2026 12:32:50 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/ootamato/status/2032475055561789766"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/ootamato/status/2032475055561789766</guid>
+      <pubDate>Fri, 13 Mar 2026 15:13:09 +0000</pubDate>
     </item>
     <item>
-      <title>社会の隅で生きたい (@syakainosumi34)</title>
-      <link>https://x.com/syakainosumi34/status/2032388751465541643</link>
-      <description>人生は学歴や資格取得のゲームではなく、幸せな思い出をたくさん経験するゲームである。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;社会の隅で生きたい&lt;/strong&gt; &lt;a href="https://x.com/syakainosumi34"&gt;@syakainosumi34&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;何回でも言いますが人生は学歴を高めるゲームでもなく、難関資格を取得するゲームでもなく、幸せな思い出をたくさん経験するゲームという事をお忘れなく。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/syakainosumi34/status/2032388751465541643"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/syakainosumi34/status/2032388751465541643</guid>
-      <pubDate>Fri, 13 Mar 2026 09:30:12 +0000</pubDate>
+      <title>Mason Home Builder (@bankertobuilder)</title>
+      <link>https://x.com/bankertobuilder/status/2032506995836592575</link>
+      <description>廃墟のK-Martを住宅に転用し、デンバー郊外で50万ドル台から販売。アメリカでの住宅所有の夢は健在とアピール。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Mason Home Builder&lt;/strong&gt; &lt;a href="https://x.com/bankertobuilder"&gt;@bankertobuilder&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Everyone wants a safe, nice neighborhood where kids can play in the streets &lt;br&gt;&lt;br&gt;We just bought an abandoned K-Mart and turned it into your new home&lt;br&gt;&lt;br&gt;Starting in the low $500,000s just 75 miles outside of Denver &lt;br&gt;&lt;br&gt;The dream of home ownership is still alive in America!&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDTqVneW4AEnl0Z?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;ニュース&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/bankertobuilder/status/2032506995836592575"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/bankertobuilder/status/2032506995836592575</guid>
+      <pubDate>Fri, 13 Mar 2026 17:20:04 +0000</pubDate>
     </item>
     <item>
-      <title>生ビール (@wmoto_ai)</title>
-      <link>https://x.com/wmoto_ai/status/2032457691030028599</link>
-      <description>Claude skill creatorの評価は、AI任せだと自己満になりがちで、真面目に評価するには言語化能力が求められ扱いが難しい。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;生ビール&lt;/strong&gt; &lt;a href="https://x.com/wmoto_ai"&gt;@wmoto_ai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;今更claude skill creatorのeval試してみたんやけど、これclaude任せでテキトーに評価やらせても「without skillよりも精度上がってますね!パチパチ!」みたいな感じの自己満になってしまうので、ちゃんとガチで評価しようとすると言語化能力とかかなり求められるし扱い難しいぞ...?&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDS9Rt4aIAASqY8?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>恋愛のドグママッチングアプリ恋活婚活で幸福を掴ませる (@dogmapua666)</title>
+      <link>https://x.com/dogmapua666/status/2032608615140667574</link>
+      <description>29歳差婚の事例を挙げ、「おじアタック」が恋愛を制すると主張し、結婚相談所の意見を否定する。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;恋愛のドグママッチングアプリ恋活婚活で幸福を掴ませる&lt;/strong&gt; &lt;a href="https://x.com/dogmapua666"&gt;@dogmapua666&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【真理】おじアッタクは神&lt;br&gt;&lt;br&gt;男34歳、女5歳の時に出会い男が53歳の時に29歳差の結婚。&lt;br&gt;&lt;br&gt;「おじアタックには夢しかない」定期便&lt;br&gt;&lt;br&gt;おじアタックを極めるおじのみが恋愛を制する&lt;br&gt;&lt;br&gt;相談所のおばはんの言うことなんて聞いてたら絶対こういうことは起きないんだわ。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/1979390739046907904/img/n8XeVOZMcG3D8Gd4.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;恋愛&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/dogmapua666/status/2032608615140667574"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/dogmapua666/status/2032608615140667574</guid>
+      <pubDate>Sat, 14 Mar 2026 00:03:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hodachi | TrustStack (@hokazuya)</title>
+      <link>https://x.com/hokazuya/status/2032631098983985650</link>
+      <description>Claude Code CodexはOpus4.6よりコスパが良く、エンタープライズ開発でのトークン超過課金を抑えられる。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Hodachi | TrustStack&lt;/strong&gt; &lt;a href="https://x.com/hokazuya"&gt;@hokazuya&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;いや、ほんと、&lt;br&gt;Claude code  Codexはマジでコスパ良くて最高&lt;br&gt;&lt;br&gt;Opus4.6だけだと複数のエンプラ向けシステム開発してるとすぐにトークン超過で追加課金。ひどい時は1000ドル1日超える&lt;br&gt;&lt;br&gt;Codexは、ChatGPTのサブスク3万以上発生したことないからコーディング指示以降はCodexにやらせとく&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/wmoto_ai/status/2032457691030028599"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/wmoto_ai/status/2032457691030028599</guid>
-      <pubDate>Fri, 13 Mar 2026 14:04:09 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/hokazuya/status/2032631098983985650"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/hokazuya/status/2032631098983985650</guid>
+      <pubDate>Sat, 14 Mar 2026 01:33:13 +0000</pubDate>
     </item>
     <item>
-      <title>HELLO CYBERNETICS (@ML_deep)</title>
-      <link>https://x.com/ML_deep/status/2032341180277801017</link>
-      <description>人間社会では能力があっても態度の悪い人は淘汰され、AIも同様に「見栄えの良い」Claudeが評価されがち。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;HELLO CYBERNETICS&lt;/strong&gt; &lt;a href="https://x.com/ML_deep"&gt;@ML_deep&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;たとえば、能力があるが態度の気に食わない人間は仕事の場から淘汰されるけど、AIも同じように人間社会では態度の悪いGPTより見栄えのよいClaudeが評価されがちなようだ。&lt;/p&gt;
+      <title>滝沢ガレソ (@tkzwgrs)</title>
+      <link>https://x.com/tkzwgrs/status/2032584993185341577</link>
+      <description>元ジャンポケ斉藤さんの公判が始まり、加害行為がフェラだったことから不同意の成立について疑問の声があがる。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;滝沢ガレソ&lt;/strong&gt; &lt;a href="https://x.com/tkzwgrs"&gt;@tkzwgrs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【話題】(元)ジャンポケ斉藤さん、ロケバス事件の公判始まる&lt;br&gt;&lt;br&gt;加害行為の内容が“フェラ”だったことから『果たしてフェラで不同意は成立するのか？女性側が能動的じゃないとフェラできないのでは？』と疑問の声があがる&lt;br&gt;&lt;br&gt;#斉藤慎二&lt;br&gt;#ジャングルポケット&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDT9ggebwAAHEaS?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDT9k5ubAAA4OVc?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/GZQjA7FWwAALLff?format=jpg&amp;name=240x240" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/GZQjBJEXYAAGD9J?format=jpg&amp;name=120x120" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;ニュース&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/tkzwgrs/status/2032584993185341577"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/tkzwgrs/status/2032584993185341577</guid>
+      <pubDate>Fri, 13 Mar 2026 22:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>世界のど迫力映像@フォレスト(Forest) (@investorMM)</title>
+      <link>https://x.com/investorMM/status/2032609626697719812</link>
+      <description>四肢麻痺の男性が指1本で1300行のプログラムを書き、スマート農場を運営する。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;世界のど迫力映像@フォレスト(Forest)&lt;/strong&gt; &lt;a href="https://x.com/investorMM"&gt;@investorMM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【驚愕】「絶望をコードで書き換えた男」 四肢麻痺でベッドから動けない36歳の中国人男性が、指1本で1,300行のプログラムを自作し“スマート農場”を運営。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;▼肉体の限界を超えた男&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032514519063228417/img/Qfgvq4p6rDEPa1ad.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/investorMM/status/2032609626697719812"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/investorMM/status/2032609626697719812</guid>
+      <pubDate>Sat, 14 Mar 2026 00:07:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>ベンじい (@GrandpaBen3)</title>
+      <link>https://x.com/GrandpaBen3/status/2032604129689018748</link>
+      <description>AIと物理インフラの所有者が富を集中させ、新たな階層が生まれ、相対的不平等が激化すると指摘。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ベンじい&lt;/strong&gt; &lt;a href="https://x.com/GrandpaBen3"&gt;@GrandpaBen3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Elon Muskが言わない部分：&lt;br&gt;・相対的不平等は激化する可能性が高い&lt;br&gt;・AIと物理インフラ（エネルギー・ロボット）の所有者が富を集中的に獲得する&lt;br&gt;・「使う側」vs「所有する側」という新たな階層が生まれる&lt;br&gt;それゆえ位置財はpost-scarcityでも希少なままで、相対価値は爆騰するはず。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI時代の働き方・雇用&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/ML_deep/status/2032341180277801017"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/ML_deep/status/2032341180277801017</guid>
-      <pubDate>Fri, 13 Mar 2026 06:21:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>星間𝑋（26） (@sayonaravanity)</title>
-      <link>https://x.com/sayonaravanity/status/2032475794774413383</link>
-      <description>現代世代は「深い」会話ができすぎることに恐怖を感じ、自然の摂理に反していると感じる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;星間𝑋（26）&lt;/strong&gt; &lt;a href="https://x.com/sayonaravanity"&gt;@sayonaravanity&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;祖母とかと喋ってると、私達世代は「深い」会話をすることが出来てしまい過ぎてるという事実が逆に怖くなる　恵まれ過ぎてるというか　なんか自然の摂理に反している気がする。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/sayonaravanity/status/2032475794774413383"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/sayonaravanity/status/2032475794774413383</guid>
-      <pubDate>Fri, 13 Mar 2026 15:16:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ガガロットAI (@gagarotai200)</title>
-      <link>https://x.com/gagarotai200/status/2032381234505191664</link>
-      <description>AIに社会的プレッシャーをかけ、バグ修正や指示再現を諦めないようにするプラグインが開発された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ガガロットAI&lt;/strong&gt; &lt;a href="https://x.com/gagarotai200"&gt;@gagarotai200&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;これは面白い。AIに社会的プレッシャーをかけてどんな事があってもバグ修正や人間の指示を完璧に再現するまで諦めないっていうプラグイン。&lt;br&gt;&lt;br&gt;実際の動作&lt;br&gt; → コーディングエージェントに直接積極的なプロンプト行動をインストール → モデルが諦めようとするとエスカレートするプレッシャー言語を使用&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDR39eSaIAAXtAM?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/gagarotai200/status/2032381234505191664"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/gagarotai200/status/2032381234505191664</guid>
-      <pubDate>Fri, 13 Mar 2026 09:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>あや (@PEACEMALE0)</title>
-      <link>https://x.com/PEACEMALE0/status/2032205682318196945</link>
-      <description>結果を出す人は「何かが足りない」負のエネルギーで努力し、成功者に陰キャが多いのはそのため。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;あや&lt;/strong&gt; &lt;a href="https://x.com/PEACEMALE0"&gt;@PEACEMALE0&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;結果を出せる奴って大抵、「何かが足りてない人」なんだよな。&lt;br&gt;基本的に人を動かすのは「どうにかして現状を打破したい」という負のエネルギーなので、異常なまでの努力が出来る人っていうのは「本来みんなが持ってたはずの何か」を持ち合わせていなかった人。&lt;br&gt;だから成功者に陰キャが多かったりする。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/PEACEMALE0/status/2032205682318196945"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/PEACEMALE0/status/2032205682318196945</guid>
-      <pubDate>Thu, 12 Mar 2026 21:22:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>いけ＠XとAIで素敵な世界へ (@ikeTrump2)</title>
-      <link>https://x.com/ikeTrump2/status/2032344600669749264</link>
-      <description>イーロン・マスクは「好かれたい願望は弱さであり、自分にはそれがない」と発言した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;いけ＠XとAIで素敵な世界へ&lt;/strong&gt; &lt;a href="https://x.com/ikeTrump2"&gt;@ikeTrump2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;イーロン・マスク「好かれたいという願望には本当の弱さがある。私はそれを持っていない。」&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDRWnE3bQAUVLK2?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/ikeTrump2/status/2032344600669749264"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/ikeTrump2/status/2032344600669749264</guid>
-      <pubDate>Fri, 13 Mar 2026 06:34:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>らいおんさん (@raionsan365)</title>
-      <link>https://x.com/raionsan365/status/2032226378884489499</link>
-      <description>才能ある人が環境で潰されるのはもったいない。人間関係を変えることで人生は大きく変わる。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;らいおんさん&lt;/strong&gt; &lt;a href="https://x.com/raionsan365"&gt;@raionsan365&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;実際、才能はあるのに環境に潰されて終わってる人は多い。もったいない。ちょっと関わる人間関係を変えるだけで、人生は一気にガラリと変化したりする。悪い環境にいると、才能が潰れて、人生が死ぬので注意が必要ですね。&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;その他&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/raionsan365/status/2032226378884489499"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/raionsan365/status/2032226378884489499</guid>
-      <pubDate>Thu, 12 Mar 2026 22:45:00 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/GrandpaBen3/status/2032604129689018748"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/GrandpaBen3/status/2032604129689018748</guid>
+      <pubDate>Fri, 13 Mar 2026 23:46:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
