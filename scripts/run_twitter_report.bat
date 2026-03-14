@@ -10,7 +10,7 @@ git pull
 :: X おすすめ → 分類 → RSS + レポート → Discord Webhook投稿
 echo [%date% %time%] Running Twitter report...
 cd /d C:\Users\waros\Documents\Develop\recomend-feeder\src
-python daily_report.py
+python daily_report.py --no-youtube
 
 :: Push
 cd /d C:\Users\waros\Documents\Develop\recomend-feeder

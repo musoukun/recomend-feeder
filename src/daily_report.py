@@ -1,5 +1,6 @@
 """Daily AI Report: scrape Twitter list -> 3 reports (tech / career / YouTube)."""
 
+import argparse
 import json
 import logging
 import os
@@ -80,6 +81,10 @@ def load_youtube_summaries() -> list[dict]:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--no-youtube", action="store_true", help="Skip YouTube report")
+    args = parser.parse_args()
+
     load_dotenv()
 
     tweet_count = int(os.getenv("REPORT_TWEET_COUNT", "50"))
@@ -149,7 +154,7 @@ def main() -> None:
             save_report(career_report, "career", today_str)
             reports["career"] = career_report
 
-    youtube_summaries = load_youtube_summaries()
+    youtube_summaries = [] if args.no_youtube else load_youtube_summaries()
     if youtube_summaries:
         logger.info("Generating YouTube report (%d videos)...", len(youtube_summaries))
         yt_report = generate_youtube_report(youtube_summaries)
