@@ -7,123 +7,111 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Mar 2026 13:32:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 09:56:50 +0000</lastBuildDate>
     <item>
-      <title>ほーりーふぉっくす (@Holy_fox_LLM)</title>
-      <link>https://x.com/Holy_fox_LLM/status/2032753909492863089</link>
-      <description>LLMを用いてAItuberのペルソナとシステムプロンプトを大規模に作成し、約200人分のデータセットを自由ライセンスで公開した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ほーりーふぉっくす&lt;/strong&gt; &lt;a href="https://x.com/Holy_fox_LLM"&gt;@Holy_fox_LLM&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AItuberのペルソナとシステムプロンプトをLLMを用いて大規模に作成しました！&lt;br&gt;&lt;br&gt;200人近くのAItuberが乗っているペルソナデータになります。&lt;br&gt;自由なライセンスですので色々なものに使えます！&lt;/p&gt;
+      <title>Contieaks®(公式) by 関家具 (@contieaks)</title>
+      <link>https://x.com/contieaks/status/2033712933906354624</link>
+      <description>中国製GPU「Lisuan Tech 7G100」が発売され、RTX4060～4060Ti相当の性能を持つ。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Contieaks®(公式) by 関家具&lt;/strong&gt; &lt;a href="https://x.com/contieaks"&gt;@contieaks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[中の人の呟き]&lt;br&gt;中国製GPUの発売が決まったみたいですね&lt;br&gt;Lisuan Tech 7G100 &lt;br&gt;RTX4060～4060Tiくらいの性能みたいですが、価格によってはゲームチェンジャーになるのか？&lt;br&gt;NVIDIA/AMD/Intel とのベンチマーク見てみたい&lt;br&gt;&lt;br&gt;ちなみに、Lisuan Techという会社ですが、&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDkwgB1bEAEovvs?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/Holy_fox_LLM/status/2032753909492863089"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/Holy_fox_LLM/status/2032753909492863089</guid>
-      <pubDate>Sat, 14 Mar 2026 09:41:13 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/contieaks/status/2033712933906354624"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/contieaks/status/2033712933906354624</guid>
+      <pubDate>Tue, 17 Mar 2026 01:12:02 +0000</pubDate>
     </item>
     <item>
-      <title>Om Patel (@om_patel5)</title>
-      <link>https://x.com/om_patel5/status/2033048283241697695</link>
-      <description>AIサバイバルアプリがオフラインで動作し、サバイバル助言、マニュアル参照、オフライン地図、50マイル圏内でのテキスト通信を提供。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Om Patel&lt;/strong&gt; &lt;a href="https://x.com/om_patel5"&gt;@om_patel5&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;this guy vibe coded an AI SURVIVAL APP that works COMPLETELY OFFLINE&lt;br&gt;&lt;br&gt;the app&lt;br&gt;&gt; gives you survival advice completely offline &lt;br&gt;&gt; cites exact pages from manuals stored on the device &lt;br&gt;&gt; has offline maps so you're never lost &lt;br&gt;&gt; lets you text people up to 50 miles away with no cell&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2033047852931305472/img/1tn4OFwhS2pT6PDX.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>DJ RIO | REALITY (@djrio_vr)</title>
+      <link>https://x.com/djrio_vr/status/2033711532736201161</link>
+      <description>AIに自然な人格を持たせるには基盤モデルへの追加学習が必要で、プロンプトは振る舞いを規定する。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;DJ RIO | REALITY&lt;/strong&gt; &lt;a href="https://x.com/djrio_vr"&gt;@djrio_vr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;パーソナルAIエージェント（AItuber含む）作ってる専門家と何人か話したけど、やっぱAIにパーソナリティを持たせるためには基盤モデル自体に追加学習しないとどうしても自然な人格にはならないみたい&lt;br&gt;&lt;br&gt;基盤モデル: 性格、個性&lt;br&gt;プロンプト: 振る舞いの規定&lt;br&gt;&lt;br&gt;という役割分担。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/om_patel5/status/2033048283241697695"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/om_patel5/status/2033048283241697695</guid>
-      <pubDate>Sun, 15 Mar 2026 05:10:57 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/djrio_vr/status/2033711532736201161"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/djrio_vr/status/2033711532736201161</guid>
+      <pubDate>Tue, 17 Mar 2026 01:06:28 +0000</pubDate>
     </item>
     <item>
-      <title>ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ  (@ai_hakase_)</title>
-      <link>https://x.com/ai_hakase_/status/2033016587767173391</link>
-      <description>国家機密級のOSINTツール「Shadowbroker」がGitHubで無料公開され、軍用機のリアルタイム追跡などが可能に。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ &lt;/strong&gt; &lt;a href="https://x.com/ai_hakase_"&gt;@ai_hakase_&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【国家機密級？究極のOSINTツール「Shadowbroker」が登場！】&lt;br&gt;  &lt;br&gt;GitHubで無料公開された驚異のリポジトリです！本来なら国家レベルで収集する情報を、個人でも扱える時代が来ました。&lt;br&gt;&lt;br&gt; 主な機能&lt;br&gt;・米海軍空母や軍用機のリアルタイム追跡&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032187822262927363/img/vK0CcF-OLjzPH1HC.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>null-sensei (@GOROman)</title>
+      <link>https://x.com/GOROman/status/2033660610060374041</link>
+      <description>NVIDIAがGTC2026で「NemoClaw」を発表。OpenClawを1コマンドで安全に導入・実行可能にする。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;null-sensei&lt;/strong&gt; &lt;a href="https://x.com/GOROman"&gt;@GOROman&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;NVIDIA、「NemoClaw」発表　OpenClawを1コマンドで導入、安全に実行可能に (GTC2026)&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/ai_hakase_/status/2033016587767173391"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/ai_hakase_/status/2033016587767173391</guid>
-      <pubDate>Sun, 15 Mar 2026 03:05:00 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/GOROman/status/2033660610060374041"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/GOROman/status/2033660610060374041</guid>
+      <pubDate>Mon, 16 Mar 2026 21:44:07 +0000</pubDate>
     </item>
     <item>
-      <title>あいシンギュラリティ (@singularity20xy)</title>
-      <link>https://x.com/singularity20xy/status/2033061262842794261</link>
-      <description>シドニーのテック起業家がChatGPTと遺伝子データで犬のがんワクチンを設計。伝統治療失敗後に効果を示した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;あいシンギュラリティ&lt;/strong&gt; &lt;a href="https://x.com/singularity20xy"&gt;@singularity20xy&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;なんだこれ、マジで頭おかしい&lt;br&gt;&lt;br&gt;シドニーのテック起業家が、ChatGPTと遺伝子データ（alphafoldデータのおかげで）を使って、伝統的な治療が失敗した後、犬のロージー向けにパーソナライズされたmRNAがんワクチンを設計したんだ。&lt;/p&gt;
+      <title>sabakichi (@knshtyk)</title>
+      <link>https://x.com/knshtyk/status/2033807738535612734</link>
+      <description>AI業界の表現に対する理解不足が問題視され、視覚表現の精密な構造を理解せず安易に扱う姿勢が批判されている。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;sabakichi&lt;/strong&gt; &lt;a href="https://x.com/knshtyk"&gt;@knshtyk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;すでに大炎上してるけど、AI業界の表現に対する理解の貧しさや怠慢、認識の甘さが一線を超えた事例だと感じる。あらゆる表現活動の"画"がどれほど精密に成り立ち、非言語の視覚要素のみで意味や企図を伝達する表現の構造を理解できていない。美しいケーキを手で丸めて綺麗な球体であることを誇っている&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2033616895434493952/img/72mtz4QVv0sJvqYm.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/singularity20xy/status/2033061262842794261"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/singularity20xy/status/2033061262842794261</guid>
-      <pubDate>Sun, 15 Mar 2026 06:02:32 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/knshtyk/status/2033807738535612734"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/knshtyk/status/2033807738535612734</guid>
+      <pubDate>Tue, 17 Mar 2026 07:28:45 +0000</pubDate>
     </item>
     <item>
-      <title>情報の灯台 (@joho_no_todai)</title>
-      <link>https://x.com/joho_no_todai/status/2033049021905027257</link>
-      <description>RTX 5070のVRAM 12GBで32GBのLLMを動かすLinuxカーネルモジュール「GreenBoost」が公開された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;情報の灯台&lt;/strong&gt; &lt;a href="https://x.com/joho_no_todai"&gt;@joho_no_todai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;RTX 5070のVRAM 12GBで、32GBのLLMを動かすオープンソースのLinuxカーネルモジュール「GreenBoost」が公開された。&lt;br&gt;システムRAMとNVMe SSDをGPUメモリの延長として使い、CUDAからは通常のVRAMに見える仕組み。&lt;br&gt;&lt;br&gt;ボトルネックはPCIe&lt;/p&gt;
+      <title>KAWAI (@kawai_design)</title>
+      <link>https://x.com/kawai_design/status/2033743123017343086</link>
+      <description>NVIDIAがAIエージェントを安全にPC常駐させる「NemoClaw」を発表。サンドボックスとガードレールでroot権限の懸念を解消する。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;KAWAI&lt;/strong&gt; &lt;a href="https://x.com/kawai_design"&gt;@kawai_design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AIエージェントをPCに常駐させたい。&lt;br&gt;&lt;br&gt;でも「root権限でPC内を自由に動くAI」が&lt;br&gt;怖くて踏み切れない。&lt;br&gt;&lt;br&gt;NVIDIAがこの問題を解決しました。&lt;br&gt;&lt;br&gt;GTC 2026で発表された&lt;br&gt;「NemoClaw」。&lt;br&gt;&lt;br&gt;curlコマンド1つで：&lt;br&gt;&lt;br&gt;・Nemotronモデル&lt;br&gt;・サンドボックス実行環境&lt;br&gt;・ポリシーベースのガードレール&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/joho_no_todai/status/2033049021905027257"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/joho_no_todai/status/2033049021905027257</guid>
-      <pubDate>Sun, 15 Mar 2026 05:13:53 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/kawai_design/status/2033743123017343086"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/kawai_design/status/2033743123017343086</guid>
+      <pubDate>Tue, 17 Mar 2026 03:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信》 (@masahirochaen)</title>
-      <link>https://x.com/masahirochaen/status/2033166771839271235</link>
-      <description>ClaudeCodeやOpenClaw経由でブラウザ操作が可能に。Chrome DevTools MCP v0.12.1がautoConnectを実装した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信》&lt;/strong&gt; &lt;a href="https://x.com/masahirochaen"&gt;@masahirochaen&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【朗報】ClaudeCodeやOpenClaw経由で既存のブラウザの操作が可能になった。&lt;br&gt;&lt;br&gt;Chrome DevTools MCP v0.12.1が「autoConnect」を実装し、実際に触っているブラウザを直接接続可能に。&lt;br&gt;&lt;br&gt;一般的なブラウザ操作ツール（Playwright&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2033165429422850048/img/VuplwXgbgbwhhYwE.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>田中義弘 | taziku CEO / AI × Creative (@taziku_co)</title>
+      <link>https://x.com/taziku_co/status/2033844111720186011</link>
+      <description>灏存科技が1人の動きを複数のロボットハンドに同時ミラーリングするシステムを公開し、ロボット学習や遠隔作業の未来を示唆した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;田中義弘 | taziku CEO / AI × Creative&lt;/strong&gt; &lt;a href="https://x.com/taziku_co"&gt;@taziku_co&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;1人の手の動きをミラーリング&lt;br&gt;&lt;br&gt;灏存科技（@HexaCercle）は、モーションキャプチャとリアルタイム制御を組み合わせ、1人の動きを複数のロボットハンドに同時ミラーリングさせるシステムを公開。&lt;br&gt;&lt;br&gt;将来のロボット学習や遠隔作業の在り方を変えうるデモ。&lt;br&gt;via：@sz_mediagroup&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2033815104089952257/img/garS4cUW9E6bQoi9.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/masahirochaen/status/2033166771839271235"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/masahirochaen/status/2033166771839271235</guid>
-      <pubDate>Sun, 15 Mar 2026 13:01:47 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/taziku_co/status/2033844111720186011"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/taziku_co/status/2033844111720186011</guid>
+      <pubDate>Tue, 17 Mar 2026 09:53:17 +0000</pubDate>
     </item>
     <item>
-      <title>ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ  (@ai_hakase_)</title>
-      <link>https://x.com/ai_hakase_/status/2032970786995142698</link>
-      <description>次世代3D技術「4D Gaussian Splatting（4DGS）」がブラウザでのストリーミング再生に対応した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;ハカセ アイ(Ai-Hakase)最新トレンドＡＩのためのＸ &lt;/strong&gt; &lt;a href="https://x.com/ai_hakase_"&gt;@ai_hakase_&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【革命】次世代3D技術「4DGS」がブラウザ視聴に対応！&lt;br&gt;  &lt;br&gt;ついに4D Gaussian Splatting（4DGS）がストリーミング再生可能になりました！&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2032554416994148352/img/reMkvG1KAhHMTpmM.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>梶谷健人 (@kajikent)</title>
+      <link>https://x.com/kajikent/status/2033705285014126958</link>
+      <description>SunoAIで作成された架空のメタルバンドがSpotifyで8万人以上のリスナーを獲得後、AI生成と特定された。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;梶谷健人&lt;/strong&gt; &lt;a href="https://x.com/kajikent"&gt;@kajikent&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;面白い動き。&lt;br&gt;&lt;br&gt;SunoAIを使って架空の日本のメタルバンドを作成 &lt;br&gt;→ Spotifyで月間リスナー8万人以上 &lt;br&gt;→ 偽のプロフィールでAI生成なのを隠していたがコミュニティが動画を細かく追跡してAI生成の痕跡を特定&lt;br&gt;→&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDiuZO1XsAA31DM?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/ai_hakase_/status/2032970786995142698"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/ai_hakase_/status/2032970786995142698</guid>
-      <pubDate>Sun, 15 Mar 2026 00:03:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>うみゆき@AI研究 (@umiyuki_ai)</title>
-      <link>https://x.com/umiyuki_ai/status/2033153741134630975</link>
-      <description>SakanaAIが日本の防衛関係の仕事を受託。具体的な内容は不明だが、AI技術の軍事応用が示唆される。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;うみゆき@AI研究&lt;/strong&gt; &lt;a href="https://x.com/umiyuki_ai"&gt;@umiyuki_ai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;SakanaAIがなんか日本の防衛関係の仕事を受託したという。お前そういう会社だっけ？社員も絶対たまげただろ。「え？俺ら戦争用にAI作る仕事すんの？」ってさ。リリース読んでも具体的に何を作るのか全然分からんかったのでChatGPTに訊いた。それによるとSakanaAIが開発する新システムでは、まず現場に&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDQKYyQaQAApOYi?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/umiyuki_ai/status/2033153741134630975"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/umiyuki_ai/status/2033153741134630975</guid>
-      <pubDate>Sun, 15 Mar 2026 12:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shu (@NGO275)</title>
-      <link>https://x.com/NGO275/status/2033065883699122586</link>
-      <description>清華大学IIISの全身制御系技術が強く、ハードウェア試行回数が多い中国がアメリカを凌駕する可能性。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Shu&lt;/strong&gt; &lt;a href="https://x.com/NGO275"&gt;@NGO275&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;清華大学のIIIS強い。こういう全身制御系はハードウェア的に試行回数を回しやすい中国の方がアメリカより近いうちに強くなりそう&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2033035360461295616/img/HRyraszISOKrCX0L.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/NGO275/status/2033065883699122586"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/NGO275/status/2033065883699122586</guid>
-      <pubDate>Sun, 15 Mar 2026 06:20:53 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/kajikent/status/2033705285014126958"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/kajikent/status/2033705285014126958</guid>
+      <pubDate>Tue, 17 Mar 2026 00:41:39 +0000</pubDate>
     </item>
     <item>
       <title>えいと (@7_eito_7)</title>
-      <link>https://x.com/7_eito_7/status/2033082558922240395</link>
-      <description>医療知識のない男性がChatGPTとAIで愛犬のがんワクチンを設計し、腫瘍が半減した。</description>
+      <link>https://x.com/7_eito_7/status/2033816567574925634</link>
+      <description>ブラウザ上で電子回路の作成と動作テストができるサイトが発見され、仮想空間でのロボット開発の可能性が示唆された。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;えいと&lt;/strong&gt; &lt;a href="https://x.com/7_eito_7"&gt;@7_eito_7&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AIで「がんワクチン」を作った男性が海外で話題になっています。&lt;br&gt;&lt;br&gt;医療知識のない男性が余命わずかと言われた愛犬のためにChatGPTとAIを使って個別mRNAがんワクチンを設計。&lt;br&gt;&lt;br&gt;すると、テニスボールサイズの腫瘍が半分まで縮小しました。研究者たちも驚いています&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDb0bdqaAAABJKH?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;電子回路をブラウザ上で作って そのまま動作テストできる神サイト見つけた…&lt;br&gt;&lt;br&gt;将来的には ロボット開発も仮想空間で完結する時代来そう。しかも&lt;br&gt;・Arduino &lt;br&gt;・トランジスタ&lt;br&gt; ・コンデンサ &lt;br&gt;とか全部そのまま再現できる&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2033815475302633473/img/L6OKgpm1cJZrKcci.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/7_eito_7/status/2033082558922240395"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/7_eito_7/status/2033082558922240395</guid>
-      <pubDate>Sun, 15 Mar 2026 07:27:09 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/7_eito_7/status/2033816567574925634"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/7_eito_7/status/2033816567574925634</guid>
+      <pubDate>Tue, 17 Mar 2026 08:03:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>エルミタージュ秋葉原編集部 (@hermita_akiba)</title>
+      <link>https://x.com/hermita_akiba/status/2033814045611200751</link>
+      <description>キオクシアがGPUメモリ不足を解消するAIシステム専用高速SSD「GP」シリーズを発表した。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;エルミタージュ秋葉原編集部&lt;/strong&gt; &lt;a href="https://x.com/hermita_akiba"&gt;@hermita_akiba&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【リリース】キオクシア、GPUメモリを拡張する高速IOPSのAIシステム専用SSD「GP」シリーズ&lt;br&gt;&lt;br&gt;GPUのHBMメモリ不足を解消&lt;br&gt;https://gdm.or.jp/pressrelease/2026/0317/626899…&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDmPF-sbEAEMyMz?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/hermita_akiba/status/2033814045611200751"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/hermita_akiba/status/2033814045611200751</guid>
+      <pubDate>Tue, 17 Mar 2026 07:53:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
