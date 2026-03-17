@@ -7,34 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Mar 2026 09:56:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 10:20:36 +0000</lastBuildDate>
     <item>
-      <title>Contieaks®(公式) by 関家具 (@contieaks)</title>
-      <link>https://x.com/contieaks/status/2033712933906354624</link>
-      <description>中国製GPU「Lisuan Tech 7G100」が発売され、RTX4060～4060Ti相当の性能を持つ。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;Contieaks®(公式) by 関家具&lt;/strong&gt; &lt;a href="https://x.com/contieaks"&gt;@contieaks&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[中の人の呟き]&lt;br&gt;中国製GPUの発売が決まったみたいですね&lt;br&gt;Lisuan Tech 7G100 &lt;br&gt;RTX4060～4060Tiくらいの性能みたいですが、価格によってはゲームチェンジャーになるのか？&lt;br&gt;NVIDIA/AMD/Intel とのベンチマーク見てみたい&lt;br&gt;&lt;br&gt;ちなみに、Lisuan Techという会社ですが、&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDkwgB1bEAEovvs?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>まつにぃ (@yugen_matuni)</title>
+      <link>https://x.com/yugen_matuni/status/2033663184775876672</link>
+      <description>Mistral4 smallは6BパラメータでQwen3.5やClaude 4.6シリーズに匹敵する性能を持ち、ローカルで動作可能。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;まつにぃ&lt;/strong&gt; &lt;a href="https://x.com/yugen_matuni"&gt;@yugen_matuni&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;たったアクティブパラメータ6BでQwen3.5、GLM5、Kimi-K2.5などのオープンソースモデルやClaude 4.6シリーズとも肩を並べるMistral4 small。&lt;br&gt;&lt;br&gt;普通にローカルで動かせるから試したい。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDj1HCMXcAAcFh_?format=png&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/contieaks/status/2033712933906354624"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/contieaks/status/2033712933906354624</guid>
-      <pubDate>Tue, 17 Mar 2026 01:12:02 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/yugen_matuni/status/2033663184775876672"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/yugen_matuni/status/2033663184775876672</guid>
+      <pubDate>Mon, 16 Mar 2026 21:54:21 +0000</pubDate>
     </item>
     <item>
-      <title>DJ RIO | REALITY (@djrio_vr)</title>
-      <link>https://x.com/djrio_vr/status/2033711532736201161</link>
-      <description>AIに自然な人格を持たせるには基盤モデルへの追加学習が必要で、プロンプトは振る舞いを規定する。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;DJ RIO | REALITY&lt;/strong&gt; &lt;a href="https://x.com/djrio_vr"&gt;@djrio_vr&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;パーソナルAIエージェント（AItuber含む）作ってる専門家と何人か話したけど、やっぱAIにパーソナリティを持たせるためには基盤モデル自体に追加学習しないとどうしても自然な人格にはならないみたい&lt;br&gt;&lt;br&gt;基盤モデル: 性格、個性&lt;br&gt;プロンプト: 振る舞いの規定&lt;br&gt;&lt;br&gt;という役割分担。&lt;/p&gt;
+      <title>香風智乃 (@chino_ey)</title>
+      <link>https://x.com/chino_ey/status/2033514305547853982</link>
+      <description>ClaudeCodeは明確なタスクの時短に優れるが、不明なメカニズムからの生成は不可。プログラミング学習は引き続き重要。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;香風智乃&lt;/strong&gt; &lt;a href="https://x.com/chino_ey"&gt;@chino_ey&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ClaudeCodeは神のツールだけど、基本的に出来ることは「時短」のみ&lt;br&gt;&lt;br&gt;最後まで筋道が分かっているタスクにかかる時間を極限まで少なくできる&lt;br&gt;&lt;br&gt;逆にメカニズムが分かっていないものを「とりあえず作って」という曖昧な命令で作らせることはできない&lt;br&gt;&lt;br&gt;今後もプログラミング学習したほうがいい理由がこれ&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/djrio_vr/status/2033711532736201161"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/djrio_vr/status/2033711532736201161</guid>
-      <pubDate>Tue, 17 Mar 2026 01:06:28 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/chino_ey/status/2033514305547853982"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/chino_ey/status/2033514305547853982</guid>
+      <pubDate>Mon, 16 Mar 2026 12:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taishi | X自動化ハッカー (@taishiyade)</title>
+      <link>https://x.com/taishiyade/status/2033754335772049549</link>
+      <description>NVIDIA CEOがOpenClawを「新しいコンピューター」と称し、数週間でLinuxを超える人気と語る。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Taishi | X自動化ハッカー&lt;/strong&gt; &lt;a href="https://x.com/taishiyade"&gt;@taishiyade&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;NVIDIA CEOジェンスン:&lt;br&gt;『OpenClaw が新しいコンピューターだ』&lt;br&gt;&lt;br&gt;『人類史上最も人気のあるオープンソースプロジェクトであり、数週間でそれを成し遂げた。Linux が30年かけて成し遂げたものを超えた』&lt;br&gt;&lt;br&gt;OpenClawはホンマに人類の分岐点になってしまうんか…&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2033700224829689856/img/l6wZFDccJC7Ebm1J.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/taishiyade/status/2033754335772049549"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/taishiyade/status/2033754335772049549</guid>
+      <pubDate>Tue, 17 Mar 2026 03:56:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>みるぼん@スモビジ (@milbon_)</title>
+      <link>https://x.com/milbon_/status/2033722971882484138</link>
+      <description>AI動画ツール「LTX Studio」がAIダビングを搭載。175言語翻訳、声とリップシンク一致で動画の多言語化が可能。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;みるぼん@スモビジ&lt;/strong&gt; &lt;a href="https://x.com/milbon_"&gt;@milbon_&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;言語の壁で稼げない時代、終了。&lt;br&gt;&lt;br&gt;AI動画ツール「LTX Studio」がAIダビング搭載。175言語に一発翻訳＋声そのまま＋リップシンク完全一致。1つの動画を“多言語資産”に変換可能。&lt;br&gt;&lt;br&gt;30分動画をワンクリック変換。海外のバズ動画→日本語訳転載で儲かる。&lt;br&gt;&lt;br&gt;詳細はリプ欄↓&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2033562190243139584/img/WhB7QM6rXooDd9BI.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/milbon_/status/2033722971882484138"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/milbon_/status/2033722971882484138</guid>
+      <pubDate>Tue, 17 Mar 2026 01:51:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>NEW【テクノロジーニュース】 (@sutoroveli_news)</title>
+      <link>https://x.com/sutoroveli_news/status/2033713225070723258</link>
+      <description>Boston Dynamicsの新型電動ロボットAtlasが工場で稼働する映像公開。身長1.88mで30kg部品を4時間自律運搬。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;NEW【テクノロジーニュース】&lt;/strong&gt; &lt;a href="https://x.com/sutoroveli_news"&gt;@sutoroveli_news&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【速報】Boston Dynamicsの新型Atlasが工場で稼働する映像が公開された。身長1.88mの電動ロボットが30kgの部品を360度回転させながら運び4時間連続で自律作業をこなしている。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2008291445002612736/img/ZsSBfH4T6x5wVS2K.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/sutoroveli_news/status/2033713225070723258"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/sutoroveli_news/status/2033713225070723258</guid>
+      <pubDate>Tue, 17 Mar 2026 01:13:12 +0000</pubDate>
     </item>
     <item>
       <title>null-sensei (@GOROman)</title>
       <link>https://x.com/GOROman/status/2033660610060374041</link>
-      <description>NVIDIAがGTC2026で「NemoClaw」を発表。OpenClawを1コマンドで安全に導入・実行可能にする。</description>
+      <description>NVIDIAが「NemoClaw」を発表、OpenClawを1コマンドで安全に導入・実行可能にする。</description>
       <content:encoded>&lt;p&gt;&lt;strong&gt;null-sensei&lt;/strong&gt; &lt;a href="https://x.com/GOROman"&gt;@GOROman&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;NVIDIA、「NemoClaw」発表　OpenClawを1コマンドで導入、安全に実行可能に (GTC2026)&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
@@ -43,75 +79,26 @@
       <pubDate>Mon, 16 Mar 2026 21:44:07 +0000</pubDate>
     </item>
     <item>
-      <title>sabakichi (@knshtyk)</title>
-      <link>https://x.com/knshtyk/status/2033807738535612734</link>
-      <description>AI業界の表現に対する理解不足が問題視され、視覚表現の精密な構造を理解せず安易に扱う姿勢が批判されている。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;sabakichi&lt;/strong&gt; &lt;a href="https://x.com/knshtyk"&gt;@knshtyk&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;すでに大炎上してるけど、AI業界の表現に対する理解の貧しさや怠慢、認識の甘さが一線を超えた事例だと感じる。あらゆる表現活動の"画"がどれほど精密に成り立ち、非言語の視覚要素のみで意味や企図を伝達する表現の構造を理解できていない。美しいケーキを手で丸めて綺麗な球体であることを誇っている&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2033616895434493952/img/72mtz4QVv0sJvqYm.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
+      <title>Kentaro Ebisawa (@ebiken)</title>
+      <link>https://x.com/ebiken/status/2033418420616847842</link>
+      <description>複雑なドメイン知識を要するシステム（インボイス処理など）のテスト実装は、プログラミングより難しくレアなスキルだと指摘。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Kentaro Ebisawa&lt;/strong&gt; &lt;a href="https://x.com/ebiken"&gt;@ebiken&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;これは本物だ… しかしこのドメイン知識はプログラミングより遥かに難しくレアなスキルなのでは？ "インボイスの決済完了とセッション完了イベントが同時に飛んできた場合のDB更新の順序崩れや、API側の処理の冪等性の担保" が正しく実装されたかのテスト書ける人いないって w&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/knshtyk/status/2033807738535612734"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/knshtyk/status/2033807738535612734</guid>
-      <pubDate>Tue, 17 Mar 2026 07:28:45 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/ebiken/status/2033418420616847842"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/ebiken/status/2033418420616847842</guid>
+      <pubDate>Mon, 16 Mar 2026 05:41:45 +0000</pubDate>
     </item>
     <item>
-      <title>KAWAI (@kawai_design)</title>
-      <link>https://x.com/kawai_design/status/2033743123017343086</link>
-      <description>NVIDIAがAIエージェントを安全にPC常駐させる「NemoClaw」を発表。サンドボックスとガードレールでroot権限の懸念を解消する。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;KAWAI&lt;/strong&gt; &lt;a href="https://x.com/kawai_design"&gt;@kawai_design&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;AIエージェントをPCに常駐させたい。&lt;br&gt;&lt;br&gt;でも「root権限でPC内を自由に動くAI」が&lt;br&gt;怖くて踏み切れない。&lt;br&gt;&lt;br&gt;NVIDIAがこの問題を解決しました。&lt;br&gt;&lt;br&gt;GTC 2026で発表された&lt;br&gt;「NemoClaw」。&lt;br&gt;&lt;br&gt;curlコマンド1つで：&lt;br&gt;&lt;br&gt;・Nemotronモデル&lt;br&gt;・サンドボックス実行環境&lt;br&gt;・ポリシーベースのガードレール&lt;/p&gt;
+      <title>GIGAZINE(ギガジン) (@gigazine)</title>
+      <link>https://x.com/gigazine/status/2033461096653222054</link>
+      <description>ローカルAIの実行可否を判定するサイト「CanIRun.ai」が登場、グラボ比較にも役立つ。</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;GIGAZINE(ギガジン)&lt;/strong&gt; &lt;a href="https://x.com/gigazine"&gt;@gigazine&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;自分のPCで実行可能なローカルAIが一発で分かる便利サイト「http://CanIRun.ai」、比較機能もあってグラボの買い替え検討にも有用&lt;/p&gt;
 &lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/kawai_design/status/2033743123017343086"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/kawai_design/status/2033743123017343086</guid>
-      <pubDate>Tue, 17 Mar 2026 03:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>田中義弘 | taziku CEO / AI × Creative (@taziku_co)</title>
-      <link>https://x.com/taziku_co/status/2033844111720186011</link>
-      <description>灏存科技が1人の動きを複数のロボットハンドに同時ミラーリングするシステムを公開し、ロボット学習や遠隔作業の未来を示唆した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;田中義弘 | taziku CEO / AI × Creative&lt;/strong&gt; &lt;a href="https://x.com/taziku_co"&gt;@taziku_co&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;1人の手の動きをミラーリング&lt;br&gt;&lt;br&gt;灏存科技（@HexaCercle）は、モーションキャプチャとリアルタイム制御を組み合わせ、1人の動きを複数のロボットハンドに同時ミラーリングさせるシステムを公開。&lt;br&gt;&lt;br&gt;将来のロボット学習や遠隔作業の在り方を変えうるデモ。&lt;br&gt;via：@sz_mediagroup&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2033815104089952257/img/garS4cUW9E6bQoi9.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/taziku_co/status/2033844111720186011"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/taziku_co/status/2033844111720186011</guid>
-      <pubDate>Tue, 17 Mar 2026 09:53:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>梶谷健人 (@kajikent)</title>
-      <link>https://x.com/kajikent/status/2033705285014126958</link>
-      <description>SunoAIで作成された架空のメタルバンドがSpotifyで8万人以上のリスナーを獲得後、AI生成と特定された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;梶谷健人&lt;/strong&gt; &lt;a href="https://x.com/kajikent"&gt;@kajikent&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;面白い動き。&lt;br&gt;&lt;br&gt;SunoAIを使って架空の日本のメタルバンドを作成 &lt;br&gt;→ Spotifyで月間リスナー8万人以上 &lt;br&gt;→ 偽のプロフィールでAI生成なのを隠していたがコミュニティが動画を細かく追跡してAI生成の痕跡を特定&lt;br&gt;→&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDiuZO1XsAA31DM?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/kajikent/status/2033705285014126958"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/kajikent/status/2033705285014126958</guid>
-      <pubDate>Tue, 17 Mar 2026 00:41:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>えいと (@7_eito_7)</title>
-      <link>https://x.com/7_eito_7/status/2033816567574925634</link>
-      <description>ブラウザ上で電子回路の作成と動作テストができるサイトが発見され、仮想空間でのロボット開発の可能性が示唆された。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;えいと&lt;/strong&gt; &lt;a href="https://x.com/7_eito_7"&gt;@7_eito_7&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;電子回路をブラウザ上で作って そのまま動作テストできる神サイト見つけた…&lt;br&gt;&lt;br&gt;将来的には ロボット開発も仮想空間で完結する時代来そう。しかも&lt;br&gt;・Arduino &lt;br&gt;・トランジスタ&lt;br&gt; ・コンデンサ &lt;br&gt;とか全部そのまま再現できる&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2033815475302633473/img/L6OKgpm1cJZrKcci.jpg" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/7_eito_7/status/2033816567574925634"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/7_eito_7/status/2033816567574925634</guid>
-      <pubDate>Tue, 17 Mar 2026 08:03:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>エルミタージュ秋葉原編集部 (@hermita_akiba)</title>
-      <link>https://x.com/hermita_akiba/status/2033814045611200751</link>
-      <description>キオクシアがGPUメモリ不足を解消するAIシステム専用高速SSD「GP」シリーズを発表した。</description>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;エルミタージュ秋葉原編集部&lt;/strong&gt; &lt;a href="https://x.com/hermita_akiba"&gt;@hermita_akiba&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;【リリース】キオクシア、GPUメモリを拡張する高速IOPSのAIシステム専用SSD「GP」シリーズ&lt;br&gt;&lt;br&gt;GPUのHBMメモリ不足を解消&lt;br&gt;https://gdm.or.jp/pressrelease/2026/0317/626899…&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HDmPF-sbEAEMyMz?format=jpg&amp;name=small" style="max-width:100%;" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background:#e0e0e0;padding:2px 8px;border-radius:4px;font-size:0.85em;"&gt;AI・テック&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://x.com/hermita_akiba/status/2033814045611200751"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://x.com/hermita_akiba/status/2033814045611200751</guid>
-      <pubDate>Tue, 17 Mar 2026 07:53:49 +0000</pubDate>
+&lt;p&gt;&lt;a href="https://x.com/gigazine/status/2033461096653222054"&gt;View on Twitter&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://x.com/gigazine/status/2033461096653222054</guid>
+      <pubDate>Mon, 16 Mar 2026 08:31:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
